@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head><title>Upload Multiple CSVs</title></head>
+<body>
+  <h1>Upload CSV files</h1>
+  <form action="/merge" method="post" enctype="multipart/form-data">
+    <input type="file" name="files" accept=".csv" multiple required>
+    <input type="submit" value="Merge Files">
+    
+  </form>
+</body>
+</html>
