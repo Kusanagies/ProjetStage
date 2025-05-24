@@ -1,12 +1,15 @@
 <!DOCTYPE html>
-<html>
-<head><title>Upload Multiple CSVs</title></head>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload CSV</title>
+</head>
 <body>
-  <h1>Upload CSV files</h1>
-  <form action="/merge" method="post" enctype="multipart/form-data">
-    <input type="file" name="files" accept=".csv" multiple required>
-    <input type="submit" value="Merge Files">
-    
-  </form>
+    <h2>Upload a CSV file to compare with benchmark files</h2>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept=".csv" required>
+        <br><br>
+        <input type="submit" value="Upload and Compare">
+    </form>
 </body>
 </html>

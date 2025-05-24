@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+import time  # ⏱️ for measuring execution time
 
 def calculate_column_similarity(query_table, candidate_table):
     query_columns = set(query_table.columns)
@@ -26,14 +27,22 @@ def compare_all_csvs(query_path, folder_path):
             except Exception as e:
                 results.append((filename, f"Error: {e}"))
 
-    # Sort by highest similarity
     results.sort(key=lambda x: (x[1] if isinstance(x[1], float) else -1), reverse=True)
-
     return pd.DataFrame(results, columns=["File", "Similarity"])
 
-# === USAGE EXAMPLE ===
-query_file = "base/1.csv"     # your reference CSV
-folder = "benchmark"                                 # the folder to scan
-similarities_df = compare_all_csvs(query_file, folder)
+# === USER INPUT ===
+query_file = input("📥 Enter the path to your input CSV file: ").strip()
+folder = input("📁 Enter the path to the folder containing benchmark CSVs: ").strip()
 
-print(similarities_df)
+# === TIMED EXECUTION ===
+if os.path.isfile(query_file) and os.path.isdir(folder):
+    start_time = time.time()
+    similarities_df = compare_all_csvs(query_file, folder)
+    end_time = time.time()
+    duration = end_time - start_time
+
+    print("\n🔍 Similarity Results:\n")
+    print(similarities_df)
+    print(f"\n⏱️ Comparison completed in {duration:.2f} seconds.")
+else:
+    print("❌ Invalid file or folder path. Please check your input.")

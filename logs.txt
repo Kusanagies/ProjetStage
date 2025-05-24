@@ -1,1 +1,15 @@
 Création du fichier 05/05/2025 
+
+
+Synthèse des méthodes applicables des documentations donnés. FINI 20/05/2025
+Recherche de database qui puisse répondre aux attentes donnés cad 150-200 tables
+    API?
+    J'utilise une api de data.gouv pour me permettre de directement télécharger les fichiers csv pour avoir une base de test. 23/05/2025
+
+    Test des algorithmes sur des tables récuperé avec l'api 
+    Récupération d'une datalake test : https://github.com/northeastern-datalab/gen/tree/main/data/ugen_v1/datalake
+    
+    Téléchargement de 3 fichiers sqlite pour benchmark TUS Small
+    Implémentation du code qui permet de de récupérer les tables des fichiers sqlite
+
+    Implémentation de l'interface homme machine avec Flask (Input fichier csv)(fichier index.html et app.py)
