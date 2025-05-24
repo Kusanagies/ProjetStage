@@ -1,0 +1,3597 @@
+COLOUR_1,COLOUR_2,S_PRM_GRAD,S_PRM_KIND,S_SEC_GRAD,U_DEPTH
+100yr4030,100yr6020,None,"Single grained"," ",5
+050yr3040,075yr4040,None,"Single grained"," ",10
+050yr3540,100yr5060,None,"Single grained"," ",25
+100yr6030,100yr6030,None,"Single grained"," ",35
+050yr2010,100yr2020," "," "," ",3
+100yr6015,100yr7010,None,"Single grained"," ",0
+100yr5080,100yr6060,"Very weak",Granular," ",4
+100yr5060,100yr6040,"Very weak",Granular," ",20
+100yr5030,100yr7030,None,"Single grained"," ",35
+100yr6030,100yr7020,None,"Single grained"," ",55
+" "," "," "," "," ",0
+" "," "," ",Granular," ",3
+" "," "," ",Granular," ",13
+" "," "," ","Single grained"," ",35
+" "," "," ","Single grained"," ",50
+075yr5060,100yr5040," "," "," ",0
+075yr5060,100yr5060," "," "," ",35
+050yr2020,050yr3040," "," "," ",45
+075yr5060,100yr6060," "," "," ",60
+050yr3020,050yr2510," "," "," ",95
+100yr2020,050yr2020," "," "," ",170
+"050y 5020","050y 6010",None," "," ",190
+"100r 3040","100r 3030"," "," "," ",0
+075yr6060,100yr8060," "," "," ",20
+"100r 2520",025yr3020," "," "," ",25
+"100r 2520",025yr3020," "," "," ",30
+025yr2520,050yr4030," "," "," ",40
+050yr2520,025yr3020," "," "," ",80
+025yr2520,"100r 2510"," "," "," ",110
+100yr5020,100yr6010,None," "," ",190
+075yr7040,100yr7040," "," "," ",0
+050yr2510,050yr2520," "," "," ",170
+100yr5510,100yr6010," "," "," ",220
+100yr4020," "," "," "," ",5
+100yr6030," ",Weak,Platy," ",0
+100yr5040," ",Weak,"Sub-angular blocky"," ",5
+100yr6030," ",None,"Single grained"," ",20
+100yr6030," ",None,"Single grained"," ",89
+100yr6030," ",None,"Single grained"," ",99
+"025y 7520","025y 6020",Strong," "," ",15
+075yr2000,050yr2510,Strong," "," ",0
+100yr2510,100yr2520,Strong," "," ",5
+050yr2510,100yr4040,Strong," "," ",20
+100yr2020,075yr3520,Moderate," "," ",30
+050yr2510,075yr7060,Moderate," "," ",50
+050yr2520,050yr2510,Weak," "," ",70
+"050y 3020","025y 5020",None," "," ",85
+" "," "," "," "," ",10
+050yr2510,050yr2510," "," "," ",0
+075yr5060,100yr5040," "," "," ",8
+050yr2510,050yr2510," "," "," ",25
+050yr2510,050yr2510," "," "," ",30
+050yr2510,050yr2510," "," "," ",33
+050yr2520,050yr2520," "," "," ",40
+" "," "," "," "," ",75
+"050y 5010"," "," "," "," ",85
+025yr2520,"100r 2510",Strong," "," ",0
+050yr2520,050yr2520,Moderate," "," ",20
+075yr5060,100yr5060,Strong," "," ",50
+"100r 2510",050yr2520,Weak," "," ",165
+050yr2510,100yr2020,Weak," "," ",230
+100yr3010,100yr4010," "," "," ",0
+100yr6020," "," "," "," ",5
+100yr5060," "," "," "," ",12
+100yr5040," "," "," "," ",22
+100yr4030," "," "," "," ",37
+100yr6030," "," "," "," ",39
+100yr6030," "," "," "," ",51
+100yr2510,025yr2520," "," "," ",0
+100yr2510,025yr2520," "," "," ",15
+025yr5020,100yr6010," "," "," ",125
+100yr2510,025yr2520," "," "," ",0
+100yr2510,100yr2510," "," "," ",10
+100yr2510,100yr2510," "," "," ",40
+050yr8010,100yr2510," "," "," ",4
+050yr8010,100yr2510,None," "," ",2
+075yr5020,075yr7020,None,"Single grained"," ",0
+025yr3040,075yr5020,None,Granular,Weak,5
+050yr4040,075yr4040,None,"Single grained"," ",10
+075yr5040,100yr5040,None,"Single grained"," ",17
+075yr5040,100yr7040,None,"Single grained"," ",22
+" ",050yr3030," "," "," ",3
+100yr6020,100yr6020,None,"Single grained"," ",0
+075yr5060,100yr7050,Weak,Granular," ",5
+100yr6040,100yr7040,None,"Single grained"," ",13
+100yr6030,100yr7030,None,"Single grained"," ",25
+100yr6030,100yr8030,Weak,Platy," ",60
+050yr8020,100yr2020," "," "," ",8
+100yr6020,100yr7020,None,"Single grained"," ",0
+075yr5080,100yr6040,Weak,Granular," ",5
+100yr5060,100yr7035,None,"Single grained"," ",22
+100yr5020,100yr7020,None,"Single grained"," ",30
+100yr6530,100yr8020,Weak,Platy," ",75
+100yr6030,100yr7030,None,"Single grained"," ",85
+050yr2525,100yr2520," "," "," ",3
+100yr3020,100yr5010,Moderate,Granular," ",0
+100yr5030,100yr7030,Weak,Platy," ",2
+075yr4040,100yr5060,Weak,"Sub-angular blocky"," ",7
+100yr5030,100yr7030,Moderate,Granular," ",17
+100yr5040,100yr6030,Moderate,Platy," ",30
+100yr6030,100yr7020,Weak,Granular," ",60
+100yr6530,100yr7020,Weak,Granular," ",90
+" "," "," "," "," ",2
+100yr5040,100yr7020,Weak,Granular," ",0
+075yr4040,100yr5030,Moderate,Granular," ",5
+100yr4040,100yr5030,Weak,Granular," ",15
+100yr6040,100yr7030,Weak,Granular," ",23
+025yr4060,050yr6040,Weak,Granular," ",28
+075yr6040,075yr7040,Weak,Granular," ",60
+025yr2520,050yr2510," "," "," ",12
+"100r 2510",050yr2510," "," "," ",5
+100yr3010,100yr6030,Moderate,Granular," ",0
+100yr4040,100yr6030,Moderate,Granular," ",2
+100yr5030,100yr7020,Weak,Granular," ",17
+100yr6030,100yr6030,None,"Single grained"," ",40
+" "," "," "," "," ",20
+" "," "," "," "," ",5
+" "," ",Weak,Granular," ",0
+" "," ",Weak,Granular," ",3
+" "," ",Weak,Granular," ",8
+"025y 6030","025y 6020",None,"Single grained"," ",60
+050yr2020,075yr4040," "," "," ",0
+050yr3030,050yr3040," "," "," ",20
+050yr2010,050yr2020," "," "," ",40
+100yr2010,050yr2010," "," "," ",50
+" "," ",None," "," ",80
+050yr2010,050yr2020,Weak,Granular," ",0
+050yr2010,050yr2020,Weak,Granular," ",5
+100yr2010,050yr2010,None," "," ",25
+100yr6040,100yr7020,None," "," ",50
+100yr2510,100yr2510," "," "," ",2
+075yr6040,100yr7030," "," "," ",0
+075yr5040,100yr6040,Moderate,"Sub-angular blocky"," ",7
+075yr4040,075yr6040,None,Massive," ",20
+050yr4030,050yr4040,Moderate,Granular," ",30
+075yr5040,100yr6040,None,Massive," ",40
+100yr6040,100yr8040,None,Massive," ",75
+025yr2510,025yr2510," "," "," ",0
+075yr5060,075yr6060," "," "," ",8
+025yr3040,050yr3040," "," "," ",22
+050yr2510,050yr2520," "," "," ",60
+050yr2510,050yr2510," "," "," ",90
+100yr6010," "," "," "," ",145
+"050y 8020"," "," "," "," ",5
+100yr7010,100yr6020,None,"Single grained"," ",0
+100yr5540,075yr5050,Weak,Granular," ",10
+100yr6040,100yr6040,None,"Single grained"," ",17
+100yr7030,100yr7030,None,"Single grained"," ",22
+100yr6020,"025y 6020",Weak,Granular," ",25
+100yr7010,"025y 7020",Weak,Granular," ",60
+"025y 4040"," "," "," "," ",5
+100yr3020," ",Weak,Granular," ",0
+100yr3020," ",Weak,Granular," ",2
+"025y 5030"," ",Weak,Granular," ",35
+"025y 6040"," ",Weak,Granular," ",81
+100yr2020,050yr3020," "," "," ",0
+100yr2020,050yr3020," "," "," ",10
+050yr2020,050yr3020," "," "," ",40
+"025y 7020","025y 5020",None," "," ",55
+"025y 7020","025y 5020",None," "," ",155
+"025y 2020","025y 3060"," "," "," ",20
+050yr2010," "," "," "," ",8
+100yr5040," ",None,Massive," ",0
+100yr5040," ",None,Massive," ",45
+050yr4040,050yr3020," "," "," ",0
+075yr4030,050yr2020," "," "," ",10
+100yr5040,100yr3030," "," "," ",32
+100yr4030,050yr2010," "," "," ",100
+100yr3030,100yr2020," "," "," ",130
+100yr3030,100yr2030," "," "," ",180
+"050y 5520"," "," "," "," ",250
+"050y 5020"," "," "," "," ",280
+100yr2025," "," "," "," ",3
+100yr6020,100yr5520,None,"Single grained"," ",0
+100yr6040,075yr5060,None,"Single grained"," ",6
+100yr7030,100yr6050,None,"Single grained"," ",15
+100yr7030,100yr6540,None,"Single grained"," ",26
+100yr8030,100yr6030,Weak,Platy," ",45
+100yr8010,100yr2515," "," "," ",3
+100yr6030,100yr5535,Weak,Granular," ",0
+100yr6040,075yr4040,Weak,Granular," ",5
+100yr7030,100yr4030,Weak,Granular," ",10
+100yr8030,100yr7030,Weak,Granular," ",18
+"100r 2510",025yr2520," "," "," ",3
+075yr4040,100yr7040," "," "," ",0
+050yr4040,100yr5040,Weak,Platy," ",10
+050yr3040,100yr4040,Weak,Granular," ",17
+075yr4040,100yr7040,Moderate,"Angular blocky"," ",25
+100yr6030,100yr8020,None," "," ",60
+100yr4020,100yr6030,None," "," ",80
+075yr2000,075yr2000," "," "," ",3
+100yr4030,100yr6030,Weak,Granular," ",0
+100yr6030,100yr7020,None,Massive," ",5
+100yr5030,100yr7030,None,Massive," ",20
+075yr2000,075yr2000," "," "," ",5
+100yr5030,100yr7020,Weak,Granular," ",0
+100yr4550,100yr6040,Moderate,Granular," ",2
+100yr5060,100yr6040,None,Massive," ",10
+100yr5030,100yr6030,None,Massive," ",12
+100yr5030,100yr7030,Moderate,Massive," ",22
+050yr2010,100yr2010," "," "," ",3
+100yr5030,100yr6030,Weak,Platy," ",0
+100yr4030,100yr5040,Moderate,Granular," ",8
+"025y 6030","025y 1020",None,Massive," ",22
+"025y 5030","025y 7020",None,Massive," ",55
+050yr2020,050yr2020," "," "," ",0
+050yr3030,050yr3040," "," "," ",10
+050yr2010,025yr2010," "," "," ",25
+025yr2000,100yr2010," "," "," ",55
+025yr2000,050yr2010," "," "," ",80
+025yr4020," ",None,Massive," ",85
+075yr5060,075yr7020," "," "," ",0
+075yr3020,075yr4040," "," "," ",25
+075yr4040,100yr6040," "," "," ",35
+100yr3020,100yr3030," "," "," ",55
+100yr3020,100yr3040," "," "," ",170
+100yr5020,100yr7010," "," "," ",205
+" "," "," "," "," ",3
+100yr6030," ",Weak,Granular," ",0
+100yr7010," ",Weak,Granular," ",2
+100yr4530," ",Moderate,Granular," ",5
+100yr5035," ",Moderate,Granular," ",18
+100yr6040," ",Moderate,Granular," ",35
+100yr2020,"050y 8060"," "," "," ",5
+100yr5020,100yr5010," ",Granular," ",0
+100yr5020,100yr7010," ",Granular," ",5
+100yr5080,100yr6040," ",Granular," ",10
+100yr5030,100yr7020," ",Granular," ",20
+100yr7030,100yr8020," ","Sub-angular blocky"," ",28
+100yr6030,100yr8020," ","Sub-angular blocky"," ",75
+100yr7030,100yr3040," "," "," ",0
+100yr7040,100yr7060," "," "," ",5
+025yr3020,050yr3020," "," "," ",40
+050yr3020,025yr2020," "," "," ",50
+" ",025yr5020,None,Massive," ",100
+" "," "," "," "," ",28
+050yr2020,100yr2020," "," "," ",18
+100yr2020,050yr2010," "," "," ",13
+025yr2020,050yr2010," "," "," ",10
+100yr6030,100yr4040,None,"Single grained"," ",0
+100yr5010,"025y 5020",None,"Single grained"," ",12
+100yr2020," "," "," "," ",12
+100yr5030,100yr7030,Weak,Platy," ",0
+100yr5525,100yr6030,Weak,Granular," ",7
+100yr6030,100yr7030,Weak,Granular," ",25
+100yr6030,100yr7030,Weak,Granular," ",76
+" "," ",None,"Single grained"," ",0
+" "," "," ",Granular," ",2
+" "," "," ",Granular," ",6
+" "," "," ",Granular," ",16
+" "," ",None," "," ",26
+075yr3020,075yr6040," "," "," ",58
+075yr5040,050yr7030," "," "," ",53
+050yr2020,050yr3020," "," "," ",43
+100yr4025,100yr3020,None,"Single grained"," ",33
+050yr2010,050yr2010,None,"Single grained"," ",25
+100yr2010," ",None,"Single grained"," ",0
+050yr2010," ",None,"Single grained"," ",13
+050yr3020,050yr3015,Moderate," "," ",0
+025yr2000,050yr2510,Weak," ",Moderate,80
+025yr2000,050yr2510," "," "," ",150
+"050y 3510","050y 5010",None," "," ",190
+"025y 5020","050y 6010",None," "," ",210
+050yr2020,050yr2015,Weak," "," ",0
+025yr3010,100yr2020,Weak," "," ",12
+050yr2010,050yr2010,Weak," "," ",24
+100yr3010,050yr3010,Weak,Granular," ",34
+"025y 5040","025y 7025",Moderate,"Sub-angular blocky"," ",40
+100yr5040,100yr7030,Moderate,"Sub-angular blocky"," ",60
+100yr5040,"050y 7030",Moderate,"Sub-angular blocky"," ",85
+" "," "," "," "," ",25
+" "," "," "," "," ",10
+" "," "," "," "," ",0
+"025y 4520","025y 6020",Moderate,"Sub-angular blocky"," ",5
+050yr2010,050yr5030,Weak," "," ",0
+005yr2010,100yr2010,Weak," "," ",12
+100yr2020,100yr5030,Moderate," "," ",25
+100yr2010,100yr2010,None," "," ",30
+100yr3010,"025y 2000",Weak,Granular," ",35
+100yr6020,"025y 4020",Moderate,"Sub-angular blocky"," ",42
+050yr7020,"025y 5040",Moderate,"Sub-angular blocky"," ",55
+100yr2510,050yr2510," "," "," ",3
+100yr7020,100yr7010,Weak,Granular," ",0
+075yr5060,100yr6040," ",Granular," ",8
+075yr4040,100yr6030," ",Granular," ",18
+100yr4060,100yr6030," ","Sub-angular blocky"," ",38
+100yr5040,100yr6025," ","Sub-angular blocky"," ",64
+050yr2010,050yr2010," "," "," ",3
+100yr4020,100yr3010,Weak,Platy," ",0
+100yr6030,100yr4030," ",Granular," ",7
+100yr5030,100yr4040," ",Granular," ",17
+100yr5040,100yr4035,Moderate,Granular," ",25
+100yr7020,100yr5040," ",Platy," ",33
+100yr7030,100yr5030," ",Platy," ",50
+100yr7030,100yr5530," ",Platy," ",90
+100yr4030,100yr6030,Weak,Granular," ",0
+075yr4020,100yr5030," ","Sub-angular blocky"," ",5
+100yr4030,100yr6030,Weak,Granular," ",15
+100yr5030,100yr7030,Moderate,Granular," ",23
+100yr5020,100yr7020," ",Platy," ",37
+050yr2010," "," "," "," ",7
+100yr6520,100yr7020,Weak,Platy," ",0
+100yr6050,100yr7040,Weak,Granular," ",7
+100yr7030,100yr7030,None,"Single grained"," ",28
+100yr7030,100yr8020,None,"Single grained"," ",30
+100yr7030,100yr8020," ",Platy," ",45
+050yr6020,"050y 6010",None," "," ",275
+100yr2010," ",None," "," ",2
+100yr3020,100yr5020,None,"Single grained",Weak,0
+"025y 6030",100yr8020,None,"Single grained",Weak,2
+100yr7030,100yr8020,None,"Single grained",Weak,7
+100yr7030,100yr8020,None,"Single grained",Weak,18
+" "," ",Weak,Granular," ",0
+" "," "," ",Platy," ",5
+" "," ",Moderate,Granular," ",17
+" "," ",None,"Single grained",Weak,22
+100yr2010,100yr3010,Weak,Granular," ",5
+100yr6030,100yr6020,None,"Single grained"," ",0
+075yr6060,100yr5560,Weak,Granular," ",15
+100yr6060,100yr6040,Weak,Granular," ",30
+100yr6040,100yr6040,None,"Single grained"," ",36
+100yr6040,100yr7030,None,"Single grained"," ",60
+100yr6030,100yr7520," ",Platy," ",70
+100yr6030,100yr7020," ",Platy," ",80
+050yr2015,100yr3030," "," "," ",15
+"025y 2000",100yr3010,Weak,Granular," ",0
+100yr4030,100yr5030,Moderate,Granular," ",1
+100yr5040,100yr6030,Weak,Granular," ",15
+100yr5530,100yr7030,None,Massive," ",25
+"025y 3020",075yr3020," "," "," ",20
+050yr2510,100yr4010," "," "," ",10
+050yr2510,100yr4010,Weak,"Sub-angular blocky"," ",0
+"025y 4030",100yr6530," ",Platy," ",10
+"025y 4030",100yr6530," ",Platy," ",25
+"025y 4030",100yr7020," ",Platy," ",60
+"025y 4020","025y 4020"," ",Platy," ",70
+100yr6040,100yr3040," "," "," ",25
+025yr2020,050yr2010," "," "," ",5
+100yr6020,100yr3030," ",Granular," ",0
+100yr6030,100yr4030," ",Granular," ",15
+100yr7030,100yr6040,None,Platy," ",50
+" "," ",None,Platy," ",70
+050yr2510,050yr2520," "," "," ",5
+100yr5030,100yr7020,Weak,Platy," ",0
+100yr4040,100yr6540,Weak,"Sub-angular blocky"," ",5
+100yr4030,100yr6030,Moderate,"Sub-angular blocky"," ",10
+100yr4030,100yr5040,Moderate,Granular," ",20
+100yr4030,100yr6040,Weak,Granular," ",23
+"025y 6030","025y 7030",None,"Single grained"," ",37
+100yr5040,100yr7035,Weak,Granular," ",50
+"025y 6030","025y 7520",Weak,Platy," ",68
+025yr2000,100yr2020," "," "," ",3
+100yr6510,100yr8010,Weak,Granular," ",0
+100yr5080,100yr5560,Weak,Granular," ",10
+100yr4040,100yr6040,Weak,Granular," ",30
+100yr6040,100yr7030,None,Granular," ",35
+100yr5530,100yr7020,None,Granular," ",60
+025yr2520,025yr3020,None,Granular," ",5
+100yr7020,100yr7010,None,Granular," ",0
+075yr5060,075yr6060,None,Granular," ",6
+075yr5080,100yr6060,None,Granular," ",22
+100yr5040,100yr6040,None,Granular," ",28
+075yr5040,100yr7040,None,Granular," ",35
+100yr6040,100yr7030,None,Granular," ",48
+100yr7040,100yr7020,None,Granular," ",85
+" "," "," "," "," ",0
+" "," ",Moderate,"Sub-angular blocky"," ",7
+" "," ",Moderate,Granular," ",30
+" "," ",Moderate,Granular," ",45
+050yr2510,050yr2510," "," "," ",2
+075yr3020,100yr5030,Weak,Granular," ",0
+"025y 6040","025y 7030",None,"Single grained"," ",3
+"025y 6030","025y 7030",None,"Single grained"," ",30
+"025y 5540","025y 7030","Weak to moderate",Platy," ",60
+050yr2010,050yr2520,Weak,Granular," ",7
+075yr2000,050yr3020,Weak,Granular," ",5
+100yr3030,100yr4040,Weak,Granular," ",0
+100yr5030,100yr6030,Weak,Granular," ",5
+100yr5030,100yr7020,Weak,Granular," ",25
+050yr2010,050yr2020," "," "," ",7
+075yr2000,050yr2010,Weak,Granular," ",0
+100yr3030,100yr5030,Weak,Granular," ",3
+100yr5040,100yr6030," ","Angular blocky"," ",15
+100yr5030,100yr7020," ","Angular blocky"," ",40
+100yr3010,100yr4010,Weak,Granular," ",0
+100yr3030,100yr3520,Weak,Granular," ",15
+100yr4040,100yr6030,None,"Single grained"," ",22
+100yr6030,100yr7030,None,"Single grained"," ",27
+100yr6040,100yr7030,None,"Single grained"," ",35
+"025y 7040","025y 8040",None,"Single grained"," ",42
+"025y 6040","025y 7040",None,"Single grained"," ",50
+"025y 7040","025y 8040",Moderate,Platy," ",72
+"025y 7040",100yr7040,Moderate,Platy," ",100
+100yr4020," "," "," "," ",2
+100yr5040,100yr6040,None,"Single grained"," ",0
+075yr5060,100yr5060,"Weak to moderate","Angular blocky"," ",16
+100yr6040,100yr7030,"Weak to moderate",Granular," ",26
+100yr6030,100yr7530,Moderate,Platy," ",36
+100yr6530,100yr7030,None,"Single grained"," ",75
+100yr2010,100yr4010,Weak,Granular," ",0
+"025y 5020","025y 6020",None,"Single grained"," ",13
+100yr3030,100yr5040,Weak,Granular," ",27
+"025y 5020","025y 6020",Weak,Granular," ",32
+100yr6060,100yr7060,None,"Single grained"," ",44
+"025y 6520","025y 7020",None,"Single grained"," ",65
+"025y 3020","025y 5020",Moderate,Platy," ",77
+100yr2510,100yr3510,Weak,Granular," ",0
+100yr3020,100yr5030,Weak,Granular," ",18
+100yr5030,100yr6030,"Weak to moderate",Granular," ",34
+100yr5040,100yr7020,"Weak to moderate",Granular," ",46
+100yr3030,100yr8010,"Weak to moderate",Granular," ",60
+100yr2010,100yr2010,Moderate,Platy," ",12
+"025y 2000",100yr2010,"Weak to moderate",Granular," ",0
+"025y 2010",100yr4010,Weak,Platy," ",9
+"050y 4010","025y 5020",Weak,Platy," ",15
+"025y 4010","025y 7020",Weak,Platy," ",39
+"050y 6020","025y 7020","Very weak",Platy," ",54
+"050y 7020"," "," "," "," ",74
+"050y 4010",100yr5010," "," "," ",104
+100yr2010,100yr2010,"Weak to moderate",Granular," ",0
+100yr4025,100yr6030,"Weak to moderate",Granular," ",20
+100yr5030,100yr5020,Weak,Granular," ",32
+"025y 3520",100yr5020,Weak,Granular," ",43
+"025y 4020",100yr7020,Weak,Granular," ",65
+100yr2010,100yr3010,Weak,Granular," ",0
+"025y 3020","025y 4020",Weak,Platy," ",12
+"025y 5020","025y 5020",Weak,Platy," ",28
+"025y 6040","025y 7020","Very weak",Granular," ",37
+"025y 5020","025y 6020"," ",Massive," ",78
+050yr3010," "," "," "," ",5
+100yr2010,100yr4010,"Very weak",Granular," ",0
+100yr4030,100yr4020,Weak,Granular," ",12
+100yr6040,100yr6040,"Very weak",Platy," ",24
+100yr4030," ",Weak,Platy," ",36
+100yr6030,100yr7010,Moderate,Granular," ",39
+100yr5040,100yr6020,Moderate,Granular," ",54
+100yr5030,100yr6020,Moderate,Granular," ",80
+100yr3020,100yr3010,Weak,Granular," ",0
+100yr3525,100yr5020,"Very weak",Granular," ",16
+100yr6020,100yr6010,None,"Single grained"," ",23
+100yr6030,100yr7030,None,"Single grained"," ",46
+100yr7030,"025y 8020",None,"Single grained"," ",78
+" ",100yr7020,Moderate,Platy," ",104
+" ",100yr4030," "," "," ",2
+100yr5030,100yr5030,None,"Single grained"," ",0
+075yr5560,100yr5040,None,"Single grained"," ",12
+075yr5560,100yr5040,None,"Single grained"," ",26
+100yr7030,100yr7020,None,"Single grained"," ",48
+100yr7030,100yr7020,None,"Single grained"," ",64
+100yr2010,100yr3010,Weak,Granular," ",0
+100yr4030,100yr5020,None,"Single grained"," ",20
+100yr6030,100yr6030,None,"Single grained"," ",36
+100yr6030,100yr6030,None," "," ",43
+"025y 4020","025y 6020",Moderate,"Sub-angular blocky"," ",53
+100yr2010,100yr3010,"Weak to moderate",Granular," ",0
+"025y 3020","025y 4020",Moderate,"Sub-angular blocky"," ",18
+"025y 4020",100yr4010,Moderate,"Sub-angular blocky"," ",30
+"025y 4020","025y 5020",Moderate,"Sub-angular blocky"," ",51
+100yr2510,100yr3010,"Weak to moderate",Granular," ",0
+100yr4020,100yr5020,Weak,Granular," ",20
+"025y 6020","025y 6020","Weak to moderate",Platy," ",30
+"025y 7020","025y 7020","Very weak",Granular," ",44
+"025y 6020","025y 7020","Very weak",Granular," ",54
+100yr2010,100yr3010,"Weak to moderate",Granular," ",0
+100yr3030,100yr4020,Weak,Prismatic," ",18
+100yr4030,100yr5030,"Weak to moderate",Granular," ",32
+"025y 6525","025y 7020",Weak,Platy," ",36
+"025y 6040","025y 7040",Weak,Platy," ",47
+"025y 4030","025y 5020",Weak,Granular," ",70
+100yr4010,100yr4010,Weak,Granular," ",0
+075yr3020,100yr3020,"Weak to moderate",Granular," ",18
+100yr4020," ","Very weak",Granular," ",27
+100yr5020,100yr5020,"Very weak",Platy," ",31
+100yr6030,"025y 6020",None,"Single grained"," ",46
+100yr6030,100yr6020,None,"Single grained"," ",86
+"025y 4020",100yr6010,"Weak to moderate","Sub-angular blocky"," ",100
+100yr2010,100yr2010,"Moderate to strong",Granular," ",0
+100yr3020,"025y 5020",Moderate,Prismatic," ",18
+100yr4030," ",Moderate,Granular," ",46
+100yr7030,"025y 6020","Weak to moderate",Platy," ",52
+100yr8020,100yr5030,Weak,Platy," ",58
+100yr7030,100yr5025,Weak,Platy," ",80
+100yr6030,"025y 7020",Weak,Platy," ",100
+100yr3510,100yr3020,Weak,Granular," ",0
+100yr4520,100yr5010,"Weak to moderate",Platy," ",12
+100yr3020,100yr4020,Weak,Prismatic," ",18
+100yr4020,100yr5020,Moderate,Granular," ",30
+100yr4030,"025y 6020",Moderate,Granular," ",38
+100yr4030,"025y 6520",Moderate,Granular," ",60
+100yr6030," ",Moderate,Platy," ",100
+050yr3030,100yr3010," "," "," ",3
+100yr3515,100yr5015,"Very weak",Granular," ",0
+100yr5520,100yr6020,None,"Single grained"," ",6
+100yr5040,100yr5030,Weak,Granular," ",22
+100yr7030,100yr7020,Weak,Platy," ",36
+100yr6510,100yr7510,Moderate,Platy," ",43
+100yr7020,100yr7020,Moderate,Platy," ",51
+100yr7020,100yr7030,Moderate,Platy," ",75
+100yr4020,100yr4010,"Weak to moderate",Granular," ",0
+100yr3020,"025y 4020","Weak to moderate",Granular," ",16
+100yr5030,100yr5020,"Weak to moderate",Granular," ",28
+100yr7020,100yr7520,Moderate,Platy," ",36
+100yr6030,100yr7015,Moderate,Platy," ",47
+100yr7030,100yr7015,Moderate,Platy," ",65
+100yr2510,100yr4520,None,"Single grained"," ",0
+100yr5520,100yr6020,None,"Single grained"," ",15
+075yr5050,100yr5040,None,"Single grained"," ",22
+100yr6030,100yr7020,None,"Single grained"," ",30
+"025y 7025","025y 8020",None,"Single grained"," ",35
+"025y 7025","025y 8020",None,"Single grained"," ",50
+"025y 7025","025y 8020",None,"Single grained"," ",75
+050yr0202," "," "," "," ",2
+100yr2510,100yr3510,Weak,Granular," ",0
+100yr3025,100yr4020,"Very weak",Granular," ",10
+100yr5030,100yr6020,None,"Single grained"," ",15
+100yr6030,100yr6020,None,"Single grained"," ",23
+" ",100yr6040,None,"Single grained"," ",40
+" ",100yr7020,None,"Single grained"," ",55
+"025y 7020","025y 8020"," "," "," ",105
+025yr2000,100yr3010," "," "," ",3
+"050y 2010",100yr4010,Weak,Granular," ",0
+"050y 4020",100yr6010,"Weak to moderate",Columnar," ",5
+"050y 5535","025y 6020",Weak,Granular," ",17
+"050y 6525","025y 7020",None,"Single grained"," ",22
+"050y 6525","025y 7020",None,"Single grained"," ",50
+"025y 5545","025y 8020",Weak,Platy," ",75
+100yr2010,100yr2010,Weak,Granular," ",0
+100yr4020,100yr6010,Weak,Granular," ",27
+"025y 6520","025y 7020","Weak to moderate",Platy," ",35
+"025y 7020","025y 8020","Weak to moderate",Platy," ",42
+"025y 6540","025y 8020","Weak to moderate",Platy," ",54
+" "," ",None,"Single grained"," ",83
+" ",100yr8030,"Weak to moderate",Platy," ",104
+100yr2010,"025y 5000",Moderate,Granular," ",0
+"   n 50","025y 6000","Weak to moderate",Platy," ",12
+"050y 6510",100yr7010,Weak,Platy," ",24
+"050y 7020","025y 7520","Very weak",Platy," ",38
+"050y 7010",100yr8020,"Very weak",Platy," ",78
+100yr2010,100yr2510,Weak,Granular," ",0
+100yr4020,100yr5025,Weak,"Angular blocky"," ",18
+100yr4030,100yr6025,Weak,Granular," ",28
+100yr5030,100yr6010,"Very weak",Platy," ",38
+100yr5030,100yr5025,"Very weak",Platy," ",53
+100yr2010,100yr3010,Weak,Granular," ",0
+100yr5030,100yr6010,Weak,Granular," ",17
+100yr6030,100yr6020,"Very weak",Granular," ",24
+100yr6530,100yr7030,"Very weak",Platy," ",43
+100yr6030,100yr7020,"Very weak",Platy," ",66
+100yr4530," ","Very weak","Single grained"," ",0
+100yr5040," ",None,"Single grained"," ",15
+075yr4040,075yr4040,Moderate,"Sub-angular blocky"," ",30
+100yr5040," ",Weak,Granular," ",38
+100yr6030," ",Moderate,Platy," ",44
+075yr6060,100yr6040," "," "," ",0
+025yr2000,050yr2510," "," "," ",10
+100yr2020,050yr2020," "," "," ",20
+025yr2010,050yr2510," "," "," ",30
+050yr2010,050yr2010,Weak," "," ",50
+050yr2020,050yr2020,Weak," "," ",100
+"050y 2010",100yr4010," "," "," ",130
+050yr2010,050yr2020," "," "," ",0
+050yr2010,050yr2010,Weak," "," ",50
+025yr2000,050yr2010,Weak," "," ",75
+"050y 2010",100yr3020," "," "," ",95
+100yr2510,100yr3510,Strong,Prismatic," ",0
+100yr3015,100yr3520,Strong,Prismatic," ",15
+100yr3530,100yr4530,Strong,Prismatic," ",30
+100yr5030,100yr6520,Strong,Prismatic," ",52
+100yr4540,100yr6530,Strong,Prismatic," ",78
+100yr4540,100yr6530,None,"Single grained"," ",98
+" "," ",None,"Single grained"," ",107
+100yr2010,100yr3010," "," "," ",0
+100yr2010,100yr3010," "," "," ",11
+100yr4040,100yr4020," "," "," ",18
+100yr4530,100yr4520," "," "," ",24
+100yr7030,100yr7020," "," "," ",28
+100yr5540,100yr6025," "," "," ",35
+"025y 5020","025y 6020"," "," "," ",65
+"025y 5020","025y 6020"," "," "," ",85
+100yr3010,100yr3510," "," "," ",0
+100yr4020,100yr5010," "," "," ",17
+"025y 8020","025y 7020"," "," "," ",22
+"025y 6520","025y 7020"," "," "," ",36
+"050y 5010","050y 7020"," "," "," ",51
+"050y 6010","050y 7020"," "," "," ",76
+075yr0335,050yr3020,Weak," "," ",3
+100yr2010,100yr3020,Weak,Granular," ",0
+100yr3015,100yr4020,Weak,Granular," ",12
+100yr4020,100yr5020,Weak,Granular," ",22
+100yr5530,100yr6025,Weak," "," ",28
+100yr5040,100yr6030,"Very weak",Granular," ",40
+100yr5035,100yr6035,Weak,Granular," ",70
+100yr5545,100yr6535,Weak,Granular," ",110
+100yr4540,100yr6030,Weak," "," ",130
+100yr2510,100yr2520," "," "," ",2
+100yr3020,100yr5025,Weak," "," ",0
+100yr4030,100yr6020,Weak," "," ",7
+100yr3540,100yr5540,Moderate,"Sub-angular blocky"," ",13
+100yr5030,100yr6030,"Weak to moderate","Sub-angular blocky"," ",36
+100yr6030,100yr7520,"Weak to moderate",Granular," ",50
+"025y 4030",100yr6530,Moderate,"Sub-angular blocky"," ",62
+"025y 4040",100yr6530,"Very weak",Granular," ",135
+"025y 4540",100yr6530,Moderate,"Sub-angular blocky"," ",155
+100yr3015,100yr2520," "," "," ",2
+100yr2010,100yr3015,Moderate,Granular," ",0
+100yr2520,100yr3025,Moderate,Prismatic," ",17
+100yr4040,100yr4030,"Weak to moderate",Prismatic," ",36
+100yr5030,100yr5025," "," "," ",46
+100yr4036,100yr5040," "," "," ",70
+100yr4030,075yr5560," "," "," ",110
+100yr2520,100yr3020,None," "," ",2
+100yr2010,100yr2010,Weak,Granular," ",0
+100yr2520,100yr3530,Weak,Granular," ",13
+100yr4540,100yr5025,None,"Single grained"," ",18
+100yr5030,100yr7025,None,"Single grained"," ",38
+100yr5040,100yr6035,None,"Single grained"," ",51
+100yr5030,100yr6530,Weak," "," ",114
+100yr4540,100yr6030,None," "," ",117
+100yr2010,100yr2010,Weak,"Sub-angular blocky"," ",0
+075yr3020,100yr3025,Weak,"Sub-angular blocky"," ",14
+100yr3030,100yr4040,"Weak to moderate","Sub-angular blocky"," ",26
+075yr4040,100yr4540,Weak,"Sub-angular blocky"," ",37
+010yr7530,100yr7025,"Weak to moderate","Sub-angular blocky"," ",44
+010yr4035,100yr6030,None,"Single grained"," ",78
+"025y 5040",100yr6530,"Weak to moderate","Sub-angular blocky"," ",105
+100yr3520,100yr3020,Weak,"Sub-angular blocky"," ",0
+100yr3530,100yr4025,Weak,"Sub-angular blocky"," ",16
+100yr5540,100yr7525,Weak,"Sub-angular blocky"," ",26
+"025y 5540",100yr6530,Weak,"Sub-angular blocky"," ",40
+"025y 5040","025y 7050","Weak to moderate","Sub-angular blocky"," ",63
+100yr2010,100yr3510,"Weak to moderate","Sub-angular blocky"," ",0
+100yr3520,100yr6015,Weak,"Sub-angular blocky"," ",29
+"025y 4040","025y 6040"," ",Massive," ",80
+100yr2010,100yr3515,"Weak to moderate","Sub-angular blocky"," ",0
+100yr6030,100yr7025,"Weak to moderate","Sub-angular blocky"," ",28
+"025y 4540","025y 6530","Weak to moderate","Sub-angular blocky"," ",41
+"025y 4040","025y 6030","Weak to moderate","Sub-angular blocky"," ",54
+100yr2010,100yr3020,"Very weak","Sub-angular blocky"," ",0
+010yr2520,100yr3530,"Very weak","Sub-angular blocky"," ",21
+010yr5540,100yr5530,None,Granular," ",38
+010yr4040,100yr5530,None,Granular," ",62
+100yr2010,100yr3010,Weak,Granular," ",0
+100yr6035,100yr7520,Weak,Granular," ",11
+100yr6540,100yr7030,Weak,"Angular blocky"," ",31
+"025y 6040",100yr6030,Weak,"Angular blocky"," ",90
+010yr2010,100yr2010,Weak,"Sub-angular blocky"," ",0
+010yr3010,100yr4510,Weak,"Sub-angular blocky"," ",28
+010yr6530,100yr7015,Weak,Granular," ",33
+010yr6040,100yr6040,None,"Single grained"," ",48
+010yr5040,100yr5560,None,"Single grained"," ",70
+100yr5020," ",Weak,Platy," ",0
+100yr4020," "," ",Prismatic," ",8
+"025y 4040"," ",Weak,"Sub-angular blocky"," ",28
+"025y 4040"," ",Weak,"Sub-angular blocky"," ",51
+"025y 4040"," ",Weak,"Sub-angular blocky"," ",76
+010yr4030,100yr5025,"Very weak",Granular," ",0
+010yr3030,100yr4025,None,"Single grained"," ",5
+010yr5560,100yr5050,None,"Single grained"," ",20
+010yr5030,100yr5535,None,"Single grained"," ",135
+100yr2010,100yr2510,Weak,Granular," ",0
+100yr2515,100yr5010,Weak,Granular," ",15
+100yr4015,100yr7510,Weak,Granular," ",28
+100yr6020,100yr8010,Weak,Granular," ",37
+100yr5040,100yr7510,"Very weak",Granular," ",55
+100yr5050,100yr7025,"Very weak",Granular," ",74
+100yr5040,100yr7040," ",Platy," ",100
+100yr2510,100yr3010,Weak,"Sub-angular blocky"," ",0
+100yr3530,100yr4530,"Weak to moderate","Sub-angular blocky"," ",17
+100yr5535,100yr7025,Weak,Granular," ",30
+100yr5540,100yr7530,Weak,"Sub-angular blocky"," ",45
+100yr4540,100yr6030,"Weak to moderate","Sub-angular blocky"," ",80
+100yr2510,100yr3015,Weak,Granular," ",0
+100yr3020,100yr4520,"Weak to moderate",Platy," ",15
+100yr6530,100yr7020,Weak,"Sub-angular blocky"," ",35
+"025y 5020","025y 6030",Weak,Granular," ",65
+100yr3010,100yr3510,Weak,Granular,"Weak to moderate",0
+100yr3010,100yr4010,Weak,Granular," ",13
+"025y 3520",100yr5010,Weak,Platy," ",40
+"025y 3020",100yr5515,Weak,Granular," ",80
+100yr6030,100yr5530,Weak,Platy," ",0
+100yr3530,100yr5025,"Weak to moderate",Platy," ",25
+100yr5040,100yr5025,"Weak to moderate",Platy," ",60
+100yr4020,100yr5520,Moderate,Platy," ",67
+100yr3530,100yr5530,Moderate,Platy," ",92
+100yr3520,100yr3520,Weak,Granular," ",0
+100yr3030,100yr4030,"Weak to moderate",Prismatic," ",15
+100yr5550,100yr5530,Weak,Prismatic," ",27
+100yr5550,100yr6030,"Very weak",Granular," ",31
+100yr5540,100yr6035,"Weak to moderate",Granular," ",38
+100yr5540,100yr6035,"Very weak",Granular," ",70
+100yr5030,100yr6515,Weak,"Sub-angular blocky"," ",0
+100yr5550,100yr6030,None," "," ",10
+100yr5550,100yr6035,None," "," ",30
+100yr2010,100yr3520,Moderate,Granular," ",0
+100yr2010,100yr2515,Moderate,"Sub-angular blocky"," ",15
+100yr3030,100yr5010,"Weak to moderate","Sub-angular blocky"," ",34
+100yr6030,100yr7015,Weak,Granular," ",48
+100yr6530,100yr7015,Weak,Granular," ",72
+100yr6050,100yr6030,None,"Single grained"," ",88
+100yr2510,100yr3510,"Weak to moderate",Granular," ",0
+100yr3530,100yr4030,Moderate,Prismatic," ",10
+100yr4540,100yr5040,Moderate,Prismatic," ",20
+100yr6030,100yr7020,Weak,"Sub-angular blocky"," ",25
+"025y 5540",100yr7030,Weak,"Sub-angular blocky"," ",40
+"025y 5040",100yr7030,Weak,"Sub-angular blocky"," ",75
+100yr2010,100yr2010,Weak,Granular," ",0
+"025y 5060","025y 6540",None,"Single grained"," ",37
+100yr6030,100yr8020,"Weak to moderate","Angular blocky"," ",88
+"025y 4540",100yr6030,Moderate,"Sub-angular blocky"," ",105
+100yr2520,100yr3510,"Weak to moderate","Sub-angular blocky"," ",0
+100yr5530,100yr6520,"Very weak",Platy," ",23
+100yr4540,100yr7030,Weak,Platy," ",53
+"025y 6040","025y 6040","Weak to moderate","Sub-angular blocky"," ",105
+100yr3520,100yr3520,"Very weak",Granular," ",0
+100yr5040,100yr5030,"Very weak",Granular," ",25
+100yr5540,100yr6030,Weak,Granular," ",43
+100yr6530,100yr6020,None,"Single grained"," ",78
+100yr6530,100yr6020,None,"Single grained"," ",130
+100yr2010,100yr3010,"Weak to moderate",Granular," ",0
+100yr3030,100yr3030,Moderate,Prismatic," ",20
+075yr4030,100yr4030,Weak,Prismatic," ",37
+100yr5030,100yr5020,None,"Single grained"," ",56
+"025y 6040","025y 4020",None,"Single grained"," ",68
+"025y 4520","025y 6020",None,"Single grained"," ",82
+"025y 4520","025y 6020",None,"Single grained"," ",110
+010yr3010,100yr4010,Weak,Granular," ",0
+010yr5540,100yr5040,None,"Single grained"," ",10
+"025y 4540","025y 6030",Moderate,"Sub-angular blocky"," ",59
+100yr2010,100yr3010,Moderate,Granular," ",0
+100yr3030,100yr4030,"Weak to moderate",Prismatic," ",15
+100yr4530,100yr6030,Weak,"Sub-angular blocky"," ",20
+100yr6530,100yr8020,Weak,Granular," ",30
+100yr5040,100yr7030,None,Massive," ",46
+100yr5530,100yr6530,"Weak to moderate","Sub-angular blocky"," ",68
+050yr3010," ",None," "," ",5
+100yr2010," ",None," "," ",2
+050yr4040," ",None," "," ",0
+050yr4060," "," "," "," ",0
+050yr3030," "," "," "," ",30
+050yr2020," "," "," "," ",78
+050yr2010," "," "," "," ",130
+050gy6010," "," ",Massive," ",140
+050yr4060,075yr7040," "," "," ",0
+050yr2020,050yr3020," "," "," ",50
+025yr3040,075yr6060," "," "," ",63
+050yr2020,075yr4040," "," "," ",94
+050yr2020,100yr3030," "," "," ",126
+100yr3010," "," "," "," ",4
+100yr7010," ",Moderate,Platy," ",0
+100yr4030," ",Moderate,"Sub-angular blocky"," ",5
+100yr7030," ",Weak,Platy," ",18
+100yr7030," ",Weak,Platy," ",64
+100yr2010," ",None," "," ",2
+100yr7020," ",None," "," ",0
+100yr5040," ",None," "," ",4
+100yr5020," ",None," "," ",6
+" "," "," "," "," ",2
+100yr5020," ",Moderate,Platy," ",0
+100yr3030,100yr4030,"Moderate to strong","Sub-angular blocky"," ",6
+100yr7030," ","Moderate to strong","Sub-angular blocky"," ",30
+100yr3010," ",None," "," ",3
+100yr6010," ",None," "," ",0
+100yr4010," ",None," "," ",15
+100yr4040," ",None," "," ",39
+100yr5010," "," "," "," ",55
+050yr4040,050yr6030," "," "," ",0
+050yr4040,050yr5040," "," "," ",50
+050yr3030,050yr4040," "," "," ",100
+050yr3030,050yr3040," "," "," ",250
+100yr4010," "," "," "," ",3
+100yr6020," ",None," "," ",0
+100yr4020,100yr5040,Weak,Prismatic," ",5
+100yr6040," "," "," "," ",30
+100yr4030," "," "," "," ",55
+100yr3010," ",None," "," ",3
+100yr3010," ",Strong,Granular," ",0
+100yr3020,100yr4020,Strong,Prismatic," ",10
+100yr5020,"025y 4020",Weak,Prismatic," ",33
+"025y 5020","025y 4040",Moderate,Platy," ",51
+100yr3020," "," "," "," ",2
+100yr2510," ",None," "," ",0
+100yr4020," ","Moderate to strong",Prismatic," ",6
+100yr4010," "," "," "," ",17
+100yr6030," "," "," "," ",40
+050yr2010," "," "," "," ",2
+100yr2010," ",Weak,Granular," ",0
+100yr4020," ",Moderate,Granular," ",5
+100yr4020," ",Weak,Granular," ",15
+100yr6020," ",Weak,Platy," ",20
+100yr6030,075yr2050,Weak,Platy," ",50
+" "," "," "," "," ",5
+050yr2020,050yr3030," "," "," ",3
+075yr2000," "," "," "," ",1
+100yr9520," "," "," "," ",0
+100yr5030," "," "," "," ",8
+100yr4040," "," "," "," ",11
+100yr4040," "," "," "," ",18
+100yr5040," "," "," "," ",30
+100yr2510," "," "," "," ",4
+" "," "," "," "," ",2
+100yr5020," "," "," "," ",0
+075yr4040," "," "," "," ",7
+100yr5030," "," "," "," ",25
+100yr5020," "," "," "," ",35
+100yr6020," "," "," "," ",57
+100yr8010," "," "," "," ",68
+"025y 6020"," "," "," "," ",90
+100yr2020," "," "," "," ",2
+100yr6020," "," "," "," ",0
+100yr5080," "," "," "," ",6
+025yr5540," "," "," "," ",20
+100yr6030," "," "," "," ",40
+100yr6030," "," "," "," ",67
+100yr5040,100yr7040," "," "," ",30
+050yr2020,075yr3020," "," "," ",10
+100yr5020," "," "," "," ",0
+050yr2020," "," "," "," ",12
+100yr2010," "," "," "," ",2
+"025y 4020"," "," "," "," ",0
+100yr4020," "," "," "," ",8
+"025y 5020"," "," "," "," ",50
+100yr4533," "," "," "," ",12
+100yr2020," "," "," "," ",10
+100yr2020," "," "," "," ",4
+025yr5020," ",Weak,Platy," ",0
+100yr5540," ","Moderate to strong",Prismatic," ",6
+100yr3030," ",Weak,"Angular blocky"," ",26
+100yr5030," ",None,Massive," ",44
+100yr4530," ",None,Massive," ",75
+100yr2010,100yr4060," "," "," ",10
+"025y 5020"," "," "," "," ",80
+500yr2010," "," "," "," ",9
+100yr6020," ","Very weak","Single grained"," ",0
+100yr5020,100yr7020,"Weak to moderate",Platy," ",1
+100yr5030," ",Moderate,Platy," ",9
+100yr5020,100yr5030,"Moderate to strong",Columnar," ",12
+100yr3030," ",Moderate,"Angular blocky"," ",32
+"025y 5020"," ",None,"Sub-angular blocky"," ",50
+"025y 5020","025y 4020",None,"Sub-angular blocky"," ",64
+100yr3030,050yr2010," "," "," ",2
+"025y 5020"," "," "," "," ",0
+100yr5060," "," "," "," ",10
+100yr6040," "," "," "," ",15
+100yr5060," "," "," "," ",38
+100yr6030," "," "," "," ",70
+100yr6030," "," "," "," ",100
+050yr2110,"050y 3010"," "," "," ",5
+" "," "," "," "," ",0
+" "," "," "," "," ",16
+" "," "," "," "," ",70
+100yr2010," "," "," "," ",4
+100yr5020,100yr7010,None,"Single grained"," ",0
+100yr4040,100yr6040,"Very weak",Granular," ",5
+100yr6060,100yr7040,None,"Single grained"," ",18
+100yr6030,100yr7030,None,"Single grained"," ",30
+100yr6040,100yr7030,None,"Single grained"," ",34
+100yr6040,100yr7030,None,"Single grained"," ",60
+100yr4050,100yr7040," "," "," ",0
+100yr2515,050yr2020," "," "," ",50
+050yr3020,050yr2020," "," "," ",200
+050yr2010,050yr2020," "," "," ",250
+050yr2010,050yr2010," "," "," ",275
+050yr2015,050yr2010," "," "," ",290
+"025y 2010"," "," "," "," ",320
+" "," "," ",Massive," ",0
+" "," "," ",Massive," ",5
+" "," "," ",Massive," ",15
+" "," "," ",Massive," ",25
+" "," "," ",Massive," ",61
+050yr4550,050yr7030," "," "," ",0
+050yr2010,050yr2010," "," "," ",30
+"025y 4020"," "," "," "," ",80
+"025y 5020"," "," "," "," ",90
+100yr," "," "," "," ",10
+500yr," "," "," "," ",6
+100yr," ","Very weak",Platy," ",0
+100yr," ","Weak to moderate",Granular," ",8
+100yr," ","Very weak",Granular," ",20
+100yr," ",Moderate,"Sub-angular blocky"," ",28
+100yr," "," ",Granular," ",53
+025y," ",None,"Single grained"," ",64
+025y," ","Very weak","Sub-angular blocky"," ",80
+" "," "," "," "," ",15
+" "," "," "," "," ",13
+" "," "," "," "," ",3
+" "," ","Very weak",Granular," ",0
+" "," ",Weak,Granular," ",8
+" "," ",Weak,Granular," ",20
+" "," ","Very weak",Granular," ",30
+" "," ","Very weak",Granular," ",62
+025yr2500,050yr2500," "," "," ",0
+"100r 2510"," "," "," "," ",5
+"100r 2515"," "," "," "," ",28
+"100r 2510"," "," "," "," ",42
+025yr2510," "," "," "," ",90
+" "," "," "," "," ",2
+" "," ",Moderate,Platy," ",0
+" "," ","Moderate to strong","Sub-angular blocky"," ",4
+" "," ","Moderate to strong",Columnar," ",12
+" "," ",Moderate,"Sub-angular blocky"," ",18
+" "," ",Moderate,Platy," ",33
+" "," ",Moderate,Platy," ",63
+050yr2510," "," "," "," ",8
+050yr2510," "," "," "," ",6
+100yr4015," "," "," "," ",0
+100yr5020," "," "," "," ",10
+100yr4020," "," "," "," ",18
+075yr4020," "," "," "," ",30
+100yr5030," "," "," "," ",50
+100yr5030," "," "," "," ",70
+100yr4040," "," "," "," ",6
+500yr2510," "," "," "," ",1
+100yr6025," ",Weak,Platy," ",0
+075yr4040," ",Weak,"Sub-angular blocky"," ",8
+100yr5040," ",Weak,"Sub-angular blocky"," ",26
+100yr5030," ","Very weak",Granular," ",30
+"025y 6020"," ","Very weak",Granular," ",41
+" "," "," "," "," ",8
+" "," "," "," "," ",4
+" "," "," "," "," ",0
+" "," "," "," "," ",5
+" "," "," "," "," ",20
+" "," "," ",Granular," ",0
+" "," "," ",Platy," ",4
+" "," "," ",Columnar," ",13
+" "," "," ",Prismatic," ",24
+" "," ",None,Massive," ",51
+050yr2520," "," "," "," ",6
+100yr6020," "," "," "," ",0
+100yr5060," "," "," "," ",13
+"025y 6050"," "," "," "," ",25
+"025y 6040"," "," "," "," ",41
+050yr5010," "," "," "," ",10
+075yr2510," "," "," "," ",0
+100yr3020," "," "," "," ",10
+500yr3020," "," "," "," ",6
+100yr2010," "," "," "," ",2
+100yr5030," ","Very weak","Single grained"," ",0
+100yr4030," ","Weak to moderate",Granular," ",5
+100yr6040,050yr5040," "," "," ",15
+100yr2010,100yr3020," "," "," ",28
+500yr2010," "," "," "," ",18
+100yr3010,100yr4010,Weak,Granular," ",0
+025yr5020,100yr4020,"Weak to moderate",Granular," ",8
+100yr5030," "," "," "," ",28
+500yr2020,500yr4040," "," "," ",0
+075yr2000,075yr3020," "," "," ",10
+500yr2010,500yr3020," "," "," ",30
+"500y 4020"," "," ",Massive," ",60
+500yr5060,075yr7040," "," "," ",0
+500yr3040,075yr7040," "," "," ",70
+500yr2010,500yr2020," "," "," ",90
+"500y 4010"," ",None,Massive," ",190
+" "," "," "," "," ",0
+" "," "," "," "," ",5
+" "," "," "," "," ",20
+" "," "," "," "," ",12
+100yr3020," "," "," "," ",0
+100yr5030," "," "," "," ",10
+"050y 6040"," "," "," "," ",27
+"025y 5040"," "," "," "," ",50
+500yr2510," "," "," "," ",40
+500yr2010," "," "," "," ",35
+100yr2010," "," "," "," ",23
+"025y 5020",100yr5030," ",Massive," ",0
+100yr5020," "," "," "," ",0
+" "," "," "," "," ",9
+" "," "," "," "," ",19
+050yr2520," "," "," "," ",0
+075yr5040," "," "," "," ",25
+"100r 2510"," "," "," "," ",43
+075yr2010," "," "," "," ",53
+"025y 2500"," "," "," "," ",70
+100yr4020," ","Very weak","Sub-angular blocky"," ",80
+100yr3030," "," "," "," ",2
+100yr4540," ",Moderate,Granular," ",0
+100yr4040," ","Moderate to strong","Sub-angular blocky"," ",7
+075yr4040," ",Strong,Columnar," ",10
+075yr4540," ",Strong,Cloddy," ",20
+100yr6040," ",Strong," "," ",32
+" "," ",Weak," "," ",37
+" "," "," "," "," ",85
+070yr7040," "," "," "," ",4
+025yr2520," "," "," "," ",2
+100yr7010," "," ",Granular," ",0
+100yr6040," ","Very weak",Granular," ",15
+100yr5080," ",Weak,Granular," ",20
+100yr6060," ","Weak to moderate",Granular," ",33
+100yr5060," ","Weak to moderate",Granular," ",46
+100yr7030," ","Weak to moderate",Granular," ",63
+100yr7030," ","Very weak",Granular," ",90
+050yr2620,075yr7060," "," "," ",5
+100yr7020," "," "," "," ",0
+100yr6040," "," "," "," ",6
+075yr5060," "," "," "," ",10
+075yr5040," "," "," "," ",17
+075yr5060,050yr4040," "," "," ",22
+100yr6030," "," "," "," ",32
+" "," "," "," "," ",35
+100yr7030," "," "," "," ",70
+050yr2520,075yr6060," "," "," ",7
+100yr5040," ","Weak to moderate",Platy," ",0
+100yr4040,075yr4040,Moderate,Platy," ",5
+050yr3040,050yr3040,Moderate,"Sub-angular blocky"," ",10
+100yr6030,100yr6030,"Very weak",Platy," ",23
+" "," "," "," "," ",3
+100yr6020," ",Weak,Platy," ",0
+100yr5030,100yr5040,Moderate,Platy," ",5
+100yr3530," ","Moderate to strong","Sub-angular blocky"," ",11
+100yr3530," ","Weak to moderate",Granular," ",22
+100yr6030," ",None,Massive," ",26
+100yr4030," ",None,Granular,Weak,50
+050yr3020," "," "," "," ",6
+100yr6020," "," "," "," ",0
+100yr5060," "," "," "," ",4
+100yr5550," "," "," "," ",12
+100yr5530," "," "," "," ",19
+100yr6030," "," "," "," ",51
+500yr2020,500yr3030," "," "," ",0
+500yr2010,500yr2020," "," "," ",10
+075yr3020,075yr5040," "," "," ",30
+025yr2500,025yr2500," "," "," ",45
+" "," "," "," "," ",49
+025yr2500,025yr3020," "," "," ",85
+"025y 3020"," "," "," "," ",105
+" "," "," "," "," ",145
+100yr3030,100yr4030," "," "," ",0
+050yr5040,100yr7040," "," "," ",8
+075yr5060,100yr7040," "," "," ",50
+100yr2010," "," "," "," ",100
+100yr2020," "," "," "," ",130
+"025y 3020"," "," "," "," ",145
+" "," "," "," "," ",8
+100yr3020," "," "," "," ",2
+100yr5030,100yr6030,"Weak to moderate",Granular," ",0
+100yr4030,100yr5030,Moderate,Granular," ",5
+100yr4540,100yr6530,Weak,Granular," ",16
+100yr5030,100yr7030,Weak,Platy," ",20
+"025y 5020",100yr7030,None," "," ",46
+050yr2020," "," "," "," ",2
+100yr6020," ",None,Granular," ",0
+100yr4560," ",Weak,Granular," ",7
+"025y 5560"," ","Very weak","Single grained"," ",38
+"025y 6020"," "," ","Single grained"," ",60
+050yr2020," "," "," "," ",6
+100yr6020," ","Very weak","Single grained"," ",0
+100yr3540," ",Weak,Granular," ",15
+075yr4040," ","Weak to moderate",Granular," ",25
+"025y 6030"," ",None," "," ",35
+" "," "," "," "," ",10
+"010r 3030","100r 2020"," "," "," ",4
+100yr6020," ",None,"Single grained"," ",0
+075yr5070," ",Weak,Granular," ",12
+100yr5060," ","Very weak",Granular," ",24
+"025y 6040"," ","Very weak","Single grained"," ",46
+"025y 5040"," ",None,"Single grained"," ",75
+050yr2520,100yr6045," "," "," ",5
+100yr5020,100yr4020,Weak,Platy," ",0
+100yr5030," ",Moderate,"Sub-angular blocky"," ",10
+075yr4020,100yr4040,"Very weak","Sub-angular blocky"," ",21
+025yr7020,"025y 7020","Weak to moderate",Platy," ",27
+" "," "," "," "," ",1
+100yr6030," ",Moderate,Platy," ",0
+050yr4030," ","Moderate to strong",Platy," ",7
+050yr3040," ",Weak,Cloddy," ",13
+075yr4040," ",Weak,Cloddy," ",22
+100yr3040," ",Weak,Massive," ",30
+"025y 6030"," ",Strong,Massive," ",60
+100yr5040,100yr6030,"Very weak",Granular," ",0
+075yr5060,100yr6040,Weak,Granular," ",4
+100yr5540,100yr7030,"Very weak",Granular," ",10
+100yr7020,100yr7020,"Very weak",Granular," ",14
+050yr2520," "," "," "," ",17
+" "," "," "," "," ",2
+100yr4030," "," ","Single grained"," ",0
+100yr3560," ","Very weak",Granular," ",2
+100yr2020," ",Weak,Granular," ",12
+100yr4030," ",None,"Single grained"," ",16
+025yr2520," ",None,"Single grained"," ",18
+100yr4030,100yr5040,None,"Single grained"," ",36
+100yr5040," ",None,"Single grained"," ",50
+100yr4030,075yr4020," "," "," ",0
+075yr2000," "," "," "," ",17
+"100y 2510"," "," "," "," ",34
+"100y 2510"," "," "," "," ",43
+050yr2510," "," "," "," ",50
+050yr2520," "," "," "," ",58
+"050y 4015"," ",None,Massive," ",67
+100yr3030,100yr6010," "," "," ",5
+100yr6030," ",Weak,Granular," ",0
+100yr4540," ","Weak to moderate",Granular," ",5
+100yr6030," ",None,"Single grained"," ",9
+100yr5040," ",Weak,Granular," ",60
+" "," "," "," "," ",13
+075yr3020," "," "," "," ",8
+050yr2010," "," "," "," ",2
+100yr6020," ",Weak,Platy," ",0
+100yr4050," ","Weak to moderate",Granular," ",5
+100yr4040," ",Moderate,Granular," ",10
+100yr7030," ",Weak,Platy," ",16
+100yr6030," ","Very weak",Platy," ",38
+025yr3020," "," "," "," ",0
+050yr3020," "," "," "," ",5
+"100r 2510"," "," "," "," ",30
+"100r 2510"," "," "," "," ",100
+050yr2510," "," "," "," ",160
+050yr2510," "," "," "," ",260
+"050y 3010"," ",None,Massive," ",380
+050yr3020," "," "," "," ",0
+050yr3020," "," "," "," ",5
+050yr2510," "," "," "," ",40
+100yr2510," "," "," "," ",45
+"100r 2510"," "," "," "," ",65
+050yr2510," "," "," "," ",85
+050yr5070," "," "," "," ",0
+050yr2510," "," "," "," ",16
+050yr3030," "," "," "," ",44
+"100r 2510"," "," "," "," ",66
+"050y 4010"," "," "," "," ",220
+075yr2000,075yr2520," "," "," ",3
+100yr6020,100yr7040," ","Single grained"," ",0
+050yr4060,075yr6060," ","Single grained"," ",6
+100yr6060,100yr6040," ","Single grained"," ",16
+100yr5540,100yr6030," ","Single grained"," ",30
+100yr4040,100yr5040," ",Platy," ",34
+100yr5040,100yr6040," ","Single grained"," ",35
+100yr6030,100yr6030," ","Single grained"," ",45
+100yr7020,100yr7030," ","Single grained"," ",62
+050yr2010,050yr6040," "," "," ",4
+050yr2020," "," "," "," ",2
+100yr6020," "," "," "," ",0
+100yr6060," "," "," "," ",4
+100yr6040," "," "," "," ",13
+100yr6030," "," "," "," ",25
+100yr6040," "," "," "," ",70
+100yr5560," "," "," "," ",75
+100yr7030," "," "," "," ",85
+"100r 2510",050yr2510," "," "," ",3
+100yr5020,100yr7030,"Very weak",Platy," ",0
+075yr5060,100yr5560,Weak,Granular," ",6
+100yr6030,100yr7010,Weak,Platy," ",25
+100yr2010,100yr3510,Moderate,Granular," ",0
+100yr2010,100yr3510,Moderate,Granular," ",8
+100yr4010,100yr5510,"Moderate to strong",Platy," ",22
+100yr6010,100yr2515,"Moderate to strong","Sub-angular blocky"," ",26
+100yr2515,100yr3520,Moderate,Prismatic," ",30
+100yr2520,100yr5020,Moderate,"Sub-angular blocky"," ",50
+100yr5530,100yr7010,"Weak to moderate",Granular," ",60
+"050y 4510","050y 7020",Weak,Platy," ",72
+"050y 4510","050y 7020",Weak,Platy," ",96
+100yr3510,100yr4510,"Weak to moderate",Granular," ",0
+100yr4510,100yr6510,Moderate,Platy," ",20
+100yr4515,100yr6515,"Weak to moderate","Sub-angular blocky"," ",32
+100yr6510,100yr4030,Moderate,"Sub-angular blocky"," ",38
+100yr5030,100yr5530,Moderate,"Sub-angular blocky"," ",46
+100yr4030,100yr5520,Moderate,"Sub-angular blocky"," ",66
+100yr4030,100yr5525,Moderate,"Sub-angular blocky"," ",90
+100yr4030,100yr5530,"Weak to moderate",Platy," ",115
+100yr4530,100yr6030,"Weak to moderate",Platy," ",130
+100yr3010,100yr4520,Moderate,Granular," ",0
+100yr3010,100yr4520,Moderate,Granular," ",15
+100yr4520,100yr5530,Weak,Platy," ",22
+100yr3520,100yr5520,"Weak to moderate",Granular," ",44
+100yr2010,100yr2010,Weak,Granular," ",64
+100yr4020,100yr4020,Weak,Granular," ",70
+100yr4020,100yr5030,"Very weak",Platy," ",100
+100yr3520,100yr4520,"Weak to moderate",Granular," ",0
+100yr4520,100yr6515,"Moderate to strong",Platy," ",15
+100yr4030,100yr5515,"Moderate to strong","Sub-angular blocky"," ",30
+100yr2520,100yr3020,"Moderate to strong","Angular blocky"," ",34
+100yr3020,100yr3530,Strong,"Angular blocky"," ",45
+100yr4530,100yr6030,Moderate,"Sub-angular blocky"," ",60
+100yr5040,100yr7020,Moderate,"Sub-angular blocky"," ",79
+100yr4030,100yr6530,"Weak to moderate",Platy," ",96
+100yr4540,100yr6530,"Weak to moderate",Platy," ",110
+100yr2010," ",Moderate,Prismatic," ",0
+100yr2010," ",Moderate,Prismatic," ",44
+100yr2010," "," ",Massive," ",67
+"050y 3015"," "," ",Massive," ",90
+"040y 3020"," "," ",Massive," ",110
+100yr2010,100yr3010,Weak,Granular," ",0
+100yr2010,100yr3510,"Weak to moderate",Granular," ",9
+100yr2015,100yr4515,Weak,Granular," ",20
+100yr5030,100yr8010,"Weak to moderate",Granular," ",22
+100yr5050,100yr7030,"Weak to moderate","Sub-angular blocky"," ",36
+100yr5050,100yr6030,"Weak to moderate","Sub-angular blocky"," ",60
+100yr5050,100yr6030,"Weak to moderate","Sub-angular blocky"," ",90
+100yr5050,100yr6030,"Weak to moderate","Sub-angular blocky"," ",120
+100yr2010,100yr3010,"Weak to moderate",Granular," ",0
+100yr2010,100yr3010,Moderate,Granular," ",8
+100yr4030,100yr3030,Moderate,Prismatic," ",32
+100yr5030,100yr5020,Moderate,"Sub-angular blocky"," ",48
+100yr5530,100yr8010,"Weak to moderate",Prismatic," ",54
+100yr5540,100yr6030,"Weak to moderate","Sub-angular blocky"," ",74
+100yr5060,100yr7030,Weak,Granular," ",100
+050yr2020," "," "," "," ",4
+100yr3010," ",Moderate,Granular," ",0
+100yr3530," ",Moderate,"Sub-angular blocky"," ",7
+100yr3030," ","Moderate to strong",Prismatic," ",14
+"025y 4540"," ",Moderate,Prismatic," ",34
+"025y 4040"," ",Moderate,Platy," ",41
+"025y 4040"," ",Moderate,Platy," ",81
+100yr3510,100yr2510,Weak,"Sub-angular blocky"," ",0
+100yr3510,100yr2510,Weak,"Sub-angular blocky"," ",73
+100yr3520,100yr3020,"Very weak","Sub-angular blocky"," ",36
+100yr4530,100yr3530,"Very weak","Sub-angular blocky"," ",54
+100yr4030,100yr3030,Weak,"Sub-angular blocky"," ",75
+100yr4020,100yr3020,"Moderate to strong",Prismatic," ",84
+100yr6520,100yr5030,Moderate,Prismatic," ",95
+100yr6040,100yr5540,Moderate,Prismatic," ",115
+100yr5540,100yr5040,None," "," ",135
+100yr3510,100yr2510,"Moderate to strong",Prismatic," ",0
+100yr4010,100yr3520,"Moderate to strong",Prismatic," ",27
+100yr6020,025yr4540,Weak,"Sub-angular blocky"," ",40
+100yr6520,025yr5020,None," "," ",67
+100yr6060,100yr5070,None," "," ",75
+100yr6040,100yr5540,None," "," ",88
+100yr5020," "," ",Granular," ",0
+" "," "," ",Prismatic," ",13
+" "," "," ",Massive," ",26
+" "," "," ",Massive," ",52
+" "," ",Weak,"Sub-angular blocky"," ",2
+100yr3010,100yr2510,Weak,"Sub-angular blocky"," ",0
+100yr3520,100yr3020,Weak,"Sub-angular blocky"," ",32
+100yr4030,100yr3530,"Very weak","Sub-angular blocky"," ",54
+100yr5050,100yr4540," "," "," ",78
+100yr2510," "," "," "," ",6
+100yr2510,100yr2510,None,"Single grained"," ",0
+100yr6030,100yr4530,None,"Single grained"," ",18
+100yr6040,100yr5540,None,"Single grained"," ",33
+100yr6540,100yr5560,None,"Single grained"," ",60
+100yr3510,100yr2510,Moderate,Prismatic," ",0
+100yr3530,100yr3520,"Moderate to strong",Prismatic," ",45
+100yr4540,100yr3530,None," "," ",58
+100yr4530,100yr3530,None," "," ",66
+100yr5550,100yr5560,None," "," ",78
+100yr2510,100yr2510,None," "," ",4
+100yr3010,100yr2510,None,"Single grained"," ",0
+100yr3530,075yr3520,None,"Single grained"," ",15
+075yr4540,050yr3540,None,"Single grained"," ",29
+100yr6540,100yr5560,None,"Single grained"," ",36
+100yr6530,100yr5040,None,"Single grained"," ",45
+100yr3520,100yr3510,None," "," ",0
+100yr3020,100yr3010,None," "," ",28
+100yr3530,100yr3025,None," "," ",46
+100yr5050,100yr4040,Moderate,Prismatic," ",60
+100yr5540,100yr4540,None," "," ",109
+100yr6030,100yr5030,None," "," ",121
+100yr2010," ","Weak to moderate",Granular," ",0
+100yr3015," "," ",Massive," ",7
+100yr3020," "," ",Massive," ",18
+100yr3020,100yr3030,"Weak to moderate","Sub-angular blocky"," ",40
+100yr5040," ",Weak,"Sub-angular blocky"," ",55
+100yr5045," ",Weak,"Sub-angular blocky"," ",75
+100yr5040," ",None," "," ",95
+" "," "," "," "," ",10
+" "," "," "," "," ",3
+100yr5030," ",Weak,Platy," ",0
+100yr5020," ",None,Massive," ",5
+100yr3030," ","Weak to moderate","Sub-angular blocky"," ",18
+100yr3040," ","Weak to moderate",Granular," ",30
+100yr4040," ",None,Massive," ",38
+100yr5030," ",None,Massive," ",55
+100yr5030," ",None,Massive," ",80
+100yr3020," ",Weak,Prismatic," ",0
+100yr4020," "," ",Prismatic," ",13
+"025y 4040"," ",None,Massive," ",41
+"025y 4040"," ",None,Massive," ",74
+" "," "," "," "," ",8
+" "," "," "," "," ",2
+100yr5030," ","Weak to moderate",Platy," ",0
+100yr4030,100yr4040,Moderate,Platy," ",5
+100yr4040," ",Moderate,Granular," ",16
+100yr5040," ",None,Massive," ",32
+100yr5040,100yr6030,None,Massive," ",65
+" "," "," "," "," ",33
+075yr5040,100yr7030,Strong," "," ",31
+050yr2010,100yr2020,None," "," ",18
+"050y 2010"," ",None,Massive," ",0
+100yr5040," ",Moderate,Granular," ",4
+100yr5040," ",None,Massive," ",15
+100yr5030," ",None,Massive," ",26
+100yr3020," ",None," "," ",5
+100yr3030," ",None," "," ",0
+100yr3530," ",None," "," ",3
+100yr5530," ",None," "," ",20
+100yr5520," ",Weak,"Sub-angular blocky"," ",40
+100yr6030," "," ",Platy," ",57
+050yr2020," "," "," "," ",25
+050yr2010," "," "," "," ",15
+"050y 3010"," "," ","Single grained"," ",0
+100yr7040," "," ","Single grained"," ",10
+050yr5080," "," "," "," ",0
+050yr1010," "," "," "," ",40
+075yr7020," "," "," "," ",65
+100yr8020," "," ",Massive," ",80
+075yr6560," "," "," "," ",0
+075yr4040," "," "," "," ",20
+075yr2020," "," "," "," ",55
+050yr2010," "," "," "," ",160
+"050y 5010"," "," "," "," ",180
+050yr4060," "," "," "," ",0
+050yr3020," "," "," "," ",30
+050yr2020," "," "," "," ",80
+050gy5010," "," ",Massive," ",90
+" "," "," "," "," ",0
+" "," ",Strong,Prismatic," ",14
+" "," "," ",Massive," ",36
+" "," "," "," "," ",56
+075yr5060," "," "," "," ",0
+050yr3010," "," "," "," ",55
+050yr2010," "," "," "," ",110
+050gy6010," "," ",Massive," ",165
+050yr2020," "," "," "," ",10
+050yr2020," "," "," "," ",2
+100yr4530," ",Moderate,Granular," ",0
+100yr3030," ",Moderate,"Sub-angular blocky"," ",3
+100yr5530," ",Moderate,"Sub-angular blocky"," ",20
+100yr7530,100yr4020,Moderate,"Sub-angular blocky"," ",55
+075yr5060," "," "," "," ",0
+050yr2020," "," "," "," ",40
+050yr2010," "," "," "," ",100
+100yr4520," "," "," "," ",110
+050yr3040," "," "," "," ",2
+100yr6510,100yr8010,Weak,Granular," ",0
+075yr3520," ",Moderate,"Sub-angular blocky"," ",3
+100yr3530," ",Strong,Prismatic," ",15
+100yr6040," "," "," "," ",68
+050yr2520," "," "," "," ",3
+075yr4500," ",None," "," ",0
+050yr3040," ",None," "," ",5
+075yr5560," ",None," "," ",16
+100yr6040," ",None," "," ",70
+100yr3520," "," "," "," ",4
+100yr3020," "," "," "," ",2
+100yr3030," ",Moderate,Platy," ",0
+100yr3520," ",Strong,Columnar," ",3
+100yr7030," ","Weak to moderate",Granular," ",28
+100yr6040," ",Strong,Platy," ",75
+050yr3040," "," "," "," ",5
+100yr6030," ",Moderate,Platy," ",0
+050yr2520," ","Very weak",Columnar," ",3
+100yr6030," ","Moderate to strong","Sub-angular blocky"," ",15
+100yr5020," ","Moderate to strong","Sub-angular blocky"," ",45
+100yr5030," ","Moderate to strong","Sub-angular blocky"," ",120
+050yr4020," "," "," "," ",4
+100yr6010," ","Weak to moderate",Platy," ",0
+100yr3030," ",Moderate,Granular," ",4
+100yr4530," ",Weak,Granular," ",18
+100yr4520," ",Moderate,"Sub-angular blocky"," ",30
+100yr4020,100yr5030,Moderate,"Sub-angular blocky"," ",80
+" "," "," "," "," ",5
+100yr2010,100yr," "," "," ",2
+100yr4020,100yr7020,Moderate,Platy," ",0
+100yr3030,100yr6025,Weak,Columnar," ",8
+100yr3020,100yr5030,Weak,Columnar," ",15
+100yr3020,100yr5530,Weak,Columnar," ",35
+100yr3020,100yr6030,Moderate,Massive," ",45
+100yr4030,100yr6030," ",Massive," ",55
+100yr6030,100yr6030," ",Massive," ",75
+100yr4020," ",Weak,Prismatic," ",0
+100yr4030," ","Very weak",Prismatic," ",10
+100yr4030," "," ",Prismatic," ",20
+100yr4020," "," ","Angular blocky"," ",51
+"025y 4020"," ",None,Massive," ",71
+"025y 4040"," ",None,Massive," ",91
+100yr3020,100yr7030," "," "," ",0
+050yr2500,050yr2520," "," "," ",30
+025yr2500,100yr2510," "," "," ",80
+"025y 3000"," ",None,Massive," ",140
+100yr3030,100yr4530,Weak,"Sub-angular blocky"," ",0
+100yr4030," ","Weak to moderate",Prismatic," ",11
+100yr6030," ","Weak to moderate",Prismatic," ",21
+100yr5030," ",None,Massive," ",55
+"025y 5030"," ",None,Massive," ",120
+100yr4060,100yr7040," "," "," ",0
+100yr6040,100yr7040," "," "," ",40
+100yr2020,100yr3030," "," "," ",75
+100yr2010,100yr2020," "," "," ",105
+100yr2010,100yr2010," "," "," ",175
+"050y 4010"," ",None,Massive," ",275
+" "," "," "," "," ",6
+100yr3020,100yr6020,"Very weak",Platy," ",0
+100yr3030,100yr5030,"Very weak","Sub-angular blocky"," ",10
+"025y 4040","025y 6040",None," "," ",14
+"025y 5540","025y 5560",None,Massive," ",22
+"050y 6030"," ",None,Massive," ",75
+100yr2010," "," "," "," ",4
+100yr3020," "," "," "," ",0
+100yr3040," "," "," "," ",2
+100yr4030," "," "," "," ",12
+100yr6530," "," ",Platy," ",22
+" "," "," "," "," ",10
+" "," "," "," "," ",4
+100yr5020," ",Weak,Platy," ",0
+100yr3010," ","Very weak",Platy," ",5
+100yr3010," ",Strong,Columnar," ",13
+100yr4010," ",None,Massive," ",27
+"025y 5020"," ",None,Massive," ",42
+"025y 6030"," ",None,Massive," ",60
+500yr3020," "," "," "," ",8
+"100r 2510"," "," "," "," ",3
+100yr6020," ","Weak to moderate",Platy," ",0
+100yr5020," ","Very weak",Platy," ",5
+100yr4020," ",Moderate,Columnar," ",15
+100yr4020," ",None,Massive," ",26
+" "," "," ",Massive," ",41
+" "," "," ",Massive," ",72
+" "," "," "," "," ",0
+" "," "," "," "," ",60
+" "," "," "," "," ",130
+" "," "," "," "," ",180
+" "," "," "," "," ",250
+" "," "," "," "," ",330
+" "," "," "," "," ",470
+" ",050yr3030," "," "," ",4
+100yr6030,100yr6515,Weak,Granular," ",0
+100yr5060,100yr5030,Weak,Granular," ",12
+" ",100yr6530,None," "," ",30
+" ",100yr7020,None," "," ",50
+" ",100yr7020,None," "," ",75
+" "," "," "," "," ",5
+100yr5020,100yr7010," "," "," ",0
+100yr4520," ",Strong," "," ",5
+100yr4030," ",Strong,Columnar," ",10
+100yr3040," ",None,Massive," ",25
+100yr4020," ",Weak,Granular," ",45
+100yr3020," ","Weak to moderate",Granular," ",60
+"025y 3020"," ","Moderate to strong","Angular blocky"," ",100
+100yr3040,100yr8020," "," "," ",0
+100yr3540,100yr7020," "," "," ",40
+100yr3040,100yr7040," "," "," ",105
+100yr2020,100yr3010," "," "," ",205
+100yr2020,100yr2020," "," "," ",280
+100yr3020,100yr3020," "," "," ",310
+" "," "," "," "," ",320
+"025y 3020"," "," "," "," ",330
+100yr3030," ","Weak to moderate","Sub-angular blocky"," ",0
+100yr3540," ",Moderate,Prismatic," ",14
+100yr5040," ","Weak to moderate","Sub-angular blocky"," ",29
+100yr4040," ",None,"Single grained"," ",50
+" "," "," "," "," ",5
+100yr5530," ",None,"Single grained"," ",0
+100yr5060," ","Very weak",Granular," ",5
+100yr5040," "," ",Granular," ",20
+075yr4040," ","Weak to moderate",Granular," ",50
+100yr6020," ","Weak to moderate",Platy," ",62
+100yr2530,100yr6040," "," "," ",0
+100yr2010," "," "," "," ",30
+100yr2010,100yr2020," "," "," ",210
+100yr2010," "," "," "," ",300
+100yr3010," "," "," "," ",320
+" "," "," "," "," ",6
+100yr4030," ",None," "," ",0
+100yr4040," ",None," "," ",5
+100yr6530," ","Moderate to strong","Angular blocky"," ",12
+"050y 5010"," "," ",Massive," ",30
+025yr3020," "," "," "," ",5
+100yr3020," "," ",Granular," ",0
+100yr3030," ",Weak,"Sub-angular blocky"," ",6
+100yr5040," "," ",Massive," ",13
+100yr6030," ",Moderate,"Sub-angular blocky"," ",26
+100yr3020," "," ",Massive," ",37
+" "," "," "," "," ",0
+" "," "," "," "," ",45
+" "," "," "," "," ",130
+"050y 5010"," "," "," "," ",175
+" "," "," "," "," ",5
+"025y 6020"," "," ",Platy," ",120
+100yr6020," ",Moderate,Platy," ",0
+100yr4530," ",Strong,"Sub-angular blocky"," ",9
+100yr3075," "," "," "," ",22
+100yr3020," ",Moderate,"Sub-angular blocky"," ",32
+100yr4020," ",Moderate,Platy," ",45
+"025y 3020"," "," ",Platy," ",58
+"025y 3020",100yr6030," ",Platy," ",81
+100yr5020," "," ",Platy," ",107
+"100r 2020"," "," "," "," ",7
+100yr5030," "," ",Platy," ",0
+100yr5020," ",Moderate,"Angular blocky"," ",24
+100yr5040," ",Weak,Platy," ",45
+" "," "," "," "," ",4
+100yr6020," "," ","Single grained"," ",0
+100yr4060," "," ","Single grained"," ",6
+100yr5060," "," ","Single grained"," ",19
+100yr5030," "," ","Single grained"," ",25
+100yr6030," "," ","Single grained"," ",30
+100yr6510," "," ","Single grained"," ",56
+050yr2020," "," "," "," ",0
+100yr2020," "," "," "," ",25
+050yr2010," "," "," "," ",75
+" "," "," ",Massive," ",165
+"050y 4010"," "," ",Massive," ",170
+050yr2010," "," "," "," ",0
+050yr2010," "," "," "," ",30
+050yr2010," "," "," "," ",130
+" "," "," "," "," ",165
+"050y 4010"," "," "," "," ",170
+" "," "," "," "," ",0
+100yr2010," "," "," "," ",30
+050yr2010," "," "," "," ",75
+050yr2010," "," "," "," ",130
+"025y 2500"," "," "," "," ",160
+100yr5040,100yr7020," "," "," ",0
+050yr3010,100yr7030," "," "," ",12
+050yr2020," "," "," "," ",37
+" "," "," "," "," ",52
+" "," "," ","Single grained"," ",20
+100yr5030," "," ","Single grained"," ",0
+100yr4040," "," ","Single grained"," ",8
+100yr5030," "," "," "," ",20
+100yr5030," "," ","Angular blocky"," ",35
+100yr5030," "," ",Massive," ",39
+"025y 4020"," "," ",Massive," ",44
+"025y 5040"," "," ",Massive," ",48
+" "," "," "," "," ",5
+100yr4555," ",Weak,Granular," ",0
+100yr4030," ","Weak to moderate","Sub-angular blocky"," ",15
+025yr5060," ",None,"Single grained"," ",30
+100yr4030," ",None,Massive," ",50
+100yr5020," ",None,Massive," ",74
+" "," ",None,"Single grained"," ",90
+100yr2020,100yr4030," "," "," ",7
+100yr6020," ",Weak,Platy," ",0
+100yr4030,100yr6010,Moderate,"Angular blocky"," ",10
+100yr3020,100yr4510,"Moderate to strong",Columnar," ",18
+" "," "," "," "," ",5
+100yr5020,100yr7040,Weak,Platy," ",0
+075yr4020," ","Moderate to strong","Sub-angular blocky"," ",10
+"025y 6020","025y 4020",Moderate,Platy," ",35
+075yr5060,100yr7030," "," "," ",0
+050yr4060,100yr6040," "," "," ",30
+100yr4040,100yr6040," "," "," ",200
+075yr3530,100yr4040," "," "," ",220
+075yr3020,100yr3030," "," "," ",260
+100yr2020,100yr3040," "," "," ",300
+100yr2010,100yr3030," "," "," ",400
+" "," "," "," "," ",430
+050yr2020," "," "," "," ",0
+100yr2020," "," "," "," ",15
+075yr3020," "," "," "," ",30
+050yr2010," "," "," "," ",35
+050yr2010," "," "," "," ",100
+075yr5060,075yr5040," "," "," ",0
+050yr2020,050yr3040," "," "," ",20
+100yr2020,100yr3030," "," "," ",60
+050yr2020,050yr3020," "," "," ",200
+100yr3010," "," "," "," ",260
+" "," "," "," "," ",20
+100yr3520," "," ","Single grained"," ",0
+025yr3040," "," ","Single grained"," ",7
+100yr4060," "," ","Single grained"," ",15
+100yr5540," "," ",Granular," ",30
+050yr2020," "," "," "," ",5
+100yr5520," ",Moderate,Platy," ",0
+100yr5030,100yr4030,"Moderate to strong",Platy," ",8
+100yr4030," ",Moderate,"Sub-angular blocky"," ",12
+050yr4020," ",Weak,"Sub-angular blocky"," ",20
+100yr6020," ",Weak,Platy," ",30
+050yr4040,050yr7040," "," "," ",0
+050yr4040,075yr7040," "," "," ",60
+050yr3040,100yr6040," "," "," ",200
+050yr3020,075yr4040," "," "," ",270
+"100r 3040"," "," "," "," ",8
+100yr5020,100yr5520,"Very weak",Granular," ",0
+100yr4040,100yr5040,"Very weak",Granular," ",4
+075yr5050,100yr5540,"Very weak",Granular," ",12
+075yr5060,100yr6540,None,"Single grained"," ",40
+100yr5060,100yr7030,None,"Single grained"," ",50
+100yr4030,100yr2020," "," "," ",0
+100yr2020,100yr3030," "," "," ",40
+050yr2010,050yr3020," "," "," ",75
+050yr2010," "," "," "," ",185
+"050y 4010"," ",None,Massive," ",215
+" "," "," "," "," ",0
+" "," "," "," "," ",165
+" "," "," "," "," ",180
+" "," ",None," "," ",190
+" "," "," "," "," ",10
+" "," "," "," "," ",40
+" "," "," "," "," ",55
+" "," "," "," "," ",75
+" "," "," "," "," ",90
+" "," "," "," "," ",105
+" "," "," "," "," ",140
+" "," "," "," "," ",155
+" "," "," "," "," ",10
+" "," "," "," "," ",8
+100yr6010," ",None,"Single grained"," ",0
+100yr4540,100yr4060,None,"Single grained"," ",10
+100yr7030,050yr4060,None,"Single grained"," ",35
+" "," "," "," "," ",2
+050yr3540," "," "," "," ",0
+050yr3040," "," "," "," ",10
+100yr6020," "," ","Single grained"," ",0
+100yr5040," ","Very weak","Sub-angular blocky"," ",4
+100yr6040," "," ","Single grained"," ",20
+100yr6520," ",Strong,Platy," ",60
+" "," "," "," "," ",5
+100yr6510," ",None,"Single grained"," ",0
+100yr5080," ",None,"Single grained"," ",3
+100yr7030," ",None,"Single grained"," ",12
+075yr5580," ",None,"Single grained"," ",26
+100yr7030," ",None,"Single grained"," ",40
+025yr2510," "," "," "," ",8
+100yr6015," ","Very weak",Platy," ",0
+100yr5040," "," ","Single grained"," ",10
+100yr5580," "," ","Single grained"," ",25
+100yr6060," "," ","Single grained"," ",36
+100yr5060," "," ","Single grained"," ",50
+075yr5050,075yr7020," "," "," ",0
+050yr4550,100yr7040," "," "," ",5
+100yr3040,100yr3030," "," "," ",40
+100yr2020,100yr2020," "," "," ",75
+100yr2020,100yr2020," "," "," ",100
+100yr2020,100yr2020," "," "," ",220
+" "," ",None,Massive," ",240
+100yr2020,100yr6040," "," "," ",7
+100yr2020," ",None," "," ",0
+100yr3030," ","Very weak",Granular," ",6
+100yr5060," ",None,Massive," ",18
+100yr2015," ","Very weak"," "," ",50
+100yr5060," ",None,Massive," ",70
+050yr2020," "," "," "," ",0
+050yr2020," "," "," "," ",100
+050yr2010," "," "," "," ",120
+050yr4060," "," "," "," ",0
+050yr3040," "," "," "," ",5
+050yr5060," "," "," "," ",60
+050yr2020," "," "," "," ",80
+100yr2010," "," "," "," ",120
+100yr2010," "," "," "," ",200
+100yr2010," "," "," "," ",250
+050gy4010," "," "," "," ",265
+100yr3040,100yr8030," "," "," ",0
+100yr3025,100yr8030," "," "," ",38
+100yr3015,100yr8030," "," "," ",42
+100yr2520," "," "," "," ",51
+050yr4060,075yr7040," "," "," ",0
+100yr5040,100yr7030," "," "," ",40
+100yr2020,075yr3020," "," "," ",60
+" "," ",None,Massive," ",240
+100yr2015,100yr3540," "," "," ",0
+100yr2020,100yr3020," "," "," ",40
+100yr2010,100yr3020," "," "," ",200
+100yr3010," ",None,Massive," ",230
+100yr3010,100yr3510,Moderate,Granular," ",0
+"025y 5030"," ",Weak,Granular," ",26
+"025y 6020"," ",Weak,"Sub-angular blocky"," ",35
+"025y 6520"," ","Weak to moderate",Platy," ",60
+"025y 5540","025y 6020","Weak to moderate",Platy," ",80
+" "," ",Moderate,Platy," ",100
+" "," "," ",Platy," ",120
+100yr3020," ",Strong,"Sub-angular blocky"," ",0
+100yr4025," ",Strong,"Sub-angular blocky"," ",18
+100yr4525," ",Weak,"Sub-angular blocky"," ",28
+100yr6025," ",Weak,"Sub-angular blocky"," ",35
+"025y 5520"," ",Weak,Platy," ",50
+"025y 5520"," ",Weak,Platy," ",75
+"025y 5520"," ",Weak,Platy," ",100
+"025y 5520"," ",Weak,Platy," ",130
+100yr3510," ","Weak to moderate","Sub-angular blocky"," ",0
+"025y 3020"," ","Moderate to strong",Columnar," ",2
+"025y 4520"," ",None,Massive," ",11
+"025y 5520"," ",None,Massive," ",20
+"025y 6020"," ",None,Massive," ",40
+"025y 6020"," ",None,Massive," ",70
+100yr3020," ",Strong,"Sub-angular blocky"," ",0
+100yr3025," ",Strong,"Sub-angular blocky"," ",8
+100yr4530," ",Moderate,"Sub-angular blocky"," ",20
+100yr7030," ",Weak,"Sub-angular blocky"," ",28
+"025y 5020"," ","Moderate to strong","Angular blocky"," ",45
+"025y 5020"," ","Moderate to strong","Angular blocky"," ",70
+100yr3010," ","Moderate to strong","Sub-angular blocky"," ",0
+100yr4020," ",Strong,"Sub-angular blocky"," ",16
+"025y 4020"," ","Moderate to strong","Sub-angular blocky"," ",26
+"025y 6520"," ",Moderate,Massive," ",35
+"025y 4520"," ",Moderate,"Sub-angular blocky"," ",50
+"025y 4520"," ",Moderate,"Sub-angular blocky"," ",70
+050yr2510," "," "," "," ",2
+100yr3010," ","Weak to moderate",Platy," ",0
+"025y 3020"," ",Strong,Columnar," ",2
+"025y 4020"," ",None,Massive," ",11
+"025y 5020"," ",None,Massive," ",22
+"025y 4520"," ",None,Massive," ",32
+"050y 5030"," ",None,Massive," ",50
+"050y 4530"," ",None,Massive," ",75
+005yr2020," "," "," "," ",2
+100yr3010," ","Weak to moderate",Granular," ",0
+100yr4530," ","Weak to moderate","Sub-angular blocky"," ",8
+"025y 5040"," ",Weak,Granular," ",18
+"025y 5530"," ",Weak,Granular," ",24
+"025y 7020"," ",Weak,Platy," ",42
+"025y 7020"," ",Weak,Platy," ",65
+" "," ",None," "," ",2
+100yr2010," ","Weak to moderate",Granular," ",0
+100yr3020," ","Weak to moderate","Sub-angular blocky"," ",10
+100yr5030," ",Weak,Granular," ",18
+"025y 6020"," ",Weak,Platy," ",25
+"025y 6040"," ",Weak,Platy," ",40
+"025y 6030"," ",Weak,Platy," ",60
+"025y 6030"," ",Weak,Platy," ",80
+075yr3020," "," "," "," ",2
+100yr2010," ","Weak to moderate",Granular," ",0
+100yr4020," ",Moderate,Columnar," ",8
+"025y 4520"," ",None,Massive," ",25
+"025y 5020"," ",None,Massive," ",30
+"025y 5020"," ",None,Massive," ",40
+"025y 5020"," ",None,Massive," ",60
+" "," "," "," "," ",3
+100yr3020," ",Strong,Granular," ",0
+100yr6510," ","Weak to moderate",Platy," ",10
+100yr3030," ",Strong,"Angular blocky"," ",12
+100yr5040," ","Weak to moderate",Granular," ",22
+100yr6035," ",None,Massive," ",29
+100yr7520," ","Weak to moderate",Platy," ",60
+100yr7520," ","Weak to moderate",Platy," ",80
+"050y 2010"," ",None,Massive," ",0
+"050y 7010"," ",None,Massive," ",15
+"050y 6520"," ",None,Massive," ",35
+100yr2010," ",None,Massive," ",0
+"050y 4010"," ",None,Massive," ",20
+"050y 4510"," ",None,Massive," ",35
+"050y 4510"," ",None,Massive," ",60
+" "," "," "," "," ",3
+100yr6020,100yr7520,"Weak to moderate",Platy," ",0
+100yr5030,100yr3530,"Moderate to strong","Angular blocky"," ",4
+100yr5540," ","Weak to moderate",Granular," ",12
+100yr6520,100yr8010,"Weak to moderate",Granular," ",17
+100yr7015,100yr8010,"Weak to moderate",Platy," ",35
+100yr7015,100yr8010,"Weak to moderate",Platy," ",50
+100yr3020," ",Weak,Granular," ",0
+100yr5030," ",Weak,"Sub-angular blocky"," ",15
+"025y 5030"," ",Weak,Granular," ",30
+"050y 6520"," ","Weak to moderate",Platy," ",38
+"050y 6025"," ","Weak to moderate",Platy," ",58
+050yr3020," "," "," "," ",6
+100yr3515," ","Weak to moderate",Platy," ",0
+100yr3020," ","Weak to moderate",Granular," ",3
+"025y 5020"," ","Weak to moderate",Granular," ",12
+"025y 7520"," ",None,Massive," ",16
+"025y 8020"," ","Weak to moderate",Platy," ",28
+"025y 8020"," ","Weak to moderate",Platy," ",50
+050yr2020," "," "," "," ",2
+100yr3020," ",Weak,Granular," ",0
+"025y 3030"," ","Very weak",Columnar," ",2
+"025y 4010"," ",None,Massive," ",10
+"025y 4010"," ",None,Massive," ",30
+"050y 4515"," ",None,Massive," ",40
+"025y 3510"," "," "," "," ",60
+"025y 3510"," "," "," "," ",85
+025yr2010," "," "," "," ",3
+100yr2010," ","Weak to moderate",Granular," ",0
+"025y 3020"," ","Moderate to strong",Columnar," ",3
+"025y 3020"," ",None,Massive," ",15
+"025y 4520"," ",None,Massive," ",50
+"025y 4520"," ",None,Massive," ",65
+"025y 4020"," ",None,Massive," ",90
+100yr2010,100yr3010,Weak,"Sub-angular blocky"," ",0
+"025y 3520"," ",Weak,Prismatic," ",18
+"025y 4520"," ",Weak,"Angular blocky"," ",28
+"025y 6020"," ",None,Massive," ",32
+"025y 4520"," ",None,"Single grained"," ",42
+"050y 5020"," ","Weak to moderate",Platy," ",66
+"050y 5010"," ",Weak,Platy," ",90
+100yr2515," ",Weak,Granular," ",0
+100yr6030," ","Weak to moderate",Platy," ",15
+100yr2520," ",Strong,"Sub-angular blocky"," ",28
+100yr4030," ","Weak to moderate","Sub-angular blocky"," ",38
+"025y 4040"," ",Weak,Platy," ",50
+"025y 5030"," ",Weak,Platy," ",55
+100yr2510," "," "," "," ",0
+100yr3020," ",Moderate,Prismatic," ",20
+100yr4540," ","Weak to moderate",Prismatic," ",38
+100yr7030," ","Weak to moderate",Granular," ",45
+"025y 4030"," ",Weak,Platy," ",60
+100yr2015," "," "," "," ",4
+100yr2515," ","Weak to moderate",Granular," ",0
+100yr6020," ","Weak to moderate",Platy," ",18
+100yr4030," ",Moderate,"Sub-angular blocky"," ",23
+100yr3030,100yr4530,"Moderate to strong",Prismatic," ",26
+100yr2525,100yr5540,Moderate,Prismatic," ",55
+100yr7040," ","Weak to moderate",Platy," ",65
+"025y 4040"," ","Weak to moderate",Platy," ",85
+100yr3010," ",Moderate,Granular," ",0
+100yr4030," ",Moderate,Prismatic," ",20
+100yr4530," ","Weak to moderate",Granular," ",34
+100yr7040,100yr5540,"Weak to moderate",Granular," ",37
+"025y 5040"," ","Weak to moderate",Platy," ",55
+"025y 4040"," ","Weak to moderate",Platy," ",80
+100yr2510,100yr3510,Moderate," "," ",0
+100yr4020,100yr4520,"Weak to moderate"," "," ",18
+"025y 6040","025y 7540",Weak,Granular," ",32
+"025y 5540"," ","Weak to moderate",Granular," ",55
+"025y 4040"," ","Weak to moderate",Platy," ",75
+050yr3010,050yr3010," "," "," ",5
+"100r 2510",100yr2510," "," "," ",2
+100yr4020,100yr5030,Weak,Granular," ",0
+"025y 4020",100yr6020,"Weak to moderate",Granular," ",12
+100yr5530,100yr7020,None,Massive," ",30
+"025y 6040","025y 7020",None,Massive," ",43
+" "," "," "," "," ",8
+100yr5040," "," ",Platy," ",0
+100yr5040," "," ","Sub-angular blocky"," ",9
+100yr4030," "," ","Sub-angular blocky"," ",17
+" "," "," ",Massive," ",45
+" "," "," "," "," ",65
+100yr3015," ",Moderate,Granular," ",0
+100yr3515," ","Weak to moderate",Prismatic," ",10
+100yr5030," ","Weak to moderate",Prismatic," ",22
+100yr7025," ","Weak to moderate",Granular," ",28
+"025y 4530"," ","Weak to moderate","Angular blocky"," ",60
+" "," ","Weak to moderate","Angular blocky"," ",80
+100yr3020,100yr5010,Weak,Granular," ",0
+100yr5010,100yr7010,Moderate,Platy," ",15
+100yr4030," ",Moderate,"Sub-angular blocky"," ",20
+100yr2520,100yr5030,"Moderate to strong","Angular blocky"," ",27
+100yr5020," ","Weak to moderate","Sub-angular blocky"," ",50
+"025y 6520"," ",Weak,Granular," ",75
+"025y 5520"," ",Weak,"Sub-angular blocky"," ",90
+100yr3020,100yr5520,Weak,Granular," ",0
+100yr4030," ",Weak,Granular," ",22
+100yr6020," ",Weak,Granular," ",35
+100yr2520," ",Weak,Granular," ",60
+100yr2020,100yr4010,"Weak to moderate",Granular," ",0
+100yr2015,100yr3010,"Moderate to strong",Columnar," ",12
+100yr3020," ","Weak to moderate",Granular," ",30
+100yr4030," ",None,Massive," ",38
+"025y 5040"," ",None,Granular," ",80
+"025y 4540"," ","Weak to moderate",Platy," ",100
+100yr3020," "," ",Massive," ",20
+"025y 5020"," "," ",Massive," ",0
+100yr2020," "," ",Massive," ",15
+"050y 4510"," "," ",Massive," ",20
+"050y 5010"," "," ",Massive," ",32
+"050y 6010"," "," ",Massive," ",40
+"050y 4010"," "," ",Massive," ",55
+"050y 5020"," "," ",Massive," ",80
+100yr3020," ","Weak to moderate",Granular," ",0
+100yr3510," ","Weak to moderate",Granular," ",10
+100yr3520," ","Weak to moderate",Granular," ",25
+100yr3510," ","Weak to moderate",Granular," ",40
+"025y 3520"," ","Weak to moderate",Granular," ",80
+100yr3530," "," "," "," ",4
+"025y 2000"," ","Very weak",Granular,Weak,0
+"025y 3020"," "," ",Massive," ",10
+"050y 4520"," ",Weak,Granular," ",30
+"050y 4530"," ",None," "," ",40
+"050y 6520"," ","Very weak","Sub-angular blocky"," ",48
+"050y 6520"," ","Very weak","Sub-angular blocky"," ",70
+100yr2010," ","Weak to moderate",Granular," ",0
+100yr3015," ",Weak,"Sub-angular blocky"," ",18
+100yr3520," ",Weak,"Sub-angular blocky"," ",25
+"025y 4030"," ",Weak,Granular," ",32
+"025y 5540"," ","Weak to moderate","Sub-angular blocky"," ",44
+"025y 4040"," ","Weak to moderate","Sub-angular blocky"," ",60
+100yr2015," ",Weak,Granular," ",0
+100yr3010," "," "," "," ",20
+100yr6020," ","Weak to moderate","Sub-angular blocky"," ",27
+"025y 4040"," ",Moderate,Massive," ",45
+"025y 4030"," ",None,"Single grained"," ",75
+"025y 5040"," ",Moderate,Massive," ",105
+100yr3010," "," "," "," ",2
+100yr2510," ",Weak,"Sub-angular blocky"," ",0
+100yr4510," ",Weak,"Sub-angular blocky"," ",24
+100yr6520," ",Weak,"Sub-angular blocky"," ",38
+"025y 5540"," ","Weak to moderate","Sub-angular blocky"," ",52
+"025y 5040"," ","Weak to moderate","Sub-angular blocky"," ",70
+100yr2010," ","Weak to moderate","Sub-angular blocky"," ",1
+100yr3020," ","Moderate to strong",Prismatic," ",15
+100yr3530," ","Weak to moderate","Sub-angular blocky"," ",41
+100yr6020,100yr8010,None,"Single grained"," ",48
+100yr5530," ",None,"Single grained"," ",55
+100yr3010,100yr4520,Weak,Granular," ",0
+100yr4520," ",Weak,Platy," ",20
+100yr3530," ",Moderate,Prismatic," ",23
+100yr3020,100yr4030,"Moderate to strong","Angular blocky"," ",35
+100yr4040," ",Weak,"Sub-angular blocky"," ",70
+100yr6030," ",Weak,Granular," ",80
+025yr4020," ",Moderate,"Sub-angular blocky"," ",105
+100yr2010,100yr3510,Weak,Granular," ",0
+100yr3530," ",Weak,"Sub-angular blocky"," ",15
+100yr3530," ",Weak,Granular," ",24
+100yr6030," ",Weak,Granular," ",40
+100yr5540," ",Weak,Granular," ",68
+" "," ",Weak,Granular," ",100
+100yr2010," ",Weak,Granular," ",0
+100yr3520," ","Weak to moderate","Sub-angular blocky"," ",15
+100yr5040," ","Moderate to strong",Prismatic," ",35
+100yr5540," ","Weak to moderate","Sub-angular blocky","Moderate to strong",48
+100yr6040," ","Weak to moderate","Sub-angular blocky"," ",70
+100yr2010," ","Weak to moderate",Granular," ",0
+100yr2020," ",Weak,"Sub-angular blocky","Weak to moderate",15
+100yr4030," ",Weak,"Sub-angular blocky"," ",45
+100yr5035," ",Weak,Granular," ",53
+100yr6530," ",Weak,Granular," ",62
+100yr5540," ",Weak,Platy," ",72
+100yr2010," ",Weak,Granular," ",0
+100yr2010," ",Moderate,"Sub-angular blocky"," ",18
+100yr3530," ","Weak to moderate","Sub-angular blocky"," ",23
+"025y 5540"," ","Weak to moderate","Sub-angular blocky"," ",50
+"025y 5540"," ","Weak to moderate","Sub-angular blocky"," ",80
+075yr3020," ",None,Granular," ",0
+100yr3030," ",None,Granular," ",15
+100yr5030," ","Very weak","Sub-angular blocky"," ",30
+100yr3020," ",None,Granular," ",42
+100yr5040," ",None,Granular," ",60
+"025y 5060"," ",None,Granular," ",75
+"025y 5540"," ",None,Granular," ",95
+100yr3010," "," "," "," ",8
+100yr5040," "," ",Platy," ",0
+100yr5060," "," ",Platy," ",18
+100yr4040," "," ","Sub-angular blocky"," ",26
+100yr5040," "," ",Massive," ",59
+100yr5040," "," "," "," ",102
+100yr4040," "," "," "," ",110
+100yr4030," "," "," "," ",161
+100yr2510," ",Weak,Granular," ",0
+100yr3520," ",Moderate,"Angular blocky"," ",11
+"025y 4020"," ",Weak,"Sub-angular blocky"," ",43
+" "," ",Weak,"Sub-angular blocky"," ",65
+100yr3020," ",Weak,"Angular blocky"," ",0
+100yr4020," ","Weak to moderate","Sub-angular blocky"," ",20
+100yr5030," ",None,Granular,Weak,32
+"025y 5020","025y 5040",None,Massive," ",45
+"025y 6030","025y 5040",None,Massive," ",70
+100yr2510," "," ",Cloddy," ",0
+100yr2010," ","Very weak","Sub-angular blocky"," ",15
+100yr2010," "," "," "," ",33
+"025y 3520"," "," "," "," ",40
+"025y 5020"," "," "," "," ",70
+"025y 5020"," "," "," "," ",85
+" "," "," "," "," ",0
+050yr2510,050yr2510," "," "," ",5
+050yr2510,050yr2520," "," "," ",30
+100yr3020,100yr3020," "," "," ",60
+100yr3010,100yr3010," "," "," ",85
+100yr3010," "," "," "," ",100
+100yr3020," ",Weak,"Sub-angular blocky"," ",0
+100yr4530," ","Very weak","Sub-angular blocky"," ",15
+100yr2520," ",Weak,"Angular blocky"," ",19
+"025y 4040"," ",Weak,"Angular blocky"," ",30
+"025y 4530"," ","Weak to moderate"," "," ",47
+"025y 4020"," ","Weak to moderate"," "," ",70
+100yr2510," ",Weak,Granular," ",0
+100yr3025," ","Weak to moderate","Angular blocky"," ",20
+100yr3530," ",Weak,"Sub-angular blocky"," ",33
+100yr4530," ","Very weak",Granular," ",48
+" "," ",Weak,Platy," ",70
+100yr2520," ",None," "," ",0
+100yr2020," ",None," "," ",30
+100yr2010," ",Weak,"Sub-angular blocky"," ",55
+"025y 5020"," ",None," "," ",75
+100yr5510," ",None," "," ",100
+100yr2515," ",None," "," ",115
+"025y 5540"," ",None," "," ",130
+100yr2515," "," "," "," ",15
+100yr2010," ",Weak,"Sub-angular blocky"," ",0
+"025y 5520"," ",Weak,Platy," ",22
+"025y 6020"," ",None," "," ",40
+"025y 6020"," ",None," "," ",70
+"025y 6020"," ",None," "," ",93
+"025y 6020",100yr3020," "," "," ",110
+"025y 5020"," "," ",Massive," ",125
+100yr2015,100yr3210,None," "," ",0
+100yr2020," ",None," "," ",10
+100yr2720," ",None," "," ",25
+100yr3830," ",None," "," ",45
+100yr4520," ",None," "," ",60
+100yr3530," ",None," "," ",70
+"025y 4840"," ",None," "," ",85
+"025y 5520"," ",Weak,"Sub-angular blocky"," ",102
+"025y 5560"," ",None," "," ",115
+" "," "," "," "," ",0
+075yr3520,100yr7030,"Moderate to strong"," "," ",5
+050yr2020,100yr3020,Moderate," "," ",23
+100yr2015,075yr4030,Moderate," "," ",36
+050yr2015,100yr3040,Moderate," "," ",75
+100yr2015,075yr3020,Moderate," "," ",97
+075yr2000,075yr3020,Weak," "," ",113
+075yr2000,100yr2010,"Very weak"," "," ",133
+050gy5010," "," "," "," ",147
+100yr2020,075yr3520,None," ",Weak,0
+100yr2020,100yr3540,"Moderate to strong"," "," ",17
+100yr2010,075yr3020,None," ",Weak,31
+100yr2020,075yr4020,"Moderate to strong"," "," ",56
+100yr2010,075yr3520,Weak," "," ",73
+075yr2000,100yr3050,None," ","Very weak",90
+"025y 2500"," "," "," "," ",111
+050gy4010," "," "," "," ",116
+075yr4030,075yr5040,"Moderate to strong"," "," ",0
+075yr5560,100yr7060,Strong," "," ",4
+075yr3020,100yr6040,Strong," "," ",60
+075yr2520,075yr4540,"Weak to moderate"," "," ",95
+075yr2020,075yr4020,Moderate," "," ",115
+075yr2000,075yr3020,None," ","Very weak",171
+075yr2000," "," "," "," ",181
+075yr3020,050yr2520," "," "," ",5
+050yr3020,100yr2010," "," "," ",2
+050yr3010,100yr4010,Weak,Granular," ",0
+100yr3020,100yr4020,"Weak to moderate","Sub-angular blocky"," ",5
+100yr3520,100yr5020,Weak,"Sub-angular blocky"," ",15
+100yr5030,100yr7020,None,Massive," ",23
+075yr4020,100yr4020," "," "," ",10
+050yr3010,100yr2510," "," "," ",7
+100yr6530,100yr7020,"Very weak",Platy," ",0
+100yr4040,100yr5040,Weak,Cloddy," ",10
+100yr5060,100yr4560,None,Massive," ",17
+100yr6050,100yr7040,None,Massive," ",21
+100yr7030,100yr7520,Weak,Platy," ",50
+100yr5050,100yr6040,Weak,Platy," ",65
+" ",075yr3020," "," "," ",3
+100yr5030,100yr7030,Moderate,Granular," ",0
+100yr5030,100yr7030,Moderate,"Sub-angular blocky"," ",8
+100yr4030,100yr4040,Strong,Columnar," ",15
+075yr4030,100yr4040,Strong,"Sub-angular blocky"," ",26
+100yr4530,100yr7040,Weak,"Angular blocky"," ",34
+100yr4030,100yr7030,Weak,Granular," ",41
+050yr3025,075yr3020," "," "," ",0
+100yr6060,075yr4020," "," "," ",15
+100yr7040,050yr3030," "," "," ",27
+025yr4550,050yr2520," "," "," ",40
+050yr2510,050yr2510," "," "," ",75
+075yr3020,050yr2520," "," "," ",90
+050yr2520,100yr2020," "," "," ",6
+100yr4020,100yr6020,Weak,Granular," ",0
+100yr5030,100yr7030,Moderate,"Sub-angular blocky"," ",7
+100yr4025,100yr6030,Moderate,"Sub-angular blocky"," ",10
+100yr4020,100yr5025,Weak,Granular," ",17
+100yr5020,100yr6030,Weak,Granular," ",30
+100yr4530,100yr7035,None," "," ",36
+"100r 2510"," "," "," "," ",4
+100yr2010,100yr3020,"Very weak",Granular," ",0
+100yr4560,100yr5040,None,Massive," ",3
+100yr4040,100yr4040,Weak,Granular," ",14
+100yr5040,100yr7010,None,Massive," ",27
+100yr4020,100yr6030,None,Massive," ",40
+100yr7040,075yr6040," "," "," ",42
+"025y 2000",050yr2520," "," "," ",8
+"025y 2000",100yr2510,None,Massive," ",0
+100yr4030,100yr6040,Weak,Granular," ",6
+100yr3030,100yr7035,Moderate,Granular," ",13
+100yr5040,100yr7040,None,Massive," ",27
+100yr5040,100yr6035,None,Massive," ",35
+050yr2510," "," "," "," ",30
+"100r 2510"," "," "," "," ",20
+"050y 2510"," ",None,Massive," ",0
+"025y 3020"," ",None,Massive," ",7
+"050y 5030"," ",None,Massive," ",33
+100yr2510," "," "," "," ",5
+100yr3010," ",Weak,Granular," ",0
+100yr4020," ",Weak,"Sub-angular blocky"," ",20
+100yr2510," ",Weak,"Sub-angular blocky"," ",50
+100yr4020," ",Weak,"Angular blocky"," ",60
+100yr3010," ",Weak,"Angular blocky"," ",90
+100yr4020," ","Moderate to strong",Prismatic," ",100
+100yr2510," ",Moderate,"Sub-angular blocky"," ",0
+100yr2510," ","Weak to moderate","Sub-angular blocky"," ",10
+100yr2520," ","Weak to moderate",Prismatic," ",25
+"025y 3020"," ","Weak to moderate",Prismatic," ",40
+"025y 4020"," ",Weak,"Angular blocky"," ",55
+"025y 5020"," ",Weak,"Sub-angular blocky"," ",75
+"050y 4020"," "," "," "," ",95
+100yr2010," ","Weak to moderate","Sub-angular blocky"," ",0
+100yr3030," ","Weak to moderate","Sub-angular blocky"," ",15
+100yr3010," ","Weak to moderate","Sub-angular blocky"," ",29
+100yr5040," ",Weak,"Sub-angular blocky"," ",40
+100yr5060," ",None,"Single grained"," ",52
+100yr5060," ",None,"Single grained"," ",75
+" "," "," "," "," ",3
+100yr2010," ",None,Granular," ",0
+100yr4530,100yr3510,None,Granular," ",5
+100yr3040," ",None,Massive," ",7
+100yr3030," ",None,Massive," ",17
+100yr6020," ",Weak,Granular," ",23
+100yr7040," ",Moderate,Platy," ",34
+100yr2520," ",None," "," ",0
+100yr4040," ",None," "," ",20
+100yr4030," ",None," "," ",35
+100yr6035," ",None," "," ",42
+100yr6040," ",None," "," ",58
+100yr6540," ",Moderate,Platy," ",75
+050yr3020," "," "," "," ",6
+100yr4520," ",None," "," ",0
+100yr4030," ",None," "," ",4
+100yr6040," ",None," "," ",20
+100yr3040," ",None,Massive," ",40
+"025y 6540"," ",None," "," ",53
+100yr2020," "," "," "," ",6
+100yr3510," ","Weak to moderate","Sub-angular blocky"," ",0
+"025y 3020"," ","Moderate to strong","Sub-angular blocky"," ",22
+100yr3020," ","Moderate to strong","Sub-angular blocky"," ",35
+100yr6520," ",Weak,Platy," ",55
+100yr6530," ",Moderate,Platy," ",70
+100yr2510," ",None,Massive," ",0
+"025y 3520"," ",None,Massive," ",20
+"025y 4520"," ",None,Massive," ",40
+"025y 4030"," ","Very weak",Massive," ",60
+100yr2510," ",Weak,Granular," ",0
+100yr3530," ",None," "," ",12
+100yr4530," ",None," "," ",28
+100yr6530,"025y 4520","Weak to moderate",Platy," ",45
+100yr3010," ","Weak to moderate",Granular," ",0
+100yr4020," ",None,"Single grained"," ",18
+"025y 6540"," ",None,"Single grained"," ",29
+"025y 6550"," ",None,Massive," ",45
+100yr2010," ",Weak,"Sub-angular blocky"," ",0
+100yr2520," ",Weak,"Sub-angular blocky"," ",16
+100yr4015," ",None,Massive," ",25
+100yr7530," ","Weak to moderate",Platy," ",32
+100yr6540," ",Strong,Platy," ",50
+100yr6540," ",Strong,Platy," ",70
+100yr2510," ",None,Massive," ",0
+"025y 3520"," ",None,Massive," ",15
+"025y 4020"," ",None,Massive," ",55
+"025y 5020","025y 6520",None,Massive," ",80
+100yr4530,100yr5525,None,"Single grained"," ",0
+075yr4040," ",None,Massive," ",15
+"025y 6540"," ",None,"Single grained"," ",25
+"025y 7020"," ",None,"Single grained"," ",50
+"025y 7020"," ",None,"Single grained"," ",60
+100yr2010," ",None,Massive," ",0
+"025y 5030"," ",Weak,"Sub-angular blocky"," ",22
+"025y 6040"," ","Weak to moderate","Sub-angular blocky"," ",55
+"050y 3020"," ",Strong,Platy," ",86
+025yr3020,050yr3030," "," "," ",0
+025yr3040,025yr3060," "," "," ",20
+050yr2520,025yr2520," "," "," ",45
+050yr2510,050yr3010," "," "," ",60
+"050y 3510"," ",None,Massive," ",70
+" "," "," "," "," ",2
+100yr2010," ","Weak to moderate",Platy," ",0
+100yr3510," ","Weak to moderate",Granular," ",11
+100yr3020," ","Weak to moderate",Granular," ",24
+100yr6030," ",None,"Single grained"," ",32
+"025y 4020"," ","Weak to moderate","Sub-angular blocky"," ",53
+100yr2010," ","Weak to moderate",Granular," ",0
+100yr1545," ",None,Massive," ",17
+100yr7030," ","Weak to moderate",Platy," ",25
+"025y 7040"," ",Moderate,Platy," ",34
+"025y 6540"," ",Moderate,Platy," ",65
+100yr2010," ",None,Massive," ",0
+100yr4520," ","Very weak",Platy," ",20
+"025y 4540"," ","Very weak",Platy," ",35
+"025y 5040"," ",Weak,"Sub-angular blocky"," ",55
+"025y 4030"," ",Weak,"Sub-angular blocky"," ",80
+025yr2020," "," "," "," ",4
+100yr3015," ","Weak to moderate","Sub-angular blocky"," ",0
+100yr3030," ","Weak to moderate","Sub-angular blocky"," ",3
+100yr3520," ","Weak to moderate","Sub-angular blocky"," ",10
+100yr5030," ","Weak to moderate","Sub-angular blocky"," ",13
+100yr6030," ","Moderate to strong"," "," ",30
+100yr5060," ",None," "," ",10
+050yr2020," ",None," "," ",8
+100yr2010," ","Very weak",Granular," ",0
+100yr4020," ","Very weak",Granular," ",10
+"025y 7020"," ",Moderate,Granular," ",15
+"050y 7030"," ",Weak,Platy," ",25
+100yr2010,100yr3010,Moderate,"Sub-angular blocky"," ",0
+100yr3510,100yr4010,Moderate,"Sub-angular blocky"," ",9
+100yr5030,100yr7010,Moderate,Granular," ",18
+100yr7040,100yr8010,"Moderate to strong",Platy," ",28
+100yr7040,100yr8010,"Moderate to strong",Platy," ",60
+050yr2020,050yr3010," "," "," ",2
+100yr2510,100yr3510,Moderate,Granular," ",0
+100yr4030,100yr6020,None," "," ",8
+100yr7040,100yr7040,"Very weak",Granular," ",24
+100yr6040,100yr8020,"Moderate to strong",Platy," ",40
+025yr2020,050yr2020," "," "," ",5
+100yr2010,100yr3510,"Very weak",Granular," ",0
+100yr3010,100yr4010,Weak,"Sub-angular blocky"," ",3
+100yr6030," ","Very weak",Granular," ",19
+100yr6040," ",Weak,Granular," ",39
+100yr5040," ","Weak to moderate",Platy," ",60
+100yr3010,100yr3510," ",Massive," ",0
+100yr3015,100yr3010,Moderate,"Sub-angular blocky"," ",6
+100yr4020,100yr4020,Weak,Granular," ",12
+100yr5020,100yr7010,Weak,"Sub-angular blocky"," ",20
+100yr6030,100yr7020,"Weak to moderate","Sub-angular blocky"," ",36
+" "," ",None," "," ",8
+050yr2020," ",None," "," ",5
+100yr5040," ","Very weak",Granular," ",0
+100yr4540," ",Weak,Granular," ",8
+100yr6540," ","Very weak",Granular," ",22
+100yr2010," "," "," "," ",15
+"025y 4520"," ",Weak,"Sub-angular blocky"," ",120
+100yr2010," "," "," "," ",13
+100yr2510," ",Weak,Granular," ",0
+"050y 2510"," ","Weak to moderate","Angular blocky"," ",5
+"050y 2510"," ","Weak to moderate",Prismatic," ",13
+"050y 3020"," ",Weak,"Sub-angular blocky"," ",33
+"050y 4020"," ",Weak,"Sub-angular blocky"," ",52
+"050y 4020"," ",Weak,"Sub-angular blocky"," ",72
+"025y 4520"," ",Weak,"Sub-angular blocky"," ",95
+075yr3020,100yr2020,None," "," ",15
+050yr2510," ",None," "," ",2
+100yr6020,100yr6030,Weak,Platy," ",0
+100yr5020,100yr4020,"Moderate to strong","Angular blocky"," ",10
+100yr3020,100yr4030," ",Massive," ",15
+100yr4520,100yr5030," ",Massive," ",40
+100yr4020,100yr6030,"Moderate to strong",Platy," ",54
+100yr5040,100yr7040,"Moderate to strong",Platy," ",95
+050yr2520," ",None," "," ",14
+100yr6020," ",Moderate,Platy," ",0
+100yr5020,100yr6020,"Weak to moderate","Angular blocky"," ",8
+100yr3020," ",None,Massive," ",11
+100yr4020," ","Weak to moderate","Angular blocky"," ",40
+100yr5020,100yr6030," ",Platy," ",55
+100yr2520," ",None," "," ",15
+100yr2010," ",None," "," ",6
+100yr4020,100yr7010,Weak,Platy," ",0
+100yr5010,100yr3020,Moderate,"Angular blocky"," ",5
+100yr3020,100yr3020,Strong,Columnar," ",10
+100yr4020,100yr3020,Strong,Columnar," ",40
+100yr6030,100yr4530,"Moderate to strong","Angular blocky"," ",65
+100yr6520,100yr5030,Moderate,"Angular blocky"," ",80
+100yr6020,100yr5040,Weak,"Angular blocky"," ",100
+100yr2010," "," "," "," ",12
+100yr2510," ",Weak,Granular," ",0
+100yr6010,100yr4020,Moderate,"Sub-angular blocky"," ",4
+100yr3020," ",Moderate,"Sub-angular blocky"," ",10
+100yr3020," ",Weak,Prismatic," ",18
+100yr3020," ",Weak,Prismatic," ",40
+100yr4530," ",Weak,Platy," ",62
+" "," "," "," "," ",65
+050yr2520," "," "," "," ",8
+100yr3010," ",None,Platy,"Very weak",0
+100yr3020,100yr4020,Moderate,"Sub-angular blocky"," ",8
+100yr4020,100yr5530,None,Massive," ",30
+100yr4520," ",None,Massive," ",42
+100yr5030," ",Weak,Platy," ",78
+100yr5520," ","Weak to moderate",Platy," ",100
+" ",100yr3020," "," "," ",4
+100yr3010,100yr3520," ","Single grained"," ",0
+100yr3020,100yr4520,Moderate,Columnar," ",8
+100yr3530," "," "," "," ",17
+100yr5040,100yr6030," ","Single grained"," ",45
+100yr3010," ",Moderate,Granular," ",0
+100yr3030," ",Moderate,"Sub-angular blocky"," ",15
+100yr3010," ",Moderate,"Sub-angular blocky"," ",37
+100yr3020," ",Weak,Granular," ",40
+100yr3030," ",None," "," ",75
+100yr4020," ",Moderate,"Sub-angular blocky"," ",105
+100yr6030," ",None," "," ",109
+100yr5030," ",None," "," ",130
+100yr2510,100yr3510,"Weak to moderate",Granular," ",0
+100yr3520,100yr4020,Moderate,"Sub-angular blocky"," ",17
+100yr4530,100yr6030,None,Granular," ",30
+100yr5020,100yr7010,"Very weak"," "," ",60
+100yr6040,100yr7030,"Very weak"," "," ",80
+100yr4020," ","Weak to moderate",Granular," ",0
+100yr5020," ","Weak to moderate",Platy," ",20
+100yr5020,100yr5030,Moderate,"Sub-angular blocky"," ",26
+100yr3030,100yr5060,Moderate,Prismatic," ",38
+100yr4020,100yr4540,Moderate,Prismatic," ",60
+100yr4535,100yr5060,"Weak to moderate",Prismatic," ",70
+100yr5550,100yr7020,"Weak to moderate",Platy," ",85
+100yr5060,100yr6020,"Weak to moderate",Platy," ",110
+100yr2010,100yr3020,Weak,Granular," ",0
+100yr2010,100yr3020,Weak,Granular," ",15
+100yr3015,100yr3530,Weak,Granular," ",25
+100yr3525,100yr4040,"Very weak",Granular,Weak,40
+100yr3530,100yr6540,"Very weak",Granular," ",55
+100yr6020,100yr6040,None,Massive," ",62
+100yr6040,100yr6040,None,Massive," ",75
+100yr6060,100yr7060,None,Massive," ",95
+100yr3010,100yr4020,Weak,Granular," ",0
+100yr3020,100yr4020,Weak,Granular," ",15
+100yr4040,100yr5040,"Weak to moderate",Prismatic," ",25
+100yr4040,100yr5040,"Weak to moderate",Prismatic," ",60
+100yr5030,100yr6030,"Very weak",Granular," ",75
+100yr5030,100yr6030,None," "," ",130
+075yr2500,075yr3000,Weak,"Sub-angular blocky"," ",0
+075yr6020,075yr6520,Weak,"Sub-angular blocky"," ",11
+075yr5020,075yr5520,Weak,"Sub-angular blocky"," ",33
+075yr4025,075yr4025,"Very weak",Granular," ",42
+075yr5065,075yr7060,"Very weak",Granular," ",53
+075yr6040,075yr7060,"Very weak",Granular," ",82
+075yr2500,075yr3000,None,"Single grained"," ",0
+075yr2500,075yr3000,Moderate,"Angular blocky"," ",17
+075yr3000,075yr4005,Moderate,"Angular blocky"," ",26
+100yr4520,075yr6520,None,"Single grained"," ",37
+100yr4020,075yr5020," ","Sub-angular blocky"," ",53
+100yr4040,075yr5040,Weak,"Sub-angular blocky"," ",62
+025yr4540,075yr5040,None,Massive," ",86
+100yr2510,100yr3020,Weak,Granular," ",0
+100yr2510,100yr4020,Weak,Granular," ",18
+100yr3510,100yr4030,Weak,Granular," ",28
+100yr5040,100yr7020,None," "," ",38
+100yr4030,100yr6020,None," "," ",60
+100yr5060,100yr6040,None," "," ",85
+100yr2510," "," "," "," ",0
+100yr2510," ","Very weak","Sub-angular blocky"," ",18
+"050y 3020"," ","Moderate to strong",Platy," ",28
+100yr3010," ",None,"Single grained"," ",37
+100yr4030," ",None,"Single grained"," ",41
+100yr4035," ",None,"Single grained"," ",47
+100yr5040," ",None,"Single grained"," ",58
+100yr3020," ",Weak,Prismatic," ",0
+100yr3030," "," ",Prismatic," ",25
+100yr4040," "," ","Sub-angular blocky"," ",30
+"025y 4040"," ",None,Massive," ",56
+"025y 4040"," ",None,Massive," ",112
+"025y 4040"," ",None,Massive," ",137
+" "," ",Weak,Granular," ",0
+" "," ","Very weak",Prismatic," ",7
+" "," ","Very weak",Granular," ",35
+" "," ",None," "," ",60
+" "," ",None," "," ",100
+" "," ",None," "," ",125
+100yr2010," ",Weak,Granular," ",0
+100yr2010," ","Weak to moderate","Sub-angular blocky"," ",10
+100yr3020," ",Weak,"Sub-angular blocky"," ",45
+100yr3020," ",Weak,"Sub-angular blocky"," ",60
+"025y 5020"," ",Weak,Granular," ",90
+"025y 5020"," ",Weak," "," ",105
+100yr2010," ","Weak to moderate",Granular," ",0
+100yr2010," ","Weak to moderate",Granular," ",18
+"025y 5020"," ",Weak,Platy," ",30
+"025y 5020"," ",Weak,Granular," ",38
+"025y 6020"," ",Weak,Granular," ",48
+"025y 5520"," ",None,"Single grained"," ",54
+"025y 5520"," ",None,"Single grained"," ",80
+100yr2010,100yr3515,"Very weak",Granular," ",0
+100yr5015,100yr6020,"Very weak",Granular," ",20
+100yr4030,100yr5030,"Very weak",Granular," ",35
+100yr5030,100yr5040,"Very weak",Granular," ",65
+100yr7510,075yr8020,"Weak to moderate",Platy," ",90
+100yr6030,075yr5560,"Very weak",Platy," ",97
+100yr2010," ","Weak to moderate",Granular," ",0
+100yr2010," ","Weak to moderate","Sub-angular blocky"," ",15
+100yr2520," ","Weak to moderate",Prismatic," ",25
+100yr3030," ","Weak to moderate",Prismatic," ",55
+"025y 5020"," ","Weak to moderate"," "," ",82
+"025y 4020"," ",None,Granular," ",103
+"025y 4020"," ",None,Granular," ",126
+" "," ","Very weak","Sub-angular blocky"," ",0
+" "," ",Weak,Platy," ",15
+" "," ",Weak,"Sub-angular blocky"," ",30
+" "," ",Weak,"Sub-angular blocky"," ",50
+" "," "," "," "," ",75
+" "," "," "," "," ",100
+100yr2010," ","Very weak",Granular," ",0
+100yr2510," ","Very weak",Granular," ",18
+100yr4020," ","Very weak",Granular," ",35
+"025y 5020"," ","Very weak",Granular," ",58
+"025y 5020"," ",None,"Single grained"," ",75
+"025y 5020"," ",None,"Single grained"," ",95
+100yr2010," "," "," "," ",45
+"025y 2000"," "," "," "," ",25
+"025y 2000"," ",Weak,Granular," ",0
+"050y 3010"," ",Weak,Platy," ",10
+"050y 5010"," ","Moderate to strong",Platy," ",30
+"050y 5520"," ",None,"Single grained"," ",50
+100yr3010,100yr3510," ",Granular," ",0
+100yr2010," ","Moderate to strong",Platy," ",12
+100yr4010," ",Moderate,Platy," ",30
+100yr4020," ",None,Platy," ",38
+100yr5040," ",None,Massive," ",45
+"025y 5050"," ",None,Massive," ",57
+100yr3030," ",None," "," ",70
+"025y 5040"," ",None,"Single grained"," ",90
+"025y 6040"," ",None,"Single grained"," ",120
+050yr3020,075yr5040," "," "," ",0
+050yr2510,050yr4030," "," "," ",10
+050yr2510,075yr3020," "," "," ",48
+"025y 3000"," ",None,Massive," ",60
+"050y 4010","050y 5010",None,Massive," ",80
+" "," "," "," "," ",6
+050yr2510," "," "," "," ",4
+100yr4015,100yr3020,Weak,Platy," ",0
+100yr5020,100yr4020,"Moderate to strong","Angular blocky"," ",4
+100yr4020," ",None,Massive," ",14
+100yr3020,100yr4030,None,Massive," ",44
+100yr3020,100yr4040,None,Massive," ",65
+100yr3020,100yr4020,None,Massive," ",90
+075yr2520," "," "," "," ",5
+100yr2010," "," "," "," ",3
+075yr4040," ",Weak,Granular," ",0
+075yr3040," ","Very weak","Sub-angular blocky"," ",4
+100yr6040," ",None," "," ",12
+" "," "," "," "," ",25
+050yr2520," "," "," "," ",22
+050yr2510," "," "," "," ",11
+100yr6030," ",None,"Single grained"," ",0
+100yr5030," ",None," "," ",25
+100yr8020," ",None," "," ",40
+"025y 7040"," ",None," "," ",60
+" "," ",Moderate," "," ",25
+050yr3040,050yr2520,Weak," "," ",22
+050yr2510," ",None," "," ",4
+100yr4020," ",Weak,"Sub-angular blocky"," ",0
+"025y 4020"," ",None,Massive," ",5
+"025y 5020"," ",None,Massive," ",18
+"025y 4020","025y 7040",Weak,"Angular blocky"," ",75
+075yr3020," "," "," "," ",15
+050yr2510," "," "," "," ",5
+100yr5030," ",Weak,Platy," ",0
+100yr6030," ",None," "," ",20
+075yr4040," ","Very weak","Sub-angular blocky",Weak,35
+075yr5040," ",None,Massive," ",50
+"025y 5020","025y 7020",Moderate,Platy," ",80
+050yr4030,075yr6040,Moderate,Cloddy," ",20
+075yr2000,050yr2510,None,Cloddy," ",15
+"050y 2510"," ",None,Cloddy," ",0
+" "," "," "," "," ",13
+050yr2520,050yr2510," "," "," ",10
+100yr3025," ",None,Massive," ",0
+100yr2010,100yr6060," "," "," ",4
+050yr2520,075yr3030," "," "," ",35
+050yr2510,050yr3020," "," "," ",29
+100yr2010,050yr2520," "," "," ",9
+"025y 4020"," ",None,Massive," ",0
+"050y 4020","   n 50",None,Massive," ",30
+"050y 4020","050y 7010",None,Massive," ",120
+100yr2010," ","Very weak",Granular," ",0
+100yr3020," ",Weak,"Sub-angular blocky"," ",15
+100yr4040," ","Moderate to strong",Prismatic," ",25
+100yr4030," ","Moderate to strong",Prismatic," ",40
+100yr5530," ",Moderate,"Sub-angular blocky"," ",65
+100yr5040," ","Weak to moderate","Sub-angular blocky"," ",90
+100yr5040," ",None," "," ",100
+" ",050yr4020," "," "," ",7
+100yr5040,100yr7020,Weak,Platy," ",0
+100yr4030,100yr7020,Weak,Platy," ",6
+100yr4030,100yr5030,"Very weak",Columnar," ",12
+075yr4020,100yr5030,Moderate,"Angular blocky"," ",22
+100yr4040,100yr6030,None,Massive," ",35
+100yr5030,100yr6020,None,Massive," ",56
+"100r 2510",075yr3020," "," "," ",6
+050yr2510,075yr4020," "," "," ",2
+100yr5030,100yr7020,Weak,Platy," ",0
+100yr5530,100yr7020,"Very weak",Platy," ",7
+100yr4030,100yr6030,Weak,Columnar," ",12
+075yr4020,100yr5030,"Very weak","Sub-angular blocky"," ",24
+075yr4040,100yr6030,None,Massive," ",44
+100yr4530,100yr6030,None,Massive," ",60
+050yr2520,075yr3020," "," "," ",10
+100yr5030,100yr7020,Weak,Platy," ",0
+100yr5030,100yr6520,Weak,Platy," ",7
+075yr4030,100yr5030,Moderate," "," ",13
+075yr4020,100yr5030,Weak,"Angular blocky"," ",27
+100yr4030,100yr6030,None,Massive," ",44
+100yr4530,100yr7020,None,Massive," ",56
+"100r 2510",050yr3020," "," "," ",7
+100yr5030,100yr7020,"Very weak",Platy," ",0
+100yr5030,100yr6030,Weak,Platy," ",6
+100yr4530,100yr5530,Moderate,Columnar," ",12
+075yr3020,100yr5030,Weak,"Angular blocky"," ",29
+100yr3030,100yr5030,Weak,"Angular blocky"," ",43
+100yr4030,100yr5530,None,Massive," ",55
+100yr5030,100yr6030,None,Massive," ",65
+050yr3010,050yr3010," "," "," ",6
+"100r 2510",100yr3020," "," "," ",2
+100yr5030,100yr7020,"Very weak",Platy," ",0
+100yr5030,100yr7020,Weak,Platy," ",6
+100yr4030,100yr6020,Moderate,Columnar," ",14
+100yr4030,100yr5030,"Weak to moderate","Sub-angular blocky"," ",30
+100yr3540,100yr5530,None,Granular," ",50
+100yr4540,100yr6030,None,Granular," ",62
+"100r 2510",025yr2500," "," "," ",8
+100yr4530,100yr6520,"Very weak",Platy," ",0
+100yr5040,100yr6530,"Very weak",Platy," ",4
+100yr4030,100yr6030,"Very weak",Platy," ",10
+100yr3530,100yr6030,"Moderate to strong","Sub-angular blocky"," ",14
+075yr4030,100yr5030,Weak,"Angular blocky"," ",25
+100yr4030,100yr6030,None,Massive," ",43
+100yr5040,100yr7020,None,Massive,Moderate,57
+100yr2010," ",Weak,"Sub-angular blocky"," ",0
+100yr2010," ",Weak,"Sub-angular blocky"," ",15
+100yr3010," ",Weak,"Sub-angular blocky"," ",25
+100yr4020,075yr3020,None,"Single grained"," ",48
+100yr7020," ",None,"Single grained"," ",70
+" "," ",None,"Single grained"," ",95
+" "," ",None,"Single grained"," ",115
+100yr3020," ",Weak,Granular," ",0
+100yr3520," ",None,"Single grained"," ",18
+100yr3020," ",None,"Single grained"," ",35
+100yr4020," ",None,"Single grained"," ",60
+075yr2000," ",None,"Single grained"," ",85
+100yr3510," ","Very weak",Granular," ",87
+100yr5050," ",None,"Single grained"," ",105
+100yr3020," ",Weak,Granular," ",0
+100yr3010," ","Very weak","Sub-angular blocky"," ",5
+100yr3020," ","Very weak","Sub-angular blocky"," ",25
+100yr3520," ",Weak,Granular," ",40
+100yr3520," ",Weak,Granular," ",60
+100yr3520," ",Weak,Granular," ",85
+100yr3020," ",Weak,Granular," ",105
+100yr3020," "," ","Sub-angular blocky"," ",0
+100yr3520," "," ",Granular," ",18
+100yr2510," ",None,"Single grained"," ",35
+100yr3525," ",None,"Single grained"," ",60
+075yr2000," "," ",Granular," ",85
+100yr3510," "," ",Granular," ",87
+100yr5050," "," ",Granular," ",105
+100yr2010," ","Very weak",Granular," ",0
+100yr2010," "," ",Massive," ",10
+100yr4010," ",Weak,Granular," ",25
+100yr3010," ",Weak,Granular," ",40
+"025y 3020"," ","Very weak",Granular," ",58
+"025y 4020"," "," "," "," ",75
+"025y 3020"," "," "," "," ",100
+"025y 2000"," ",Weak,Granular," ",0
+100yr2010," ",Strong,Columnar," ",5
+100yr3010," ",None,Massive," ",22
+"025y 3020"," ",None,Massive," ",30
+"050y 3010"," ",None,Massive," ",45
+"050y 3010"," ",None,Massive," ",65
+"050y 4010"," ",None,Massive," ",90
+"050y 4010"," ",None,Massive," ",110
+100yr2010," ",Weak,Granular," ",0
+100yr2010," ",Weak,Granular," ",8
+100yr3010," ",Strong,Columnar," ",15
+100yr3010," ",Strong,Columnar," ",35
+100yr3010," ",Moderate,Prismatic," ",55
+"025y 4020"," ",None," "," ",70
+100yr3020," ",None,"Single grained"," ",100
+"025y 6020"," ",None,"Single grained"," ",120
+100yr6030," ","Very weak",Granular,Weak,135
+" "," ",None," "," ",0
+" "," ",None,Massive," ",4
+" "," ",None,Massive," ",22
+" "," ",None,Massive," ",28
+" "," ",None,Massive," ",41
+" "," ",None,Massive," ",54
+" "," ",None,Massive," ",75
+" "," ",None,Massive," ",100
+" "," ",None,Massive," ",140
+025yr2020,100yr3020," "," "," ",0
+050yr2020," "," "," "," ",15
+025yr2020," "," "," "," ",45
+050yr2010," "," "," "," ",75
+"025y 2000"," ",Weak,"Sub-angular blocky"," ",87
+"050y 6020"," ",None,"Single grained"," ",96
+050gy5010," ",Moderate,Granular," ",115
+" "," "," "," "," ",25
+" "," "," "," "," ",14
+100yr3520," ",Moderate,Granular," ",0
+075yr3020," ","Moderate to strong",Granular," ",7
+100yr4540," ",None,Massive," ",18
+100yr4040,100yr6030,None,Massive," ",28
+100yr2010," ",Moderate,Granular," ",0
+100yr3010," ","Weak to moderate",Granular," ",14
+100yr3020," ","Weak to moderate",Granular," ",24
+"025y 3020"," ",None,Massive," ",48
+"025y 4540"," ",None," "," ",85
+100yr2010,100yr3010,Weak,Granular," ",0
+100yr4020,100yr5020,Weak,Granular," ",15
+100yr4020,100yr5030,None," "," ",25
+"025y 4020",100yr6020,None," "," ",37
+"025y 3520","050y 5020",None," "," ",60
+"050y 2520","050y 5010",None," "," ",90
+100yr2510,100yr3510,"Weak to moderate","Angular blocky"," ",0
+100yr3010,100yr4510,Moderate,"Angular blocky"," ",15
+075yr3520,100yr5010,Moderate,"Angular blocky"," ",23
+075yr4525,100yr7020,Moderate,"Angular blocky"," ",31
+100yr4030,100yr6040,Moderate,"Angular blocky"," ",37
+100yr4030,100yr6040,Moderate,"Sub-angular blocky"," ",61
+100yr2010,100yr3010,"Very weak","Angular blocky"," ",0
+100yr3010,100yr4010,"Very weak","Angular blocky"," ",16
+"050y 5510",100yr7010,"Very weak","Angular blocky"," ",25
+"025y 5020",100yr7020,None,"Single grained"," ",40
+100yr5015,100yr5520,None,"Single grained"," ",55
+"025y 6040",100yr7060,None,"Single grained"," ",73
+075yr2020,075yr3020,"Very weak","Angular blocky"," ",0
+100yr5025,075yr6020,"Very weak","Angular blocky"," ",17
+100yr4025,100yr5030,"Very weak","Angular blocky"," ",30
+100yr4035,100yr5030,"Very weak","Angular blocky"," ",65
+100yr7020,100yr8020," ","Angular blocky"," ",90
+100yr6520,100yr6040,"Very weak","Angular blocky"," ",120
+100yr2010,075yr3020,"Very weak","Sub-angular blocky"," ",0
+100yr3025,100yr4025,"Very weak","Sub-angular blocky"," ",22
+100yr3030,100yr3030,"Very weak","Sub-angular blocky"," ",45
+100yr4540,100yr4040,"Very weak","Sub-angular blocky"," ",60
+100yr3020," ",None," "," ",0
+100yr3030," ",Weak,Prismatic," ",2
+100yr3040," "," ",Platy," ",13
+100yr4040," "," ",Prismatic," ",18
+100yr4040," ",Weak,Prismatic," ",28
+" "," "," ","Sub-angular blocky"," ",38
+" "," ",None,Massive," ",53
+100yr2010,100yr2010,"Moderate to strong","Sub-angular blocky"," ",0
+100yr3015,100yr3010,"Moderate to strong","Sub-angular blocky"," ",15
+100yr3030,100yr4020,"Moderate to strong","Sub-angular blocky"," ",25
+100yr3030,100yr4025,"Moderate to strong","Sub-angular blocky"," ",37
+100yr5035,100yr6025,"Moderate to strong","Sub-angular blocky"," ",52
+100yr5040,100yr6035,"Moderate to strong",Platy," ",77
+100yr2010,100yr3010,"Moderate to strong","Sub-angular blocky"," ",0
+100yr4025,100yr5025,"Moderate to strong","Sub-angular blocky"," ",21
+100yr5035,100yr7025,"Moderate to strong","Sub-angular blocky"," ",26
+100yr2530,100yr6030,Moderate,"Sub-angular blocky"," ",58
+100yr4030,100yr6030,Moderate,"Sub-angular blocky"," ",90
+" "," "," "," "," ",2
+100yr2510,100yr4015,Weak,Granular," ",0
+100yr3030,100yr4030,Moderate,Granular," ",7
+100yr4030," ",Moderate,"Sub-angular blocky"," ",14
+100yr5030," ",Moderate,"Sub-angular blocky"," ",17
+100yr5030," ",Moderate,"Sub-angular blocky"," ",40
+" "," "," "," "," ",2
+100yr3515," ","Weak to moderate",Granular," ",0
+"025y 4030"," ",Moderate,Granular," ",7
+"025y 5040"," ",Weak,"Sub-angular blocky"," ",15
+"025y 5540"," ",Weak,"Sub-angular blocky"," ",18
+"025y 5020"," ",Weak,"Sub-angular blocky"," ",50
+100yr2520," "," "," "," ",3
+100yr6020," ",Weak,Platy," ",0
+100yr3040," ","Weak to moderate",Granular," ",3
+100yr5030," ","Very weak","Sub-angular blocky"," ",12
+100yr5030," ","Very weak","Sub-angular blocky"," ",40
+100yr2020," "," "," "," ",3
+100yr2010," ",Moderate,Granular," ",0
+100yr4510," ",Moderate,Granular," ",15
+100yr6520," ",Moderate,Granular," ",20
+"025y 4540"," ","Weak to moderate","Sub-angular blocky"," ",24
+"025y 4030"," ","Weak to moderate","Sub-angular blocky"," ",45
+075yr6540," ","Weak to moderate","Sub-angular blocky"," ",90
+100yr3020," "," "," "," ",5
+100yr4520," ",None,"Single grained"," ",0
+100yr7520," ",None,"Single grained"," ",14
+100yr6525," ",None,"Single grained"," ",20
+100yr6020," ",None,"Single grained"," ",52
+" "," ",None,"Single grained"," ",72
+100yr3540," "," "," "," ",2
+100yr2010," ",Weak,Columnar," ",0
+100yr4520," ",Weak,"Sub-angular blocky"," ",12
+"025y 5540"," ",Weak,"Sub-angular blocky"," ",18
+"025y 4530"," ",Weak,"Sub-angular blocky"," ",60
+100yr2020," "," "," "," ",3
+"025y 2000"," ",Weak,Massive," ",0
+"025y 4020"," ",Weak,Granular," ",12
+"050y 6025"," ",Weak,Granular," ",20
+"050y 5535"," ",None," "," ",50
+"050y 5025"," ",Weak,"Sub-angular blocky"," ",60
+" "," ",None," "," ",80
+100yr2020," "," "," "," ",6
+100yr5530," ",None," "," ",0
+100yr3540," ","Weak to moderate","Sub-angular blocky"," ",8
+100yr5530," ","Very weak",Platy," ",16
+100yr6540," ","Very weak",Platy," ",50
+100yr3020," ",Weak,Prismatic," ",0
+100yr3030," "," ",Platy," ",7
+100yr4040," "," ",Platy," ",14
+100yr4040,100yr3020," ",Columnar," ",16
+100yr3040," ",Weak,"Sub-angular blocky"," ",33
+100yr5040," ",None,"Single grained"," ",53
+100yr5030," ",None,"Single grained"," ",66
+100yr5030," "," ","Single grained"," ",75
+100yr3010," ","Very weak",Granular," ",0
+100yr3010," ","Very weak",Granular," ",10
+100yr4050," ",Moderate,"Angular blocky"," ",18
+100yr4030," ",None," "," ",35
+100yr6030," ",None," "," ",45
+100yr5020," ",None," "," ",68
+100yr6025," ",None," "," ",75
+100yr7030," ",None," "," ",95
+100yr2010," ",None," "," ",10
+100yr2010," ",Weak,"Sub-angular blocky"," ",0
+"025y 4020"," ","Very weak",Platy," ",15
+"025y 4040"," ",Weak,"Sub-angular blocky"," ",20
+"050y 5040"," ","Very weak",Granular," ",30
+"050y 4020"," ",None,"Single grained"," ",50
+"025y 5020"," ","Weak to moderate","Sub-angular blocky"," ",70
+"050y 6030"," ",None,"Single grained"," ",90
+100yr2010," "," "," "," ",4
+100yr4010," ",None," "," ",0
+100yr3020," ",None," "," ",5
+100yr4030," ",None," "," ",18
+100yr6030," ",None," "," ",35
+100yr6030," ",None," "," ",50
+100yr6030," ",None," "," ",80
+100yr3020," ",Weak,Granular," ",0
+100yr5030," ","Very weak",Granular," ",15
+100yr3040," ",Strong,Prismatic," ",19
+100yr4040," ",Weak,"Sub-angular blocky"," ",32
+100yr5040," ",Weak,Granular," ",45
+100yr5040," ",Weak,Granular," ",75
+" "," ",None," "," ",0
+050yr2520," ",None," "," ",3
+"025y 2000"," ",None," "," ",47
+"025y 2000"," ",Moderate,Prismatic," ",55
+100yr3010," ","Weak to moderate","Sub-angular blocky"," ",65
+"025y 7540"," ","Weak to moderate","Sub-angular blocky"," ",77
+"025y 5040"," ",None," "," ",100
+" "," ",None," "," ",3
+100yr2010,100yr3010,None," "," ",0
+100yr4030,100yr5530,None," "," ",6
+100yr5040,100yr5540,None," "," ",31
+100yr5030,100yr5520,None," "," ",42
+100yr5540,100yr5530,None," "," ",84
+100yr5530,100yr5530,None," "," ",93
+050yr2520," "," "," "," ",35
+100yr2010," ",Weak,Platy," ",15
+100yr3010," ",Moderate,"Sub-angular blocky"," ",0
+"050y 3530"," ",Moderate,"Sub-angular blocky"," ",25
+"050y 3530"," ",Moderate,"Sub-angular blocky"," ",65
+100yr3010," ",Moderate,"Sub-angular blocky"," ",0
+100yr4030," ",Strong,Prismatic," ",15
+100yr4520," ",Strong,Prismatic," ",40
+"025y 3020"," ",Moderate,Prismatic," ",60
+"025y 4020"," ",Weak,Prismatic," ",80
+050yr3020," "," "," "," ",0
+050yr3020," "," "," "," ",12
+050yr2020," "," "," "," ",45
+"025y 3000"," "," "," "," ",70
+"025y 3000"," "," "," "," ",90
+"050y 7010"," "," "," "," ",120
+050gy5010," "," "," "," ",130
+100yr3030," ",Weak,Prismatic," ",0
+100yr4030," ",Weak,Platy," ",10
+100yr4030," ","Moderate to strong","Angular blocky"," ",23
+100yr5030," ",None,Massive," ",51
+100yr4020," ",None,Massive," ",76
+100yr3510," "," "," "," ",4
+100yr3020," ","Very weak","Sub-angular blocky"," ",0
+100yr4030,100yr5030,Weak,Granular," ",13
+100yr4040," ",Strong,Prismatic," ",29
+100yr7020," ","Very weak","Sub-angular blocky"," ",57
+100yr5540," ",None," "," ",80
+100yr3010," ",Weak,Granular," ",0
+100yr3510,100yr2010,"Weak to moderate","Sub-angular blocky"," ",8
+100yr3530," ","Moderate to strong",Prismatic," ",17
+100yr4020," ",None," "," ",25
+" "," ",None," "," ",30
+" "," ",None," "," ",85
+" "," "," "," "," ",0
+" "," "," "," "," ",460
+" "," "," "," "," ",10
+" "," "," "," "," ",18
+" "," "," "," "," ",38
+" "," "," "," "," ",60
+" "," "," "," "," ",160
+" "," "," "," "," ",220
+" "," "," "," "," ",330
+" "," "," "," "," ",440
+" "," "," "," "," ",6
+" "," ",Weak,Granular," ",0
+" "," ",Weak,Granular," ",4
+" "," ","Very weak",Granular," ",17
+" "," "," "," "," ",0
+" "," "," "," "," ",15
+" "," "," "," "," ",35
+" "," "," "," "," ",70
+" "," "," "," "," ",140
+" "," "," "," "," ",235
+" "," "," "," "," ",265
+"100r 2510"," "," "," "," ",8
+100yr2010," ",Moderate,Granular," ",0
+100yr4020," ",Strong,Granular," ",10
+100yr5020," ","Weak to moderate","Angular blocky"," ",21
+"050y 4020"," ",None,Massive," ",38
+"050y 8010"," "," "," "," ",57
+100yr6060," "," "," "," ",73
+100yr6030," "," ","Single grained"," ",92
+100yr4020,100yr3015,None," "," ",0
+100yr4040," ",Weak,Prismatic," ",12
+100yr4030," ",Weak,"Sub-angular blocky"," ",28
+100yr5030," ",Weak,"Sub-angular blocky"," ",35
+100yr5020," ",Weak,"Sub-angular blocky"," ",60
+" "," "," "," "," ",90
+100yr3020," ",Weak,Prismatic," ",0
+100yr3040," ",Weak,Prismatic," ",4
+100yr3040," ",Weak,Prismatic," ",16
+100yr4040," ",Weak,Prismatic," ",39
+100yr5040," "," ",Massive," ",60
+075yr4040," "," ",Massive," ",104
+100yr4020,100yr3020,None," "," ",0
+100yr3030," ",Weak,Platy," ",12
+100yr3040," ",Weak,Prismatic," ",20
+100yr3030," ",Weak,Prismatic," ",35
+100yr4030," ",Weak,Prismatic," ",58
+100yr5030," ",Weak,Granular," ",70
+100yr3010,100yr4015,Weak,Granular," ",0
+"025y 4020"," "," "," "," ",200
+100yr3010," ",Weak,Granular," ",15
+100yr4020," ",Weak,Platy," ",22
+100yr4030,100yr4020,Weak,"Sub-angular blocky"," ",35
+100yr4030," ",Weak,"Sub-angular blocky"," ",50
+100yr4040," ",None," "," ",75
+100yr4040," "," "," "," ",100
+100yr4020," "," "," "," ",120
+"025y 4020"," "," "," "," ",150
+100yr4020,100yr5015," "," "," ",0
+100yr3010," ",Weak,Platy," ",10
+"025y 5020"," ",Weak,Platy," ",18
+100yr4020," ",Weak,"Sub-angular blocky"," ",25
+100yr4020," ",Weak,Prismatic," ",40
+"025y 4020"," ",Weak,Prismatic," ",60
+"025y 4020"," ",Weak,"Sub-angular blocky"," ",80
+"025y 4040"," "," "," "," ",110
+100yr5020,100yr3510,Moderate,"Sub-angular blocky"," ",0
+100yr5020,100yr3510,Weak,Platy," ",10
+100yr4030," ",Weak,Platy," ",20
+100yr3020,100yr3020,Moderate,"Angular blocky"," ",22
+100yr3020," ",Weak,Prismatic," ",50
+"025y 4020"," ",Moderate,"Sub-angular blocky"," ",75
+"025y 4040"," ",Weak,"Sub-angular blocky"," ",95
+100yr5020," ",None,Granular," ",0
+100yr5030," ","Very weak",Platy," ",15
+100yr4020,100yr4030,"Moderate to strong","Angular blocky"," ",25
+100yr3020,100yr5030,Weak,Prismatic," ",35
+100yr4030," ","Moderate to strong","Angular blocky"," ",70
+100yr4530," ",Weak,"Sub-angular blocky"," ",90
+100yr3010," ",Weak,Platy," ",0
+100yr3010," ",Moderate,"Angular blocky"," ",10
+100yr4020," ",Weak,Prismatic," ",25
+100yr4020," ",None,"Single grained"," ",35
+100yr4040," ",None,"Single grained"," ",45
+100yr2510,100yr3510,"Very weak",Granular," ",0
+"025y 3020","025y 5520","Weak to moderate","Sub-angular blocky"," ",6
+"025y 6020",100yr8010,Weak,Granular," ",22
+100yr6040,100yr8020,Weak,Platy," ",40
+100yr6040,100yr8020,Moderate,Platy," ",90
+075yr3020,100yr4010," "," "," ",2
+100yr3530," ",Weak,Granular," ",0
+100yr5030,100yr6030,Weak,"Sub-angular blocky"," ",5
+100yr3530,100yr5040,"Weak to moderate","Sub-angular blocky"," ",20
+"025y 6020",100yr7010,"Weak to moderate"," "," ",50
+"025y 5040",100yr7010,"Weak to moderate"," "," ",100
+" ",100yr3010," "," "," ",5
+100yr6030,100yr7030,"Weak to moderate",Platy," ",0
+100yr5040,100yr6030,Weak,"Sub-angular blocky"," ",12
+100yr4040,100yr5040,Weak,"Sub-angular blocky"," ",20
+"025y 5040",100yr7030," "," "," ",32
+100yr6040,100yr7030,Weak,"Sub-angular blocky"," ",38
+100yr6040,100yr7020,Weak,"Sub-angular blocky"," ",80
+025yr2040," "," "," "," ",0
+025yr2020," "," "," "," ",20
+050yr2010," "," "," "," ",80
+025yr3020," "," "," "," ",90
+050yr2010," "," "," "," ",100
+"050y 6010"," "," "," "," ",130
+100yr4010,100yr3010,None," "," ",1
+100yr4010,100yr3010,None," "," ",0
+100yr4030,100yr3030,Weak,"Sub-angular blocky"," ",10
+100yr7030,100yr6040,None," "," ",20
+100yr7030,100yr6040,None," "," ",60
+100yr4010,100yr2010,None," "," ",0
+100yr7040,100yr5040,None," "," ",2
+075yr6050,100yr5060,Weak,"Sub-angular blocky"," ",20
+100yr7030,100yr6040,None," "," ",33
+100yr7030,100yr6040,None," "," ",50
+" "," ",None," "," ",2
+100yr7030,100yr7020,None," "," ",0
+"025y 7040",100yr6040,None," "," ",20
+"025y 5040",100yr7030,None," "," ",60
+"025y 7040",100yr7030,None," "," ",70
+"050y 7010","025y 8060",None," "," ",100
+100yr7040,100yr8040,None," "," ",120
+"025y 4040"," "," "," "," ",2
+100yr4010,100yr3010,Weak,Granular," ",0
+100yr5520,100yr4530,Weak,Granular," ",8
+100yr5540,100yr5040,Weak,Granular," ",11
+100yr5540,100yr5040,None," "," ",20
+100yr8010,100yr7030,Moderate,Platy," ",35
+100yr7030,100yr7020,Strong,Platy," ",50
+100yr4020,100yr3010," "," "," ",3
+100yr6510,100yr5030,None,"Single grained"," ",0
+100yr7040,100yr5060,None,"Single grained"," ",10
+100yr6060,100yr5060,Weak,"Sub-angular blocky"," ",35
+100yr7030,100yr6030,None,"Single grained"," ",80
+100yr3010,100yr4010,Weak,Granular," ",0
+100yr4030,100yr6030,Weak,"Sub-angular blocky"," ",12
+100yr3530,100yr5030,Weak,"Sub-angular blocky"," ",18
+100yr6030,100yr7010,"Very weak","Sub-angular blocky"," ",40
+"025y 7040","025y 7020",None," "," ",55
+100yr3020,100yr4020," "," "," ",2
+100yr2010,100yr3010,Moderate,Granular," ",0
+"025y 6020",100yr8010,Weak,Granular," ",12
+100yr7030,100yr8020,"Weak to moderate","Sub-angular blocky"," ",28
+100yr7030,100yr8020,"Weak to moderate","Sub-angular blocky"," ",80
+100yr3030,100yr3010," "," "," ",5
+100yr2510,100yr3010,"Weak to moderate",Granular," ",0
+100yr3520,100yr5030,Weak," "," ",7
+100yr5030,100yr6030,None," "," ",25
+100yr6030,100yr7030,None," "," ",40
+100yr7030,100yr3030,Weak,Platy," ",50
+100yr7030,100yr3030,Moderate,Platy," ",85
+100yr3010,100yr4010,Weak,Granular," ",0
+100yr6040,100yr7020,Weak,"Sub-angular blocky"," ",15
+100yr6040,100yr7030,Moderate,"Sub-angular blocky"," ",21
+100yr4040,100yr5040,"Moderate to strong","Sub-angular blocky"," ",45
+100yr7020,100yr8010,Weak,Platy," ",55
+100yr7030,100yr8030,"Weak to moderate",Platy," ",75
+050yr2020," "," "," "," ",6
+100yr3010," "," ",Massive," ",0
+"050y 5010"," "," ",Massive," ",7
+"050y 4010"," "," ",Massive," ",30
+"050y 4010"," "," ",Massive," ",100
+100yr3010,100yr5020," "," "," ",4
+100yr3010,100yr4020,None," "," ",0
+100yr3020,"025y 5020",None," "," ",4
+100yr5030,100yr6020,None," "," ",20
+100yr7030,100yr8010,None," "," ",70
+"025y 6040",100yr8030,"Weak to moderate","Sub-angular blocky"," ",80
+050yr2020,100yr3010,None," "," ",0
+100yr6030,100yr7030,None," "," ",40
+100yr3020,100yr4010,None," "," ",45
+075yr4040,100yr5040,None," "," ",60
+"050y 5010","050y 6010",None,Massive," ",90
+050yr3010," ","Moderate to strong","Sub-angular blocky"," ",0
+"050y 2510"," ","Moderate to strong","Sub-angular blocky"," ",17
+"050y 2520"," ","Moderate to strong",Granular," ",35
+"050y 2520"," ","Moderate to strong",Granular," ",70
+"025y 2500","050y 2520",None,Granular," ",10
+"025y 2500","050y 2520","Moderate to strong","Sub-angular blocky"," ",0
+"050y 4010","050y 1500",Weak,Granular," ",7
+"050y 3020","050y 5010","Weak to moderate",Granular," ",40
+"050y 3020"," ","Weak to moderate",Granular," ",80
+100yr2010," "," "," "," ",5
+100yr4520," ",Moderate,Platy," ",0
+100yr3020," ",Moderate,Columnar,"Moderate to strong",5
+"025y 4040"," ",Moderate,"Angular blocky"," ",30
+"025y 4020"," ",Moderate,Massive," ",80
+100yr4020," ",Weak,Prismatic," ",0
+100yr4030," ",Weak,Prismatic," ",13
+100yr4030," "," ","Sub-angular blocky"," ",18
+" ",100yr6020,"Very weak","Angular blocky"," ",36
+"025y 4040"," ","Very weak","Angular blocky"," ",76
+"025y 4040"," ","Very weak","Angular blocky"," ",122
+"025y 3020"," ","Very weak","Angular blocky"," ",244
+" "," "," "," "," ",8
+100yr5010," ","Weak to moderate","Sub-angular blocky"," ",0
+100yr2015," ","Weak to moderate",Prismatic,Moderate,8
+100yr4020," ","Weak to moderate","Sub-angular blocky"," ",18
+100yr6020," ","Weak to moderate","Sub-angular blocky"," ",22
+100yr5530," ",Moderate,Platy," ",60
+"025y 4030"," ",Moderate,"Sub-angular blocky"," ",100
+100yr3010,100yr3510,None,"Single grained"," ",0
+100yr4040," ",None,"Single grained"," ",35
+100yr4040," ",None,"Single grained"," ",70
+100yr5040," ","Very weak",Granular," ",85
+"025y 4020"," ",None,Massive," ",105
+100yr4010,"025y 4020",None,Massive," ",130
+100yr4030,100yr4020," ",Platy," ",205
+100yr5040," ","Weak to moderate",Platy," ",245
+100yr2010,100yr3010,Moderate,Granular," ",0
+100yr3010," ","Weak to moderate",Granular," ",15
+100yr3020," ",Weak,Granular," ",30
+"025y 4040"," ",Weak,Granular," ",47
+100yr5040," ",Weak,Granular," ",65
+"025y 5040",100yr6040,Weak,Granular," ",95
+" "," "," "," "," ",3
+100yr3020,100yr5020,None,"Single grained"," ",0
+100yr3030,100yr5030,None,"Single grained"," ",20
+100yr4540,100yr5040,None,"Single grained"," ",48
+100yr5040,100yr6040,None,"Single grained"," ",90
+100yr2010,100yr3510,"Weak to moderate",Granular," ",0
+100yr2520," ",Weak,Granular," ",15
+100yr6040,"025y 5020","Very weak",Granular," ",25
+100yr5040," ",Weak,Granular," ",42
+100yr6040," ",Weak,Platy," ",80
+100yr2010,100yr3510,"Very weak",Granular," ",0
+100yr4020,100yr3030,"Very weak",Granular," ",12
+100yr6040," ","Very weak",Platy," ",27
+100yr6060," ",None,Massive," ",40
+"025y 5040"," ",None,Massive," ",65
+" "," "," "," "," ",2
+100yr1010," ","Very weak",Granular," ",0
+100yr3015," ","Very weak",Granular," ",12
+"025y 3020"," ",None,"Single grained"," ",25
+100yr5060," ",None,"Single grained"," ",36
+100yr7010," ",Weak,Granular," ",55
+100yr5040," ",None,"Single grained"," ",60
+"050y 4010"," ",None,Massive," ",95
+075yr6020," ",None,Massive," ",115
+050yr2510,100yr2020," "," "," ",5
+100yr3015,100yr4020,"Very weak",Granular," ",0
+100yr3030,100yr3530,Weak,Granular," ",15
+100yr4040,100yr5060,None,"Single grained"," ",50
+100yr5060,100yr6060,"Weak to moderate",Platy," ",80
+100yr2010," ",Weak,Granular," ",0
+100yr3030," ","Very weak",Granular," ",18
+100yr7040," ",Weak,Platy," ",30
+100yr5040," ",Weak,Platy," ",50
+100yr5040," ",Weak,Platy," ",100
+100yr2010," ",Moderate,Granular," ",0
+"050y 2510"," ",None,Massive," ",20
+"025y 4020"," ",None,Massive," ",30
+"050y 3010"," ",None,Massive," ",60
+"050y 2510"," ",None,Massive," ",80
+"050y 3020"," ",None,Massive," ",95
+"025y 4020"," ",None,"Single grained"," ",110
+100yr2010," ","Very weak",Granular," ",0
+100yr2010,100yr3010,"Very weak",Granular," ",18
+"025y 5020"," ","Very weak",Granular," ",45
+"025y 6040"," ",None,"Single grained"," ",56
+"025y 5040"," ",None,"Single grained"," ",85
+050yr2510," ",Moderate,"Sub-angular blocky"," ",0
+"050y 2510"," ","Weak to moderate",Platy," ",25
+"025y 5020"," ",None,Massive," ",45
+"025y 4020"," ",None,Massive," ",60
+"050y 4010"," ","Weak to moderate",Platy," ",80
+"025y 6020"," ",None,Massive," ",85
+100yr2010,100yr3010,"Very weak",Granular," ",0
+100yr2010," ","Very weak",Granular," ",20
+100yr2520," ","Very weak",Granular," ",30
+100yr6040," ",Moderate,Platy," ",55
+100yr2520," ","Very weak",Granular," ",0
+100yr2010," ","Very weak",Granular," ",20
+100yr3040," ","Weak to moderate",Granular," ",32
+100yr4040," ",Weak,Granular," ",40
+100yr6040," "," "," "," ",50
+100yr2010," ","Very weak",Granular," ",0
+100yr2520," ","Very weak",Granular," ",15
+100yr3030," ","Very weak",Granular," ",30
+100yr3530," ",None,"Single grained"," ",40
+100yr6040," ","Weak to moderate","Sub-angular blocky"," ",53
+" "," "," "," "," ",7
+100yr2520,100yr3030," "," "," ",0
+100yr4020,100yr3020," "," "," ",30
+100yr3530,100yr4030," "," "," ",50
+100yr4040,100yr4040," "," "," ",60
+100yr7030,100yr7030,None,Massive," ",80
+100yr6040,100yr6030,None,"Single grained"," ",120
+"025y 5020",100yr5030,"Moderate to strong",Platy," ",190
+100yr3030," ","Very weak",Granular," ",0
+100yr3025," ","Very weak",Granular," ",10
+100yr4030,100yr5030,None,"Single grained"," ",20
+100yr6040," ",None,"Single grained"," ",50
+100yr4030," ","Very weak",Granular," ",95
+100yr2510," ","Very weak",Granular," ",0
+100yr3020," ","Very weak",Granular," ",15
+"025y 5040"," ",None,"Single grained"," ",50
+"025y 5020"," ","Weak to moderate",Platy," ",65
+100yr2510,100yr3010,"Weak to moderate",Granular," ",0
+100yr2010," ","Weak to moderate","Sub-angular blocky"," ",15
+100yr3020," ","Weak to moderate","Sub-angular blocky"," ",25
+100yr7040,100yr5544,Moderate,Platy," ",35
+100yr2520,100yr4520,Weak,"Sub-angular blocky"," ",0
+100yr4030," ","Very weak","Sub-angular blocky"," ",15
+100yr3030," ",Weak,"Sub-angular blocky"," ",38
+100yr4030," ",Weak,"Sub-angular blocky"," ",58
+100yr5030," ",None,Massive," ",110
+100yr2010,100yr3010,"Weak to moderate",Granular," ",0
+100yr2010," ",Moderate,Granular," ",20
+100yr3020," ",Moderate,"Angular blocky"," ",40
+100yr4030,100yr6030,None,Massive," ",63
+100yr5040," ",None,Massive," ",80
+100yr2010,100yr3520,"Very weak","Sub-angular blocky"," ",0
+100yr2010,100yr3020,"Very weak","Sub-angular blocky"," ",15
+100yr3030," ","Weak to moderate","Angular blocky"," ",30
+100yr5040,100yr6040,None,Massive," ",43
+100yr5040,100yr6040,None,Massive," ",70
+100yr2010,100yr3520,"Weak to moderate",Granular," ",0
+100yr2010,100yr3020,"Weak to moderate",Granular," ",15
+100yr3030," ","Very weak",Prismatic," ",38
+100yr3030," ","Weak to moderate","Sub-angular blocky"," ",52
+100yr6030," ",None,Massive," ",64
+100yr6030,100yr5030,"Very weak",Platy," ",80
+100yr2010,100yr3010,Moderate,"Sub-angular blocky"," ",0
+100yr2010," ",Weak,Granular," ",15
+100yr3020," ",None,Massive," ",24
+100yr5040," ",None,Massive," ",40
+100yr7040," ","Weak to moderate",Platy," ",50
+100yr2515,100yr3015,Weak,Granular," ",0
+100yr2010," ",Weak,Granular," ",15
+100yr2520," ","Weak to moderate","Angular blocky"," ",35
+100yr3020," ",Weak,"Angular blocky"," ",55
+100yr5530," ","Weak to moderate",Granular," ",60
+"025y 5540"," ",Weak,Granular," ",75
+100yr3010," ","Weak to moderate",Granular," ",0
+100yr2010," ","Weak to moderate","Sub-angular blocky"," ",15
+100yr3020," ",Weak,Prismatic," ",22
+100yr4025," ",Weak,Prismatic," ",34
+100yr5530," ",None,Massive," ",40
+"025y 4030"," ",None,Massive," ",60
+"025y 4020"," ",Moderate,"Angular blocky"," ",90
+100yr3010,100yr1515,None,"Single grained"," ",0
+100yr2015," ","Very weak",Granular," ",18
+100yr3025," ","Very weak",Granular," ",25
+100yr4025," ","Very weak",Granular," ",48
+100yr4530," ","Very weak",Granular," ",60
+"025y 4040"," ",None,"Single grained"," ",80
+"050y 5010"," ",None,Massive," ",105
+100yr2010," ",Weak,Granular," ",0
+100yr2010," ",None," "," ",12
+"025y 5020"," ",None," "," ",22
+"025y 4030"," ",None," "," ",30
+"025y 4530"," ",None," "," ",60
+"025y 4530"," ",None," "," ",80
+100yr3010," "," ",Platy," ",0
+100yr2020," ",Weak,Prismatic," ",4
+100yr3040," ",Weak,Prismatic," ",16
+100yr3030," "," ",Platy," ",40
+100yr3020,100yr3030," ",Columnar," ",46
+100yr3040," "," ",Prismatic," ",57
+100yr5040," ",None,Massive," ",68
+100yr5040," ",None,Massive," ",81
+100yr2020,100yr4015,Weak,Granular," ",0
+100yr3030,100yr5030,"Very weak",Prismatic," ",20
+100yr4050,100yr6040,"Very weak",Granular," ",60
+100yr5540,100yr7030,None,"Single grained"," ",85
+100yr2010," ",None,Cloddy," ",0
+100yr2010," ",None,Cloddy," ",18
+100yr3510," ",None," "," ",30
+100yr4515," ","Very weak",Granular," ",42
+100yr5535," ",None,"Single grained"," ",52
+100yr4010," ",Weak,Granular," ",65
+"025y 6040"," ",None,"Single grained"," ",80
+"025y 6020"," ",None,"Single grained"," ",100
+100yr2010,100yr3510,"Weak to moderate",Granular," ",0
+"025y 4000"," ",None," "," ",18
+"050y 5510"," ",None," "," ",25
+100yr5080," ",None,"Single grained"," ",42
+100yr5080," ",None,"Single grained"," ",75
+100yr5080," ",None,"Single grained"," ",100
+100yr2010,100yr3010,Weak,Granular," ",0
+100yr2010," ","Weak to moderate",Granular," ",18
+100yr3020," ",Moderate,"Sub-angular blocky"," ",23
+100yr3025," ",Weak,"Sub-angular blocky"," ",42
+100yr4540," ",Weak,Granular," ",78
+"025y 4020"," ",Weak,"Sub-angular blocky"," ",95
+100yr2010," "," ",Cloddy," ",0
+"025y 4020"," ","Weak to moderate","Sub-angular blocky"," ",12
+"025y 5020"," ",Weak,"Sub-angular blocky"," ",25
+"050y 5020"," ","Very weak",Granular," ",50
+"050y 5020"," ","Very weak",Granular," ",75
+" "," "," "," "," ",15
+"025y 3520"," ",Moderate,Platy," ",0
+"050y 4520"," ","Moderate to strong","Angular blocky"," ",12
+"050y 4010"," ","Moderate to strong",Prismatic," ",20
+"050y 4020"," "," ","Sub-angular blocky"," ",60
+"050y 4015"," "," "," "," ",75
+" "," "," "," "," ",0
+" "," "," "," "," ",25
+" "," "," "," "," ",70
+" "," "," "," "," ",125
+" "," "," "," "," ",180
+" "," "," "," "," ",200
+100yr2020," ",None," "," ",10
+100yr5030," ",None," "," ",0
+100yr4040," ",None," "," ",10
+100yr5060," ",None," "," ",30
+100yr6030," ",None," "," ",55
+100yr4030," ",Weak,"Sub-angular blocky"," ",80
+100yr4030," "," ","Sub-angular blocky"," ",120
+"050y 4030"," "," "," "," ",375
+"025y 2000"," ",None," "," ",15
+100yr2010," ",None," "," ",0
+100yr3030," ",None,"Single grained"," ",5
+100yr4030," ",None,"Single grained"," ",40
+"025y 4020"," ",None,Massive," ",55
+" "," "," "," "," ",0
+" "," "," "," "," ",50
+" "," "," "," "," ",100
+" "," "," "," "," ",130
+" "," "," "," "," ",150
+100yr3020," ",None," "," ",2
+100yr6010," ",None,"Single grained"," ",0
+100yr5060," ",None,Granular," ",10
+100yr6060," ",None,Granular," ",25
+100yr6040," ",None,"Single grained"," ",40
+100yr3010,100yr2520," "," "," ",3
+100yr3020,100yr4020,None,"Single grained"," ",0
+100yr4530,100yr5530,None,"Single grained"," ",3
+100yr4040,100yr6030,None,"Single grained"," ",13
+100yr4040,100yr5530,None,"Single grained"," ",27
+100yr4060,100yr5040,None," "," ",47
+100yr4560,100yr5540,None,Massive," ",67
+100yr5540,100yr6540,None,"Single grained"," ",93
+050yr2520,100yr3010," "," "," ",6
+010yr3020,100yr5520,"Very weak",Platy," ",0
+010yr4030,100yr5030,None,Massive," ",13
+010yr6030,100yr6040,None,Massive," ",32
+010yr5040,100yr6050,None,Massive," ",55
+"025y 6020",075yr5070,None,Massive," ",85
+"050y 5020","050y 8010",None,Massive," ",110
+100yr7040,100yr2020," "," "," ",0
+100yr2020,100yr2020," "," "," ",15
+100yr2020,100yr2020," "," "," ",30
+100yr2020,100yr2020," "," "," ",55
+100yr2010," "," "," "," ",105
+050yr2510,100yr3020," "," "," ",3
+100yr3030,100yr6020,"Very weak",Granular," ",0
+100yr5040,100yr6030,None,"Single grained"," ",22
+100yr5540,100yr6040,None,"Single grained"," ",46
+100yr4530,100yr6040,None,"Single grained"," ",62
+100yr4530,100yr6040,None,Massive," ",90
+100yr5040,050yr2520," "," "," ",0
+100yr3040,075yr3020," "," "," ",15
+100yr2010," "," "," "," ",40
+100yr2010," "," "," "," ",75
+100yr3020," "," "," "," ",125
+"050y 2510"," "," "," "," ",235
+"050y 2510"," "," "," "," ",265
+"050y 4020"," "," "," "," ",290
+100yr2020,100yr3020," "," "," ",3
+050yr2520," ","Weak to moderate",Granular," ",0
+010yr3040," ","Very weak",Granular," ",10
+"025y 6040"," ",None," "," ",47
+100yr2010," "," "," "," ",3
+" "," ","Very weak",Granular," ",0
+100yr2015," ",None,"Single grained"," ",5
+100yr3540,100yr5040,"Very weak",Granular," ",10
+100yr4040,100yr5060,None,"Single grained"," ",35
+100yr5040,100yr5050,None,"Single grained"," ",55
+100yr5530,100yr6530,None,"Single grained"," ",77
+100yr6030,100yr6530,None,"Single grained"," ",85
+100yr5540,100yr6040,None,"Single grained"," ",100
+" "," "," "," "," ",6
+100yr2520," "," "," "," ",3
+100yr4020,100yr6020,Weak,Granular," ",0
+100yr5030,100yr6030,None,"Single grained"," ",6
+100yr5040,100yr6020,None,"Single grained"," ",27
+100yr6030,100yr6030,None,"Single grained"," ",41
+100yr6030,"025y 7040",None,"Single grained"," ",70
+" "," "," "," "," ",8
+050yr2510," "," "," "," ",6
+100yr2010," "," "," "," ",2
+100yr3010," ",Moderate,Platy," ",0
+"025y 4020"," ",None,Massive," ",7
+"025y 6020"," ",None,Massive," ",25
+"025y 5040"," ",None,Massive," ",50
+"025y 6030"," ",None,Massive," ",70
+"025y 6020"," ",None,Massive," ",100
+100yr4040," "," "," "," ",25
+"025y 2000"," "," "," "," ",15
+100yr3020,100yr2010," "," "," ",0
+100yr4030," ",None,Massive," ",25
+100yr4030," ",None,Massive," ",35
+100yr4020," ",None,Massive," ",60
+100yr3030," ",None,"Single grained"," ",70
+100yr6040," "," "," "," ",0
+"050y 5010"," ",None,Massive," ",380
+075yr3020," "," "," "," ",10
+050yr3040," "," "," "," ",25
+050yr3020," "," "," "," ",40
+075yr3020," "," "," "," ",70
+100yr3060," "," "," "," ",145
+100yr2520," "," "," "," ",190
+100yr2015," "," "," "," ",220
+"050y 2515"," "," "," "," ",300
+" "," "," "," "," ",4
+" "," "," "," "," ",2
+075yr4020,100yr6020,"Very weak",Granular," ",0
+100yr3040,100yr5040,"Very weak",Granular," ",7
+100yr4040,100yr6040,None,"Single grained"," ",21
+100yr6040,100yr7040,None,"Single grained"," ",31
+100yr5020," ",None,Massive," ",65
+100yr6040," "," "," "," ",0
+050yr3020," "," "," "," ",30
+050yr2510," "," "," "," ",45
+100yr2010," "," "," "," ",110
+100yr2010," "," "," "," ",160
+"050y 2510"," "," "," "," ",225
+"050y 5010"," ",None," "," ",255
+" "," "," "," "," ",5
+100yr2010," ",Moderate,Granular," ",0
+100yr3015," ",None,Massive," ",10
+100yr3020," ",None,Massive," ",21
+"025y 2000"," ",None,Massive," ",31
+"050y 3010"," ",None,Massive," ",56
+"025y 8020"," "," "," "," ",0
+050yr2520," "," "," "," ",10
+100yr6060," "," "," "," ",20
+100yr2020," "," "," "," ",40
+100yr2010," "," "," "," ",70
+100yr2010," "," "," "," ",150
+"050y 5010"," ",None,Massive," ",170
+" "," ",None,"Single grained"," ",195
+" "," "," "," "," ",0
+" "," "," "," "," ",10
+" "," "," "," "," ",20
+" "," "," "," "," ",50
+050yr3015,025yr2520," "," "," ",10
+100yr3020,"025y 7020"," ",Massive," ",51
+050yr2510,050yr2520," "," "," ",8
+050yr2510,050yr3010," "," "," ",4
+100yr2510,100yr6015,"Moderate to strong",Granular," ",0
+100yr3520,100yr8010,Weak,Platy," ",3
+100yr5020,100yr6020,Weak,Platy," ",9
+100yr3010,100yr5020,Weak,Columnar," ",17
+100yr3520,100yr5020,None,Massive," ",29
+100yr3010,100yr5020," ",Massive," ",40
+050yr2520,050yr3020," "," "," ",12
+050yr2510,050yr2020," "," "," ",10
+050yr2510,050yr3010," "," "," ",4
+100yr3020,100yr6020,Weak,Platy," ",0
+100yr3020,100yr5020,"Moderate to strong",Granular," ",5
+"025y 6030","025y 7020","Moderate to strong",Granular," ",20
+"025y 6520","025y 8020"," ",Massive," ",35
+"025y 4040","025y 7020"," ",Massive," ",68
+050yr2515,050yr3020," "," "," ",10
+050yr2510,050yr2520," "," "," ",8
+050yr1010,075yr2020," "," "," ",3
+100yr4020,100yr6020,"Moderate to strong",Platy," ",0
+100yr3020,100yr6030,Moderate,"Sub-angular blocky"," ",10
+100yr3040,100yr6030,Weak," "," ",30
+"025y 4540","025y 7020",Strong," "," ",40
+"025y 4540","025y 7020",Strong," "," ",80
+050yr2520,050yr2520," "," "," ",12
+050yr2510,075yr3020," "," "," ",10
+050yr1510,050yr3010," "," "," ",7
+"025y 2000","025y 3010",Strong,Granular," ",0
+"025y 4020","050y 5010",Moderate,Granular," ",12
+"025y 5020","050y 6020",Moderate,Granular," ",28
+"050y 5530","050y 8020"," ",Massive," ",35
+100yr8030,075yr7030," "," "," ",0
+100yr4060,075yr5040," "," "," ",30
+100yr3040,100yr5030," "," "," ",55
+075yr3020,100yr4020," "," "," ",180
+100yr3020,100yr3030," "," "," ",270
+075yr3020,075yr5040," "," "," ",5
+050yr2510,050yr3010," "," "," ",4
+100yr3030,100yr4025,"Moderate to strong",Granular," ",0
+"025y 4540",100yr8000,"Moderate to strong",Granular," ",10
+100yr6530,100yr6040,Strong,Granular," ",26
+100yr5540,075yr6080,None," "," ",42
+100yr5580,100yr8010,None," "," ",68
+"025y 6020"," ",None,Massive," ",136
+050yr2520,075yr3020," "," "," ",4
+050yr2510,050yr3010," "," "," ",2
+075yr3520,100yr5030,Moderate,Granular," ",0
+100yr3040,100yr6040,Moderate,Granular," ",15
+100yr4540,100yr6540,"Weak to moderate",Granular," ",30
+075yr4030,100yr6050,Weak,Granular," ",39
+050yr2510,050yr3010," "," "," ",6
+050yr1010,050yr2510," "," "," ",3
+100yr3010,100yr5020,Strong,Granular," ",0
+100yr4015,100yr6020,Strong,"Sub-angular blocky"," ",5
+100yr3520,100yr5520,Weak,Columnar," ",12
+100yr4020,100yr5030," ",Massive," ",22
+100yr3020,100yr6030,"Very weak",Columnar," ",41
+100yr5025,100yr6030,None,Massive," ",57
+100yr5025,100yr7030,None,Massive," ",80
+050yr3010,050yr4020," "," "," ",0
+050yr2520,050yr4020," "," "," ",10
+050yr3020,050yr3030," "," "," ",20
+050yr3020,050yr3020," "," "," ",80
+050yr2510,050yr3020," "," "," ",125
+"050y 3020","025y 5020",None,Massive," ",160
+050yr2510,050yr3020," "," "," ",15
+050yr3020,050yr3010," "," "," ",12
+050yr2010,075yr2000," "," "," ",5
+100yr3010,100yr4010,"Moderate to strong",Granular," ",0
+100yr3010,100yr5010,"Weak to moderate",Granular," ",24
+"025y 5520","025y 7020",Moderate,Columnar," ",28
+"025y 5020","050y 7010","Very weak",Columnar," ",41
+"050y 3520","050y 7020",Strong,Columnar," ",53
+050yr2510,025yr2520," "," "," ",14
+100yr4020,"025y 7020",Moderate,Massive," ",85
+050yr3020,075yr5040," "," "," ",12
+050yr2520,050yr2510," "," "," ",4
+100yr2010,"025y 3020",Moderate,Granular," ",0
+100yr5020,100yr7020,Weak,Platy," ",4
+100yr4020,100yr7020,"Moderate to strong","Sub-angular blocky"," ",9
+100yr4020,100yr5020," ",Massive," ",15
+"025y 4030","025y 6020"," ",Massive," ",42
+"025y 4040","025y 6020"," ",Massive," ",55
+100yr6030,100yr6040," "," "," ",0
+025yr3040,075yr5060," "," "," ",35
+100yr6040,100yr5050," "," "," ",55
+050yr2520,100yr3030," "," "," ",75
+050yr2520,075yr4020," "," "," ",105
+050yr2510,100yr4015," "," "," ",5
+100yr4015,100yr5025,Strong,Granular," ",0
+100yr3010,100yr6020,"Weak to moderate",Granular," ",10
+050yr3010,100yr3030," "," "," ",0
+100yr6040,100yr6040," "," "," ",20
+100yr2510,075yr3020," "," "," ",40
+100yr2010,075yr3020," "," "," ",65
+100yr1010,075yr3020," "," "," ",90
+100yr1010,"100r 1010"," "," "," ",160
+"050y 4010","050y 5010",None,Massive," ",180
+050yr2510,050yr2520," "," "," ",8
+050yr2510,"100r 2010"," "," "," ",5
+100yr5025,100yr6020,Weak,Platy," ",0
+100yr3030,100yr7020,Strong,"Angular blocky"," ",6
+100yr3030,100yr5530,"Weak to moderate",Columnar," ",17
+100yr4020,100yr5020,"Moderate to strong","Sub-angular blocky"," ",45
+100yr4025,100yr6025,None,"Sub-angular blocky"," ",70
+"025y 5020","025y 7020",Weak,Granular," ",85
+050yr2520,100yr3030," "," "," ",0
+050yr3020,050yr4030," "," "," ",20
+100yr5060,050yr3020," "," "," ",40
+050yr2515,050yr2520," "," "," ",85
+"050y 5530","025y 6020",None,Massive," ",100
+050yr3020,100yr3020," "," "," ",8
+050yr1010,050yr2510," "," "," ",3
+100yr3010,100yr3010,"Very weak",Platy," ",0
+100yr4020,"025y 6020",Weak,Columnar," ",5
+100yr3020,100yr5020,Weak,"Sub-angular blocky"," ",18
+100yr3025,100yr6020,Weak,Granular," ",32
+100yr5020,"025y 6020",None,Massive," ",41
+100yr5020,"025y 6020"," ",Massive," ",58
+" ",100yr3020," "," "," ",9
+100yr5030,100yr6020,"Very weak",Platy," ",0
+075yr4030,100yr6030,Weak,Granular," ",7
+100yr3060,100yr5040,Weak,Granular," ",16
+100yr5060,"025y 7050","Very weak",Granular," ",32
+"025y 6040","025y 7040",Weak,Platy," ",54
+050yr2520,050yr3020," "," "," ",6
+050yr2510,050yr3010," "," "," ",2
+075yr3020,100yr5030,Moderate,Granular," ",0
+075yr3020,100yr6040,"Weak to moderate",Granular," ",17
+100yr6040,100yr6550,Weak,Granular," ",32
+100yr3030," ",Weak,Prismatic," ",0
+100yr3030," "," ",Platy," ",15
+100yr3030," ",Weak,"Sub-angular blocky"," ",20
+100yr4020," ",Weak,"Sub-angular blocky"," ",36
+"025y 4040"," ",Weak,"Sub-angular blocky"," ",46
+100yr4040," ",None,Massive," ",66
+075yr4020,100yr4020," "," "," ",8
+050yr2520,050yr2520," "," "," ",7
+050yr2520,050yr3010," "," "," ",3
+100yr3030,100yr6020,Moderate,Granular," ",0
+100yr5030,100yr7015,"Very weak",Granular," ",7
+100yr5530,100yr6025,Moderate,"Sub-angular blocky"," ",12
+100yr4010,100yr5015,"Moderate to strong",Columnar," ",24
+100yr4015,100yr6010,"Weak to moderate",Columnar," ",47
+"050y 3010","025y 7020"," ",Massive," ",63
+100yr4020," ",Moderate,"Sub-angular blocky"," ",0
+100yr5030," ",Moderate,Platy," ",20
+100yr3010," ","Moderate to strong","Sub-angular blocky"," ",57
+"025y 4520"," ",Moderate,Platy," ",65
+"025y 3010"," ","Moderate to strong","Sub-angular blocky"," ",72
+"025y 4030"," ",None," "," ",76
+"025y 3010"," ",Moderate,"Sub-angular blocky"," ",83
+"025y 3520"," ","Weak to moderate",Platy," ",90
+100yr3510," ","Weak to moderate",Prismatic," ",0
+100yr3530," ",Moderate,Prismatic,"Moderate to strong",25
+100yr4030," ",Weak,"Sub-angular blocky"," ",48
+100yr6520," ",None,"Single grained"," ",55
+"025y 6040"," ",None,"Single grained"," ",68
+100yr2510," ",Moderate,"Sub-angular blocky"," ",0
+100yr3530," ","Moderate to strong","Sub-angular blocky"," ",35
+100yr6520," ",Moderate,"Sub-angular blocky"," ",60
+"025y 5550"," ",None,"Single grained"," ",100
+"025y 2000"," ",Moderate,"Sub-angular blocky"," ",0
+"050y 5510"," ",Moderate,"Sub-angular blocky"," ",20
+"025y 7020"," ","Moderate to strong",Platy," ",30
+"050y 5020"," ",None,"Single grained"," ",52
+"050y 4520"," ",Moderate,"Sub-angular blocky"," ",75
+100yr3010," ","Weak to moderate",Prismatic," ",0
+100yr3020," ","Weak to moderate",Prismatic," ",30
+"025y 4540"," ",Moderate,"Sub-angular blocky"," ",40
+"025y 5020"," ",Moderate,"Sub-angular blocky"," ",60
+"025y 4020"," ",Moderate,"Sub-angular blocky"," ",95
+"025y 5560"," ",None,"Single grained"," ",110
+" "," "," "," "," ",7
+100yr3010," "," "," "," ",2
+100yr3510,100yr3010,"Very weak",Platy," ",0
+100yr7020,100yr5030,Weak,Platy," ",3
+100yr5035,100yr5040,"Weak to moderate",Platy," ",16
+100yr2520,100yr3530,Strong,"Sub-angular blocky"," ",24
+100yr5530,100yr4030,None,Massive," ",48
+" "," ",None," "," ",6
+100yr5525," ",None,"Single grained"," ",0
+075yr4050," ",None,Massive," ",5
+100yr5080," ",None,Massive," ",36
+100yr5040," ",None,"Single grained"," ",50
+100yr2520," ",None," "," ",5
+100yr6520,100yr3520,Weak,Platy," ",0
+100yr3530,100yr4030,"Moderate to strong","Angular blocky"," ",6
+100yr3030,100yr3530,"Weak to moderate",Prismatic," ",18
+100yr5040,100yr4030,"Weak to moderate",Platy," ",44
+100yr5040," ","Weak to moderate",Platy," ",50
+" "," ",None," "," ",20
+" "," ",None," "," ",12
+"025y 5020","025y 2000",None,Massive," ",0
+"050y 5510"," ",None,Massive," ",10
+"050y 5510"," ",None,Massive," ",60
+" "," ",None," ","Moderate to strong",5
+100yr7020,100yr5030," ",Platy," ",0
+100yr4030,100yr4040,Strong,"Angular blocky"," ",7
+100yr3530,100yr3030,Strong,"Angular blocky"," ",13
+100yr2520,100yr3040,"Weak to moderate",Prismatic," ",24
+100yr4040,100yr4030,"Weak to moderate",Platy," ",38
+100yr5040," "," "," "," ",44
+100yr2020," ",None," "," ",5
+100yr2010," ",None," "," ",1
+100yr2010," "," ","Sub-angular blocky"," ",0
+100yr4020," ",Weak,Platy," ",3
+100yr3020," ",None,Massive," ",8
+100yr4525," ",None," "," ",30
+100yr5020," ",None," "," ",50
+100yr4020," ",None," "," ",6
+100yr6530,075yr4530,"Weak to moderate",Platy," ",0
+100yr5540,075yr4030,Moderate,Platy," ",4
+075yr3030,100yr3040,Strong,"Angular blocky"," ",10
+100yr3540,100yr4030,Weak,"Sub-angular blocky"," ",30
+100yr4030,100yr4530,Weak,Platy," ",36
+" "," "," "," "," ",5
+100yr3020," ",Weak,"Sub-angular blocky"," ",0
+100yr4030," ",Weak,"Sub-angular blocky"," ",20
+100yr3030," ",Moderate,"Sub-angular blocky"," ",40
+"025y 4040"," ",Moderate,"Sub-angular blocky"," ",55
+100yr6040," ",Weak,Platy," ",65
+"025y 4040"," ",Moderate,Platy," ",80
+" "," "," "," "," ",5
+100yr3015," ","Very weak","Sub-angular blocky"," ",0
+100yr3020," ",Weak,"Sub-angular blocky"," ",30
+100yr3530," ","Weak to moderate","Sub-angular blocky"," ",45
+100yr5030," ",Weak,"Sub-angular blocky"," ",65
+"025y 5540"," ","Very weak",Granular," ",80
+" "," "," "," "," ",5
+100yr3525," ","Very weak","Sub-angular blocky"," ",0
+100yr4035," ",Weak,"Sub-angular blocky"," ",15
+100yr4040," ",None,"Single grained"," ",35
+100yr3530," ",None,"Single grained"," ",70
+"025y 4030"," ","Very weak",Platy," ",80
+" "," ",None,"Single grained"," ",8
+100yr3520," ",None,"Single grained"," ",0
+100yr3030," ",None,"Single grained"," ",10
+100yr2520," ",None,"Single grained"," ",35
+100yr3530," ",None,"Single grained"," ",50
+100yr4540," ",None,"Single grained"," ",80
+100yr3530," ",Weak,Prismatic," ",0
+100yr4020," ",Weak,Columnar," ",15
+100yr4020,100yr3030," ","Angular blocky"," ",23
+" "," ",None,Massive," ",46
+"025y 4020"," ",Weak,"Angular blocky"," ",91
+"025y 3020"," ",Weak,"Angular blocky"," ",152
+"025y 4040"," ",Weak,"Angular blocky"," ",274
+" "," ","Very weak","Sub-angular blocky"," ",0
+100yr4020," ","Very weak","Sub-angular blocky"," ",12
+100yr4020,100yr3030,"Very weak","Sub-angular blocky"," ",20
+"025y 5020"," ",None,"Single grained"," ",52
+"050y 5030"," ",None,"Single grained"," ",73
+"025y 4040"," ",None,"Single grained"," ",100
+100yr2010," ",Weak,"Sub-angular blocky"," ",0
+100yr2020," ",Weak,"Sub-angular blocky"," ",18
+100yr6030," "," "," "," ",28
+"025y 6020"," "," "," "," ",55
+"025y 5020"," "," "," "," ",85
+100yr2010," ",None," "," ",22
+100yr2010," ",None," "," ",0
+"025y 4000"," ",Weak,Platy," ",16
+100yr2010," ",None," "," ",39
+"025y 5040"," "," ","Single grained"," ",42
+"050y 4020"," "," ","Single grained"," ",65
+100yr4030," ",None,"Single grained"," ",0
+100yr5030," ",None,"Single grained"," ",18
+100yr6030," ",None,"Single grained"," ",50
+100yr6030," ",None,"Single grained"," ",85
+" "," ",None,"Single grained"," ",110
+100yr2010,100yr3510,"Very weak",Granular," ",0
+100yr3020," ","Very weak",Granular," ",15
+100yr3030," ","Very weak",Granular," ",45
+100yr5020," ","Very weak",Platy," ",55
+100yr6040," "," "," "," ",65
+"025y 6040"," ",None,"Single grained"," ",70
+"025y 6520"," ",None,"Single grained"," ",80
+"025y 7020"," ",None,"Single grained"," ",95
+100yr2010," ",Weak,Granular," ",0
+100yr2020," ",Weak,Granular," ",10
+100yr3020," ",Weak,Granular," ",23
+100yr4020,100yr5030,Weak,Granular," ",35
+100yr7020,100yr5020," ","Single grained"," ",60
+"025y 6020"," "," ","Single grained"," ",85
+"025y 5020"," ","Weak to moderate","Sub-angular blocky"," ",120
+100yr2010," ",Weak,Granular," ",0
+100yr3020," ",Weak,Granular," ",18
+100yr6030," "," ","Single grained"," ",30
+"025y 7020"," "," ","Single grained"," ",60
+"025y 6020"," "," ","Single grained"," ",90
+"025y 5020"," "," ","Single grained"," ",110
+100yr2010," ","Weak to moderate",Granular," ",0
+100yr2010," ",Moderate,Platy," ",15
+100yr4010,100yr3010,"Weak to moderate",Granular," ",65
+"025y 5020"," "," ","Single grained"," ",85
+100yr5080," "," ","Single grained"," ",100
+"025y 4020"," "," ","Single grained"," ",110
+100yr2010," ",Weak,Granular," ",0
+100yr4010," ","Moderate to strong",Platy," ",20
+100yr5020," ",Weak,Platy," ",30
+"025y 6040"," ",Weak,Granular," ",50
+"025y 6040"," ",None,"Single grained"," ",55
+"025y 5020"," ",None,"Single grained"," ",70
+"025y 5020"," ",None,"Single grained"," ",100
+025yr2500,025yr2520,None," "," ",17
+025yr2500,025yr2520,None," "," ",11
+025yr2500,025yr2520,None," "," ",6
+050yr2510,"100r 2520","Very weak","Sub-angular blocky"," ",0
+050yr2510,"100r 3010","Very weak","Sub-angular blocky"," ",5
+"025y 5540",075yr5020,None,"Single grained"," ",11
+050yr3015,"100r 3020",None,"Single grained"," ",35
+"025y 5040",075yr5020,None,"Single grained"," ",40
+100yr3020,100yr4530,None,"Single grained"," ",0
+100yr3030,100yr4030,None,"Single grained"," ",10
+100yr5040,100yr6040,None,"Single grained"," ",54
+100yr3010,050yr3510,None,"Single grained"," ",0
+100yr5025,100yr5530,None,"Single grained"," ",15
+100yr4025,100yr5530,None,"Single grained"," ",50
+100yr5030,075yr6060,None,"Single grained"," ",110
+075yr2500,050yr2520," "," "," ",12
+050yr3020,100yr4020,None,"Single grained"," ",0
+100yr4040,100yr5040,None,"Single grained"," ",15
+100yr4030,100yr5060,None,"Single grained"," ",65
+100yr4040,100yr5540,None,"Single grained"," ",120
+100yr2010," ","Very weak",Granular," ",0
+100yr3010," ","Very weak","Angular blocky"," ",5
+"025y 5020"," ","Very weak","Angular blocky"," ",15
+"025y 4020"," ",None," "," ",25
+"025y 4020"," ",None," "," ",55

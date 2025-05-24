@@ -1,0 +1,4694 @@
+"Unnamed: 11","Unnamed: 16","Unnamed: 21","Unnamed: 22","Unnamed: 23","Unnamed: 4","Unnamed: 7"
+Location,Accident,"Train Max Speed (mph)","Road Speed (km/h)",Lanes,Province,Mile
+"Young Rd",2,70,50,2,BC,71.94
+"Boundary Rd",1,100,70,2,ON,64.74
+"Main St (Lancaster)",1,100,50,2,ON,53.82
+"Erindale Rd",2,65,50,2,ON,17.35
+"Fairlight Drive",4,30,50,6,SK,3.37
+"Rue Germain",1,95,50,2,ON,34.72
+"Rue Sauve",1,95,50,2,ON,37.54
+"William St",2,35,50,2,ON,77.36
+"Maitland St",3,50,50,2,ON,77.51
+"Woodland Avenue",1,100,50,2,ON,17.52
+"Bishop Grandin Boulevard",5,25,80,2,MB,4.54
+"Rang Ste-Charlotte",1,95,90,2,QC,117.22
+"Woodroffe Rd",1,95,80,4,ON,3.26
+"Wilson St (Woodstock)",1,85,50,4,ON,49.26
+"Prince St (Cnty 3)",1,100,50,2,ON,146.7
+"10 Avenue (Airport Rd)",2,55,70,4,AB,82.08
+"Range Road 70",2,55,80,1,AB,8.22
+"Glenmore Trail",1,55,80,2,AB,169.81
+"Bartholomew St",2,85,50,2,ON,124.88
+"11Th Avenue",1,65,50,2,QC,13.23
+"Fermor Ave (Tch 1A)",2,25,70,4,MB,3.44
+"Rue St-Georges",1,95,50,2,QC,69.51
+"Egerton St",1,70,50,2,ON,76.44
+"Ninth Line Rd",2,75,80,2,ON,25.87
+"Vivian Rd - Reg 74",2,70,50,2,ON,35.44
+"Henrie Road 36 North",2,60,80,2,MB,114.77
+"Burloak Dr",0,95,80,4,ON,26.98
+"Rue De Courcelle",3,45,50,2,QC,3.6
+"Port Darlington Rd",1,100,50,2,ON,290.44
+18-2-8-W2M,3,50,80,2,SK,139.91
+"Chesterton Shores Rd",1,100,50,2,ON,317.22
+"Lorne Park Rd",0,95,50,2,ON,15.06
+"Golf Club Rd",0,95,50,2,ON,321.97
+"Appleton Avenue",2,50,40,2,SK,120.53
+"Thomas St",1,55,50,4,ON,20.67
+"Highway 15",1,70,100,2,MB,236.45
+"Range Road 285",2,25,80,2,AB,119.27
+"King Rd",0,95,50,2,ON,33.31
+"Main Street (Hwy 8)",2,60,50,2,SK,86.3
+5-14-31Wpm,2,60,80,2,SK,88.11
+"Geddes St",1,70,50,2,ON,221.34
+"St George St",6,15,50,2,ON,0.17
+"4Th Line Rd",0,95,60,2,ON,23.13
+"Rte St-Emmanuel",1,95,50,2,ON,33.19
+"Morningside Dr",0,95,50,4,ON,320.41
+"Ogden Ave",0,95,60,2,ON,10.85
+"Revus Ave",0,95,50,2,ON,12.02
+"Rang De L'Eglise",1,95,90,2,QC,109.1
+"Coronation Blvd (Cnty 24)",1,85,50,2,ON,181.71
+"Tottenham Rd (Cnty 10)",1,55,80,2,ON,40.05
+"Queen St S  - Reg Rd 1",1,55,50,2,ON,20.12
+"Highway 2 & 3",2,45,60,4,AB,30.72
+"Hwy 46",1,60,100,2,SK,79.59
+"Galloway Rd",0,95,50,4,ON,320.95
+"Quigleys Rd",1,35,50,4,ON,52.48
+"Highway 26",1,60,80,2,ON,67.24
+"Chartwell Rd",0,95,50,2,ON,20.56
+"Alexandra Ave",0,95,50,2,ON,11.03
+"Campsite Road",1,70,50,2,AB,21.02
+"Clarkson Rd",0,95,50,2,ON,16.09
+"Stavebank Rd",0,95,50,2,ON,13.11
+"Fifth Line Rd",1,75,80,2,ON,29.3
+"Haig Blvd",0,95,50,2,ON,10.59
+"Prest Road",1,70,50,2,BC,70.33
+"Hwy 12",1,70,100,2,MB,229.28
+"Road 32 East - Edgewood",1,70,90,2,MB,233.38
+"Boul Pere Lelievre",1,75,50,4,QC,11.75
+"Hespler Street-20 Avenue",2,45,50,4,AB,46.5
+"Waverley Street",1,35,70,4,MB,3.89
+"Lawson Settlement Rd",1,100,80,2,ON,238.97
+"Road 34 East -Briercliffe",1,70,60,2,MB,231.33
+"Concession Rd 1",1,70,80,2,ON,69.76
+"Merivale Rd",0,100,50,3,ON,1.62
+"Kyes Rd",1,100,80,2,ON,149.87
+"Hwy 13",1,80,80,2,MB,42.09
+"Sixth Line Rd",1,75,80,2,ON,28.43
+"Prov Road 270",1,80,100,2,MB,133.85
+"Road 76 West - Melbourne",1,60,90,2,MB,98.15
+"Township Road 504",1,80,80,2,AB,222.6
+"Allanport Rd - Reg 82",1,60,80,2,ON,24.05
+"Counter St",0,85,50,2,ON,175.9
+"Range Road 362",2,45,80,2,AB,80
+"Road 54 West",1,80,90,2,MB,73.52
+"Ontario St (Reg Xx)",1,60,50,2,ON,112.79
+"Zone Rd 6",1,60,80,2,ON,43.13
+"County Rd 4",1,60,80,2,ON,83.52
+"Highway 5",1,80,100,2,MB,103.19
+"Glen Oak Rd",1,95,80,2,ON,16.99
+"Rue Principale",1,95,80,2,QC,71.24
+"Road 168 West",2,60,90,2,MB,67.72
+"Highway 21",2,70,100,2,SK,57.07
+"3 Ieme Avenue",0,95,40,2,ON,23.57
+"Kerr St",0,95,50,4,ON,21.97
+"50 Avenue",1,55,50,4,AB,79.03
+"Beare Rd",1,60,60,2,ON,192.48
+"Euphemia Line",1,80,80,2,ON,36.94
+"50 Street",2,45,50,4,AB,56.5
+"149 Street",1,45,60,4,AB,5.88
+"Pth 6",1,80,80,4,SK,83.45
+"Richmond St (Hwy 2)",0,80,80,2,ON,64.5
+"Tecumseh Rd - Cnty 2",0,95,50,2,ON,99.13
+"Pr 404",1,60,90,2,MB,97.07
+"Manning Rd - Cnty 19",0,95,50,4,ON,98.42
+"Road 7 West",1,80,90,2,MB,24.01
+"Wilson St",1,50,50,4,ON,12.44
+"Pinkie Road",2,60,80,2,SK,98.13
+"Rue Gauthier Nord",1,75,50,4,QC,101.28
+"Coleraine Dr",1,55,70,4,ON,21.85
+"Wellington Cnty Rd 29",1,70,80,2,ON,43.97
+"Rte St-Fereol",0,95,70,2,ON,29.2
+"Brook Rd North (Cnty 20)",0,60,60,2,ON,133.79
+"Mill St N",1,50,50,2,ON,15.53
+"L'Esperence Rd",1,60,50,2,ON,102.88
+"Piney Road",1,60,90,2,MB,124.72
+"Hwy 17 (Nickel Centre)",1,50,90,2,ON,257.54
+"Range Road 11-4",1,55,80,2,AB,43.57
+"Wilson Rd South",0,95,50,2,ON,299.58
+"Winston Churchill",1,70,60,2,ON,21.15
+"43 Street",2,35,80,4,AB,63.59
+"Grand Ave E (Hwy 40)",0,60,60,2,ON,62.23
+"Blue Mountain Rd",1,100,80,2,ON,144.23
+"Renaud Line Rd",1,95,50,1,ON,92.29
+"Hwy 8",1,80,100,2,SK,226.08
+"Road 123 West",1,80,90,2,MB,145.05
+"Highway 4",1,50,60,2,SK,0.68
+"30 Street North",3,35,50,2,AB,106.6
+"Road 37 East - Eastdale",1,70,90,2,MB,228.29
+"Township Road 492",1,55,80,1,AB,75.96
+"Weldrick Rd",1,65,40,2,ON,20.31
+"Range Rd 3040",2,80,80,2,SK,177.09
+"Torbram Rd",0,80,60,2,ON,16.17
+"Highway 21",1,80,100,2,MB,159.83
+"Lorne Avenue (Hwy 219)",1,50,50,2,SK,188.36
+"Annis Rd",1,70,60,2,BC,66.32
+"Road 20 West",1,80,90,2,MB,38
+"Main St",1,70,50,2,ON,63.84
+"Caledonia Rd",1,60,80,2,ON,60.7
+"Hwy   21  (Thamesville)",0,60,80,2,ON,49.49
+"Charron Ln Rd (Cnty 22)",0,60,80,2,ON,92.81
+"D'Arcy St",0,95,50,2,ON,263.45
+"Poplar Rd",0,95,50,2,ON,320.65
+"Ontario St (Reg)  (Bright",0,100,50,2,ON,242.07
+"Road 102 West - Curries",1,60,60,2,MB,125.05
+"Manse Rd",0,95,40,2,ON,319.9
+"Hwy 2",1,60,60,2,SK,127.88
+"Shannonville Rd (Twp Rd)",0,60,80,2,ON,84.03
+"Avenue Plante",1,75,40,4,QC,12.59
+"Des Seigneurs Est",0,50,50,2,QC,124.95
+"Clark Rd",0,70,60,2,ON,73.97
+"Tenth Line Rd",0,75,80,2,ON,25.09
+"68 Street Se",3,25,60,4,AB,122.13
+"2Nd Dug Hill Rd (Trenton)",0,100,60,2,ON,233.67
+"Boul Riviere Prairie",1,60,50,4,QC,131.54
+"Queen Street",3,50,40,2,SK,83.25
+"Snow Valley Rd (Reg 43)",1,60,80,2,ON,65.62
+"Sexton Rd",1,80,80,2,ON,28.45
+"Ring Road W/B Lanes",1,25,100,2,SK,1.81
+"Beechgrove Dr",0,95,40,2,ON,318.88
+"Tollgate Rd",0,100,60,2,ON,68.6
+"Chemin Ste-Catherine",0,95,80,2,ON,39.83
+"Hwy 7 N/E Bound",1,30,100,4,SK,4.44
+"Hwy 39",1,50,100,2,SK,127.89
+"Collins Bay Rd",0,85,50,2,ON,180.27
+"Panet Road",1,50,60,2,MB,249.04
+"Hwy 11",1,50,90,2,ON,116.45
+"Range Road 10",1,45,60,2,AB,15.53
+"5 Avenue",1,40,50,2,BC,23.14
+"West Railway St.",2,45,50,2,AB,66.94
+"13Th Line",0,55,80,2,ON,43.27
+"50 Avenue",2,35,50,4,AB,57.01
+"Burnham St",0,95,50,2,ON,265.05
+"Route 122",0,95,90,2,QC,90.89
+"Park Street",1,35,50,4,SK,91.89
+"Oxford (Cnty 22)",0,85,80,2,ON,42.27
+"Highway 610",1,70,80,2,AB,128.28
+"Thames St (Cnty 7)",0,70,50,2,ON,58.89
+"Chemin Du 10 Rang",1,95,80,2,QC,74.11
+"Seconday Highway 606",1,50,50,2,SK,111.16
+"91 Street N 58 Avenue",2,0,60,4,AB,172.23
+"Fallowfield Rd",0,95,80,4,ON,3.88
+"Prince Edward-Cnty 63 (Br",0,100,50,2,ON,241.59
+"Regional Rd 79 (Old Homes",1,70,40,2,ON,54.63
+"Butte St (33-34-17-18)",1,60,40,2,SK,84.66
+"Rutherford Rd (Reg 73",0,75,70,4,ON,16.83
+"Fairfield Line",1,80,80,2,ON,42.32
+"Stoney Point Rd",0,100,80,2,ON,238.15
+"London St (Thamesville)",0,80,50,2,ON,46.43
+"Rue Ste-Anne",1,95,50,2,QC,53.55
+"Route 239",0,95,90,2,QC,107.96
+"Cochrane St",1,35,50,2,ON,53.74
+"Road 25 East -Heatherdale",0,70,90,2,MB,240.52
+"Road 58 West - Pathhead",1,80,90,2,MB,77.56
+"Bronte St",1,50,50,2,ON,32.81
+"Rupert St.",1,40,50,4,BC,153.2
+"Ontario St",0,95,50,2,ON,264.51
+"Brook Rd N (Cnty 20)",0,100,60,2,ON,262.91
+"Main Street",1,80,50,2,AB,205.84
+"Chemin Vanier",1,60,50,2,QC,113.68
+"Centre Street",2,45,50,2,AB,40.8
+"Panet Road",1,35,60,4,MB,122.6
+"Bevington Road (Rr262)",1,70,80,2,AB,12.82
+"Hwy  138",0,80,80,2,ON,38.68
+"Clyde Rd (Reg 27)",1,60,80,2,ON,55.17
+"Bruce St.",2,10,50,4,ON,179.64
+"Wolfedale Rd",0,65,60,2,ON,16.82
+"Ch. Rang St-Edouard",0,95,80,2,QC,118.9
+"Combers Sr (Cnty 35)",1,60,80,2,ON,85.92
+"Courval Grid Road",1,60,80,2,SK,29
+"Airport Road",1,60,80,2,SK,128.9
+21-22-36-8,1,80,80,2,SK,205.96
+"52 Street Se",2,25,60,4,AB,123.57
+"Aurora Rd - Reg 15",0,70,80,2,ON,32.05
+"Highway 60",0,70,80,2,AB,13.84
+"Power Dam Rd",0,100,80,2,ON,70.6
+"Rte Riviere Delisle",0,95,70,2,ON,35.74
+"Ns W23-45-24-4",1,55,80,2,AB,51.25
+"Fairmont Road",2,35,50,2,MB,8.26
+"Ravenshoe Rd - Reg 32",0,70,80,3,ON,48.26
+"County Rd 6",0,85,80,2,ON,184.01
+"Herchmer Ave",1,60,50,2,ON,90.7
+"Rue Principale",0,95,50,2,ON,43.48
+"3Rd Ave",1,40,50,2,BC,40.43
+"Route Du Souvenir",1,80,50,2,QC,71.15
+16-3-8-Epm,1,60,90,2,MB,110.23
+"Shannonville Rd (Twp Rd)",0,100,80,2,ON,213.45
+"South Blair St",0,95,80,2,ON,304.29
+"Moodie Dr",0,95,80,2,ON,7.96
+"Montee St Hubert",1,50,50,2,QC,40.74
+"Highway 610",1,80,50,2,AB,121.3
+"Centennial Rd",0,95,60,2,ON,25.23
+"Grid Road 643",1,60,80,2,SK,16.78
+"Perth St",0,80,50,2,ON,125.65
+"Jasper Rd - Cnty 17",0,95,80,2,ON,5.48
+"Laurier Blvd",0,60,50,2,ON,25.82
+"Summerstown Rd (Cnty 27)",0,100,80,2,ON,59.52
+"County Rd  7",0,100,80,2,ON,190.13
+"Langstaff Rd (Reg 72)",0,75,70,2,ON,15.5
+"Road 41 West - Simplot",0,60,90,2,MB,60.86
+"Queen St (Chatham)",1,35,50,2,ON,64.46
+"Ring Road",0,15,100,6,SK,91.78
+"Tecumseh Rd East",0,95,50,2,ON,94.01
+"75 Street N 68 Avenue",1,20,60,4,AB,171.01
+"Eagleson Rd",0,95,80,2,ON,11.97
+"Techumseh Line  Cnty 36",0,80,70,2,ON,73.99
+"Stanfield Rd",0,60,50,4,ON,13.1
+"Rang St-Georges",0,95,80,2,QC,120.38
+"3 Ieme Avenue",2,55,40,2,QC,18.07
+"4Th Avenue",3,25,50,4,SK,0.5
+"Highway 901",2,0,100,2,AB,129.92
+"Ingersoll Rd - Cnty 9",0,50,50,4,ON,50.67
+"Rose Glen Rd S (Port Hope",0,60,50,2,ON,140.54
+"Rang St Joseph",0,95,90,2,QC,84.95
+"Maple Ave",2,30,50,2,SK,26.34
+"Joyceville Rd",0,100,80,2,ON,163.34
+"Road 125 West - Argyle",1,60,90,2,MB,16.06
+"Techumseh Rd - Cnty 2",0,95,60,2,ON,84.5
+"Perrot Blvd",0,95,30,2,ON,22.07
+"Hardy Rd",0,80,50,2,ON,24.98
+"Richmond St",1,30,50,4,ON,0.05
+"1 Avenue N In Airdrie",1,55,50,2,AB,19.12
+"Caradoc St (Strathroy)",0,80,50,2,ON,19.85
+"Wallbridge Rd",0,60,80,2,ON,94.88
+"Dew Drop Rd",1,60,80,2,ON,50.15
+"Maitland Rd (Cnty 15)(Mai",0,100,60,2,ON,120.48
+"Communication Rd (Hwy40)",0,70,80,2,ON,59.25
+"Haines Rd",0,60,50,2,ON,13.62
+"Range Road 27-0",1,55,80,2,AB,17.32
+"Jockvale Rd",0,100,60,2,ON,5.73
+"Keystown Road Turnoff",2,60,80,1,SK,113.48
+"Rte St-Dominique",0,95,70,2,ON,31.33
+"Rectory St",0,70,50,2,ON,76.84
+"Pr 210",1,60,50,2,MB,105.99
+"Merlin Rd - Cnty 7",0,80,50,1,ON,69.87
+"W River St (Belle River)",0,95,50,2,ON,90.28
+"Boundary St  (Prescott)",0,100,50,2,ON,112.95
+"Road 33 East - Millbrook",0,70,90,2,MB,232.35
+"Mutual St (Ingersoll)",0,85,50,2,ON,58.72
+"Southwood Rd",1,60,60,2,ON,108.27
+"Rodd Ave",0,100,40,2,ON,315.94
+"215 Street (Winterburn Rd",0,70,60,2,AB,10.76
+"Mcbean St",0,95,70,2,ON,12.89
+"Oak Park Rd - Cnty 27",0,80,80,2,ON,27.66
+"Gore Rd",0,85,70,2,ON,73.1
+"Hwy   12",0,70,80,2,ON,68.92
+"Route 500 W (Cnty 3)",0,100,80,2,ON,49.27
+"Highbury Ave",1,35,50,4,ON,118.77
+"Boul. Industriel",0,65,50,2,QC,19.87
+"Range Road 181A",1,70,80,2,AB,134.55
+"Broadway St.",0,70,50,2,BC,71.13
+"Ottawa St",0,95,50,2,ON,12.54
+"Eric Hutchinson Rd",0,95,60,2,ON,2.02
+"East Pike Creek Rd",0,95,50,1,ON,97.03
+"Meyers Creek Rd",0,100,60,1,ON,229.31
+"Tenth St",0,100,60,2,ON,66.51
+"Elgin Rd  - Cnty 73",0,85,90,2,ON,67.01
+"Daisy Lane",1,80,80,2,SK,175.86
+"Highway 854",0,80,80,2,AB,214.16
+"St-Jean-Baptiste Blv",1,60,50,4,QC,130.4
+"Power Line Rd Cnty 23",0,80,70,2,ON,27.14
+"36 Street Se (#8)",1,15,50,4,AB,124.95
+"Greenhill Rd",0,20,60,4,ON,51.9
+"Ravenhurst Street",0,60,70,2,MB,244.07
+"South Street",1,55,50,2,AB,11.36
+"Chemin St-Simon",0,70,50,2,QC,48.37
+"Dundas St East",0,60,60,4,ON,90.05
+"O Brien Blvd.",1,0,50,2,QC,7.57
+"Ormond St",0,80,50,2,ON,125.06
+"Castlederg Rd",2,55,60,2,ON,24.75
+"Flagg Rd",0,100,80,2,ON,95.9
+"Prestonvale Rd",1,60,60,2,ON,170.07
+"Township Road 172",1,55,80,2,AB,50.61
+"Colborne St",1,0,50,4,ON,77.66
+"Lalonde Street",1,60,40,2,SK,116.65
+"Range Road 15-0",0,55,50,2,AB,68.1
+"Road 93 West",1,60,90,1,MB,116.35
+"Glover Rd",1,35,30,2,BC,17.78
+"Secondary Highway 508 W",1,35,100,2,AB,56.44
+"4I�me Rang St-Hilaire",0,95,50,2,QC,93.77
+"Strong Road",1,60,80,2,ON,91.79
+"Blue Church Rd ((Cnty 31)",0,100,50,2,ON,116.57
+"County Rd 17",0,80,80,2,ON,1.56
+"Rue Des Erables",0,65,50,2,QC,17.43
+"Golden Spike Road",0,70,50,4,AB,20.04
+"County Rd 29  (Drumbo)",0,60,80,2,ON,74.61
+"Pat Rd",1,55,50,2,BC,119.92
+"Main St N - Cnty 3 (Princ",0,85,50,2,ON,37.77
+"Toupin Blvd.",0,65,30,4,QC,9.05
+"Beards Lane (Woodstock)",0,85,60,2,ON,47.91
+"Range Road 110",1,70,80,2,AB,87.6
+"Road 119 West - Sand Hill",0,60,90,2,MB,9.85
+"Stanley Ave - Reg 102",2,20,60,2,ON,31.35
+"Casablanca Blvd - Reg 10",0,65,60,2,ON,29.37
+"Idlywyld Drive",1,15,50,4,SK,113.4
+"Bedell Rd",0,60,80,2,ON,103.8
+"Chemin Du 2E Rang",0,95,80,2,QC,69.29
+"East Townline Rd",0,100,80,1,ON,278.54
+"Hiscocks Rd (Cnty 34)",0,100,80,2,ON,153.21
+"Elmhurst Street",0,15,50,2,QC,4.48
+"192Nd Street",1,50,50,2,BC,108.15
+"Manning Rd (Cnty 19)",0,60,80,2,ON,102.38
+W30-20-1,1,80,80,2,SK,248.97
+W7-25-11,1,80,80,1,SK,30.16
+"Bloor St East (Reg 22)",0,60,50,2,ON,171.74
+27-28-35-4,1,80,80,2,SK,180.59
+"Lockart Dr - 11Th Line",0,60,60,2,ON,58.47
+"Hwy   12",0,70,80,2,ON,74.44
+"Ns W24-14-17-3",1,50,80,2,SK,21.19
+"Techumseh Rd - Cnty 2",0,95,80,2,ON,81.03
+"Rue Guy",0,40,50,2,QC,124.52
+"Concession Road 3",1,50,30,2,ON,84.19
+"Rue Principale",0,95,50,2,QC,46.35
+"Park St",0,80,50,2,ON,125.15
+"Grand Ave E (Chatham)",0,40,50,4,ON,18.57
+"County Rd16 (Jasper)",0,95,50,2,ON,6.73
+"Road 150 West",1,60,90,2,MB,43.68
+"Minelly Rd",1,80,80,2,ON,44.02
+"Patillo Rd",0,95,50,2,ON,95.83
+"Road 30 East -Meadowville",0,70,90,2,MB,235.44
+"Rue Brock",1,30,50,2,QC,98.17
+"Patillo Rd",0,60,60,2,ON,99.79
+"Nudell Bush Anderson Rd",0,100,60,2,ON,85.3
+"Range Road 201",1,60,80,2,AB,233.74
+"Chemin Du 7E Rang",0,95,50,2,QC,102.72
+"Rue Beliveau",0,95,50,2,QC,80.17
+"Wallace Line Rd",1,60,80,2,ON,98.88
+"69 Avenue @Ogdendale Road",0,55,50,2,AB,170.75
+"64 Avenue Near 32 Street",1,40,50,2,AB,5.08
+"John F. Scott",0,100,70,2,ON,168.22
+"Adelaide - Hwy 81 (Mnt Br",0,95,50,6,ON,11.91
+"Route Cite Des Jeunes",0,80,90,2,ON,3.61
+"George St",0,45,50,2,ON,134.98
+"Yale Rd East",0,70,60,2,BC,64.51
+"Powell St.",0,0,50,4,BC,155.6
+"Woodland Ave.",0,50,50,2,QC,12.15
+"Concession Rd B",0,70,80,2,ON,67.79
+3-19-20,2,40,80,2,SK,9.6
+"Hwy 138  (Monkland)",0,60,80,2,ON,63.77
+"Rue Metropole",3,20,50,2,QC,7.45
+"Maple-Meadows Way",0,60,50,2,BC,106.2
+"Tisdale Dr -  Cnty 39",0,80,50,2,ON,77.31
+"Brockem Rd",0,95,60,2,ON,119.05
+"86 Street N 51 Avenue",1,10,60,4,AB,4.46
+"Road 117 West - Pioneer",1,60,90,2,MB,7.62
+"Road 39 East - Monominto",0,70,90,2,MB,226.25
+"Avonmore Rd (Cnty 15)",0,100,80,2,ON,73.86
+"Sharpe'S Lane",0,100,80,2,ON,123.11
+"Church Rd (Cnty 8)",0,100,80,2,ON,89.8
+"Wales Rd",0,100,80,2,ON,77.54
+"Hwy #9",0,55,50,4,BC,58.9
+"Road 153 West -Rae Siding",0,80,90,2,MB,177.02
+"Chemin Legault",1,60,50,2,ON,24.44
+"Park Rd - Reg 18",0,70,70,2,ON,48.46
+"20 St. Secondary Hwy 845",1,40,50,4,AB,98.54
+"34 Avenue",0,45,60,4,AB,93.53
+"Peter St (Bothwell)",0,80,50,2,ON,38.9
+"Victoria St (Thamesville)",0,80,50,2,ON,46.75
+"Main St- Cnty 34 (Alexand",0,100,50,2,ON,23.09
+"Rang Brodeur",0,95,80,2,QC,110.96
+"Chemin Des Cascades",1,80,80,2,QC,80.4
+"Governors Road",0,60,80,2,ON,90.47
+"Kensington Avenue",1,30,50,4,SK,138.76
+"Whitemud Dr Eb - Edmonton",1,20,60,3,AB,94.37
+"Hwy 22",0,80,100,2,SK,230.8
+"Anderson Rd  27",0,100,80,2,ON,70.44
+"Mckenna Casey Dr",0,95,80,2,ON,7.16
+"Scugog St",0,60,50,2,ON,164.22
+"King St W - Reg 15",1,30,50,4,ON,63.03
+"Boul. Bellerose",0,45,50,2,QC,14.54
+"Harris Rd.",0,60,50,4,BC,107.35
+"North Service Rd",0,60,80,2,ON,106.28
+"14Th Ave",0,50,50,4,ON,15.21
+"Chemin 2E Rang Est",0,95,80,2,QC,115.34
+23-24-34-2,0,80,80,2,SK,164.27
+"Chemin Du 9E Rang",0,95,80,2,QC,88.6
+"De La Traverse",0,95,80,2,QC,121.72
+"Ontario St- Reg 18",0,65,50,3,ON,23.21
+"Road 151 West",0,60,90,2,MB,44.85
+"Bellamy Rd",0,100,80,2,ON,246.24
+"Trafalger Rd (Reg 3)",0,50,60,2,ON,25.3
+"King St",1,35,60,2,ON,3.95
+"County Rd  5",0,95,80,2,ON,137.19
+"4Th Line Rd",0,95,80,2,ON,47.02
+"Road 25 East -Heatherdale",1,50,90,2,MB,114.47
+"Nissouri Rd (Cnty 27)",0,60,70,2,ON,107.4
+"Queen St",1,50,50,2,ON,109.09
+"Thames Rd - Cnty 8  (Apin",0,95,50,2,ON,23.06
+"Alexander St.",0,65,40,2,QC,11.72
+"Broadway Ave (Wyoming)",0,80,40,2,ON,45.18
+"Mtee Des Laurentides",1,60,80,2,QC,82.82
+"Capreol Rd 84 (Valley Eas",0,70,80,2,ON,272.51
+"Elgin Mills Rd",0,60,50,4,ON,22.16
+"Waterwork Rd",0,85,80,2,ON,61.44
+"Rockdale Dr - Cnty 33",0,100,50,2,ON,60.71
+"Rue Principale St(Casselm",0,80,50,2,ON,47.37
+"Secondary Highway 824",0,60,80,2,AB,250.25
+"Concession Rd 8",0,50,80,2,ON,75.89
+"19Th Avenue",0,60,60,2,ON,23.61
+"Wellington Rd",0,70,80,2,ON,52.95
+"Punnichy Access Road",1,60,50,2,SK,72.65
+"Albion Vaughan Rd",0,55,80,2,ON,19.71
+"Mervin Lane Rd",0,100,80,2,ON,114.43
+"Brinston Road (C Rd 16)",0,100,80,2,ON,98.9
+"Aultsville Rd",0,100,80,2,ON,84.23
+"Tch 1A",0,60,50,4,MB,57.34
+"County Rd 28",0,60,80,2,ON,63.27
+"Switzer Drive",0,60,60,2,AB,181.75
+"Century Road",0,70,50,2,AB,19
+"Riverside St.",0,55,50,2,BC,88.15
+"Hamiilton Rd  (Twp Rd)",0,100,60,2,ON,229.7
+"Glendale Ave - Reg 89",0,10,50,2,ON,7.59
+"W19-16-3-W2M Willowdale",1,60,80,1,SK,123.76
+"Cote Blvd 80 (Valley East",0,70,60,2,ON,271.52
+"Green Lane Rd",0,65,60,2,ON,16.52
+"Hwy 16 (Yellowhead)",0,80,70,2,MB,63.26
+"Range Road 61",0,60,80,2,AB,56.92
+"Industrial Rd",0,60,60,2,ON,109.71
+"Airport Road Bow Island",1,45,80,2,AB,39.28
+"Highway 4",1,35,80,4,AB,61.87
+"46Th Avenue",2,5,50,2,QC,3.33
+"Yellowhead Trail",0,10,70,6,AB,5.41
+"Ontario St (Cnty 31) (Col",0,100,50,2,ON,249.83
+11-12-17-8,0,60,80,2,SK,18.48
+"Lancaster St W",1,30,50,4,ON,62.08
+"Riviere Delisle Sud",0,95,80,2,ON,35.77
+"Trafalgar Rd - Reg 3",0,70,70,2,ON,30.83
+"Mearns Ave",0,55,50,2,ON,162.92
+"84 Street Se",0,55,50,2,AB,165.5
+"Lester Rd",0,100,80,2,ON,230.65
+W29-35-11,1,80,80,2,SK,228.89
+"Mainway Dr",0,50,60,4,ON,46.16
+28-21-5-11,1,50,80,2,SK,110.55
+"Road 140 West - Lansdowne",0,60,90,2,MB,32.6
+"County Rd 14",1,60,80,2,ON,60.91
+"Ste-Claire Road",0,95,50,2,ON,43.64
+"Prince Albert Sr",1,60,60,2,ON,62.09
+"Brown'S Xing",0,75,80,2,NS,55.27
+"Pemberton St (Ingersoll)",0,85,50,2,ON,58.26
+"Parkdale Ave",0,60,50,4,ON,26.55
+"Metcalfe St",0,100,80,2,ON,285.38
+"Flindall Rd",0,100,80,2,ON,237.03
+"Elmwood Dr",0,100,60,2,ON,218.18
+"Pr 206 (Oakbank Rd)",0,70,50,2,MB,238.48
+"Rue Ste-Anne",0,60,50,2,ON,29.73
+"25Th Side Road",0,50,80,2,ON,56.03
+"Mckones Rd.",1,70,80,2,ON,86.65
+"Centre Street In Vulcan",1,45,50,4,AB,50.97
+"Hallecks Rd",0,95,80,2,ON,129.91
+"Thames Rd - Cnty 8",0,60,90,2,ON,25.74
+"W. Bothwell Rd Hwy 79",0,80,80,2,ON,39.84
+"Sophia St  (Prescott)",0,100,50,2,ON,114.02
+"Whites Rd",0,100,60,2,ON,228.24
+"Queen St.",1,30,50,2,NB,124.45
+"Zorra St (Cnty 11)",0,85,50,2,ON,54.41
+"King St W (Reg 9)",0,55,60,2,ON,22.85
+"65 Avenue",0,55,50,4,AB,80.06
+"Britannia Rd (Reg 6)",0,50,80,2,ON,38.72
+"Rcaf Rd  (Twp Rd)",0,60,80,2,ON,101.28
+"Cnty Rd 28 (New Dublin Rd",0,100,80,2,ON,18.13
+"8 Street Se S 9 Avenue",1,30,50,4,AB,174.88
+"Boundary Rd 41",0,100,60,2,ON,65.93
+"Hwy 34  (Green Valley)",0,60,50,2,ON,49.1
+"Main St - Cnty 20  (Maxvi",0,80,50,2,ON,34.23
+"Blyth Park Rd",0,100,80,2,ON,247
+"Road 31 East - Poplar",0,70,90,2,MB,234.4
+"D'Arcy St",0,60,50,2,ON,134.32
+"Rd 43 (Ramsayville Road)",0,100,80,2,ON,71.98
+"Boundary Rd",1,60,80,2,ON,70.02
+"Hwy 1-08-40 (Pilot Butte)",0,60,90,2,SK,85.69
+"Highway 41",0,80,100,2,AB,138.26
+"Hwy   41",0,60,70,2,ON,68.13
+"Rideout St",0,50,50,2,ON,0.22
+"Westwood Street",0,40,50,4,BC,112.8
+"Boul Cite Des Jeunes",0,60,50,2,QC,1.46
+"41 Avenue Ne",1,30,50,2,AB,4.77
+"240 St.(River Rd)",1,0,50,2,BC,99.76
+"Bloomfield Rd",0,50,50,2,ON,63.86
+"Lorland Ave",1,65,40,2,ON,12.06
+"Victoria St (Alliston)",0,55,50,2,ON,45.18
+"Westminster Avenue",1,15,30,2,QC,0.04
+"Steveston Hwy.@Shell",0,15,80,4,BC,118.6
+"Chemin Du 10E Rang",0,95,80,2,QC,87.38
+"Church Street",1,50,50,2,BC,102.85
+"Crumlin Side Rd",0,60,60,2,ON,109.11
+"Road 84 West - Fanny St",0,60,50,2,MB,106.34
+"Durham St",0,100,80,2,ON,248.79
+"Wicklow Beach Rd",0,100,80,1,ON,253.98
+"Station Rd",0,100,80,2,ON,168.96
+"Huff Rd",0,100,80,2,ON,243.14
+"First St (Belle River)",0,95,50,2,ON,90.23
+"1 Street/ Meridian Street",1,0,60,2,AB,259.21
+"Shaw Rd - Cnty 32",0,85,50,2,ON,70
+"Whites Rd (Reg 38)",0,60,60,2,ON,189.96
+12-20-33,2,80,40,2,SK,238.89
+"Rr 231 (Clover Bar Rd)",0,60,80,2,AB,255.97
+Pinegrove,0,60,80,2,ON,61.05
+"Grays Rd",0,65,50,4,ON,36.97
+"Townline Rd",0,60,60,2,ON,191.92
+"37Th Line  (Cnty 2)",0,60,80,2,ON,93.97
+"Shepard Road",1,10,70,2,AB,169.53
+"Shepard Road",1,10,70,2,AB,169.04
+"Michael St",0,75,50,2,ON,75.37
+"Hwy 1A",0,60,70,2,MB,53.58
+"153 Avenue",1,50,60,2,AB,124.5
+"Route Du Village",0,95,50,2,QC,33.63
+"17 Avenue Se (1A)",1,25,60,4,AB,123.06
+"West St (Trenton)",0,60,50,2,ON,102.67
+"Highway 43 In Whitecourt",1,25,80,4,AB,103.91
+"Glendale Ave Reg 89",0,65,50,2,ON,9.24
+"Northumberland St (Reg 58",0,60,60,2,ON,67.6
+"Quabbin Rd  (Cnty 4)",0,95,50,2,ON,138.21
+"3I�me Rang Simpson",0,95,50,2,QC,95.71
+"Pr 207",0,70,70,2,MB,242.55
+"Blackwell Side Rd",0,80,80,2,ON,55.53
+"Tecumseh Rd",1,35,50,4,ON,109.77
+"Richmond St (Strathroy)",0,80,50,2,ON,20.19
+"Church St",1,35,40,2,ON,4.15
+"Metcalfe St W - Cnty 9",0,80,50,2,ON,20.04
+"Standard Road",1,80,80,2,SK,26.43
+"Macdonell St",1,10,50,4,ON,31.28
+"Aikens Rd",0,100,60,2,ON,226.97
+"50 Street",0,70,50,2,AB,24.08
+"Islington Ave",1,45,60,2,ON,9.95
+"Highway 22",0,70,100,2,AB,71.97
+"Road 26 East - Vernon Rd",0,70,90,2,MB,239.5
+"Boul St-Joseph",1,0,50,2,QC,29.43
+"23Rd St",0,65,100,2,ON,18.65
+"Golf Course Road",0,70,60,4,AB,23.07
+"Vanneck Rd - Cnty 38",0,60,80,2,ON,6.98
+"Ft Langley Aviation",2,50,15,1,BC,101.26
+"Audley Rd",0,60,80,2,ON,181.98
+"Hwy 11",0,50,90,2,ON,94.49
+"Arkoma Rd",0,80,80,2,ON,30.75
+"Chemin Du 5E Rang",0,80,80,2,QC,101.05
+"Bridge Street",1,5,50,4,QC,1.77
+"Derry Rd (Reg 7)",1,5,80,2,ON,26.5
+"County Rd 10",0,80,80,2,ON,13.6
+"216Th St",1,50,50,2,BC,105.08
+"Richmond Dr",0,100,50,2,ON,72.3
+"Craighurst Rd (Cnty 22)",0,60,80,2,ON,73.19
+"Yonge Mills Rd",0,95,80,2,ON,134.16
+"Langley Bypass",0,35,70,4,BC,20.13
+"Regional Rd 47",0,70,60,2,ON,66.58
+"Sec Hwy 625 In Nisku",0,50,50,4,AB,84.15
+"Hope St South",0,95,50,2,ON,270.05
+Farm,0,60,90,1,MB,76.4
+"Dwyer Hill Rd",0,95,80,2,ON,21.24
+"Findlay Station Rd",0,100,80,1,ON,160.22
+"Taite Rd",0,100,80,2,ON,235.3
+"Kamoka Rd - Cnty 16",0,80,50,2,ON,10.67
+"Jefferson Dr",0,50,80,2,ON,103.01
+"King St",0,15,60,4,ON,55.65
+"Scarboro St",0,80,50,2,ON,15.27
+"Limerick Rd",0,60,80,2,ON,37.58
+"Altona Rd (Reg 27)",0,60,60,2,ON,191.14
+"Maley Drive",0,65,60,2,ON,263.18
+"Ring Road E/B Lanes",0,25,100,2,SK,1.79
+"Range Road 15",0,70,80,1,AB,29.07
+"Pr 221 - Inkster Blvd.",0,60,70,2,MB,7.09
+"Boundary Rd (Rr 275)",0,70,80,2,AB,22.07
+"Innisfil Beach Rd",0,60,60,2,ON,55.55
+"128 Avenue W 144 Street",1,10,50,2,AB,5.17
+"Tottenham Rd (Cnty 10)",0,55,80,2,ON,33.24
+"Range Road 161",0,80,80,2,AB,205.14
+"Range Road 183",0,80,80,2,AB,220.91
+"Highway 901",0,55,100,2,AB,123.09
+"Chemin Ste-Marie",0,80,80,2,ON,4.5
+"Russland Rd",0,100,80,2,ON,58.5
+"Rochester Rd",0,95,80,2,ON,84.18
+"Hope St (Port Hope)",0,60,50,2,ON,141.15
+"Central Ave",0,60,50,2,ON,27.06
+"Glenview Rd",0,60,80,2,ON,2.81
+"Lavallee Rt.",0,55,60,2,NB,105.63
+"Highway 36",0,80,60,2,AB,184.78
+"Highway 14",0,70,80,2,SK,57.13
+"Hwy 7 Southwest Bound",0,30,100,4,SK,4.47
+"Mitchell'S Sideroad",0,100,60,2,ON,216.24
+"West Pike Creek Rd",0,95,60,2,ON,97.28
+"Drummond St",0,50,50,2,ON,12.2
+"Victoria St Cnty 44 (Stra",0,80,50,2,ON,20.39
+"Mount Albion Rd",0,20,50,2,ON,53.05
+"95 Street N 105 Avenue",0,30,50,2,AB,266.2
+"Maple Street (Young Rd)",0,55,50,2,AB,67.06
+"Dufferin St  (Reg Xx)",0,60,80,2,ON,24.61
+"Davis Dr  (Reg 31)",0,50,60,4,ON,34.16
+,0,60,90,2,NB,54.54
+"8Th Street",1,30,50,2,MB,55.81
+"Route 230",0,80,70,2,QC,36.86
+"Pr 5",0,60,100,2,MB,105.37
+"Hwy   17",0,40,90,2,ON,70.91
+"Hyw   17",0,40,90,2,ON,84.26
+"Chemin Du Domaine",0,95,80,2,QC,58.92
+"Highway 23",1,45,100,2,AB,45.29
+"Ellerslie Rd In Edmonton",0,55,60,2,AB,90.63
+"Surtherland Rd",0,95,80,2,ON,15.46
+"Vineland Rd - Reg 24",0,50,80,2,ON,27.84
+"Notre Dame Avenue",0,10,60,6,MB,1.25
+"Highway 834 (51 Street)",0,80,50,2,AB,226.3
+"Queen St S  - Reg 1",0,60,80,2,ON,7.61
+"Gill Road",0,60,80,2,ON,69.26
+"Ontario St",0,65,50,2,ON,27.42
+"Hwy 80",0,80,100,2,SK,239.99
+"Bartlett Ave",1,50,50,2,ON,4.62
+"Broadway Avenue",0,55,50,2,AB,5.25
+"Dunns Line  Road",1,50,80,2,ON,91.43
+"Melbourne Rd-Cnty  9",0,60,80,2,ON,21.17
+"Parkway Rd",0,95,80,2,ON,296.22
+"Lauzon Rd",0,50,50,2,ON,101.76
+"Wickstead Ave",0,60,40,2,ON,205.35
+"Glover Rd",0,65,100,2,ON,33.74
+"Wellington Rd 35",0,60,80,2,ON,50.6
+"Denisson Rd",1,60,80,2,ON,105.19
+"Snyder E. / Foundary St",0,70,50,2,ON,72.39
+"Ducharme Rd (Belle River)",0,95,50,2,ON,89.39
+"Victoria Ave",0,70,50,2,ON,64.06
+"Stoney Point Rd (Brighton",0,60,80,2,ON,108.85
+"Thirty Rd - Reg 14",0,50,60,2,ON,37.31
+"Main St E  (Chelmsford)",1,75,50,2,ON,90.94
+"Avenue Clover",0,50,50,4,ON,100.57
+"Municipal Road (7-8-16)",0,60,80,2,SK,75.42
+"Tremaine  Rd (Reg 22)",0,50,80,2,ON,41.63
+"Township Road 292 Acme Rd",1,45,80,2,AB,32.3
+"Lougheed Hwy",0,45,80,2,BC,81.48
+"112 Avenue E 84 Street",0,30,50,2,AB,265.29
+"8Th Street East",0,40,60,2,SK,107.27
+"Derry Rd (Reg 7)",0,50,60,2,ON,36.78
+"Chemin Du 7E Rang",0,70,90,2,QC,91.77
+"Victoria St (Colborne)",0,100,50,2,ON,249.43
+"Fraser Hwy",0,35,60,4,BC,21.28
+"Singh Street",1,50,50,2,BC,1.82
+"Chem. Limoges  (Cnty 5)",0,100,50,2,ON,55.97
+"Haig Rd",0,60,50,2,ON,89.88
+"Pr 305",0,60,100,2,MB,63.94
+"1St West  (Hurkett)",0,60,50,2,ON,80.3
+"Fraser Rd",0,100,80,2,ON,56.65
+"Perry Rd",0,100,80,1,ON,194.15
+"Picnic Point Rd (Longlac)",1,0,80,2,ON,100.27
+"Mccormick Rd",0,100,80,2,ON,22.29
+"Road 39 West",1,60,90,2,MB,2.48
+"County Rd 10",0,55,80,2,ON,49.02
+"Route Bureau",0,85,80,2,QC,82.86
+"5 Sideroad",0,50,60,2,ON,32.24
+"Grid Road #703",1,50,80,2,SK,157.82
+"Range Road 2112",1,50,80,1,SK,112.46
+"Simcoe (Cnty 3)",0,80,80,2,ON,49.24
+"Highway 9",0,60,70,2,SK,116.23
+"West Xing Halbrite",1,50,80,2,SK,102.12
+"178 Street N 114 Avenue",1,0,60,4,AB,8.4
+"Rue Vigneault",0,95,50,2,QC,72.03
+"3Rd Line Rd",0,95,50,2,ON,48.71
+"Oxford Ave",0,80,50,2,ON,124.09
+"Hwy 3 (Crowsnest Trail)",1,5,70,4,AB,64.76
+"Peninsula Rd (Marathon)",0,60,50,2,ON,62.88
+"Regonal Rd 15 (Chelmsford",0,75,80,2,ON,90.57
+"Rte 161",1,25,90,4,QC,2.9
+"Ressor Rd",0,60,60,2,ON,193.54
+"Nafziger Rd",0,70,80,2,ON,73.67
+"Trussler Rd",0,60,80,2,ON,68.82
+"Woolwich St S Reg 17",0,70,50,2,ON,58.39
+"Highway 24",0,60,100,2,AB,147.6
+"Lutz St.",1,30,50,2,NB,124.49
+"Glengyle Rd (Strathroy)",0,80,50,2,ON,18.69
+"La Barre Street",1,30,50,2,QC,8.41
+"Queen St (Strathroy)",0,80,50,2,ON,19.5
+"Kerwood Rd - Cnty 6",0,80,50,2,ON,26.15
+"Rue Labrosse - Cnty 15",0,100,50,2,ON,40.89
+"W30-17-5 (Old Hwy 19)",0,60,100,2,SK,55.24
+"Waterloo St -  Reg 1",0,70,50,2,ON,75.12
+"Erie St Hwy 7",0,50,50,4,ON,89.38
+"Gilford Rd",0,75,80,2,ON,49.05
+"Ns W5-39-19-3",0,80,80,2,SK,36.95
+"Wilson Dr",0,60,50,2,ON,65.93
+"Prov Road 248",0,80,50,2,MB,30.56
+"Hwy 100 (Perimeter Hwy)",1,25,100,4,MB,11.04
+"Fairway Street",1,5,50,2,QC,3.33
+"Ch. De La Grande Cote",0,45,50,2,QC,17.91
+"Osler Ave",1,30,30,2,ON,5.72
+"Pr 254",0,60,90,2,MB,35.68
+"Hwy 9",0,80,100,2,SK,264.39
+"Highway 17",0,80,100,2,AB,103.05
+"Cambrian Rd",0,95,80,2,ON,9.73
+"Twin Elm Rd",0,100,80,2,ON,9.88
+"Route Beaulieu",0,80,80,2,QC,27.42
+"St Jean Road",0,15,50,4,QC,36.27
+"St Lawrence (#38)",0,60,50,2,ON,87.81
+"County Rd 22",0,80,80,2,ON,32.06
+32-33-16-6,1,60,80,2,SK,9.21
+"Rue Robert",0,95,50,2,QC,59.36
+"Stanley Ave - Reg 102",0,65,60,2,ON,2.84
+"Cityview Dr",0,70,50,2,ON,46.93
+"Centre St",0,60,50,2,ON,21.11
+"Concession Rd 11",0,70,80,2,ON,78.47
+"Thornton Rd (Reg 52)",0,50,50,2,ON,175.6
+"Woolwhich/Guelph Line",1,70,80,2,ON,54.37
+"Cambie Rd",0,15,50,4,BC,118.6
+"Concession St East",0,60,80,2,ON,160.82
+"Main St North",0,45,50,2,ON,36.2
+"Main Street.",0,75,50,2,NS,46.75
+"Carroll Rd",0,60,80,2,ON,1.43
+"Glengoland Rd",1,60,80,2,ON,67.7
+"Barnsdale Rd",0,95,80,2,ON,11.78
+"Pr 250",0,60,90,2,MB,14.03
+"Rue Tache",0,80,50,2,QC,25.49
+"Rue St-Pierre",0,50,50,4,QC,35.96
+"Mulock Dr",0,60,50,4,ON,32.76
+"6Th Line Rd",1,55,80,2,ON,37.18
+"Mtee De L'Epiphanie",0,75,70,2,QC,118.07
+"Killarney Bch Rd (Lefroy)",0,75,50,2,ON,51.89
+"Albert Street(Hwy 6)",1,15,50,6,SK,93.54
+"Forest Rd - Cnty 8",0,80,80,2,ON,39.43
+"Oxbow Dr",0,80,80,2,ON,10.95
+"George Ave",1,30,50,2,ON,104.49
+"Range Road 274",0,55,80,2,AB,155.13
+"Chemin Du Tour",0,65,30,2,QC,15.69
+"F�lix-Leclerc",0,60,50,2,QC,2.3
+"Hagerty Rd  (Newbury)",0,95,50,2,ON,33.83
+"Drake Rd",0,80,80,1,ON,68.83
+"Emery Rd",0,95,80,2,ON,92.82
+"Twin City Cross Rds",0,60,70,2,ON,8.58
+"Missisauga Rd",0,70,70,2,ON,19.17
+"Logan Avenue",2,10,50,4,MB,0.33
+"Murphy Road",0,55,50,2,ON,51.85
+"Road 139 West - Tower",0,60,50,2,MB,31.57
+"Hagerty Rd Cnty 1 (Newbur",0,60,80,2,ON,37.24
+W6-17-27,0,60,80,2,SK,8.5
+"Rang Ste-Helene",0,95,80,2,QC,113.82
+"St Isidore St (Casselman)",0,100,50,2,ON,47.42
+"Road 77 East",0,60,90,2,MB,62.11
+"Heatherdale Road",0,60,90,2,MB,139.92
+"Dumfries Rd (Reg 47)",0,60,80,2,ON,62.8
+"Concession Rd 9",0,70,80,2,ON,76.69
+"96Th Avenue",0,50,60,2,BC,104.77
+"Chemin Du Petit Cap",0,80,90,2,QC,71.57
+"St. Francois Blvd",1,25,50,4,QC,202.36
+"Mapleview Dr",0,60,50,2,ON,59.29
+"Grand Range Road",0,95,80,2,QC,43.27
+"Rge Rd 20-0 Near Didsbury",1,45,80,2,AB,47.66
+"Hwy 93 (Craighurst)",0,60,80,2,ON,73.9
+"Hwy 144",0,55,80,2,ON,88.98
+"Hwy   15",0,50,80,2,ON,33.81
+"200Th Street",0,35,50,5,BC,21.1
+"Louth St - Reg 72",0,65,50,2,ON,12.02
+"Highway 12 (50 Avenue)",1,20,50,4,AB,18.47
+"Grimsby Rd - Reg 12",0,50,80,2,ON,40.05
+"Webber Rd - Reg 29",0,50,80,2,ON,24.07
+"Road 54 East -Pommer Lane",1,50,90,2,MB,83.4
+"Upper Prairie Rd.",0,70,80,2,BC,67.35
+"Wentworth St",1,10,50,2,ON,0.94
+"Hwy 101 (Folyet)",0,70,80,2,ON,148.91
+"Hopkins St (Reg 36)",0,50,50,2,ON,177.49
+"Henri Dunant Street",0,55,50,2,QC,18.66
+"Hwy 83",0,60,100,2,MB,49.09
+15-16-17-28,0,60,80,2,SK,12.02
+"York- Durham Line Rd",1,70,80,2,ON,44.78
+"Pr 206",0,60,100,2,MB,136.27
+"Boul Du Mill�naire",0,95,50,4,QC,60.04
+"County Rd 43 (Monkland)",0,60,70,2,ON,63.02
+"Main Street",1,20,50,4,NB,43.15
+"Dillon Rd",0,80,80,2,ON,66.32
+"2Nd Line",0,80,80,2,ON,50.12
+"Belair Beach Rd -5Th Line",0,60,80,2,ON,52.82
+"Bethesda Rd",0,80,80,2,ON,36.49
+"Gibson Rd",0,70,60,2,BC,68.35
+"10Th Street East",1,40,50,2,AB,39.87
+W31-31-26,1,80,80,2,SK,132.75
+"Ns W28-39-21-3",1,80,80,2,SK,49.26
+"Montee De La Station",0,80,50,2,ON,10.97
+"Range Road 223",0,60,80,2,AB,251.43
+"Wymans Rd",0,100,80,2,ON,209.02
+"Union Rd",0,100,80,2,ON,244.42
+"Station Rd (Cnty 31)",0,100,80,2,ON,256.3
+"Russell Rd 26",1,0,80,2,ON,67.98
+"Goldstream Ave.",0,40,50,4,BC,7.9
+"Gouin Boulevard",0,45,50,2,QC,9.91
+"Moira St",1,0,50,2,ON,221.14
+"Watson Road",0,70,60,2,ON,46.22
+"Range Road 165/ Haight Rd",0,80,80,2,AB,209.64
+"Range Road 175",0,80,80,2,AB,216.4
+"Range Road 184",0,80,80,2,AB,222.03
+35-14-33,0,60,80,2,SK,98.77
+"8-9-15-33 -Wapella Access",0,60,80,2,SK,103.12
+"Winona Rd",0,65,60,2,ON,32.17
+"Railway St",0,85,50,2,ON,68.52
+"Oxford St (Strathroy)",0,80,50,2,ON,20.29
+"Greenwood Rd (Cnty 40)",0,40,80,2,ON,88.29
+"Road 140 West",0,80,90,2,MB,162.98
+"Road 145 West - Ravine Rd",0,80,90,2,MB,168.29
+"Road 62 West -Orangeville",0,80,90,2,MB,81.69
+"Road 49 West - Elsmith",0,80,90,2,MB,68.41
+"Road 119 West",0,80,90,2,MB,139.98
+"Road 146 West -Palmerston",0,80,90,2,MB,169.29
+"Komoka Rd - Cnty 16",0,60,50,2,ON,10.52
+"Nashville Rd (Reg 49)",0,50,50,2,ON,16.7
+"Provincial Road 331",0,60,90,2,MB,45.94
+"96 Th Ave",0,50,50,2,BC,103.55
+"Kingscourt Rd",0,80,80,2,ON,37.65
+"Princess Ave",0,70,50,2,ON,41.06
+"Mayfair Rd",0,80,80,2,ON,21.54
+"Boul. Ste-Rose",0,45,50,2,QC,16.43
+"Dundonald Hwy 80",0,60,80,2,ON,30.22
+"Seigneurial Blvd",0,95,50,5,QC,62.18
+"Road 38 East - Pleasant",0,70,90,2,MB,227.27
+"Old Highway 15",0,70,90,2,MB,205.93
+"Mill Road",0,70,90,2,MB,220.22
+"Township Road 524",0,60,80,2,AB,245.63
+"Ns W23-15-15-3",0,55,80,2,SK,8.42
+"Ns W15-14-17-3",0,55,80,2,SK,23.5
+"6Th Street N.W.",1,80,40,1,SK,34.85
+"Hwy 15",0,80,100,2,SK,78.24
+"3Rd Line Road",2,50,80,2,QC,10.78
+"Lickman Rd",0,70,50,2,BC,74.6
+"Range Road 20",0,70,80,2,AB,30.1
+"Colton St",0,100,80,1,ON,248.29
+"Anderson Street",0,60,50,2,SK,15.73
+"Montrose Rd",0,60,50,2,ON,96.29
+"Range Road 242A",1,50,80,1,AB,135.1
+"Summerville - Husted Road",1,50,50,2,BC,32.23
+"Highway 37",0,55,80,2,SK,34.94
+"52 Street Se",0,40,60,2,AB,167.7
+"Grenfell Road",0,60,80,2,ON,62.3
+"Broadway Ave In Blackfald",0,55,50,2,AB,11.91
+"1 Avenue",0,70,50,2,SK,58.36
+"Hwy 100 (South Perimeter)",0,40,100,4,MB,6.71
+"6Th Ave",0,40,50,2,BC,40.05
+"Trulls Rd  (Darlington)",0,60,80,2,ON,169.31
+"Silver Skagit Rd.",0,55,50,2,BC,42.28
+"Arthur St",0,60,50,2,ON,158.07
+"E Puce River Rd (Cnty 25)",0,60,50,2,ON,97.73
+"Pr 210 (Traverse Street)",0,60,70,2,MB,125.85
+"Highway No. 56",0,60,60,2,SK,50.52
+"3Rd Line",0,75,80,2,ON,50.99
+"Cornwall Centre Rd",0,100,50,2,ON,71.4
+"Fairfield Rd",0,95,80,2,ON,22.57
+"Station St",0,60,50,2,ON,22.73
+"Bengeman""S Centre Rd",0,70,50,4,ON,59.81
+"Township Road 21-0",0,55,80,2,AB,92.48
+"Kennedy Rd  - Reg 3",0,70,60,2,ON,35.1
+"Banwell Rd",0,60,60,2,ON,103.67
+"Monck Rd (Cnty 45)",0,60,80,2,ON,81.52
+"Baptistchurch Rd S",0,60,80,2,ON,78.32
+"Jefferson Blvd",0,60,60,2,ON,105.87
+"Chemin Du 8E Rang",0,95,80,2,QC,103.68
+"Wilderton Ave.",0,55,50,4,QC,48.81
+"River Road",0,50,50,2,BC,101.47
+"15Th Street",0,0,50,6,SK,0.13
+"3Rd Ave.",1,10,50,2,BC,0.1
+"Highway 11A",0,35,80,2,AB,5.54
+"Pr 248",0,60,70,2,MB,29.06
+"5E Avenue",0,80,40,2,QC,64.6
+"Wellington St - Reg",0,60,50,2,ON,29.99
+"Boul. St-Elzear",0,45,50,2,QC,13.78
+"Boul. Des Prairies",0,45,50,2,QC,10.21
+"Bodson Dr (Valley East)",0,70,80,2,ON,269.7
+"Hwy 25",0,80,100,2,MB,144.6
+"Hwy 34",0,80,100,2,MB,84.73
+"Pr 207",0,50,80,2,MB,142.42
+"Chemin Cite Des Jeunes",0,60,50,2,ON,30.02
+"Sec Hwy 665",0,80,40,2,SK,158.5
+"Warden Ave (Reg 64)",0,70,70,2,ON,32.94
+"Hwy 37",1,45,60,2,BC,73.66
+"Perkins Rd",1,60,80,2,ON,17.94
+"Hwy 611 (Saddleback Ave)",0,55,50,2,AB,46.08
+"Pr 203",0,60,90,2,MB,78.02
+"Range Road 190",0,80,80,2,AB,224.74
+"7 St E (Hwy 873)",0,55,50,2,AB,65.96
+"Kipling Ave",0,50,50,2,ON,11.77
+"Rang Nord",0,80,90,2,QC,83.01
+"Third St",1,0,50,2,ON,111.12
+"Victoria St - 10Th Line",0,80,50,2,ON,57.49
+"Road 14 West",0,60,90,2,MB,31.24
+"Road 3 East",0,60,90,2,MB,12.44
+"Glover  Road",0,50,50,2,BC,102.92
+"Route De Montreal",0,15,80,2,QC,100.9
+"Aikens Rd",0,60,60,2,ON,97.71
+"Westminster Ave-Thompsonr",0,25,50,6,ON,77.4
+"Main St Cnty Rd 27",0,70,50,2,ON,41.3
+"Wescana Street",1,80,50,2,MB,15
+"Zone Centre Line",0,60,80,2,ON,44.07
+"19 Avenue E 102 Street",0,45,50,4,AB,92.05
+1236-6,1,65,80,2,SK,197.85
+"Jordan Rd - Reg 26",0,65,50,2,ON,17.19
+"Cnty Rd 21  (Greenfield)",0,80,60,2,ON,29.53
+"Upper Big Chute(Cnty 17)",0,50,80,2,ON,98.51
+"Queen St/ Baptiste  Cnty",0,60,80,2,ON,79.84
+"Bennets Rd",0,100,80,1,ON,289.08
+"Highway 2",0,55,50,2,NS,29.72
+"Gouin Blvd",0,65,50,4,QC,13.75
+"Pr 207",0,60,90,2,MB,131.38
+"Hwy  17",0,40,90,2,ON,68.63
+"2 Nd. Chaloupe Rg.",1,60,90,2,QC,98.79
+"Range Road 35",1,0,60,2,AB,41.56
+"Range Road 214",0,60,80,2,AB,245.02
+"5Th Zone Rd",0,80,80,2,ON,43.44
+"Mcarthur Rd",0,80,80,2,ON,24.58
+"Speedvale Avenue West",0,70,80,2,ON,54.06
+"46 Street (Hwy. 27)",0,45,50,4,AB,56.72
+"Simcoe Rd  (Brechin)",0,70,40,2,ON,72.4
+"Regional Rd 21(Pefferla",0,70,40,2,ON,55.56
+"Perrot Boulevard",0,55,50,2,QC,16.62
+"County Rd 18",0,60,80,2,ON,105.56
+"Chemin Du 10E Rang",0,95,80,2,QC,105.6
+"50 Avenue Se (28 St)",0,15,60,4,AB,125.87
+"Secondary Highway 567",0,45,60,4,AB,19.63
+"Hwy 35",0,80,100,4,SK,51.7
+"Lundy'S Lane - Reg 20",0,60,80,2,ON,26.37
+"Woodbridge Foam",1,50,50,2,ON,11.9
+"Ind Head Access Road",0,60,60,2,SK,49.5
+"Main Street (Hwy 310)",0,80,40,2,SK,34.41
+"Ns W36-46-21-3",1,40,40,2,SK,33.7
+"Kirby Rd  (Reg Xx)",0,60,60,2,ON,20.66
+"Pleasant Valley Road",0,75,50,2,NS,55.91
+"Industrial Rd",0,75,50,2,ON,42.26
+"Rue Olivier-Morel",0,80,50,2,QC,94.79
+"Notre Dame - Reg 12",0,70,60,2,ON,69.24
+"Boul St-Charles Borr",0,75,50,2,QC,101.62
+"Road 31 East",0,60,90,2,MB,133.16
+"Springfield Rd",0,80,80,2,ON,20.02
+"Renfrew St.",0,40,50,6,BC,153.7
+"Old Orchard St (Applehill",0,60,50,2,ON,57.93
+"Woodlawn Rd.",0,0,80,4,ON,34.15
+,1,60,90,2,MB,129.04
+"Prov Road 207",0,50,90,2,MB,116.57
+"Rue Beaudry Nord",0,75,50,4,QC,102.59
+"Narcisse St (3Rd St)",1,30,50,2,BC,63.59
+"Plowing Match Rd",0,80,80,2,ON,48.67
+"Rang St-Augustin",0,95,80,2,QC,112.56
+"Township Rd(C.2-3)",0,70,80,2,ON,83.25
+"Highway 101",1,45,80,2,ON,134.36
+"Power Line Rd",0,90,80,2,ON,17.15
+"Hwy 364",0,60,50,2,SK,78.5
+"Access Road",0,60,80,2,SK,102.22
+"Highway 39/6",0,30,100,2,SK,40.94
+"Birchmount Rd",0,0,60,4,ON,2.12
+"Range Road 235",1,45,80,2,AB,14.81
+"Green Rd",0,65,60,2,ON,36.4
+"Wilkes Avenue",0,15,90,2,MB,0.1
+"Road 112 West",0,80,90,2,MB,132.83
+"Road 96 West",0,80,90,2,MB,116.49
+"Road 116 West",0,80,90,2,MB,136.92
+"Wolf Creek Drive",0,55,60,2,AB,19.36
+"Shaftesbury Blvd",0,35,60,2,MB,6.27
+"Plessis Road",0,50,50,2,MB,246.63
+"Keil Dr (Chatham)",0,35,60,4,ON,65.82
+"Stephensons Rd",0,60,80,2,ON,71.1
+"Richmond St",0,85,50,2,ON,69.04
+"John St Rd",0,50,60,2,ON,16
+"Albert St (Alliston)",0,55,50,2,ON,44.96
+"Township Road 432",0,60,80,1,SK,104.92
+"Road 26 East - Vernon",0,50,90,2,MB,113.42
+"4Th Line",0,50,60,2,ON,28.67
+"Dawson Rd",3,10,60,2,MB,149.63
+"Fort William Rd",0,10,50,4,ON,1.87
+"Gobles Rd",0,60,80,2,ON,76.2
+"Hwy 537",0,45,80,2,ON,113.38
+"Smith Rd.",3,35,50,2,BC,18.58
+"Nissouri Rd - Cnty Rd 27",0,70,80,2,ON,111.86
+"Highway 881",0,80,50,2,AB,157.99
+"Route 218",0,80,80,2,QC,100.11
+"Rue St-Ambroise",0,45,50,2,QC,2.94
+"Road 145 West",0,60,90,2,MB,37.84
+"Green Line E - Reg",0,50,80,4,ON,35.61
+"Kings Road",0,10,50,4,NS,112.95
+"3Rd Conc Rd(Strong Rd.)",0,95,50,2,ON,87.8
+"4Th Conc Rd",0,95,50,2,ON,86.8
+"Main St East",0,50,50,2,ON,31.75
+"Heritage Rd",0,70,50,2,ON,20.14
+"Onslow Road",0,70,70,2,NS,2.49
+"15Th Side Rd",0,50,60,2,ON,26.63
+"Pentecostal Rd",0,100,50,2,ON,260.7
+"Cobbledick Rd",0,100,50,1,ON,287.26
+"Sunnybrooke Avenue",0,65,40,4,QC,12.25
+"Hwy   17",0,40,90,2,ON,78.45
+"18Th Street",0,80,90,2,MB,56.69
+"Jacklin Rd",0,40,50,4,BC,8.52
+21-28-18-13,0,60,80,1,SK,53.24
+"Edgeley Access Road",0,60,80,2,SK,65.16
+"Day St - Rr 75 In Fabyan",1,65,80,2,AB,146.69
+"Olivers Side Rd",0,100,80,1,ON,202.77
+"Mcintyre Rd",0,100,80,1,ON,191.51
+"Big Creek Rd",0,100,80,1,ON,193.68
+"Ham Rd",0,100,80,1,ON,189.49
+"Broken 2Nd Rd",0,100,80,2,ON,102.1
+"Peters Rd",0,100,80,2,ON,246.75
+"Provincial Road 257",0,60,50,2,MB,46.56
+"Rouke Line - 2Nd Conc.",0,60,50,2,ON,95.41
+"Water St",0,50,50,2,ON,33.55
+"Mandaumin Rd - Cnty 26",0,80,50,2,ON,50.97
+19-11-27-Wpm,0,60,90,2,MB,58.98
+"Road 61 West - Emmeline",0,60,90,1,MB,81.34
+"Road 147 West - Routledge",0,60,90,2,MB,40.12
+"N-S Road",0,60,90,2,MB,65.29
+"Road 169 West",0,60,90,1,MB,68.88
+"Road 148 West",0,60,90,2,MB,41.16
+"N/S Road Allowance",0,60,90,2,MB,10.37
+"Road 78 West",0,60,90,2,MB,100.23
+"Road 85 West",0,60,90,1,MB,107.38
+"Road 54 West",0,60,90,1,MB,74.16
+"Road 62 West",0,60,90,1,MB,82.38
+"Main St N (Cnty7) (Cheste",0,60,50,2,ON,82.04
+"Huntingwood Dr",0,50,50,4,ON,54.87
+"Woodview Ave",0,50,40,2,ON,4.37
+"Municipal Road",0,60,90,2,MB,46.14
+"Township Road 364",1,45,80,2,AB,82.19
+"Range Road 232",0,55,80,2,AB,126.88
+"15Th St",0,65,50,2,ON,16.65
+"Langstaff Rd",0,60,60,2,ON,18.15
+"Edworthy S.R. (Reg 71)",0,60,60,2,ON,60.9
+"208 Th Street",0,50,60,2,BC,106.13
+"71 Street N 72 Avenue",1,20,50,2,AB,170.68
+"County Rd 1  (Mountain)",0,60,60,2,ON,95.84
+"Secondary Highway 641",0,60,50,2,SK,110.41
+"43Rd Line",1,60,80,2,ON,92.22
+"Reesor Rd",0,50,60,2,ON,7.69
+"Hwy 625 (Hillsport)",1,70,80,2,ON,41.75
+"Road 148 West - Quadra",1,80,90,2,MB,171.4
+"Ch. Haut De Riviere",0,80,80,2,QC,35.08
+"De Province Street",0,40,50,2,QC,7.06
+"Steeles Ave (Reg 8)",0,50,80,2,ON,33.47
+"Hwy 875 Near Brooks",0,55,100,2,AB,59.64
+"Hwy  596",1,55,50,2,MB,137.45
+"Rue Sacre Coeur",0,75,50,2,QC,124.54
+"James St",0,50,50,2,ON,14.93
+"Highway 630",0,60,100,2,AB,236.82
+"Power Line Rd 2",0,90,0,2,ON,18.08
+"Mill St (Tottenham)",0,55,50,2,ON,35.36
+"23Rd Street",1,15,50,2,SK,0.19
+"Range Road 21",0,70,80,2,AB,31.11
+"14 Street - Range Road 65",0,60,50,2,AB,139.5
+"Rosedale Ave",0,20,40,2,ON,54
+"47 Street (Range Road 92)",0,70,50,2,AB,77.06
+"Road 2 East",0,60,90,2,MB,13.54
+"Secondary Highway 702",0,50,50,2,SK,112.15
+"Highway 7",0,40,80,2,AB,30.3
+"Melrose Rd",0,60,80,2,ON,79.24
+"Purcell Rd",0,85,60,2,ON,63.72
+"Hwy 64",0,50,80,2,ON,90.55
+"17Th Side Rd",0,50,60,2,ON,25.43
+"California Ave",1,10,50,2,ON,25.5
+"Fifty Rd",0,65,60,2,ON,31.67
+"District Rd 169",0,40,70,2,ON,111.6
+"Hwy 29",0,30,80,2,ON,20.6
+"Raglan St",0,40,50,2,ON,59.08
+"Hwy 797 Near Dalemead",0,55,80,2,AB,154.01
+"Blvd St-Pierre (Gauron)",0,15,50,5,QC,6
+"Mitchell Street",0,55,50,2,AB,5.79
+"Pr 210 (Principale Street",0,60,50,2,MB,113.68
+"Road 124 West",0,80,90,2,MB,146.1
+"Kimberly Clark - Grib Rd",1,70,25,2,ON,102.62
+"Kitley Line 1",0,95,80,2,ON,4.42
+"Rosedale Rd",0,100,80,2,ON,30.21
+"Notre Dame Avenue",0,10,60,6,MB,4.46
+"Upper Big Chute (Cnty 17)",0,50,80,2,ON,95.9
+"Charleswood Road",0,45,50,2,MB,9.78
+"Pulham Rd",0,80,80,2,ON,7.3
+"St Johns Sr - Reg",0,60,50,4,ON,31.28
+"Hele Rd",0,50,80,2,ON,117.24
+"Highway 12",0,50,100,2,MB,102.92
+"Gordon Street",0,60,40,2,SK,31.18
+"Secondary Highway 833",1,40,100,2,AB,44.95
+"Municipal Road",1,80,80,2,SK,272.1
+"4 Ieme Rang",0,95,80,2,QC,123.4
+"Pr 405 (Leclaire Rd)",0,40,90,2,MB,13.85
+"Bethel Church Rd",0,90,0,2,ON,17.39
+"Queensville Rd",0,55,50,2,ON,43.42
+"Tait'S Rd - Sr 20",0,60,80,2,ON,28.76
+"Hwy 24",0,80,100,2,MB,172.36
+"Highway 817",0,50,100,2,AB,141.19
+"Lac Pelletier Trail",0,55,80,2,SK,1.72
+"42 Avenue (@Macleod Tr)",0,15,50,2,AB,2.01
+"Boulevard De Boucherville",0,95,50,4,QC,60.87
+"4Th Ave.",1,20,50,2,BC,9.88
+"Range Road 194",0,70,80,2,AB,229.85
+"Rue Dufferin",0,15,50,4,QC,40.08
+"Chemin St-Emmanuel",0,60,80,2,ON,28.17
+"Woodlawn Avenue",0,50,50,2,SK,136.42
+"11Th Rd E",0,50,80,2,ON,44.89
+"Railway Avenue",0,45,50,4,BC,67.9
+"Industrial Way",0,50,50,2,BC,75.21
+"Riel Drive",1,30,50,4,AB,4.48
+"Rue Principale",0,55,60,2,NB,11.54
+"Sec Hwy 751 At Nojack",0,70,50,2,AB,92.26
+"Mud Rd  -  Reg 73",0,50,70,2,ON,42.71
+"Evans Road",1,0,80,2,BC,73.05
+4-9-26-12,0,80,80,2,SK,41.79
+"Range Road 181",0,80,80,2,AB,218.64
+4-5-21-2,0,80,80,2,SK,253.39
+21-28-20-1,0,80,80,1,SK,246.47
+"Range Road 185",0,80,80,2,AB,223.17
+"Township Road 444",0,80,80,2,AB,137.88
+"Excel Road",0,80,80,2,SK,258.9
+9-16-19-31,0,80,80,2,SK,227.86
+1-2-27A-14,0,80,80,2,SK,52.21
+"Whitemud Drive Westbound",0,20,60,4,AB,94.42
+"20 Side Rd",0,60,50,2,ON,5.79
+"Hwy 16",1,30,100,2,SK,28.28
+"Hwy 6 N/B Lanes",0,25,100,4,SK,4.2
+"Southbound Lanes",0,25,100,4,SK,4.22
+"Perth Rd (Cnty 10)",0,30,80,2,ON,8.88
+"Bathurst St (Reg Xx)",0,60,50,2,ON,39.66
+"Road 28 West",0,60,90,2,MB,46.5
+"Secondary Highway 870",0,80,80,2,AB,172.25
+"Kentbridge Rd- Cnty 15",0,60,50,2,ON,54.65
+"Foster Ave",0,60,50,2,ON,91.51
+"Chemin Des Trentes",0,95,80,2,QC,57.47
+"116 Avenue",1,10,60,4,AB,48.27
+"Cypress Avenue",0,55,80,2,AB,115.6
+"Martin St",0,50,50,2,ON,32.36
+"Navin Road",0,50,90,2,MB,145.13
+"Belanger Rd",0,60,80,2,ON,86.63
+"Shawville Gate Sw",1,0,50,4,AB,10.33
+"Route St-Germain",1,80,80,2,QC,22.11
+"Lacroix St (Chatham)",0,35,50,2,ON,64.85
+"Range Road 221",0,70,80,1,AB,160.27
+"Merlin Rd - Cnty Rd 7",0,60,80,2,ON,73.66
+"17 Street",0,45,60,2,AB,258.15
+"Oriole Dr",0,60,50,2,ON,39.33
+"Victoria Ave",1,10,80,2,ON,0.55
+"Donnely Rd",0,80,80,2,ON,29.6
+"Market St",0,80,50,2,ON,30.73
+"Bobtail Road",1,55,80,1,AB,38.7
+"Range Road 161",1,45,80,2,AB,72.51
+"199 Street N 111 Avenue",0,70,60,2,AB,9.67
+"Heritage Dr - Cnty 2",0,60,50,2,ON,114.81
+"Main St (Cnty 12)  (Finch",0,60,50,2,ON,74.35
+"Yellowhead (Hwy 16)",1,30,100,2,MB,91.25
+"Parkdale Ave",0,5,50,2,ON,4.1
+"Seine Road",0,60,60,2,MB,125.26
+"Range Road 72",1,60,80,1,AB,64.56
+"Rollyview Road In Leduc",0,55,50,4,AB,78.03
+"Railway Avenue",0,45,50,4,BC,67.13
+"Range Road 204",0,60,80,2,AB,237.64
+"County Rd 12 (Forest Mill",0,60,80,2,ON,71.29
+"Tannery St",0,55,50,2,ON,20.85
+"Ch. Primeau",0,30,100,2,QC,235.77
+"Dollard / St Pierre",0,10,50,4,QC,42.82
+"Pr 206",0,50,50,2,MB,112.37
+"Rang Nord Road",0,80,80,2,QC,84.55
+"Route Martineau",0,80,80,2,QC,39.6
+"Old Nairn Rd",0,10,80,2,ON,34.1
+"Borden St",1,35,50,2,BC,69
+"Route Mont-Carmel",0,80,70,2,QC,31.07
+"Pitt St - Cnty 23",0,100,50,2,ON,15.52
+"Plains Road",0,70,70,2,NS,10.62
+"Ford Rd",0,70,50,2,BC,65.1
+"Rr 211 Connection",0,60,80,2,AB,242.06
+"Melbourne Rd - Cnty 9",2,95,80,2,ON,18.51
+"County Rd 4 (Reidville)",0,60,80,2,ON,61.69
+"Range Road 213",0,60,80,2,AB,243.74
+"52 Street",1,5,60,4,AB,84.41
+"Pr 430",0,60,100,2,MB,42
+"Chemin Des Cypr�s",0,80,70,2,QC,64.03
+"Rang Nord",0,60,90,2,QC,90.61
+"Renaud Line Rd",0,60,50,2,ON,96.27
+"7Th Line (Reg 24)",0,60,50,2,ON,54.56
+"Road 68 North",0,60,90,2,MB,50.19
+"Beach Rd",0,40,50,2,BC,101.88
+"3Rd Street",0,30,50,2,MB,55.55
+"Robinson St",1,30,50,2,NB,124.43
+"Chemin Duhamel",0,60,50,2,ON,23.75
+"9Th Line",0,60,80,2,ON,56.59
+"82 Street N 113 Avenue",0,0,50,2,AB,265.15
+"Concession Road 13",0,70,80,2,ON,80.55
+"Boul. J.A. Par�",0,75,50,4,QC,121.83
+"Moose Street",0,60,50,2,SK,86.14
+"Lyons Street",0,60,40,2,MB,47.06
+"Hwy  631 (Hornepayne)",1,35,60,2,ON,295.6
+"Elevator - Bow Arrow",0,55,30,2,AB,46.54
+"Silverwood Road",0,60,80,2,SK,110.95
+"Township Road 472",1,40,80,2,AB,45.89
+"Farnham Road",0,50,50,2,NS,1.35
+19-20-35-12,0,80,80,2,SK,234.11
+"Rue Hebert",0,80,50,2,QC,25.22
+"Bartlett Rd S",0,65,80,2,ON,22.67
+"Avonlea Turnoff",1,50,80,1,SK,21.68
+"Ogilvie Road",0,60,90,2,MB,19.46
+"Road 120 West",0,60,90,2,MB,10.95
+"Route 289",0,40,90,2,NB,47.08
+"Road 94 West",0,80,90,2,MB,114.44
+"Road 63 West",0,80,90,2,MB,82.7
+"Broadway Street",0,20,50,6,SK,26.09
+"Jane Rd",0,60,80,2,ON,46.7
+"Pr 311",0,60,70,2,MB,118.22
+"Dorchester Rd",0,65,40,2,ON,4.39
+"Dixie Rd",0,60,50,2,ON,188.77
+"52 Street",0,5,60,2,AB,84.41
+"Chapel Rd",0,60,80,2,ON,59.12
+"Tower Rd",0,60,80,2,ON,60.11
+"Grand Bernier Road",0,40,50,4,QC,21.97
+"Industrial Blvd",0,40,50,4,QC,21.59
+"Plessis Road",0,35,60,2,MB,120.8
+"Pr 457",0,40,90,2,MB,129.72
+"Township Road 10-4",1,45,80,2,AB,7.34
+"Township Road 182",1,45,80,2,AB,64.63
+"Telkwa Mine Road",1,50,50,2,BC,116.07
+"Minnie St",0,85,30,2,ON,68
+"2Nd Concesssion",0,50,60,2,ON,36.38
+"Blenheim Rd",0,40,50,2,ON,58.91
+"Dump Access Road",0,80,90,2,MB,27.23
+"White Plains Road",0,80,90,2,MB,20.35
+"Mccready Rd",0,60,80,2,ON,39.56
+"Nepewassi Lake Rd",0,50,80,2,ON,107.36
+"Rue St-Maurice",0,20,50,2,QC,81.3
+"Hwy 791 At Indus",0,55,80,2,AB,158.8
+"Highway 41",0,55,100,2,AB,138.75
+"Park Street",0,15,50,4,SK,92.77
+"Ashton Rd",0,60,50,2,BC,60.18
+"King St Cnty Rd 28",0,70,50,2,ON,110.58
+"Township Road 492",0,80,80,2,AB,204.44
+"Milestone Access Road",1,50,40,2,SK,46.98
+"Gilmore Ave",0,50,50,2,BC,152.36
+"Pike Rd",0,80,80,2,ON,21.55
+"Riley Rd",0,100,80,1,ON,285.05
+Dorchester,0,40,50,4,ON,29
+"Huntington Road",0,50,80,2,ON,17.28
+24-36-7-,0,65,80,2,SK,196.84
+"Speedvale Ave",0,10,50,5,ON,32.74
+"Muskimerk Rd",0,60,80,2,ON,49.75
+"Pr 21",0,60,100,2,MB,24.35
+"Hwy 547 (Calf Child Tr)",0,55,40,2,AB,124.72
+"13Th St",1,30,50,2,BC,35.63
+"2Nd Line Rd",0,55,80,2,ON,33.55
+"144 Avenue",0,50,60,4,AB,125.38
+"Huron St",0,70,80,2,ON,115.74
+"Hwy 16",0,45,100,2,SK,86.98
+"Rue St-Albert",0,70,50,2,QC,52.59
+"Hwy 394",0,45,90,2,SK,104.65
+"Bairdmore Blvd North",1,25,50,4,MB,4.13
+"Vicars Rd",0,55,50,2,BC,126.23
+"Jellyby Rd",0,95,80,2,ON,15.85
+"6Th Concession",0,95,80,2,ON,21.17
+"Secondary Highway 830",0,60,80,2,AB,246.26
+"4Ieme Ave",1,75,50,2,QC,106.82
+"Road 118 West - Topham",0,60,90,2,MB,8.73
+"Road 42 West - Munro",0,60,90,2,MB,61.9
+"Concession Rd 2",0,60,80,2,ON,46.78
+"Hwy 15",0,80,90,2,SK,93.85
+"Marion Street",1,15,50,4,MB,149.63
+"Elphinstone Street",0,35,50,4,SK,94.62
+"Elmsdale Rd",0,65,50,2,NS,32.16
+"Chemin St-Dominique",0,60,70,2,ON,26.33
+"Municipal Road",0,80,80,2,SK,238.61
+"Nw 27 52 3W5",0,70,40,1,AB,39.38
+"Montee Des Trente",0,90,50,2,QC,54.34
+"Lapiniere Rd.",1,35,30,2,QC,37.62
+"Celanese Road @ 17 Street",0,45,50,2,AB,259.89
+"Cartier St (Casselman)",0,100,50,2,ON,47.55
+"Wood Rd",0,60,80,2,ON,118.9
+"Road 39 West",0,80,90,2,MB,58.16
+"North St (Cnty 10)",0,50,50,2,ON,11.72
+"Vincent Massey",0,10,80,2,ON,72.31
+20-3-8-Epm,0,60,90,2,MB,111.88
+"Road 29 East (Riverview)",0,60,90,2,MB,135.13
+"Owens Road",0,60,90,2,MB,128.6
+"Hwy  617",0,50,80,2,ON,124.73
+"Hwy 9",1,0,70,4,SK,25.29
+"76Avenue W 40Street (#14)",1,10,50,2,AB,131.88
+"Sunset Rd (Cnty 4)",0,15,80,2,ON,2.61
+"Christina Rd",0,60,80,2,ON,16.64
+"Oxbow Dr",0,60,80,2,ON,9.12
+"Centre Sr",0,60,80,2,ON,59.31
+"Spruce River Rd",0,60,80,2,ON,122.68
+"Adelaide St",0,30,50,4,ON,113.73
+"Highway 857",0,80,100,2,AB,197.22
+"Escott/Young Rd",0,95,80,1,ON,139.3
+"Range Road 27-3",2,35,60,2,AB,10.5
+"Range Road 75",0,50,80,2,AB,14.27
+"Hwy 47",0,60,60,2,SK,15.4
+"Forest Glen Rd (Hamlet)",0,50,60,2,ON,92.82
+"Janzen Road",0,60,90,2,MB,31.64
+"Range Road 20",0,80,50,2,AB,107.15
+"Chemin Montcalm",0,75,90,2,QC,108.89
+"Beck Avenue",1,30,50,2,SK,25.66
+"Lorne Ave",0,50,50,2,ON,89.91
+"Barron Rd",0,60,60,1,ON,24.1
+20-21-33-28,0,80,80,2,SK,152.26
+"Range Road 280",0,55,80,2,AB,157.38
+"Twp Rd 230",0,55,80,2,AB,160.23
+"Highway #6 Avonlea",1,50,100,2,SK,40.7
+"Perth Line 20",0,70,60,2,ON,93.9
+"Harwich Rd",0,80,80,2,ON,56.77
+"Millen Rd",0,65,60,2,ON,35.87
+"Road 4 East",0,60,90,2,MB,11.34
+"Pr 302",0,50,100,2,MB,96.63
+"Neebing Ave",0,40,50,2,ON,3.23
+"John St",1,0,50,2,ON,14.95
+"Charron Line Rd",0,95,50,1,ON,88.81
+"Montee Ste Julie",1,40,30,4,QC,14.17
+"Telfer Side Rd",0,80,80,2,ON,54.39
+"School Rd",0,80,80,2,ON,22.7
+"Grande Allee Blvd.",0,50,50,2,QC,38.61
+"92 Street @ 106A Avenue",0,30,50,2,AB,265.96
+"Hwy    643",0,70,80,2,ON,140.73
+"Ellice Street",0,60,50,2,SK,86.52
+"Devine Rd",0,100,80,2,ON,60.57
+"Eight Rd",0,100,80,2,ON,41.45
+"Mcneil Rd",0,100,80,2,ON,39.99
+"Highway 21",0,55,40,2,SK,84.2
+"Montclair Blvd.",0,10,50,6,QC,117.65
+"Hwy 17",0,30,90,2,ON,41.28
+"Hwy 17",0,30,90,2,ON,63.5
+"Highway 93 Near Banff",0,50,50,2,BC,99.91
+"Drive-In Road",1,30,90,2,MB,2.75
+"Hwy 559",0,55,80,2,ON,30.83
+"Development Rd",0,60,80,2,ON,93.55
+"County Rd 25",0,60,80,2,ON,106.91
+"32 Avenue W 67 Street Nw",0,45,50,2,BC,6.25
+"46 Ave - 45A Ave",0,55,50,2,AB,18.01
+"Thomas Rd",0,100,80,1,ON,252.68
+"St. John'S Sd",0,70,60,2,ON,33.8
+"Montcalm Blvd.",0,25,50,4,QC,36.27
+"Newberry St",0,60,50,2,ON,91.61
+"50 Avenue",1,0,50,2,AB,35.06
+"Sideroad 30",0,60,80,2,ON,58.14
+"Boyne Street",0,55,50,2,ON,45.84
+"Blackfoot Trl 46Th St Cgy",0,10,80,6,AB,117.1
+"Township Road 41-0",0,55,80,2,AB,20.77
+"Buckland Rd",0,100,50,2,ON,60.87
+"Main St",0,100,50,2,ON,55.71
+"Hwy 19",0,60,100,2,SK,53.35
+"Euphemia Line",1,60,80,2,ON,41.31
+"Route Trepanier",0,95,70,2,QC,36.96
+"Sewells Rd",0,50,40,2,ON,8.39
+"Highway 842 In Cluny",0,55,50,2,AB,116.23
+"Dundonald Avenue",0,25,50,2,SK,190.71
+"10Th Side Rd",0,50,70,2,ON,30.29
+"45 Avenue",0,55,50,2,AB,66.54
+"Sandy Point Rd(46Ave",0,55,80,2,BC,66.87
+"Pr 430",0,60,50,2,MB,85
+"La Promenade Des Soeurs",0,10,50,2,QC,1.63
+32-33-15-1-W2M,0,60,80,1,SK,108.78
+19-20-17-10,0,60,80,1,SK,35.15
+"Poplar Street-Wolesley",0,60,80,1,SK,31.77
+11-14-18-12-W2M,0,60,80,1,SK,44.9
+9-10-18-16-W2M,0,60,80,1,SK,72.32
+"Sask 617",0,60,80,2,SK,28.67
+18-17-17-8,0,60,80,2,SK,22.57
+3-4-16-2-W2M,0,60,80,1,SK,114.12
+"Mcnaughton Ave E",0,40,50,2,ON,19.25
+"3Rd Line Rd",0,55,60,2,ON,34.5
+"Rge Rd 3050",0,80,80,2,SK,183.92
+"Teston Rd  (Reg Xx)",0,60,60,2,ON,19.4
+"231 Street (Hillview Road",0,70,80,2,AB,11.81
+"Mckay St  (Rossport)",1,45,80,2,ON,14.59
+"Chemin Benoit",0,95,50,2,QC,50.84
+"Road 134 West",0,80,90,2,MB,156.67
+"Road 85 West",0,80,90,2,MB,105.24
+"Road 76 North",0,80,90,2,MB,168.41
+Unknown,0,80,90,2,MB,121.04
+"Road 41West (Belle Plain)",0,80,90,2,MB,60.23
+"Road 42 West - Ferris",0,80,90,2,MB,61.26
+"Road 131 West",0,80,90,2,MB,153.5
+"Road 48 West",0,80,90,2,MB,67.38
+"Road 55 West - Bergquist",0,80,90,2,MB,74.56
+"Road 53 West - Image Hill",0,80,90,2,MB,72.49
+"118 Avenue W 163 Street",0,10,60,6,AB,6.96
+"Hwy 54  (50 Street)",0,45,50,2,AB,75.12
+"Road 71 West",0,80,90,2,MB,90.87
+"Road 110 West",0,80,90,2,MB,130.79
+"Ns W29-14-16-3",0,55,80,1,SK,18.6
+"Bournais Drive",0,50,50,2,MB,247.42
+"Range Road 205",0,60,80,1,AB,238.71
+"Chemin Grande-Cote",0,60,90,2,ON,40.17
+"Regional Rd  42",0,60,80,2,ON,160.65
+"192 St.",0,35,50,2,BC,22.62
+"Bow Avenue @ Banff",0,40,50,2,BC,82.04
+"Ch. Des Douze Terres",0,60,90,2,QC,65.84
+"Pr 242",0,60,50,2,MB,71.1
+"Range Road 13",0,70,80,1,AB,27.02
+"Rue Des Forges",0,0,50,2,QC,81.3
+"Drummond Rd",0,40,50,2,ON,29.71
+"50 Street In Wildwood",0,70,50,2,AB,77.4
+"31St Line",0,60,80,2,ON,96.54
+"Fariview Rd",0,60,80,2,ON,106.5
+"Upper Fraser Rd",2,50,60,2,BC,122.52
+"Thames St (Cnty 7)",0,15,50,2,ON,8.9
+"Commodore Rd. (Maple Beac",0,70,50,2,ON,59.86
+"Road 41 East - Marsh",0,70,90,2,MB,224.21
+"Oakcrossing Road",0,70,90,2,MB,219.19
+"Road 40 East - Pioneer",0,70,90,2,MB,225.23
+"Road 42 E - Queens Valley",0,70,90,2,MB,223.18
+27-28-32-27,1,80,80,2,SK,143.54
+"Shaw Street",0,55,50,2,SK,81.93
+"104 Ave. E.",0,50,50,2,BC,110.35
+"Daniel St (Cnty 2)",0,40,50,2,ON,40.41
+"5Th Ave (S/H 601)",0,60,50,2,SK,102.35
+"Lakeshore Rd",0,100,50,2,ON,281.6
+"King Street",0,45,40,4,MB,47.43
+"Poppe Rd",0,80,80,1,ON,73.75
+"Smith Rd (Cnty 9)",0,60,80,2,ON,83.42
+"Municipal Road",0,60,80,2,SK,89.8
+"97 Street N 60 Avenue",0,20,50,4,AB,172.73
+"Cobequid Road",0,50,60,2,NS,15.09
+"Jefferson Blvd",0,10,60,6,ON,103.04
+"Packham Rd",0,70,80,2,ON,90.57
+"County Rd 38",0,50,50,2,ON,40.62
+"Williams Road",0,15,50,4,BC,118.6
+"Eighth Line Rd",0,100,60,2,ON,65.99
+"Blenheim Rd",0,60,80,2,ON,72.39
+"Hwy 11",0,40,80,2,ON,85.31
+"Rte Des Commissaires",0,75,70,2,QC,116.38
+"Clarkes Side Rd",0,35,60,4,ON,116.92
+30-8-14-W2M,1,50,80,2,SK,81.98
+12-7-13-W2M,1,50,80,2,SK,96.51
+"West Town Xing Rouleau",1,50,80,2,SK,24.35
+27-28-11-17-W2M,1,30,80,1,SK,62.58
+"14Th Ave (Reg 71)",0,35,60,4,ON,51.5
+"15 Avenue In Didsbury",0,45,50,2,AB,46.22
+"Range Road 32 (3 St)",0,70,50,2,AB,38.43
+"Chemin St-Michel",0,75,50,2,QC,106.19
+"Brigden Rd",0,80,80,2,ON,53.25
+"Mcevoy Rd",0,80,80,2,ON,17.28
+"Inadale Dr",0,80,80,2,ON,15.45
+"Walkers Rd",0,80,80,2,ON,17.59
+"Hwy 11",0,50,50,2,MB,196.66
+"49 Avenue E 53 Street",0,45,50,2,AB,75.37
+Sec13&14-11-5-Wpm,0,80,90,2,MB,43.11
+"Wicklow Beach Rd",0,60,80,2,ON,124.85
+"Hwy  607",0,50,80,2,ON,84.83
+"Valley St",0,100,50,2,ON,40.38
+"Prince St (Maxville)",0,80,50,2,ON,34.48
+"Highway 11/44",0,50,60,2,MB,72.5
+"Avenue St-David",0,80,50,2,QC,77.62
+"Switch Rd",0,70,50,2,ON,86.95
+"Nordel Way",0,10,60,4,BC,137
+"Slaters Rd",0,70,60,2,ON,31
+"Adams Rd",0,55,80,2,ON,69.95
+"Rang Des Martin",0,95,70,2,QC,82.14
+"Quebec Avenue",2,30,50,4,SK,4.89
+"Kerman Ave",0,65,50,2,ON,28.32
+"Montee Harwood",0,60,40,2,QC,10.6
+"Range Road 232",0,45,70,2,AB,257.14
+"Montrose Rd - Reg 98",0,60,50,2,ON,28.29
+"Morrison St",0,40,50,2,ON,29.3
+"C & E Trail",0,55,80,2,AB,16.99
+"Access To Ryley",0,80,50,2,AB,214.8
+"Rue Lindsay",0,30,50,2,QC,98.23
+"Township Road 224",0,55,80,2,AB,155.64
+"Townline Rd",0,100,80,2,ON,250.61
+"Oak St",0,35,50,2,ON,4.64
+"Route 170",0,50,100,2,QC,176.03
+"Hwy 397",0,45,100,2,SK,84.17
+"Dunning Rd",0,100,80,2,ON,58.7
+"Fairfield Line",0,60,80,2,ON,46.77
+"Old Airport Rd - Sr 5",0,60,80,2,ON,31.74
+"Pratt Siding Rd",0,60,80,2,ON,33.25
+"Springfield Rd",0,60,80,2,ON,22.7
+"Zone Rd 2",0,60,80,2,ON,47.9
+"Sinclair Rd-Sr-6-7",0,60,80,2,ON,76.06
+"Big Ben Rd",0,60,80,2,ON,34.76
+"3Rd Line Rd",0,60,80,2,ON,70.79
+"Zone Road 4",0,60,80,2,ON,45.51
+"Victoria Street",0,60,50,2,MB,77.73
+"Government St",0,30,50,4,BC,39.7
+"Raleigh St (Chatham)",0,35,50,2,ON,64.59
+"Adelaide (Chatham)",0,35,50,2,ON,64.15
+"Wellington St (Chatham)",0,35,50,4,ON,64.31
+"William (Chatham)",0,35,50,2,ON,64.25
+"Rue Ste-Catherine",0,50,80,2,QC,37.52
+"Wright Ave",0,10,50,2,NS,8.72
+"101 Street",0,55,80,2,AB,90.02
+"Hwy  596",0,55,80,2,MB,140.37
+"75 Street @ 61 Avenue",0,10,50,4,AB,4.46
+"5Th Ave",0,65,50,2,BC,74.74
+"Range Road 13",0,45,100,2,AB,59.89
+"56 Ave.",0,35,50,2,BC,21.98
+"Mufford Cres.",0,35,50,2,BC,20
+"Yellowhead Highway 16",0,40,80,4,SK,81.97
+"10Th Zone Rd",0,80,80,2,ON,37.39
+"St Andre Rd (Grand Falls)",0,45,70,2,NB,183.05
+"24Th Avenue Sw",0,60,80,2,SK,3.12
+"Wellington St. West",0,10,50,4,ON,180.39
+"Township Road 422",0,55,80,2,AB,29.65
+"Blair Rd",0,100,80,2,ON,106.43
+"Marine Station Rd",0,100,80,2,ON,103.86
+"2Nd Line Rd - Cnty 26",0,100,80,2,ON,50.64
+"Campbell Rd",0,100,80,1,ON,115.93
+"Range Road 214",0,50,80,4,AB,105.74
+"Grid Road 633",0,55,80,2,SK,50.44
+"Mont�e Des Arsenaux",0,75,50,2,QC,122.71
+"42 St & 54 Av @ Innisfail",0,45,50,2,AB,74.48
+"54 Street In Olds",0,45,50,2,AB,56.2
+"Fredericton Rd",1,40,50,2,NB,10.97
+"Heritage Rd - Cnty Rd 31",0,70,80,2,ON,107.67
+"Crush Cres.",0,35,60,3,BC,18.81
+"Conc. Rd  7",1,60,60,2,ON,46.76
+"Solsqua Road",1,50,50,1,BC,38.77
+"Maccan Road.",0,55,80,2,NS,69.06
+"Colbourne St E - Cnty 53",0,30,50,5,ON,32
+"Goreway Dr",0,50,70,2,ON,8.8
+"Shediac Rd",0,70,70,2,NB,118.71
+"Queen St",0,25,50,4,ON,61.54
+"Road 20 West",0,60,90,2,MB,37.14
+"Road 31 West",0,60,90,2,MB,49.97
+"Route De L'Eglise",0,80,50,2,QC,19.81
+"Hwy 20",0,80,40,2,SK,105.96
+"Highway 21",0,40,100,2,AB,17.41
+"Route Bovin",0,80,70,1,QC,47.25
+"Munroe Avenue",0,35,50,2,MB,122.86
+"Rue St-Paul",0,75,50,2,QC,122.21
+"Circle Drive",0,10,80,6,SK,4.19
+"Range Road 145",0,80,80,2,AB,196.1
+"Plover Mills Rd - Cnty Rd",0,70,80,2,ON,106.28
+"Wellburn Rd - Cnty Rd 27",0,70,80,2,ON,105.59
+"Lantz Rd",0,65,50,2,NS,33.77
+"Drummond Rd (Drummond)",0,50,70,2,NB,177.51
+"Chemin Du Moulin",0,80,80,2,QC,60.55
+"Hill Street",1,30,40,2,SK,8.59
+"Boul. Des Terrasses",0,45,50,2,QC,16.81
+"Ste Canelle Road",1,80,70,2,QC,38.42
+"Simcoe St",0,70,50,2,ON,63.88
+"Concession Rd 2",0,70,50,2,ON,70.64
+"Pr 424 (Calrin Access)",0,80,90,2,MB,18.44
+"Pembroke St",0,40,50,2,ON,94.5
+"Bridge St (Almonte) Cnty",0,30,50,2,ON,23.98
+"Boundary Rd.",0,50,50,4,BC,152.7
+"Stevensville - Reg 116",0,60,50,2,ON,8.15
+"Mcnicoll Ave",0,50,50,4,ON,53.61
+,1,65,60,2,NB,170.44
+"Concession Rd 4",0,70,80,2,ON,52.77
+"Concession Rd 10",0,70,80,2,ON,77.55
+"Blvd Du Lac",0,65,30,2,QC,17.86
+,0,0,25,2,ON,20.1
+"Flindall Rd",0,60,80,2,ON,107.73
+"Harris St Cnty Rd 50",0,70,50,2,ON,40.56
+"Waddington Rd.",1,40,50,2,BC,74.48
+"Moonstone Rd (Cnty 12)",0,55,80,2,ON,88.5
+"Highway 15",0,30,100,2,AB,144.18
+"Industrila Park Rd",0,50,60,2,ON,36.74
+"Ojibway Pkwy",1,15,60,4,ON,7.9
+"Chemin Des Cascades",0,80,30,2,QC,78
+"Secondary Highway 821 N",1,35,80,2,AB,87.44
+"Hwy 13",0,50,80,2,SK,82.91
+"5Th Line Rd",0,55,50,2,ON,36.22
+"Purple Hill Rd",0,60,80,2,ON,104.82
+"Cobble Hills Rd",0,60,80,2,ON,103.07
+"Dundas & Hale Sts.",0,35,50,4,ON,118.46
+"Route Bellavance",0,80,80,2,QC,73.53
+"Route De La Fabrique",0,50,80,2,NB,51.84
+"Boundary Rd",0,60,80,2,ON,121.36
+"Kalium Road Turnoff",0,60,80,1,SK,120.66
+"County Rd 44",0,60,50,2,ON,88.34
+"149 Street N 115 Avenue",0,5,60,4,AB,5.41
+"River Avenue In Cochrane",0,40,50,2,BC,22.63
+"Newton Access Road",0,60,50,2,MB,45.16
+"1E Rue Pare",0,80,30,2,QC,41.29
+"Gerald Access Road",0,80,60,2,SK,231.7
+"Range Road 132",0,60,80,2,SK,104.28
+"Van Sickle Rd",0,65,50,2,ON,12.55
+"Rue Notre-Dame",0,30,50,2,QC,98.72
+"Bradford St  (Reg 13)",0,60,50,2,ON,38.43
+"Brooks Lane",0,75,50,2,NS,61.21
+"162 Avenue",0,35,60,4,AB,9.94
+"Beaverhill Boulevard",1,25,50,2,MB,4.35
+"Township Road 324",0,45,80,2,AB,54.53
+"115 Avenue E 80 Street",0,30,50,2,AB,264.9
+"Consession 7",0,95,80,1,ON,19.79
+"Elmhurst Road",0,35,50,2,MB,7.46
+"Christina Rd",0,95,80,2,ON,13.96
+"Mill St",0,45,50,2,ON,35.69
+"Twp Rd 360 (Floral Road)",0,80,80,2,SK,182.98
+"43Rd Ave",1,10,50,2,BC,84.7
+"Road 71 North",0,50,90,2,MB,148.53
+"81 I�me Ave",1,0,50,5,QC,126.92
+"Stephens Avenue",1,30,50,2,MB,54.22
+"Oxford St",0,35,60,4,ON,116.97
+"Highway # 8",0,40,80,2,BC,71.83
+"118 Avenue Nw",1,10,60,2,AB,8.4
+"Water St- River Line",0,80,50,2,ON,47.67
+"Black Rd - Hwy 17",0,40,80,2,ON,177.26
+"108 Avenue & 98 Street",1,15,50,4,AB,48.78
+"Selkirk Avenue",1,10,50,2,MB,0.98
+"Glenwood Drive",0,15,50,2,NS,62.96
+"Con 3-4 Rd",0,60,80,2,ON,77.3
+"Sherman Ave",0,10,60,3,ON,1.46
+"Carlsbad Lane",0,100,80,2,ON,64.9
+"Wallace Rd",0,95,80,2,ON,94.91
+"Pr 307 (Brereton Lake Rd)",0,70,80,2,MB,179.72
+"Range Road 220",0,60,80,2,AB,247.45
+"2Ieme Rue Est",1,15,40,4,ON,97.06
+"Vespra Valley Rd",0,60,20,2,ON,64.19
+"Montee Principale",0,75,80,2,ON,87.91
+"272Nd St",0,65,60,2,BC,98.14
+"14Th Line",0,55,60,4,ON,44.1
+"Clairevue Blvd.",0,40,80,4,QC,0.85
+Fairweather,0,80,80,2,ON,49.82
+"Sintaluta Access Road",0,60,50,2,SK,39.64
+"Des Pins St",0,100,50,2,ON,55.15
+16-17-18-12-W2M,0,60,80,1,SK,47.45
+"Pr 350",0,80,90,2,MB,76.57
+10-11-20-33,0,80,80,2,SK,240.86
+5-6-20-32,0,80,80,2,SK,237.49
+11-12-20-33,0,80,80,2,SK,239.7
+"Range Road 101",0,80,80,2,AB,162.4
+"Fall River Road.",0,55,30,2,NS,17.24
+2-3-27A-14,0,80,80,2,SK,53.25
+"Rang Renversy",0,60,90,2,QC,67.93
+"Grid Road 734",0,80,80,2,SK,129.66
+"99 Street S 61 Avenue",0,20,60,4,AB,173.01
+"Chemin St Louis",0,60,50,2,ON,22.91
+"Tremane Rd (Reg 22)",0,50,60,2,ON,34.24
+"Road 95 West",0,80,90,2,MB,115.46
+"Road 91 West",0,80,90,2,MB,111.36
+"Road 143 West",0,80,90,2,MB,166.14
+"Road 103 West",0,80,90,2,MB,123.46
+"Road 106 West",0,80,90,2,MB,126.7
+"Road 111 West",0,80,90,2,MB,131.81
+"Road 118 West",0,80,90,2,MB,138.96
+"Road 129 West",0,80,90,2,MB,151.39
+"Road 64 West",0,80,90,2,MB,83.72
+"Road 56 West",0,80,90,2,MB,75.56
+"Road 84 West",0,80,90,2,MB,104.22
+"Pitt Rd",0,80,80,2,ON,45.43
+"Ontario St W",0,55,50,2,ON,21.2
+"Cold Creek Rd",0,55,80,2,ON,19.15
+"Kenora Ave",0,65,50,2,ON,38.31
+"Hwy 6 & 16",0,45,100,2,SK,15.13
+"Gordon Rd (Dryden)",0,60,50,2,ON,64
+"St Elmo Rd",0,55,50,2,BC,47.75
+"Range Road 193",0,70,80,2,AB,229.03
+"Range Road 91",0,70,80,2,AB,76.05
+"Range Road 45",0,70,80,1,AB,126.11
+"Hall Rd",0,100,80,2,ON,67.44
+"25Th Line",0,60,80,2,ON,98.73
+"Heritage Rd",0,60,80,2,ON,105.68
+"Blandford Rd",0,60,80,2,ON,80.7
+"Devon Rd",0,60,80,2,ON,130.46
+"Thorah Park Blvd",0,70,50,2,ON,58.11
+"Concession Rd 1",0,70,50,2,ON,58.52
+"Milton Road",0,55,50,2,AB,21.94
+"Cumberland Rd.",0,25,50,2,BC,139.7
+"Pasqua Street North",2,25,50,2,SK,5.54
+"Range Road 154",1,70,80,2,AB,116.73
+"Heritage Drive In Calgary",0,35,60,4,AB,4.63
+"Concession Rd 3",0,70,80,2,ON,71.5
+"Range Road 282",1,45,80,2,AB,49.4
+"Range Road 272",1,45,80,2,AB,41.38
+,0,70,90,2,MB,198.68
+"Municipal Road",0,80,80,2,SK,32.5
+"Hwy 14",1,30,100,2,SK,38.64
+"Blvd Du Seminaire",0,50,70,2,QC,19.59
+"Pr 242",0,80,90,2,MB,70.46
+"Huron St.",1,10,50,2,ON,180.54
+Private,0,10,50,1,BC,118.6
+"No 5 Road",0,15,50,4,BC,118.6
+"Ch. Cendre Lafeuille",0,80,80,2,QC,66.41
+"Route Jeffrey",0,80,80,2,QC,44.42
+"Torbram Rd",0,50,60,4,ON,10.49
+"Florence St",0,45,50,2,ON,109.24
+"Woodward Ave",0,30,50,2,ON,39.04
+"Hitchcock Rd",0,100,80,1,ON,161.85
+"Boundry Rd",0,100,80,1,ON,158.23
+"Moores Rd",0,60,80,2,ON,9.06
+"Lawson Settlement Rd",0,60,80,2,ON,109.66
+"Big Hill Springs Road",0,45,60,2,AB,17.57
+"Pr 302",0,70,90,2,MB,222.27
+"Township Road 33.04",0,45,80,2,AB,61.38
+"Secondary Highway 630",0,70,50,2,AB,232.39
+"Montee Chenier",0,80,80,2,ON,2.13
+"Sherk Rd",1,40,80,2,ON,14.16
+"Pottery Rd",0,35,50,2,ON,4.42
+"Rte 108",0,45,90,3,QC,39.38
+"Lakeport (Reg 31)",0,60,80,2,ON,121.14
+"Hwy 7 (Lougheed Hwy)",0,45,20,2,BC,75.45
+"Sec Hwy 642 In Morinville",1,35,80,2,AB,21.63
+"Route 219",0,40,50,2,QC,13.17
+"Hwy  529",0,60,80,2,ON,62.04
+"Chemin Petit 9E Rang",0,95,70,2,QC,51.72
+"Range Road 17-2",0,55,80,2,AB,86.53
+"Range Road 201A",0,55,80,2,AB,106.25
+"Pr 305",1,40,100,2,MB,24.01
+"Road 35 East - Stoneridge",0,70,90,2,MB,230.31
+"Secondary Highway 566",0,45,50,2,AB,13.5
+"Route Bellevue",0,60,40,2,QC,6.35
+"Fairport Rd",0,60,50,2,ON,189.38
+"Couture Rd",0,95,50,2,ON,78.64
+"Upper Big Chute(Cnty 17)",0,50,80,2,ON,101.45
+"Riverside Dr - Reg 27",0,40,80,2,ON,22.68
+"Mount Wolfe Rd",0,55,80,2,ON,32.24
+"122 Rd",0,70,80,2,ON,93.55
+"Road 124 West",0,60,90,2,MB,15.05
+"Road 130 West",0,60,90,2,MB,22.08
+"Road 79 West",0,60,90,1,MB,101.27
+"Road 136 West - Runnymede",0,60,90,2,MB,28.52
+"Road 75 West",0,60,90,1,MB,97.07
+"Road 50 West",0,60,90,1,MB,70.06
+"Road 92 West",0,60,90,2,MB,114.65
+"3Rd Avenue North",0,30,50,7,SK,112.52
+"15Th Sideroad (Reg Xx)",0,60,40,2,ON,26.1
+"Hwy 59",0,20,90,4,MB,7.64
+"Road 53 West",0,60,90,2,MB,73.12
+"Road 66 West",0,60,90,2,MB,86.51
+"Royale Street",1,5,50,4,QC,53.58
+"Industrial Dr (At Grade)",0,10,80,2,ON,55.65
+"Canboro Rd",0,50,80,2,ON,27.07
+"Range Road 15",2,30,80,2,AB,89.58
+"Township Road 222",0,50,80,2,AB,142.89
+"Range Road 271",0,70,80,2,AB,17.99
+"Route 289",0,50,90,2,NB,41.16
+"Bolton Rd",0,60,80,2,ON,111.11
+"Pr 340",0,60,50,2,MB,121.8
+"Puett Ranch Road",0,40,50,2,BC,133.7
+"Range Road 224A",1,50,80,2,AB,113.75
+Chesley-Drive.,0,10,50,4,NB,1.59
+"Ellis St",0,6,50,2,BC,118.98
+"Orchard St (Alyea Rd)",0,60,60,1,ON,105.48
+"Gore Rd",0,60,60,2,ON,53.4
+"County Rd 3  (Drumbo)",0,50,80,2,ON,73.75
+"Township Road 484",0,55,80,2,AB,71.85
+"Douglas Rd",0,50,50,2,BC,151.05
+"Baseline Rd",0,80,80,2,ON,45
+"Range Road 160",0,80,80,1,AB,203.97
+"Chemin Elie-Auclair",0,60,80,2,ON,36.51
+"Tolmies Cors. Rd",0,60,80,2,ON,65.27
+"Concession Rd 13",0,70,80,2,ON,80.62
+"Pinnacle St",0,45,50,2,ON,92.03
+"Prov Road 308",0,60,50,2,MB,57.81
+"Lincoln Ave",0,65,50,2,ON,23.74
+"Mission Flats Road",0,40,30,2,BC,2.07
+"Vanier Blvd.",0,50,50,4,QC,21.57
+"Township Road 534",0,70,80,2,AB,126.89
+"Route De La Station",0,80,80,2,QC,16.34
+"Route Principale",1,30,90,2,ON,57.07
+"Road 68 West",1,55,90,1,MB,89.35
+"Young Rd",0,50,80,2,ON,39.92
+"Highway 34",0,60,100,2,MB,85.48
+"Cote St Louis Road",0,40,50,2,QC,22.21
+"Edges Rd  19",0,60,80,2,ON,63.19
+"Bellamy Rd",0,60,80,2,ON,116.93
+31-32-17-18,0,60,80,2,SK,86.7
+"7Th Zone Rd",0,80,80,2,ON,41.02
+"Book Rd",0,65,80,2,ON,25.5
+"Paquette Rd",0,50,80,2,ON,133.41
+"Kehl Rd",0,50,80,2,ON,96.33
+"Pole Line Rd",0,50,60,2,ON,10.7
+"Jacques Cartier Blvd",0,40,50,6,QC,6.38
+"Olde Dr",0,80,80,2,ON,14.37
+"Scotchmere Dr",0,80,80,2,ON,16.53
+"Waterworks Rd",0,80,80,2,ON,52.12
+"Amiens Rd",0,80,80,2,ON,12.56
+"Aberdeen Rd",0,80,80,2,ON,14.81
+,0,70,50,2,ON,257.54
+"Route 300",0,100,80,2,ON,53.39
+"Bloomfield Rd (Chatham)",0,35,80,2,ON,66.77
+23-24-13-31,0,60,80,2,SK,83.08
+"Lake Ave",0,30,50,2,ON,17.26
+"Mitchell Rd",0,60,80,2,ON,86.81
+18-10-16-W2M,1,50,80,2,SK,66.45
+"Morrison Rd",0,25,50,2,ON,8.16
+"Rue Principale",0,30,90,2,QC,89.05
+"Ns W26-46-24-4",0,55,80,2,AB,59.13
+"Front St",0,45,50,2,ON,92.09
+"Clovelly Cove Rd",0,70,50,2,ON,57.97
+"Burrard Av",0,50,50,4,BC,69.3
+"Pr 334 (Harris Road)",0,80,90,2,MB,13.85
+"Prov Road 352",0,80,90,2,MB,91.9
+"Regional Rd 12",0,45,60,2,ON,25.49
+"Route Lupien",0,75,50,3,QC,71.05
+"Colborne St",0,30,50,2,ON,114.19
+"Mcnaughton St (Wallacebur",0,30,50,4,ON,41.1
+"First St",0,35,50,2,ON,111.63
+"Second St",0,35,50,2,ON,111.39
+"Marion Street",0,25,60,4,MB,1.55
+"Cariboo Road",0,45,50,2,BC,147.23
+"Waste Disposal Road",0,95,0,1,ON,295.12
+"Ottawa St",0,30,50,2,ON,41.02
+,1,95,25,2,QC,41.4
+"Shellard Sideroad",0,60,80,2,ON,54.04
+"Township Road 40-1",0,55,80,2,AB,14.64
+"Hwy 527 (Armstrong)",0,55,80,2,ON,1.11
+"Brown Rd",0,30,80,2,ON,4.71
+"Qu'Appelle Street",0,60,80,2,SK,117.34
+"201 St",0,50,50,2,BC,106.97
+"2 Ieme Rang Nord",0,60,80,2,QC,61.32
+"Hazel St",0,10,80,2,BC,6.51
+"Station Rd",0,60,80,2,ON,5.7
+"Boul. Des Chenaux",0,30,50,2,QC,4.16
+"5Th Line",0,50,80,2,ON,27.65
+"Lower Baseline Rd",0,50,80,2,ON,40.69
+"35Th Line",0,60,80,2,ON,94.86
+"50 Street In Taber",0,45,50,2,AB,76.72
+"Hawkins Pickle Rd (Bell)",1,50,15,2,BC,80.03
+"Range Road 73",0,80,80,2,AB,144.41
+"Range Road 154",0,80,80,1,AB,201.75
+"Range Road 182",0,80,80,2,AB,219.78
+"Range Road 155",0,80,80,1,AB,202.87
+W16-20-33,0,80,80,2,SK,242.34
+"Township Road 472",0,80,80,2,AB,178.03
+"Range Road 22",0,80,80,2,AB,109.2
+20-29-33-28,0,80,80,1,SK,153.14
+"Muskowekwan Reserve Rd",0,80,80,2,SK,62.69
+35-36-31-25,0,80,80,2,SK,133.86
+,0,80,80,2,SK,220.48
+34-35-18-31,0,80,80,2,SK,224.11
+"Range Road 151",0,80,80,2,AB,198.35
+33-21-4,0,80,80,2,SK,266.62
+14-15-33-28,0,80,80,1,SK,149.88
+W18-34-1,0,80,80,2,SK,163.12
+"Range Road 142",0,80,80,1,AB,192.74
+"Range Road 120",0,80,80,2,AB,176.56
+"Range Road 123",0,80,80,1,AB,180.16
+"Range Road 141",0,80,80,1,AB,191.62
+"Range Road 170",0,80,80,2,AB,210.77
+"Range Road 15",0,80,80,2,AB,106.12
+W6-24-8,0,80,80,2,SK,16.11
+8-9-23-7,0,80,80,2,SK,6.72
+31-29-22,0,80,80,2,SK,109.81
+32-32-27,0,80,80,2,SK,145.47
+"Murray Rd",0,80,80,2,SK,140.54
+"Township Road 484",0,80,80,2,AB,195.32
+W31-34-2,0,80,80,1,SK,169.69
+11-12-21-3,0,80,80,2,SK,256.69
+23-26-23-8,0,80,80,2,SK,11.14
+"Public Rd",0,80,80,2,SK,13.8
+"Range Road 163",0,80,80,2,AB,207.39
+"King (Chatham)",0,35,50,2,ON,64.13
+"40 Avenue",0,35,50,4,AB,56.33
+"Glasgow St",0,70,50,2,ON,66.66
+"Farm Rd. ( 3000 Block )",0,50,50,2,BC,3.89
+"Near Wasa",0,30,100,2,BC,14.64
+Sec-14/15-28-18-W2M,0,80,80,2,SK,79.2
+27-28-22-6,0,80,80,2,SK,278.7
+"Range Road 65",0,55,60,1,AB,7.05
+"51 Avenue",0,40,50,2,AB,114.64
+"Road 59 West - Rosehill",0,60,90,2,MB,79.28
+"Ew Div Nw32-12-20-3",0,55,80,2,SK,45.68
+"Ns W27-11-27-3",0,55,80,2,SK,91.36
+"Ns W8-13-19-3",0,55,80,2,SK,39.7
+"Ns W9-14-17-3",0,55,80,1,SK,24.45
+"232 St.",0,35,60,2,BC,16.48
+"Manitou Rapids 11",1,50,25,2,ON,112.81
+"Townline E (Cnty 7B)",0,30,50,2,ON,18.04
+"Gull Lake West Access",0,55,80,2,SK,35.61
+W7-12-3-4,0,55,80,2,AB,132.61
+"Hwy 4",0,30,60,2,SK,109.09
+"Nelson Street",0,70,50,2,BC,89.87
+"Marion Street",1,15,60,2,MB,149.63
+"Montee Des Chutes",0,60,80,2,QC,75.34
+"Norseman St",1,15,50,2,ON,9.14
+"Old Hwy No.1",0,60,80,2,SK,7.82
+"Secondary Highway 582",0,45,70,2,AB,46.91
+"11 Street S 18 Avenue",1,45,60,2,AB,97.84
+"Barlow Trail S  50 Avenue",0,10,70,4,AB,125.69
+"Pr 350",0,60,70,2,MB,77.23
+13-16-13,0,60,80,1,SK,102.06
+"Huff Sr",0,60,80,2,ON,52.43
+"Mcgrath Rd. S.",0,70,50,2,BC,64.95
+"Rue Du Pont",0,50,50,2,NB,194.05
+"Service Road",0,70,80,2,SK,84.08
+"Dufferin Ave (Wallaceburg",0,25,50,4,ON,42.13
+"Mcneilly Rd",0,65,60,2,ON,33.22
+"Dogwood Avenue",0,65,50,2,BC,74.22
+"Highway 36",0,45,50,2,AB,75.67
+"Moore St",0,30,50,2,ON,17.18
+"4Th Line Rd",0,70,60,2,ON,33.54
+"Road 110 North Gimli Park",0,25,70,2,MB,56.05
+"First School Rd",0,80,60,2,ON,35.4
+"Gaudette Street",0,10,50,2,QC,24.33
+"Cameron Rd.",0,55,80,2,BC,61.54
+"Grid Road",0,80,80,2,SK,47.36
+"Township Road 452",0,80,80,2,AB,145.14
+"Twp Road 372 In Penhold",0,45,60,2,AB,86.3
+"51 Avenue W  99 Street",0,20,60,6,AB,94.94
+"170 Street",0,30,70,4,AB,1.37
+"Rosamond St",0,30,50,2,ON,17.7
+"Mountainview Rd",0,65,50,2,ON,24.27
+"Rang Kempt",0,50,80,2,QC,16.32
+"Glen Oak Rd",0,60,80,2,ON,19.66
+"Spingwell Rd",0,60,80,2,ON,13.6
+"Mud Lake Rd",0,50,80,2,ON,13.75
+"Riverbank Dr",1,10,50,2,ON,7.64
+"1St Avenue",0,60,50,2,SK,102.62
+"Road 63 North",0,55,90,1,MB,88.61
+"Essendene Ave",0,10,80,2,BC,6.59
+35-36-38-5,0,30,40,2,SK,66.07
+"Grid Road 637",0,80,80,2,SK,245.66
+"South Plympton Rd",0,80,80,2,ON,42.94
+"Gordon Lake Rd",0,65,80,2,ON,96.88
+"Timothy St",0,50,50,2,ON,33.64
+"Hunt Club Rd",0,100,60,2,ON,244.94
+"Park Ave E",0,15,50,4,ON,60.8
+"Moncton-Shediac Hwy",0,15,110,4,NB,118.51
+"James Mckevitt Road",0,35,50,2,AB,8.72
+"Northfld Dr (Reg 50)",0,0,60,6,ON,62.5
+"184 St.",0,35,60,2,BC,23.59
+"Lakeshore Blvd",0,10,60,6,ON,3.25
+"Cottonwood Road",0,45,80,2,AB,72.86
+"Range Road 202",0,60,80,2,AB,234.97
+"Range Road 130",0,80,50,2,AB,183.69
+"Road 17W (Benard)",0,80,90,2,MB,34.86
+"Harper Rd",0,60,50,2,ON,15.44
+"Range Road 14",0,70,80,2,AB,28.04
+"Range Road 265",0,70,80,2,AB,15.91
+"Highway 9 (2Nd St W)",0,25,50,6,AB,52.25
+"Road 150 West",0,70,90,2,MB,173.96
+"Church Street",0,35,50,2,ON,149.98
+"Milestone Access Road",0,50,80,2,SK,46.1
+12-3-9-W2M,0,50,80,2,SK,131.78
+46916,0,50,80,2,SK,101.12
+"Bell Road",0,55,50,2,BC,87.26
+"Kenyon  Rd West Conc 4",0,80,80,2,ON,25.52
+"Faucher-Baker Rds",0,100,80,2,ON,51.53
+"Community Row",0,45,50,2,MB,9.31
+13-14-17-21,0,60,80,1,SK,101.2
+"Range Road 181",1,45,80,2,AB,85.06
+"Range Road 140",1,40,80,1,AB,58.98
+"Page Rd",0,55,50,2,BC,84.73
+26-27-29-22,0,80,40,2,SK,106.6
+"Bentley Road",0,80,80,2,SK,174.99
+"Grand-Bernier Road",0,35,50,4,QC,24.58
+"Willmore Park Rd In Edson",0,50,50,2,AB,130.9
+"Waterloo St",0,30,50,3,ON,114.34
+"Cyr Street",0,55,50,2,NB,13.18
+"Sann Rd",0,65,60,2,ON,22.13
+"Upper Big Chute(Cnty 17)",0,50,30,2,ON,103.87
+"Municipal Rd.",0,80,80,2,SK,82.39
+"Grid Road 663",0,80,80,2,SK,179.49
+"Township Road 120",1,45,80,2,AB,5.95
+"Ross Avenue",0,25,70,4,SK,0.7
+"Southampton Rd.",0,70,80,2,NS,72.27
+"Toronto St",0,100,80,1,ON,286.75
+"Deseronto Rd (Cnty 10)",0,100,80,1,ON,204.27
+Grassie,0,50,70,2,ON,42.34
+"Range Road 14",1,30,60,2,AB,88.57
+"Secondary Highway 524",0,55,75,2,AB,9.43
+"9Th Line - Reg 69",0,50,70,2,ON,42.36
+"Hanlon Expressway",0,0,70,4,ON,34.15
+"Hanlon Expressway",0,0,70,4,ON,34.14
+"Municipal Road",0,80,80,2,SK,277.6
+"47 Avenue",0,35,50,2,AB,56.84
+"St Thomas Rd",0,100,50,2,ON,57.88
+"Hwy  627",0,45,50,2,ON,55.11
+"13St N 10Ave",0,50,5,2,BC,36.02
+"Pacific Avenue",0,55,50,2,SK,84.83
+"Road 58 West",0,60,90,1,MB,78.26
+"Parker St.@ Glen Dr.",0,8,50,2,BC,155.6
+"Denison Ave",0,35,50,2,ON,3.17
+"Irwin Lake Road",0,75,50,2,NS,59.68
+"Young St (Capreol)",1,20,50,2,ON,275.63
+"Ansel Road In Edson",0,70,80,2,AB,133.08
+"Bowen Road",0,40,50,4,BC,76.53
+"Main St (Almonte) (Cnty 1",0,30,50,2,ON,24.18
+"King-Vaughn Rd",0,60,50,2,ON,21.99
+"Grid Road 672",0,80,80,2,SK,201.85
+"11 Street Sw",0,25,50,3,BC,1.12
+"Lafleur Avenue",0,5,50,4,QC,42.51
+"Meridian Road",0,60,90,2,MB,15.81
+3-4-13-30,0,60,80,1,SK,77.63
+7-14-31,0,60,80,2,SK,89.7
+21-22-16-3,0,60,80,1,SK,120.65
+28-29-18-13-W2M,0,60,80,1,SK,53.74
+13-14-16-3-W2M,0,60,80,1,SK,118.45
+6-7-17-9,0,60,80,1,SK,29.67
+"Humberstone Rd",0,55,80,2,ON,23.8
+"Banford Rd",0,70,50,2,BC,69.27
+20-21-36-8,0,80,80,2,SK,213.6
+"Prov Road 332",0,80,70,2,MB,25.08
+"Chemin De Dalhousie",0,60,50,2,ON,41.66
+"Rue Principale",0,50,40,2,QC,7.71
+"Marshall Rd",0,30,80,2,BC,7.64
+"River Rd",0,35,50,2,BC,137.1
+"Center Ave (Chatham)",0,35,50,2,ON,64.41
+"Road 34 West",0,60,70,2,MB,53.32
+"Road 137 West -Hesselwood",0,60,90,2,MB,29.54
+"Road 121 West - Harok",0,60,90,2,MB,11.97
+"N-S Road Allowance",0,60,90,2,MB,61.13
+"Road 48 West",0,60,90,2,MB,68.03
+"Access Road",0,60,90,2,MB,68
+"St Louis Street",0,40,50,4,QC,21.26
+32-33-29-22,0,80,60,2,SK,108.34
+"115Th Street East",0,30,50,2,SK,109.88
+,0,60,80,2,ON,57.93
+"Township Rd",0,60,80,2,ON,79.73
+"Northridge Dr (Hwy 2A)",0,25,50,4,AB,25.67
+"Elliot Rd",0,60,80,2,ON,21.21
+"Windsor Jct Rd.",0,55,60,2,NS,16.02
+"Bay St",0,45,80,2,ON,90.07
+"118 Avenue W 142 Street",0,10,60,4,AB,5.41
+"Grande Carriere",0,50,50,2,QC,61.04
+"Range Road 144",0,55,80,2,SK,3.8
+"Munroe Ave",0,40,50,2,ON,59.05
+"Morse Sask Turnoff",0,55,50,2,SK,73.71
+"Tweedie Ave",0,50,50,2,BC,85.47
+"Hanson Road",0,80,80,2,SK,170.81
+"Rue Des Sulpiciens",0,50,50,2,QC,114.35
+"Highway 105",0,55,80,2,MB,71.23
+"Con 3   (Thorah)",0,70,50,2,ON,60.94
+"Concession Rd 2",0,70,50,2,ON,59.63
+"Creamery Rd",0,60,80,2,ON,108.26
+"41St Line",0,60,80,2,ON,93.12
+"Progress Ave",0,40,50,4,ON,56.74
+"Grid Road 673",0,80,80,2,SK,212.5
+"Route 202",0,40,50,2,QC,5.37
+11-12-17-9,0,55,80,2,SK,77.85
+"First Street",0,45,50,2,BC,47.06
+"Cottonwood Drive",0,60,50,2,MB,58.4
+"Pr 526",0,60,50,2,MB,48.82
+"Pentecostal Rd",0,60,50,2,ON,131.57
+"Churchill Rd",0,60,80,2,ON,7.1
+"Ch. Du Grand Rang",0,95,80,2,QC,47.4
+"Rge Rd 3072",0,65,80,2,SK,198.87
+"86 Street",0,30,60,4,AB,171.74
+"288 Street East C.I.L. Rd",1,45,80,2,AB,71.9
+"Township Road 150",1,45,80,2,AB,36.67
+"Station Rd (Cnty 31)",0,60,80,2,ON,127.3
+"Elevator Rd.",0,50,50,4,BC,138.98
+"Rue Centre",0,40,50,2,QC,109.93
+"Highway 855",0,80,50,2,AB,206.25
+"Mcirvine Ave",0,20,50,2,ON,90.22
+"Rock Springs Rd",0,95,80,2,ON,14.29
+"9Th Concession",0,60,80,2,ON,58.6
+"Camlachie Rd",0,80,50,2,ON,47.5
+"Mill St",0,70,50,2,ON,72.5
+"21St St - Lynden Rd",0,65,50,2,ON,18.13
+"Oaks Rd",0,65,50,2,ON,30.39
+"Main Street Xing Mclean",0,60,40,2,SK,69.24
+"Twenty Mile Rd - Reg 69",0,50,80,2,ON,34.97
+"Route Edouard Vii",0,40,50,2,QC,31.04
+"Range Road 17-5 (Lathom)",0,55,80,2,AB,90.27
+"52 Street Se @ 50 Ave Se",0,15,70,4,AB,130.43
+"Sandy Beach Rd",0,60,70,2,ON,59.38
+"Yellowhead Highway 16",0,25,110,4,SK,11.44
+"Edinburgh Drive",0,10,50,2,NB,128.17
+"Edinburgh Drive",0,10,50,2,NB,128.17
+"Mcnaughton Rd",0,60,60,2,ON,18.5
+"Rosedale Rd - Cnty 23",0,60,80,2,ON,119.95
+"Union Rd",0,60,80,2,ON,115.12
+"Cameron Side Rd",0,60,80,2,ON,19.32
+"Christie Lake N. Sh. Rd",0,60,80,2,ON,23.59
+"Durham St",0,60,80,2,ON,119.5
+"Dougall Ave",0,40,50,4,ON,110.26
+"Pr 201",1,40,100,2,MB,54.43
+"V L A Rd",0,55,60,2,BC,95.34
+"17 Street",0,40,60,2,AB,6.22
+"Rue St-Jacques",0,75,30,2,QC,124.19
+"Rue St-Jean-Baptiste",1,15,50,2,QC,2.6
+"Waddell Road",0,50,70,2,NB,181.76
+"Kirkbridge Drive",1,25,50,4,MB,4.55
+"26Th Street",1,25,50,4,MB,1.78
+"43 Street",0,35,50,4,AB,105.79
+"Book Rd",0,50,80,2,ON,32.24
+"51 Street",0,45,50,3,AB,76.63
+"Rue Principale",0,40,50,2,QC,34.58
+"Farm Xng",1,95,0,2,QC,222.72
+"Pitt River Rd.",0,20,50,2,BC,1.52
+"Hwy 14",0,30,100,2,SK,10.48
+"Blenheim Rd",1,0,80,2,ON,71.06
+"Cumming Rd",0,80,80,2,ON,35.74
+"Garner Rd",0,65,80,2,ON,6.35
+"Range Road 15-1",0,55,50,2,AB,69.1
+"East Acces Rd @ Milestone",0,50,40,2,SK,47.38
+"Edinburgh Drive",0,40,50,2,NB,127.42
+"Victoria Street",0,15,50,2,NB,218.1
+"Bilton Line",0,60,80,2,ON,38.63
+"Mayfair Rd",0,60,80,2,ON,24.21
+"Pine Rd  (Sr-16)",0,60,80,2,ON,36.29
+"George St.",0,10,50,2,NS,113.28
+"Gregory Rd",0,70,80,2,ON,104.14
+"Crowes Mill Rd",0,70,80,2,NS,6.43
+"East Hillcrest Drive",1,35,60,2,AB,81.93
+"Hwy 132",0,10,50,4,QC,14.54
+"167 Avenue / 18 Street",0,50,60,2,AB,123.29
+"Loch Garry Rd",0,60,80,2,ON,55.4
+"Glen Norman Rd",0,60,80,2,ON,45.4
+"Weese Rd",0,60,50,2,ON,81.17
+"Road 84 East",0,60,90,2,MB,54.73
+"Road 57 East",0,60,90,2,MB,89.68
+"Road 41 North",0,60,90,2,MB,120.59
+"50Th St.",0,30,50,2,BC,57.08
+"Danforth Rd",0,20,60,4,ON,60.18
+"Secondary Highway 580",0,45,50,2,AB,36.98
+"76 Avenue E 34 Street",0,40,60,2,AB,4.32
+"Chemin St-Louis",0,5,50,2,QC,225.1
+"Road 43 East",0,50,90,2,MB,95.53
+"Road 38 East",0,50,90,2,MB,100.7
+"Road 37 East - Eastdale",0,50,90,2,MB,101.86
+"Road 68 East -Scotts Hill",0,50,90,2,MB,69.31
+"179Th Street",0,50,50,2,BC,109.84
+"Eagle St - Reg 39",0,10,50,2,ON,4.3
+"Road 30 East -Cooks Creek",0,50,90,2,MB,109.24
+"Road 33 East - Millbrook",0,50,90,2,MB,106.07
+"Rue Turgeon",0,15,50,2,QC,20.03
+"Rue Merry",0,40,50,2,QC,86.59
+"Hwy   12  (Gamebridge)",0,0,80,2,ON,71.68
+"Kenaston Boulevard",0,25,80,4,MB,6.8
+"132 Avenue",1,30,50,4,AB,47.27
+"Route Du 3Ieme Rang",0,80,80,2,QC,97.23
+3-31-24,0,80,80,2,SK,121.87
+31-32-29-22,0,80,80,2,SK,109.51
+5-6-33-27,0,80,80,1,SK,146.25
+3-10-19-31,0,80,80,2,SK,226.39
+19-20-21-3,0,80,80,1,SK,261.11
+W7-31-24,0,80,80,2,SK,125.78
+33-34-30-24,0,80,80,2,SK,121.18
+34-35-30-244,0,80,80,2,SK,120.01
+"Range Road 164",0,80,80,1,AB,208.51
+"Road 28 West",0,60,90,2,MB,46.23
+"Range Road 12",1,35,80,2,AB,14.86
+"Range Road 211",0,40,50,2,AB,103.71
+"Gracey Sr",0,95,50,2,ON,79.61
+"Marier  St",0,75,50,2,ON,86.91
+"Rue Jacques Cartier",1,20,50,2,QC,212.16
+"Kennedy Rd",0,15,60,4,ON,2.79
+"Road 9 West",0,60,90,1,MB,25.74
+"Tetrault Blvd",1,30,90,2,QC,35.94
+"50 Street @ 82 Avenue",0,15,60,4,AB,169.7
+"Herald Rd",0,45,60,2,ON,39.08
+"167 Avenue",0,35,70,2,AB,3.26
+"Dupres Road",0,50,70,1,NB,184.92
+"Chemin Ste-Elizabeth",0,60,50,2,QC,95.67
+"Grid Road 642",0,60,80,2,SK,118.63
+"Venables St",0,8,50,4,BC,155.6
+17-18-17-20,0,60,80,1,SK,99.15
+7-8-17-21,0,60,80,2,SK,105.29
+10-11-17-22,0,60,80,1,SK,108.38
+"Whitmore Avenue",0,60,70,2,MB,120.61
+"Range Road 18-4A",0,55,50,2,AB,96.74
+"Range Road 55A",0,60,80,2,AB,54.91
+"William St",0,25,50,2,ON,61.51
+"Road 1 East - Dorsey",0,60,90,2,MB,14.66
+"Rr 40 (Pattison Ave)",0,70,50,2,AB,42.88
+"North Road",1,30,50,2,AB,50.07
+"Montee Monette",0,40,50,2,QC,31.24
+"Isabella St",0,45,50,2,ON,23.67
+"50 Avenue E 25 Street Se",0,10,60,4,AB,125.69
+"Highway 36",1,40,100,2,AB,44.7
+"Sass Rd",1,70,60,2,ON,60.37
+"Durham Rd",0,65,70,2,ON,24.79
+"Range Road 230A",0,45,80,2,AB,10.46
+By-Pass,0,10,80,2,NB,64.62
+"17 Street N Highway 16A",0,30,60,4,AB,166.92
+"Mission Flats Road",0,40,50,2,BC,5.32
+"Buffalo Paddock Road",0,40,50,2,BC,80.61
+"Horsethief Creek Rd",2,35,10,2,BC,77.18
+"West Puce Rd",0,60,50,2,ON,98.08
+"Chemin Farnham",0,50,70,4,QC,7.1
+"33Rd Street",0,30,50,2,SK,3.07
+"Center Street/Highway 876",0,55,30,2,AB,53.28
+"48 Street (Hwy 779)",0,0,50,4,AB,23.84
+"Prov Road 464",0,80,90,2,MB,113.41
+"Township Road 48-4",1,40,80,2,AB,34.72
+"Nevin Rd",0,70,50,2,BC,65.28
+"Iberville Blvd.",0,50,50,2,QC,18.8
+"Clarke Rd",0,0,50,2,ON,110.62
+"Solsqua-Sicamous Rd.",0,50,50,2,BC,43.16
+"Mccowan Ave",0,100,70,2,ON,323.65
+"Tecumseh Rd",0,10,50,5,ON,2
+"Second St",0,35,50,2,ON,117.85
+"96 Ave",0,10,60,4,BC,107.59
+"Concession 14",0,50,60,2,ON,42.57
+"Albert St (Hwy 11)",0,10,50,6,SK,1.21
+"Kenaston Boulevard",0,15,80,4,MB,4.87
+"Grand Boul. Est",0,95,50,2,QC,60.56
+"Jeannett'S Creek Rd",0,80,60,2,ON,75.39
+"Range Road 191",0,80,50,2,AB,226.72
+"Miworth Road",2,40,70,2,BC,8.7
+"Gordon St.",0,50,50,2,ON,114.85
+"Dobbie Dr",0,50,50,2,ON,55.61
+"Thorne Ave",0,10,50,4,NB,0
+36-17-19,0,60,80,2,SK,87.71
+6-5-17-6,0,60,80,1,SK,11.27
+1-2-18-17-W2M,0,60,80,2,SK,76.45
+18-13-17-9,0,60,80,1,SK,23.59
+"Road 46 West",0,60,90,2,MB,65.97
+"Yonge St (Reg 11B)",0,60,50,2,ON,37.71
+"99 Avenue & 100 Avenue",0,15,50,4,AB,49.32
+"Resources Road",0,15,50,4,AB,49.58
+"Hwy  599 (Savant Lake)",0,55,80,2,ON,78.26
+"Deux-Montagnes Blvd",0,50,50,4,QC,19.25
+14-15-31-12,1,30,80,2,SK,87.05
+"Route 169",0,50,90,2,QC,180.04
+"Ireland Rd",0,95,80,2,ON,8.41
+"Town Line Rd",0,95,80,2,ON,3.97
+"Weedmark Rd",0,95,80,1,ON,10.13
+"Yule Rd",0,95,80,1,ON,12.08
+"Bates Rd",0,95,80,2,ON,9.75
+"O'Neill Rd",0,95,80,1,ON,20.64
+"Boundary Rd",0,95,80,2,ON,23.45
+"Chemin Heroux",0,60,80,2,QC,58.58
+"Dogwood Rd",0,80,80,2,ON,35.18
+"Chemin Des Jardins",0,55,50,2,QC,60.8
+"Boundary Crossing",0,50,80,2,NB,25.5
+"Hwy  612",0,50,80,2,ON,4.78
+"Range Road 255",0,50,80,1,AB,143.05
+"133 Street",1,40,50,2,AB,87.88
+"King St N (Reg 15)",0,15,100,2,ON,62.5
+"King St N (Reg 8)",0,15,100,2,ON,62.5
+"Aurthur St S (Reg 85)",0,15,100,2,ON,62.5
+"Secondary Highway 592",0,45,50,2,AB,84.26
+"Ray Lawson Blvd.",0,10,60,6,QC,131.3
+"Hwy   7",0,25,50,4,ON,50.13
+"De La Paix",0,75,50,2,QC,121.34
+"Hwy   637",0,45,80,2,ON,231.43
+"Willow St.",0,25,50,2,NS,62.73
+"Alberni Hy",0,10,60,4,BC,95.28
+"Road 69 West",0,80,90,2,MB,88.83
+"Road 127 West",0,80,90,2,MB,149.28
+"Road 117 West - Levine",0,80,90,2,MB,137.94
+"Road 155 West",0,80,90,2,MB,179.05
+"Pr 352",0,55,90,2,MB,93.27
+"Chemin De L'Eglise",0,60,80,2,ON,36.37
+"Rue Dalhousie",0,25,50,2,QC,200.15
+"Winnipeg Street",0,15,50,2,SK,92.14
+"Route De La Station",0,80,50,2,QC,31.27
+"Steeles Ave E",0,50,60,4,ON,52.82
+"Hwy  596",0,55,80,2,MB,138.82
+"Rouleau Street",0,35,50,2,NB,123.91
+"Randall Dr",0,15,60,2,ON,62.5
+"Cook Road",0,60,50,2,SK,86.95
+"Main St & Gage Ave",0,15,50,2,ON,55.65
+"Rue Venise",0,45,50,2,QC,17.14
+"75 Avenue N Highway 16",0,25,60,2,AB,86.54
+"Adeline St.",0,40,50,2,ON,176.32
+"John St",0,35,50,2,ON,3.84
+"County Rd 22",0,60,80,2,ON,78.5
+"Kingsway Ave.",0,15,50,4,BC,0.37
+"Blackman Rd (Old Hwy # 5)",0,65,50,2,BC,24.92
+"Bradley Ave",0,25,80,2,ON,77.4
+"5Th Line Rd",0,95,80,1,ON,45.29
+"Municipal Road",0,80,80,2,SK,33.91
+"Municipal Grid Road",0,80,80,2,SK,167.52
+"Government Rd (Hwy 35)",0,10,40,4,SK,84.34
+"Marie-Victorin Rd",0,10,70,2,QC,16.41
+,1,40,80,2,SK,90.14
+"Nina Pl",0,55,50,2,BC,121.63
+"Ch Sud De La Rivi�re",0,60,50,2,QC,95.35
+"Main Street",0,10,50,2,NB,2.2
+"Road No 5 (Pearl)",0,50,50,2,ON,96.43
+"De La Station",0,80,60,2,QC,91.41
+"Pierres Pt Road",0,55,50,2,BC,67.22
+"South Grimsby Rd 10",0,50,80,2,ON,40.63
+"Auger Avenue",0,15,50,2,ON,262.3
+"Cordova Street",0,8,50,2,BC,155.6
+"Meadowview Drive",0,30,50,2,AB,4.97
+"Road 28 East - Spruce",0,70,90,2,MB,237.46
+"Ferguson Tetlock Rd",0,30,80,2,ON,3.61
+"Grid Road 655",0,80,80,2,SK,227.83
+"Ottawa St",0,5,50,2,ON,2.53
+"Birchs Rd",0,40,70,2,ON,113.24
+"Grid Road 627",0,50,80,2,SK,35.35
+"116 Street - Rr284",0,55,80,2,AB,163.26
+"Hunt Club Rd",0,60,80,2,ON,115.64
+35-17-18-W2,0,60,80,2,SK,82.6
+"Mccowan Rd (Reg 67)",0,50,50,2,ON,48.38
+"Burrard St.",0,10,50,6,BC,9.2
+"Queen St W",1,35,50,2,ON,7.48
+"8 Street (Range Road 201)",0,45,80,2,AB,97.51
+"Leitch Rd",0,70,80,2,ON,46.94
+"Highway 831",0,25,100,2,AB,49.5
+"Township Road 460",0,55,80,2,AB,54.23
+"Shebeshekong Rd Hwy 7182",0,60,60,2,ON,39.5
+"Priv-Fraser Cedar",0,65,25,1,BC,95.1
+"Ontario St",0,45,50,2,ON,135.37
+"Range Road 61",0,80,80,2,AB,134.6
+"Hwy 6",0,40,80,2,ON,43.02
+"Sydney East Access",0,55,50,2,MB,92.73
+"Priv-Northview Enter",1,50,30,1,BC,102.54
+"Southwood Rd",0,45,80,2,ON,110.58
+"Highway 101",0,70,80,6,ON,243.67
+"Montpeller Rd (Chelmsford",0,55,80,2,ON,91.64
+"Elmwood Dr",0,40,50,4,NB,123.47
+"Middle Rd",0,70,70,2,NS,12.07
+"Paquette Rd (Cnty 55)",0,30,80,2,ON,104.57
+"Dauphin Rd",0,80,50,1,ON,72.54
+"Parkdale Ave",0,30,50,2,ON,39.5
+"Access Road",0,60,80,2,SK,15.9
+St-Thomas,0,60,50,2,NB,103.8
+"Hwy  621",0,50,100,2,ON,137.27
+"Blainville Street",0,40,50,2,QC,20.82
+"Tch 101 - Perimeter Hwy",0,25,100,4,MB,5.77
+"Road 39 West",0,60,50,2,MB,58.82
+"Boul Des Sources",0,10,50,6,QC,10.17
+"Boulevard Monchamp",0,50,50,2,QC,36.77
+,0,40,60,2,ON,43.66
+"Frederick St",0,100,80,2,ON,110.64
+"Best Chase Rd",0,100,80,1,ON,158.95
+"Pim Street",0,10,50,2,ON,178.93
+"53 Avenue",0,55,50,2,AB,67.05
+"Range Road 3065",0,65,80,2,SK,195.83
+"Beaulieu Mill Rd",0,50,50,2,NB,181.54
+"St. George St.",0,30,50,2,NB,124.27
+"Municipal Grid Road",0,80,80,2,SK,125.89
+"Grid Road 657",0,80,80,2,SK,35.74
+"Townsend St.",0,10,50,2,NS,113.5
+"Montee Lavigne",0,60,80,2,QC,12.43
+"Highway #2",0,45,100,2,SK,70.04
+"Hall Rd",0,80,50,2,MB,11.71
+"Rothesay Ave.",0,10,50,4,NB,0
+"Bogg Lake Rd",0,0,80,2,ON,30.75
+"Everard Rd",0,60,80,2,ON,73.86
+"Easher Healy Rd",0,60,80,1,ON,7.9
+"Hwy  603",0,60,80,2,ON,34.45
+"Zone Road 5",0,60,80,2,ON,44.33
+"De Varennes Street",0,30,50,2,QC,10.88
+"Merritt Line",0,60,80,2,ON,55.64
+"Johnston Rd",0,60,80,2,ON,40.72
+"66 Street Sold - Lrt",0,10,50,4,AB,263.52
+"Range Road 245",0,55,80,2,AB,68.95
+"Range Road 26-2",0,55,80,2,AB,26.63
+"29Th Line",0,60,80,2,ON,97.38
+"20Th Street",0,15,50,4,SK,0.79
+"Township Road 490",0,55,50,2,AB,73.9
+"Island Hwy",0,40,80,2,BC,106.05
+"Island Hwy. No. 19",0,40,80,2,BC,108.2
+"Silver Smith Rd",0,50,50,2,BC,69.71
+"Rte 147",0,25,90,2,QC,42.11
+"Arthur St",0,15,50,5,ON,4.28
+"Russel Cross Road",0,75,80,2,NS,58.5
+"Albert St",0,40,80,2,ON,93.8
+"Akerley Blvd",0,25,50,4,NS,8.7
+"Kalar Rd",0,60,60,2,ON,27.6
+"Community Access Rd",0,80,80,2,SK,252.28
+"Burlington St",0,5,50,5,ON,0.37
+"Dillon Rd",0,60,80,2,ON,69.07
+"Major Mackenzie Dr.",0,50,80,2,ON,15.47
+"19Th Side Road",0,55,60,2,ON,53.4
+"Highway 144",0,40,80,2,ON,6.85
+"Island Hwy",0,40,60,2,BC,91.9
+"21St Line (Thamesford)",0,60,80,2,ON,100.44
+"Haute Terrebonne Rd",0,60,70,2,QC,112.44
+"Saunders Road",0,60,80,2,SK,85.6
+"Francois Lake Road",0,50,50,2,BC,34.78
+"Road 109 West",1,60,90,2,MB,119.79
+"Bartstow Street",0,50,30,2,AB,144.42
+"Hunter St",0,65,50,2,ON,29.87
+"Mccrea Rd",0,60,80,2,ON,116.04
+"Glen Roy Rd",0,60,80,2,ON,51.93
+"Pigeon Hill Rd",0,60,80,2,ON,60.78
+"Montee St-Georges",0,60,80,2,ON,38.95
+"Macmillan Rd",0,60,80,2,ON,72.02
+"O`Neil Dr",0,65,50,2,ON,264.22
+"Ellice Avenue",0,10,50,4,MB,1.25
+"East Rd Waldeck",0,60,50,2,SK,98.91
+"First St",0,35,50,2,ON,118.16
+"Pr 307 (Brereton Lake Rd)",0,50,80,2,MB,50.6
+"Kaulback St.",0,25,50,2,NS,63.17
+"Lambs Rd",0,60,60,2,ON,162.39
+"Whites Rd",0,60,60,2,ON,99.11
+"1St Concession Rd",0,50,80,2,ON,81.8
+"Road 15 West",0,60,90,2,MB,32.35
+"Road 10 West",0,60,90,1,MB,27.1
+"Road 18 West",0,60,90,2,MB,35.48
+W30-16-11,0,60,80,2,SK,95.72
+"Joachim Rd",0,80,70,1,QC,50.93
+"Hwy 101 (North Perimeter)",1,25,100,4,MB,12.02
+8-17-17-7,0,55,80,1,SK,68.67
+"Reed Pt. Marina",0,40,20,2,BC,117.66
+"Vulcan Way S.",0,0,50,2,BC,118.6
+"Kennedy Rd",0,45,50,2,BC,109.42
+"Lot 82 - 83 Road",0,60,90,2,MB,39.95
+"Hwy  602",0,45,80,2,ON,108.25
+"Hazel Avenue In Jasper",0,15,50,2,BC,0.29
+"Montcalm St.",0,0,50,2,QC,118.36
+"Heritage Road",0,40,50,2,AB,81.99
+"Shumlak Road",0,60,90,1,MB,107.95
+,0,60,90,1,MB,109.48
+"Road 75 East",0,60,90,2,MB,64.3
+"Road 89 East",0,60,90,2,MB,49.6
+"Road 37 North",0,60,90,2,MB,115.85
+"Hwy 590   (Murillo)",0,50,50,2,ON,12.8
+"Preston Avenue",0,10,60,4,SK,110.95
+"Lindsay Rd",0,60,80,2,ON,56.91
+"Zone Rd 1",0,60,80,2,ON,49.09
+"Wanstead Rd",0,80,80,2,ON,41.73
+"Thorn Rd",0,80,80,2,ON,13.29
+"Limerick Rd",0,80,80,2,ON,36.61
+"Prov Road 468",0,80,70,2,MB,122.62
+"Centre St",0,60,40,2,ON,30.04
+"Wilkinson Rd",0,60,50,2,ON,52.15
+"Evans Ave",0,15,60,4,ON,1.56
+"Keltic Drive",0,35,70,2,NS,109.69
+"Range Road 71",0,60,80,2,AB,63.48
+"Township Road 534",0,60,80,2,AB,63.25
+"287Th St.(Sidney St)",0,55,50,2,BC,93.8
+"Du Tremblay Rd.",0,40,50,4,QC,4.92
+"Greenfield Rd",0,60,80,2,ON,66.25
+"114 Avenue Se",0,55,40,2,AB,164.83
+"St-Maurice Blvd",0,0,50,2,QC,84.9
+"Derry Rd (Reg 5)",0,35,80,6,ON,3
+"Rue Croiseti�re",0,50,50,2,QC,18.28
+"South Grimsby Rd 5",0,50,50,2,ON,37.88
+"Road 81 West (Gregg)",0,80,90,2,MB,101.16
+"Montrose Rd - Reg 98",0,40,80,2,ON,6
+"Hwy   594",0,60,70,2,ON,79.44
+"Highway 23 Near Blackie",0,45,100,2,AB,69.33
+"Rue Grande-All�e",0,40,50,4,QC,11.11
+"Lagimodiere Blvd (Hwy 59)",0,5,80,4,MB,119.2
+"Passmore Ave",0,50,50,4,ON,53.2
+"Colton Rd",0,60,80,2,ON,119
+30-16-24,0,60,80,2,SK,124.76
+18-13-17-21,0,60,80,1,SK,100.17
+"Kenny Street",0,35,50,2,BC,1.15
+"Cambrian Rd",0,60,80,2,ON,91.2
+5-6-17-23,0,60,80,2,SK,117.58
+"Range Road 194",0,70,50,2,AB,143.66
+"Chemin Grand-Pre",0,40,80,2,QC,24.55
+"Campbellville Rd",0,50,50,2,ON,38.58
+"King St.",0,15,50,2,NS,16.82
+"Lorne Ave",0,50,50,2,BC,105.33
+"West Broadway Ave",0,10,50,6,BC,9.2
+"Tanager Drive",0,45,50,2,BC,124.14
+"Centre Sr",0,45,60,2,ON,24.6
+"Farm Rd Due To Hwy 400",0,60,80,2,ON,71.67
+"Ontario Min. Of Nat Res.",0,60,80,2,ON,78.2
+"Snowmoible Trail 114",0,60,80,2,ON,70.25
+"Harbour Expwy",0,15,80,4,ON,2.24
+"Mount Hope Rd",0,55,60,2,ON,30.14
+"Miller Rd - Reg 84",0,60,80,2,ON,15.17
+,0,35,80,2,NB,168.21
+"Souix Ave.",0,25,80,2,SK,45.76
+"Dublin  Rd( Conc. 1-2)",0,45,80,2,ON,37.2
+"Broadview East Access Rd",0,60,40,2,SK,129.87
+"Briercrest Road",0,60,80,2,SK,122.71
+"Gage Ave",0,10,50,2,ON,2
+"Lefeuvre Rd.",0,65,80,2,BC,97.11
+"Rue Maden",0,30,50,2,QC,41.48
+"Range Road 210",0,60,30,2,AB,240.06
+"Thorold Stone - Reg 57",0,20,60,4,ON,30.41
+"Avenue Du Viaduc",0,25,40,2,QC,8.16
+"Castlefield Ave",0,35,50,2,ON,6.89
+"Secondary Highway 597",2,25,100,2,AB,34.51
+"Bible Camp Rd",0,60,60,2,ON,83.9
+"Pr 210",0,60,50,2,MB,88.43
+"Concession Rd 12",0,70,80,2,ON,79.45
+"Crescent Avenue",0,30,50,2,SK,27.71
+"Sherman Ave",0,30,50,2,ON,42.07
+"Park St-Reg  Rd  53",0,30,50,2,ON,63.4
+"Farm Access Road",0,80,80,2,SK,216.85
+11-12-18-12-W2M,0,60,80,2,SK,44.21
+29-30-14-32,0,60,80,2,SK,95.5
+25-26-15-1,0,60,80,1,SK,105.38
+14-15-16-3-W2M,0,60,80,1,SK,119.57
+16-17-17-8,0,60,80,1,SK,21.57
+1-17-6,0,60,80,1,SK,13.33
+31-16-5,0,60,80,1,SK,5.1
+20-21-17-10-W2M,0,60,80,2,SK,34.03
+29-28-16-4,0,60,80,1,SK,127.88
+15-16-17-10-W2M,0,60,80,1,SK,32.9
+28-27-16-4,0,60,80,1,SK,126.86
+11-12-17-9,0,60,80,1,SK,24.6
+"St Josephs Road Turnoff",0,60,80,1,SK,74.39
+"Lajord Turnoff",0,60,80,1,SK,73.35
+"First Ave",0,5,50,4,BC,145.4
+"Commissioner St.",0,10,50,2,BC,126
+"Rue Dequen",0,50,50,2,QC,174.71
+3-4-31-24,0,80,80,2,SK,122.27
+"Range Road 23",0,80,80,2,AB,110.25
+17-18-34-1,0,80,80,2,SK,161.96
+21-22-28-20,0,80,80,2,SK,93.11
+33-26-13,0,80,80,2,SK,48.26
+"Chemin Brigham",0,45,90,2,QC,122
+"Torbram Rd",0,10,60,5,ON,11.85
+"Kelly Rd",0,30,80,2,ON,2.51
+"32Nd Avenue Nw Moose Jaw",0,60,80,2,SK,4.12
+"3Rd Line Rd",0,55,80,2,ON,46.99
+"Hwy 584 Mike Pow. Blvd (N",0,50,80,2,ON,132.83
+"Highway 20",0,30,100,2,SK,20.89
+"Highway 639",0,80,40,2,SK,58.17
+"Rue Principale",0,45,90,2,QC,92.7
+"Jones Rd",0,65,50,2,ON,34.29
+"Pinantan Rd.",0,55,60,2,BC,104.36
+"Kenaston Boulevard",0,10,80,4,MB,4.87
+"Sunnidale Road",0,60,50,2,ON,59.02
+"John St",0,40,50,2,ON,40.48
+"Argyle St",0,40,50,2,ON,59.16
+"Plaunt St",0,40,50,2,ON,59
+"Route Parent",0,80,70,1,QC,14.17
+22-23-28-19,1,55,80,1,SK,85.55
+"De L'H�tri�re",0,40,50,2,QC,2.18
+"Road 107 West",0,80,90,2,MB,127.73
+"Road 40 West",0,80,90,2,MB,59.21
+"Road 73 West",0,80,90,2,MB,92.91
+"Road 138 West",0,80,90,2,MB,160.87
+"Road 105 West",0,80,90,2,MB,125.68
+"Road 125 West",0,80,90,2,MB,147.16
+"Road 50 West",0,80,90,2,MB,69.43
+"Road 92 West",0,80,90,2,MB,112.39
+"Road 79 West",0,80,90,2,MB,99.12
+"Road 86 West",0,80,90,2,MB,106.26
+"Road 141 West",0,80,90,2,MB,164.03
+"Road 144 West",0,80,90,2,MB,167.19
+"Road 104 West",0,80,90,2,MB,124.66
+"Road 101 West",0,80,90,2,MB,121.6
+"Road 60 West",0,80,90,2,MB,79.66
+"Road 97 West",0,80,90,2,MB,117.51
+"Road 59 West",0,80,90,1,MB,78.61
+"Road 61 West",0,80,90,2,MB,80.66
+"Road 43 West",0,80,90,2,MB,62.28
+"Hwy  619",0,50,50,2,ON,131.38
+15-16-17-21,0,60,80,2,SK,103.25
+"Slocan/Grandview Hwy",0,25,50,2,BC,153.95
+"Road 114 West",0,80,90,2,MB,134.86
+"13Th Avenue",0,20,50,4,SK,137.4
+"Mahon St.",0,15,50,2,NS,16.31
+"Industrial Way",0,50,60,2,BC,77.26
+"Ew In Sw9-33-1-5",0,45,80,2,AB,58.63
+"Road 6 West",0,60,90,2,MB,22.42
+"Third Street East",0,30,50,2,MB,55.12
+"Newman Ave",0,5,50,4,QC,42.51
+"Old Shilou Rd. Con 1",0,70,50,2,ON,49.2
+"Carillon Street",0,50,50,2,QC,20.1
+"Trout Lake Rd",0,50,80,2,ON,106.15
+"Main St",0,60,80,2,ON,81.32
+"25 Side Rd",0,60,80,2,ON,48.04
+"22Nd Street",0,0,50,6,SK,0.38
+"Rutherford Rd",0,50,50,4,ON,14.13
+"Highway 20",0,40,100,2,SK,35.5
+"Grand Avenue",0,80,50,2,SK,142.91
+"Rue St. Joseph Nord",0,35,50,2,NB,45.23
+"Municipal Rd (Carmichael)",0,55,80,2,SK,43.12
+"South Piapot Grid Road",0,55,80,2,SK,67.22
+"Ns W15-13-19-3",0,55,80,2,SK,37.38
+"Hatton Road",0,55,80,2,SK,103.1
+"Range Road 103",0,80,80,2,AB,164.79
+"Road 91 North",0,70,90,2,MB,196.03
+Sec14&28-16-28-Wpm,0,70,90,2,MB,198.26
+,0,70,90,2,MB,197.18
+"Road 163 West",0,70,90,2,MB,197.89
+"Road 129 West - Ashbury",0,60,90,2,MB,20.76
+"Floods Rd.",0,55,50,2,BC,43.9
+"George St  N.",0,10,50,4,ON,117.97
+"51 Avenue In Morningside",0,55,30,2,AB,27.59
+31-7-13-W2M,0,50,80,2,SK,89.82
+33-34-17-29,0,50,80,1,SK,19.01
+"Torpitt Rd",0,50,80,2,ON,94.5
+"Highway 2",0,30,100,2,AB,42.1
+"Maki Rd",0,50,60,2,ON,16.6
+,0,70,90,2,MB,206.5
+"Road 24 East - Pineridge",0,70,90,2,MB,241.53
+"Road 47 East",0,70,90,2,MB,218.18
+34-10-12-Epm,0,70,90,2,MB,195.63
+"Stoney Hill Road",0,70,90,2,MB,199.68
+,0,70,90,2,MB,216.14
+"Road 60 East - Lewis",0,70,90,2,MB,203.78
+"Route 700",0,100,80,2,ON,46.23
+"Roland Masssie Rd",0,100,80,2,ON,18.09
+"Main St (Chalk River)",0,30,50,2,ON,0.29
+"Main St (Cnty 8)",0,40,50,2,ON,74.66
+"Harstone Road",0,45,50,2,MB,8.8
+"Waz Road",0,80,80,2,SK,173.4
+"Ducharme Road South",0,70,50,2,MB,214.08
+"Rang Delariviere Bugonnes",0,40,90,2,QC,44.31
+"Booth Ave @ Lakeshore",0,0,60,2,ON,3.49
+"Township Road 222",0,55,80,2,AB,150.34
+"Range Road 13-2",0,55,80,1,AB,55.84
+"Range Road 12-5",0,55,80,2,AB,52.09
+"Range Road 233",0,55,80,1,AB,127.9
+"Range Road 18-2",0,55,80,1,AB,94.38
+"Range Road 14-3",0,55,80,1,AB,64.65
+"64Th Ave",0,15,80,2,BC,9.2
+"Volta Street.",0,40,50,2,QC,6.02
+"Rebecca Rd",0,70,80,2,ON,113.46
+"Chemin De La Station",1,70,80,2,NB,168.06
+"19 Street N Centre Avenue",0,10,50,2,AB,2.07
+"Yellowhead Hwy",0,50,40,2,BC,27.42
+"Belzile Street",0,35,50,2,NB,123.26
+"Cathedrale Avenue",0,35,50,5,NB,123.55
+"Burnhamthorpe Rd E",0,50,80,1,ON,42.2
+"Parkside Dr",0,15,60,2,ON,65.57
+"Municipal Road",0,60,50,2,SK,88.75
+"Rue Principale Ouest",0,40,50,2,QC,86.9
+"3Rd St",0,10,30,2,BC,107.23
+"Blundell Road",0,15,50,2,BC,118.6
+"Range Road 15-5",0,55,50,2,AB,74.03
+"Notre Dame",0,0,50,2,QC,84.9
+"Esquimalt Rd.",0,15,50,4,BC,0.95
+"Industriel Blvd.",0,35,50,4,QC,23.99
+"Northfield Rd.",0,40,50,2,BC,75
+"Anitchuk Rd (16Th Ave)",0,35,50,2,ON,144.84
+"Prince Edward St (Reg 64)",0,0,50,2,ON,112.29
+"Hwy  671",0,50,80,2,MB,106.38
+"Route 169",0,40,80,2,QC,164.04
+"Range Road 22",0,70,80,2,AB,32.14
+"Bradner Rd",0,65,60,2,BC,96.07
+"Anderson Road",0,50,50,2,BC,36.8
+"Rue Delisle",0,45,80,2,ON,0.56
+"36Th St Ne",0,30,50,2,BC,57.86
+"Dashwheel Road",0,95,25,2,ON,76.19
+"Boul. Industriel",0,35,50,4,NB,122.24
+"Closed    (Little St)",0,15,50,2,ON,143.26
+"Rue Heriot",0,0,50,2,QC,98.13
+"Old Weston Rd",0,35,50,2,ON,0.23
+"Road 86 West",0,60,90,1,MB,108.39
+"Church St",0,50,50,2,ON,26.32
+"Tch 1",0,30,70,4,MB,9.66
+"Municipal Road.",0,50,90,2,MB,205.27
+"Admirals Rd @ Naden",0,30,50,2,BC,2.53
+"Oliver Rd (Kakabeca Falls",0,40,80,2,ON,21.95
+"Mgr. Langlois Boul.",0,10,70,4,QC,41.2
+"Station Road",0,60,90,2,MB,138.72
+"Laut Avenue",0,45,50,4,AB,28.54
+"Church St.",0,10,50,2,ON,178.9
+"Rue Principale Nord",0,30,50,4,ON,43.24
+"Silver Sands Rd",0,50,50,2,BC,43.63
+"Notre Dame Ave.",0,10,60,2,ON,262.3
+"Rougham Rd (Mount Brydges",0,95,80,2,ON,12.44
+"128 Avenue W 148 Street",0,10,50,2,AB,5.17
+"Hwy  613",0,50,60,2,ON,101.46
+"17 Avenue E 17 Street Se",0,20,50,2,AB,0.76
+"O'Connell Rd",0,60,80,2,ON,73.96
+"11Th Ave Ne",0,20,50,2,SK,109.82
+11-12-17-10,0,55,80,2,SK,83.97
+"Old Trans Canada Rd",0,55,80,1,SK,82.95
+7-8-17-8,0,55,80,1,SK,75.66
+"Calderbank Road Turnoff",0,60,80,1,SK,63.7
+"East/West Grid Road",0,80,80,2,SK,36
+"Pikitigushi Lake Rd",0,70,60,2,ON,235.14
+"Belfield Rd",0,0,50,2,ON,11.75
+"Talbot Avenue",0,25,50,2,MB,123.92
+"Estaire Rd.",0,50,90,2,ON,245.44
+"Bethesda Sideroad",0,15,80,2,ON,38.98
+"4Th Line Rd",0,70,0,2,ON,42.19
+"Ditton Street",0,50,50,2,BC,105.21
+"61 Ave & Ctr St Se - Lrt",0,35,50,4,AB,3.31
+"Pine Street",0,35,50,2,BC,93.24
+"Sioux Street",0,15,50,4,SK,92.77
+"Hwy 23",1,10,40,2,SK,50.97
+"Atwood No 2 Rd",0,50,80,2,ON,142.37
+"Lavallee Rd S",0,50,80,2,ON,99.42
+"Sharp Rd",0,50,80,2,ON,123.65
+"Morley Dilke Rd",0,50,80,2,ON,128.94
+"Ns Nw31-11-2-4",0,25,50,2,AB,125.87
+22-23-36-8,0,80,80,2,SK,204.95
+"Main Street",0,50,50,2,MB,71.94
+"Barwick Road(Main St)",0,50,50,2,ON,116.17
+"Rue Des Ormes",0,55,50,2,NB,12.38
+"Road 133 West",0,60,90,2,MB,25.4
+"Secondary Hwy 616",0,55,50,2,AB,69.7
+"Park St",0,30,50,4,ON,118.42
+"3 Avenue In Fort Macleod",0,45,50,2,AB,31.5
+"137 Avenue E 184 Street",0,30,70,2,AB,2.29
+"St Joseph Boulevard",0,10,50,2,QC,80.91
+"Concession Rd 7",0,70,80,2,ON,74.95
+"Main St  (Glencoe)",0,20,50,6,ON,27.59
+"Grid Road",0,80,80,2,SK,27.22
+"Dewitt Rd",0,35,60,1,ON,48.9
+"Range Road 1.05",0,45,55,2,AB,54.91
+"Rue Burlington",0,45,50,2,QC,70.7
+"Townline Rd",0,100,50,2,ON,193.28
+"Ross Siderd",0,100,50,1,ON,52.3
+"Beharrel Rd",0,55,15,2,BC,86.01
+"Briercrest Access Road",0,30,100,2,SK,6.21
+"Road 17 West",0,60,90,1,MB,34.43
+"Road 2 West",0,60,90,2,MB,18.02
+"Road 25 West",0,60,90,2,MB,43.11
+"Road 16 West",0,60,90,2,MB,33.42
+"Road 23 West - Taits Lane",0,60,90,2,MB,41.03
+"Road 8 West",0,60,90,2,MB,24.65
+"Road 5 West",0,60,90,2,MB,21.31
+"Armstrong Rd",0,60,80,2,ON,6.68
+"Taite Rd",0,60,80,2,ON,106
+"Monseigneur Bourget",0,25,90,2,QC,9.61
+"Alton Crossing",0,55,50,2,NS,51.24
+"Church St",0,45,50,2,ON,91.96
+"Centre Avenueemonumentpl",0,10,50,2,AB,2.07
+"St Laurent Street",0,0,50,2,QC,84.9
+"Regional Road 24",0,40,80,2,ON,8.96
+"160 Street East",1,45,80,2,AB,80.92
+"Maclure Rd.",0,30,50,2,BC,5.68
+"Lampson Street",0,30,50,2,BC,1.76
+"Island Hwy",0,40,80,2,BC,121.4
+"North South Road",0,60,50,2,MB,15.75
+"St Anns Rd",0,50,50,2,ON,34.41
+"Scane Rd",0,80,60,1,ON,49.8
+"Mull Rd",0,80,60,1,ON,54.24
+"Ch. Forest",0,75,50,2,QC,104.21
+"2Nd Avenue",1,30,50,2,MB,16.49
+"52 Street",0,40,50,2,AB,12.15
+Tch,0,0,100,4,NB,122.3
+"Moonlight Beach Rd",0,45,80,2,ON,74.31
+"Township Road 810",1,25,80,2,AB,23.26
+Pedestrian,1,55,80,1,QC,7.25
+"Brookside Boulevard",0,40,50,2,MB,4.74
+"Mostar Road.",0,40,50,2,BC,78.18
+"Kickwillie Loop Rd",0,25,50,2,BC,88.32
+"Wagerville Rd",0,50,50,2,ON,42.73
+"4 St.",0,30,50,2,BC,36.26
+"Municipal Rd",0,60,80,2,SK,94.56
+"11Th Line",0,75,60,2,ON,45.37
+"12Th Line",0,80,60,2,ON,46.29
+"Rue Principale",0,45,50,2,QC,66.8
+"Kennedy Rd (Reg 3)",0,50,60,4,ON,49.42
+"Campbell Street",0,60,50,2,SK,96.08
+"5Th St  (Nipigon)",0,45,50,2,ON,63.08
+"Lewis Rd",0,65,60,2,ON,32.69
+"1St Louth St",0,65,60,2,ON,12.84
+"Victoria Ave.",0,15,50,2,ON,4.02
+"Little Rd",0,55,50,2,BC,85.06
+"5 Avenue N W 33 Street  N",0,10,60,4,AB,106.57
+"Range Road 182",0,45,80,1,AB,86.07
+"Fredrickson Street",1,40,60,2,AB,62.84
+"Hwy 14",0,30,100,2,SK,58.95
+"Bethesda Rd",0,45,80,2,ON,27.3
+"Stephens Avenue",0,50,50,2,MB,54.54
+"Ch. St-Jean",0,75,80,2,QC,104.59
+"Appelby Line",0,50,60,2,ON,36.06
+"Old Yale Rd",0,70,20,2,BC,63.85
+"Dunrobin Rd",0,50,80,2,ON,22.05
+"Barrydowne Rd",0,15,50,4,ON,262.3
+"Township Road 112",0,40,80,2,AB,11.93
+"Range Road 104",0,40,80,2,AB,38.13
+"Horwood Lake Rd (Joburke)",1,50,60,2,ON,135.92
+"17 Street Ne",0,10,60,2,AB,258.9
+"River Road",0,55,50,2,BC,124.74
+"17 Street Ne",0,30,60,2,AB,163.92
+"King George Highway",0,5,50,2,NB,64.62
+"Graham Access Rd.",0,50,50,2,ON,93.46
+"Dump Site Road",0,60,50,2,NB,131
+"Fairview Rd",0,60,50,2,ON,6.22
+"Stephenson Rd",0,40,60,2,BC,28.89
+"Line 6 N",0,55,80,2,ON,80.31
+"Campbellville Rd",0,30,60,2,ON,76.08
+"Pr 236",0,60,50,2,MB,15.05
+"Ew N23-15-15-3",0,55,80,2,SK,7.18
+7-8-13-21-3,0,55,80,2,SK,52.58
+"Ew N32-11-27-3",0,55,80,2,SK,93.5
+"Ns W28-14-16-3",0,55,80,1,SK,17.51
+"Ns W35-12-30-3",0,55,80,1,SK,113.42
+"Ns W1-13-20-3",0,55,80,2,SK,42.06
+"Ns W6-12-20-3",0,55,80,2,SK,47.26
+,0,55,80,2,SK,54.96
+"Road 69 North",0,60,90,2,MB,48.02
+1-2-23-7,0,80,80,2,SK,3.19
+"Range Road 62",0,80,80,2,AB,135.83
+27-28-34-2,0,80,80,2,SK,166.45
+31-22-6,0,80,80,1,SK,1.69
+"Coles Road",0,80,80,2,SK,274.31
+"Ns W31-39-21-3",0,80,80,2,SK,51.5
+"Mcphillips Street",0,10,60,4,MB,1.25
+"Hwy  628  (Red Rock)",0,50,50,2,ON,68.15
+"Bender Rd",0,60,80,1,ON,62.25
+"Goldfield Rd N",0,60,80,2,ON,77
+"Boundary Rd",0,60,80,2,ON,98.19
+"Townline Rd",0,60,80,2,ON,101.78
+"Glen Nevis Rd  - 3Rd Line",0,60,80,2,ON,43.65
+"Waldhorf Rd S",0,45,80,2,ON,85.03
+"Pall Mall St",0,30,50,2,ON,114.3
+"Secondary Highway 854 N",0,40,100,2,AB,52.3
+"Lotteridge Ave",0,30,50,2,ON,41.82
+"Weber St West",0,30,50,2,ON,62.7
+"50 Street N 70 Avenue",0,10,70,4,AB,4.46
+"Morgan Rue",0,100,50,1,ON,19.21
+"Marine Park Dr.",0,30,50,2,BC,63.12
+"Secondary Highway 574",0,35,30,2,AB,29.12
+"Mountain Road",0,40,50,2,MB,121.06
+"2Nd Line Rd",0,0,60,4,ON,2.82
+"Route St-Maurice",0,40,50,2,QC,85.77
+"50 Street",1,0,40,2,AB,51.9
+25-26-17-6,0,60,80,1,SK,56.43
+23-24-17-1,0,60,80,2,SK,23.9
+26-27-17-6,0,60,80,1,SK,57.47
+"Arthur St",0,30,50,2,ON,16.99
+"Drummond Conc. #1",0,60,80,2,ON,11.03
+"4 Avenue",0,40,50,2,BC,23.08
+"Range Road 192",0,80,45,2,AB,227.86
+"Centre Ave E 17 Street E",0,10,50,2,AB,2.07
+"Biggar Rd",0,60,80,2,ON,20.92
+"Hwy # 520",0,50,80,2,ON,172.19
+"Ch. Vieux Fronteau",0,0,80,2,QC,46.58
+"Boul Ren� L�vesque",0,25,70,4,QC,203.04
+"Sturgeon Road",0,30,70,5,MB,3.28
+"Range Road 93",0,70,80,2,AB,78.16
+"Range Road 50",0,70,80,2,AB,127.19
+"Boul. Daniel-Johnson",0,0,50,2,QC,39.4
+"Chemin St-Roch",0,5,30,2,QC,44.78
+"N-S Rd. Allowance",0,60,90,2,MB,13.5
+"Road 114 West",0,60,90,2,MB,4.56
+"Richter St",0,10,50,2,BC,118.73
+"Jeanette'S Creek Rd",0,60,80,2,ON,77.59
+"Jefferson Avenue",0,25,50,2,MB,3.4
+"Church Avenue",0,10,50,4,MB,1.95
+"198 St E 96 Ave",0,10,50,2,BC,107.59
+"Orenda Dr.",0,10,50,4,ON,14.06
+"Range Road 93",0,55,80,2,AB,25.78
+"Barlow Trail",0,10,70,4,AB,2.07
+"Elm  St (Sudbury)",0,10,50,4,ON,79.38
+"Belmont Road",0,70,50,2,NS,7.5
+"Otway Rd",0,40,50,2,BC,5.35
+"Whonnoch W",0,65,25,2,BC,97.3
+11454,0,50,80,2,SK,107.71
+22-27-4-10,0,50,80,2,SK,119.88
+23-27-14-22,0,50,80,2,SK,24.23
+"Unnamed Road",0,35,80,2,SK,128.59
+32-33-4-10,0,50,80,2,SK,117.7
+"Viewfield Road Hitchcock",0,50,80,2,SK,127.56
+38276,0,40,80,2,SK,69.96
+"Woolwich St",0,0,50,5,ON,32.82
+"1 Avenue",0,40,50,2,AB,22.13
+15-16-33-28,0,80,80,1,SK,151.03
+25-26-24-10,0,80,80,1,SK,24.31
+"6 St.",0,10,50,2,BC,106.99
+"Crosby Ave",0,0,50,2,ON,21.48
+"Stewardson Rd",0,80,80,2,ON,40.57
+"11Th Street West",0,30,50,2,SK,0.73
+"Secondary Highway 899",0,80,50,2,AB,112.13
+"La Montagne St.",0,45,50,2,QC,7.49
+34-35-26-13,0,80,40,2,SK,46.27
+"York Rd / Hwy  7",0,10,50,5,ON,30.09
+"Edinburgh Drive",0,40,50,2,NB,0.33
+"Secondary Highway 864",0,45,50,2,AB,77.77
+"Boyd Rd",0,45,50,2,ON,90.7
+"Sidewood Road",0,55,80,2,SK,57.34
+"Route Elgin",0,80,50,2,QC,52.44
+"Finch Ave E",0,0,60,4,ON,54.43
+"Blackstone Rd",1,0,60,2,ON,138.7
+"3Rd Line Rd",0,70,80,2,ON,34.25
+"5Th Line Rd",0,55,80,2,ON,47.8
+"Merrit Ave",0,35,30,2,ON,65.41
+"Hwy #16",0,5,60,2,BC,1.67
+"Kaslo St.",0,25,50,2,BC,153.82
+"Road 130 West",0,80,90,2,MB,152.44
+"Chemin Fontarabie",0,50,70,1,QC,33.97
+"Bangor Access Road",0,80,80,2,SK,259.73
+"Railway Ave.",0,45,50,2,BC,47.79
+Tch,0,15,110,4,NB,118.51
+"Westminster Hwy",0,15,60,4,BC,118.6
+"Ped Xg  Sarson Street",1,55,5,1,AB,67.28
+"Parkway Dr",0,55,80,2,ON,28.82
+"Redonda Street",0,50,60,2,MB,118.69
+"Rte 279",0,60,90,2,QC,102.08
+"Wilton Grove Rd",0,25,80,2,ON,77.4
+"College Avenue",0,50,30,2,SK,111.46
+"Baldwick Lane",0,60,50,2,ON,59.38
+22-23-43-27,0,70,80,2,SK,142.04
+"10Th Line",0,75,50,2,ON,44.34
+"67 Street",0,30,80,2,AB,106.18
+"Hwy   6",0,30,100,2,ON,6.17
+"Industrial Dr (At Grade)",0,0,60,4,ON,2.53
+"Grid Road 600",0,60,40,2,SK,78.1
+"8Th Street",0,30,50,2,MB,56.26
+"Main Street",0,80,40,2,AB,196.7
+"St Roch Road",0,40,80,4,QC,35.57
+"2 Street S N 1 Avenue",0,45,50,2,AB,50.84
+"Hwy   630",0,40,80,2,ON,83.58
+"Avenue Des Eglises",0,15,50,2,QC,0.58
+"Township Rd 16",0,0,60,2,ON,71.53
+"Grid Road 675",0,70,80,2,SK,77.27
+"Government Rd (Keewatin)",0,40,50,2,MB,3.15
+"Beaverdams Rd",0,60,50,2,ON,27.75
+"Riviere Etchemin Rd",0,60,80,2,QC,111.19
+"Secondary Highway 16A",0,60,80,2,AB,73.5
+"Islandvue Rd",0,50,80,2,ON,57.63
+"1 Avenue S/Maclead Tr",0,10,50,2,AB,86.6
+"Township Road 33.02",0,45,80,2,AB,58.98
+"Martin Rd",0,65,80,2,ON,19.47
+"Angel Rd",0,60,50,2,ON,59.09
+"Clark Rd",0,60,80,2,ON,96.48
+"Ferry St.",0,10,50,2,NS,113.9
+"Sask 2",0,30,100,2,SK,78.2
+"Mcphee Rd",0,30,50,2,BC,105.82
+"Harley Rd",0,60,80,2,NB,43.59
+"Highway 507",0,45,100,2,AB,78.5
+29-30-16-5,0,60,80,2,SK,4.06
+"Glenavon Turnoff",0,60,80,1,SK,25.61
+34-35-16-6,0,60,80,1,SK,7.14
+35-36-16-6Lowance,0,60,80,1,SK,6.11
+1-2-16-2-W2M,0,60,80,1,SK,111.98
+"Robinson Road",1,35,50,2,BC,38.75
+"Courtney Street",0,60,50,2,SK,97.11
+"Strandherd Dr",0,100,80,2,ON,6.81
+"Polar Star Rd",0,50,80,2,ON,51.1
+"50 Street N 52 Avenue",0,40,50,2,AB,57.13
+"62 Avenue S 52 Street",0,25,60,4,AB,85.65
+"Maple Grove",0,65,50,2,ON,20.51
+"3Rd Louth St",0,65,50,2,ON,13.39
+"Nelles Rd",0,65,50,2,ON,26.79
+"Lesperance Rd (Essex)",0,90,50,2,ON,99.31
+"Commissioners Rd",0,25,50,6,ON,77.4
+"Big Ben Rd",0,80,80,1,ON,32.14
+"54 Street S 1 Avenue",0,50,50,2,AB,130
+"Sheppard Ave E",0,0,60,4,ON,55.75
+"Masstown Rd",0,70,50,2,NS,11.23
+"Highway 9",0,40,100,2,AB,18.88
+"Road 141 West",0,60,90,1,MB,33.62
+"Road 167 West",0,60,90,2,MB,66.57
+31&32-12-29-Wpm,0,60,90,1,MB,73.6
+"Road 131 West - Happyland",0,60,90,2,MB,23.28
+"Road 134 West",0,60,90,2,MB,26.45
+"Road 135 West - Friesen",0,60,90,2,MB,27.47
+"Road 127 West",0,60,90,2,MB,17.83
+"Road 142 West",0,60,90,2,MB,34.64
+"Road 126 West",0,60,90,1,MB,17.08
+35-11-28-Wpm,0,60,90,2,MB,62.51
+"Road 77 West",0,60,90,1,MB,99.22
+"Road 55 West",0,60,90,1,MB,75.17
+"Road 49 West",0,60,90,1,MB,69.04
+"Road 144 West",0,60,90,2,MB,36.78
+12-11-27-Wpm,0,60,90,2,MB,54.34
+"Road 52 West",0,60,90,1,MB,72.1
+"Public Crossing",0,60,90,2,MB,50.52
+"Public Crossing",0,60,90,2,MB,51.92
+"Road 103 West",0,60,90,1,MB,126.17
+"Road 47 West",0,60,90,1,MB,66.99
+"Road 45 West",0,60,90,2,MB,64.95
+20-11-27-Wpm,0,60,90,2,MB,57.9
+"Road 170 West",0,60,90,2,MB,69.95
+"Road 63 West - Sight Hill",0,60,90,1,MB,83.42
+"Road 88 West",0,60,90,1,MB,110.49
+"Road 60 West",0,60,90,1,MB,80.32
+"Road 94 West",0,60,90,1,MB,117.36
+"Road 40 West",0,60,90,1,MB,59.83
+6-18-17,0,60,80,2,SK,81.57
+"William St",0,30,50,2,ON,113.88
+"Ingersol Ave",0,30,50,2,ON,87.89
+"Maitland St",0,30,50,2,ON,114.03
+"North Kent Ave @ Prince E",0,0,50,2,BC,9.2
+"N. Kent. W.@ Ross St.",0,10,50,2,BC,9.2
+"Provincial Road 542",0,60,90,2,MB,71.17
+"Road 43 West - Troop",0,60,90,2,MB,62.92
+"E-W Grid Road (35-31-26)",0,80,80,2,SK,134.53
+"2Nd Line",0,60,80,1,ON,82.4
+"Arkwood Rd",0,60,50,2,ON,58.12
+"Ramsey Rd",0,60,50,2,ON,70.41
+"Tecumseh Rd E",0,10,60,6,ON,103.04
+"Road 68 West",0,80,90,2,MB,87.8
+"Malcolm Rd",0,0,60,2,BC,72.25
+"Highway 15",1,40,100,2,SK,80.75
+"Second Street",0,80,50,2,MB,41.8
+"222Nd St",0,50,50,2,BC,104.31
+"Kennedy Rd (Reg 3)",0,0,60,4,ON,52.35
+"T C H - Route 20",0,10,100,2,QC,41.8
+"Silverdale St Rd",0,50,80,2,ON,31.67
+"Boyle Rd",0,50,80,2,ON,29.32
+"Range Road 11 At Bowden",0,45,80,2,AB,69.08
+"Maricourt Blvd.",0,15,50,2,QC,39.87
+"Soucy St",0,50,30,2,QC,41.64
+"Pond Mills Rd North",0,25,50,2,ON,77.4
+5-6-17-10,0,55,80,1,SK,88.1
+33-34-16-11,0,55,80,2,SK,92.34
+"Rue Deland",0,40,50,2,QC,22.8
+"Mackenzie Station Rd",0,60,80,2,ON,113.98
+"Range Road 174",0,80,30,2,AB,215.27
+"Grid Road 656",0,80,80,2,SK,22.78
+"Sifto Salt Road",0,70,80,2,SK,55.6
+"Gough Road",0,30,50,2,AB,39.18
+"Murphy Rd Cnty 37 (Petawa",0,30,50,2,ON,102.72
+"Third St",0,35,50,2,ON,117.54
+"Morrison Rd",0,50,80,2,ON,129.99
+"Marr Rd",0,50,80,2,ON,125.81
+"Arbutus Rd",0,40,15,2,BC,102.64
+"Wright Ave",0,15,50,2,NS,9.27
+"West Xing Wilcox",0,50,80,2,SK,35.13
+"North Shore Rd",0,50,80,2,ON,48.94
+"Public Road (33-34-35-11)",0,80,80,2,SK,225.72
+"N-S Grid Road (W19-36-8)",0,80,80,2,SK,209.06
+"Hwy 23",0,25,100,2,MB,38.36
+"King St.",0,15,50,5,QC,46.93
+W30-27-16,0,60,80,1,SK,71.28
+"Quevillon Street",0,40,50,2,QC,15.8
+"Castleford Rd ( Cnty 1)",0,40,80,2,ON,51.05
+"Chemin Du Lac",0,75,80,2,QC,5.97
+"Township Road 102",0,45,80,2,AB,17.72
+"Melville Street",1,20,50,2,SK,188.35
+"Church Avenue",1,10,50,2,MB,1.3
+"Lafontaine Rd",0,100,80,1,ON,48.64
+"Hwy 39",0,30,100,2,SK,149.39
+"Elevator Rd @ Milestone",0,50,40,2,SK,47.22
+"Merrit Rd",0,65,80,2,ON,21.09
+"Cherry Ave",0,65,80,2,ON,20.01
+"Hwy 41",0,40,100,2,SK,51.35
+"Oakshela Turnoff",0,60,40,2,SK,8.17
+"Hwy 144",0,0,80,2,ON,105.21
+"Dundonald Avenue",0,30,70,2,SK,2.4
+"Lakeside Rd (Tws 40-0)",0,55,30,2,AB,13.54
+"Fairview Rd",0,70,80,2,ON,109.76
+"Wyton Dr",0,70,80,2,ON,112.76
+"Cherry Hill",0,70,80,2,ON,103.5
+"Olivers Rd",0,70,80,2,ON,108.43
+"Murdock Road",0,50,40,2,MB,144.8
+"Rang Versailles",0,50,90,2,QC,12.91
+"10Th Sd.Rd.(Vibert Road)",0,50,60,2,ON,9.95
+"4Th Ave",0,25,50,2,SK,42.45
+"Highway 29",0,40,80,2,AB,94.54
+"Isobord Road",0,80,90,2,MB,29.42
+"Sunshine Crossroad",0,45,70,2,ON,27.99
+"Mcdougall Ave",0,25,40,2,ON,109.83
+"42 Avenue E 1 Street Se",0,10,50,2,AB,117.11
+"4Th Street East Wynard",0,30,40,2,SK,113.45
+"Sterling Lyon Parkway",0,25,80,4,MB,5.62
+"Memorial Ave.",0,40,50,2,BC,101.6
+"Alway Rd",0,50,80,1,ON,42.93
+"Bowslaugh Rd",0,50,80,2,ON,44.07
+"Road 141 West",1,30,90,2,MB,42.36
+"N-S Rd. Allowance",1,40,90,2,MB,72.17
+"Lakeshore Rd",0,60,80,2,ON,152.9
+"East Townline Rd",0,60,80,2,ON,149.86
+"Lazier Rd",0,60,80,2,ON,81.6
+"Peters Rd",0,60,80,2,ON,117.45
+"Mackenzie Ave.",1,10,15,2,BC,0.22
+"Bethridge Rd",0,0,80,2,ON,12.02
+"Greenfield Rd",0,5,80,2,ON,67.66
+"Carmens Way",0,10,60,2,ON,180.68
+"Walker Rd",0,10,50,5,ON,1
+"St Louis Street",1,0,50,4,QC,44.07
+"Simpson Rd",0,15,50,2,BC,118.6
+"Hwy  638 - (Echo Bay)",1,40,60,2,ON,164.13
+"Zimmerman Road",0,45,80,2,SK,105.48
+"Hwy 7",0,45,80,2,NB,22.54
+"Kidd Rd S.  (Ervens Rd)",0,100,80,1,ON,148.28
+"Pagwachuan Ave(Caramat)",0,50,50,2,ON,77.29
+"Blvd De L'Hopital",0,40,50,4,QC,113.8
+"West St (Chatham)",0,35,50,2,ON,64.72
+"Rabbit Lake Rd",0,35,50,2,ON,144.39
+"Jeffrey St (Chatham)",0,35,50,2,ON,64.52
+"King Street",0,10,50,4,BC,107.52
+"River Rd",0,50,50,2,ON,23
+"Pr 311",0,25,50,2,MB,20.97
+"108 Street (Wapiti Road)",0,20,60,4,AB,50.91
+"Rundle Rd",0,60,50,2,ON,167.08
+"Lafreniere Road",0,75,70,1,QC,8.32
+"Broadway Street",1,25,50,4,SK,24.74
+"Rosebank Rd",0,60,60,2,ON,190.6
+"Centre Street West",0,30,50,2,AB,39.52
+"Dougall Ave",0,35,50,4,ON,109.77
+"Carling Station Rd",0,60,80,2,ON,35.33
+"Pr 242 - Road 51 West",0,60,90,2,MB,15.49
+"West Xing At Sheho",0,40,80,2,SK,68.78
+"La Salle Blvd",0,65,50,2,ON,261.83
+"Chemin Picard",0,80,70,2,QC,99.73
+"Central Avenue",0,10,50,4,SK,109.78
+"Road 64 East - Plum Creek",0,50,90,2,MB,73.5
+"Road 67 East - Rice",0,50,90,2,MB,70.38
+"Station Rd",2,10,50,2,MB,30.75
+"Road 24 East - Pineridge",0,50,90,2,MB,115.52
+"Road 39 East - Monominto",0,50,90,2,MB,99.7
+"Road 35 East - Stoneridge",0,50,90,2,MB,103.96
+"Route 343",0,40,90,2,QC,26.67
+"Bond St",0,40,50,2,ON,57.1
+"Doran St (Cnty 26) (Petaw",0,30,50,2,ON,103.61
+"Begbie St.",0,10,50,2,BC,8.34
+"Road 27 East",0,60,90,2,MB,137.54
+"Range Road 224 (Opal Rd)",0,25,100,1,AB,24.43
+"St Denis Street",0,20,50,2,QC,81.3
+"Avenue H",0,0,50,4,SK,0.51
+"Capstan Way",0,5,50,2,BC,9.2
+"5 Avenue W 33 Street Ne",0,10,50,4,AB,2.07
+"Highway 609",1,55,50,2,MB,74.65
+"Highway 9 By Chestermere",0,40,100,2,AB,116.75
+"Beecher Ave",0,55,30,2,BC,127.1
+"Highway 20",0,40,100,2,SK,52.01
+"5 Avenue In Fort Macleod",0,45,50,2,AB,31.26
+"Renfrew St",0,40,50,2,ON,58.68
+"Lochiel St",0,40,50,2,ON,59.23
+7-8-28-17,0,80,80,2,SK,76
+28-29-31-25,0,80,80,2,SK,130.47
+"Township Road 502",0,80,80,1,AB,217.98
+"Range Road 180",0,80,80,2,AB,217.54
+"Range Road 172",0,80,80,1,AB,213.03
+19-20-19-31,0,80,80,2,SK,230.29
+15-16-20-33,0,80,80,2,SK,241.95
+28-29-20-1,0,80,80,1,SK,246.76
+26-35-18-31,0,80,80,1,SK,223.45
+W19-21-3,0,80,80,2,SK,262.21
+W6-27A-13,0,80,80,1,SK,51.17
+8-27A-14,0,80,80,2,SK,56.09
+,0,80,80,1,SK,5.54
+"Ns W11-37-17-3",0,80,80,1,SK,17.42
+"Ns W16-37-17-3",0,80,80,2,SK,19.57
+"Ns W5-38-18-3",0,80,80,1,SK,27.64
+"Ns W20-37-17-3",0,80,80,2,SK,20.64
+"Range Road 43",0,80,80,1,AB,123.67
+"Range Road 21",0,80,80,1,AB,108.18
+"Range Road 90",0,80,80,1,AB,154.77
+"Range Road 25",0,80,80,1,AB,112.35
+W30-33-28,0,80,80,1,SK,154.59
+35-36-25-12,0,80,80,2,SK,38.35
+2-3-23-7,0,80,80,1,SK,4.37
+23-24-23-8,0,80,80,1,SK,10.25
+32-33-23-8,0,80,80,1,SK,13.77
+16-17-30-23,0,80,80,1,SK,115.35
+9-10-29-21,0,80,80,2,SK,100.15
+3-4-32-26,0,80,80,1,SK,136.07
+"Ns W26-37-18-3",0,80,80,1,SK,23.85
+4-5-31-244,0,80,80,2,SK,123.44
+"Range Road 11",0,80,80,2,AB,102.02
+13-14-20-1,0,80,80,1,SK,243.44
+29-30-31-25,0,80,80,1,SK,131.65
+23-244-29-22,0,80,80,2,SK,104.84
+"Township Road 462",0,80,80,1,AB,167.53
+"Range Road 7-2",0,80,80,1,AB,143.24
+"Range Road 63",0,80,80,1,AB,136.98
+Unnamed,0,80,80,2,AB,175.37
+5-50-1-4,0,80,80,1,SK,271.01
+15-16-30-233,0,80,80,1,SK,114.18
+25-26-30-24,0,80,80,2,SK,118.84
+W7-32-26,0,80,80,2,SK,139.39
+34-35-33-28,0,80,80,1,SK,156.18
+7-8-32-26,0,80,80,2,SK,138.28
+11-14-33-28,0,80,80,2,SK,149.25
+35-36-33-28,0,80,80,2,SK,155.75
+"Ew N34-36-16-3",0,80,80,2,SK,11.66
+"Ns W15-37-17-3",0,80,80,1,SK,18.5
+"Ns W14-38-19-3",0,80,80,2,SK,31.61
+"Ns W35-36-16-3",0,80,80,2,SK,10.99
+33-34-24-10,0,80,80,1,SK,26.65
+34-35-25-12,0,80,80,2,SK,39.55
+"Ew N21-38-19-3",0,80,80,2,SK,33.5
+"Ew N12-39-20-3",0,80,80,2,SK,39.64
+25-26-21-4,0,80,80,2,SK,263.32
+29-30-20-1,0,80,80,2,SK,247.87
+25-26-18-31,0,80,80,1,SK,222.71
+14-23-20-1,0,80,80,1,SK,243.87
+"Range Road 122",0,80,80,1,AB,178.95
+1-2-22-5,0,80,80,1,SK,269.92
+9-10-27A-14,0,80,80,1,SK,54.28
+29-30-33-28,0,80,80,1,SK,153.43
+"Ns W22-38-19-3",0,80,80,2,SK,32.97
+"Ns W19-39-21-3",0,80,80,2,SK,44.97
+25-26-35-4,0,80,80,2,SK,178.3
+"Ew N29-39-21-3",0,80,80,2,SK,49.7
+"Range Road 134",0,80,80,1,AB,188.26
+"Range Road 30",0,80,80,2,AB,113.41
+"Range Road 94",0,80,80,2,AB,159.08
+26-27-24-10,0,80,80,2,SK,25.48
+1-11-24-9,0,80,80,2,SK,17.29
+11-12-25-11,0,80,80,1,SK,31.33
+W30-25-12,0,80,80,1,SK,37.18
+28-33-32-27,0,80,80,1,SK,144.08
+22-23-34-2,0,80,80,1,SK,165.37
+14-15-21-3,0,80,80,2,SK,257.79
+7-8-21-2,0,80,80,2,SK,254.49
+"Range Road 143",0,80,80,2,AB,193.86
+32-33-32-27,0,80,80,2,SK,145.04
+W19-24-9,0,80,80,1,SK,23.14
+19-20-24-9,0,80,80,2,SK,21.97
+"Ns W24-39-21-3",0,80,80,1,SK,46.01
+"Ns W7-39-19-3",0,80,80,2,SK,38.34
+"Ew N31-38-19-3",0,80,80,2,SK,36.45
+15-16-25-11,0,80,80,1,SK,33.67
+3-10-23-7,0,80,80,1,SK,4.93
+11-12-30-23,0,80,80,2,SK,111.84
+31-23-8,0,80,80,2,SK,15.3
+11-14-25-11,0,80,80,1,SK,31.84
+8-17-29-21,0,80,80,2,SK,101.82
+"Ns W23-39-21-3",0,80,80,2,SK,47.05
+"Ns W3-37-16-3",0,80,80,1,SK,12.07
+"Range Road 40",0,80,80,2,AB,120.15
+16-17-19-31,0,80,80,2,SK,228.88
+2-34-1,0,80,80,2,SK,157.31
+5-6-27-14,0,80,80,1,SK,57.05
+17-18-29-21,0,80,80,2,SK,102.49
+W7-33-27,0,80,80,1,SK,147.49
+8-9-32-26,0,80,80,2,SK,137.18
+"Main Street",0,60,40,2,QC,10.03
+"Alderbridge Way",0,15,60,6,BC,118.6
+"Lumby Hwy",0,25,80,2,BC,7.09
+"Milford Rd",0,55,50,2,NS,38.48
+"Heelan St.",0,15,50,2,NS,16.21
+"Monpetit Rd",0,60,50,2,ON,79.13
+"Township Rd No. 3",0,60,50,2,ON,70.1
+"N-S Grid Road (4-5-25-10)",0,80,80,2,SK,27.82
+"Front Ave",0,40,50,2,ON,27.31
+"Mun Road W6-36-10",0,0,80,2,SK,222.42
+"Pettingill Road",0,40,50,2,NB,75.83
+"34 Street East",0,20,60,2,AB,168.38
+"Highway #132",0,0,100,2,QC,38.38
+"Route 202",0,40,50,2,QC,4.45
+"Riviere Ave.",0,40,50,2,QC,5.97
+"Weyburn Inland Terminal",0,50,80,2,SK,86.66
+"Mill Road",0,0,50,2,NB,122.76
+"Brubacher St",0,70,50,2,ON,72.03
+"Seigneurie Blvd",0,40,50,6,QC,23.69
+Kenilworth,0,10,50,2,ON,3.07
+"Markham Rd (Reg 68)",0,50,50,4,ON,46.94
+"Hillside Road/Twp Rd 472",0,55,15,2,AB,63.25
+"Taylor Road",0,80,50,2,MB,142.96
+"North/South Road",0,80,50,2,SK,159.31
+"Oras Road / Range Road 63",1,30,100,2,AB,85.13
+"Range Road 215A",0,50,80,2,AB,107.41
+"Ojibway Pkwy (Cnty 20)",0,20,80,4,ON,9.9
+"Highway 5",0,60,100,2,MB,107.25
+"Church St.",0,30,50,2,NB,124.26
+"Neebing Ave",0,25,50,2,ON,6.5
+"Golfview Road",1,0,80,2,ON,90.8
+15-1-15-W2M,1,50,30,2,SK,156.8
+"Victoria Ave",0,30,50,2,ON,42.99
+"Tetrault Blvd",2,10,90,2,QC,36.1
+"Chemin St-Jean-Baptiste",0,60,80,2,QC,107.84
+"Range Road 153",0,70,80,1,AB,115.71
+"Unnamed Rd W Range Rd 54",0,70,80,1,AB,131.69
+"Range Road 52",0,70,80,1,AB,129.33
+"Ns W29-53-8-5",0,70,80,1,AB,74.05
+"Range Road 95",0,70,80,1,AB,80.18
+"Ns W29-36-15-3",0,70,80,2,SK,7.54
+"Range Road 55",0,70,80,1,AB,132.54
+"Range Road 200",0,40,80,2,AB,96.49
+"De Bretagne Street",0,40,70,2,QC,3.29
+"Hwy   599",0,60,70,2,ON,145.74
+"Rogers St",0,60,80,2,ON,79.57
+"Stevenson Rd (Reg 53)",0,5,60,2,ON,175.59
+St-Alphonse,0,65,50,2,NB,113.65
+"Road 45 West",0,80,90,2,MB,64.33
+"Raymur Street",0,8,50,2,BC,155.6
+"Water St",0,45,40,2,ON,92.39
+"32-33-21 Wpm",1,40,80,2,SK,103.64
+"252 St.@ 88 Ave.",1,50,50,1,BC,100.5
+"New Vickers St",1,10,50,2,ON,0.37
+"Williams Parkway",0,0,60,4,ON,8.81
+"Range Road 73",0,60,80,2,AB,65.64
+"Range Road 170",0,70,50,2,AB,125.94
+"Strange St",0,30,50,2,ON,63.52
+"Range Road 192",0,45,80,2,AB,92.2
+"Range Road 113",0,40,80,2,AB,43.18
+"Rush Lake Turnoff",0,55,40,2,SK,90.16
+"Ns W22-47-20-4",1,40,80,2,AB,43.72
+"Hwy 567 (By Irricana)",0,40,100,2,AB,99.18
+"50 Avenue Ne",0,30,50,2,AB,5.2
+"Kirby Rd Lot 30 C 10",0,55,80,2,ON,18.48
+"Holbrook Rd",0,95,80,2,ON,27.67
+"Weedmark Rd",0,100,80,1,ON,26.43
+"Island Hwy",0,40,60,2,BC,114.6
+"Centennial Dr.",0,40,50,2,NB,64.97
+"Chemainus Rd.",0,10,50,2,BC,50.8
+Devonshire/Fairview,0,10,50,2,BC,1.57
+"163 Street N 112 Avenue",0,10,50,2,AB,6.96
+Unnamed,0,60,80,2,AB,154.02
+"Township Road 514",0,60,80,2,AB,235.24
+"Range Road 134",0,60,80,1,AB,104.22
+"Marsh Road.",0,75,80,1,NS,43.33
+"Anderson Line",0,50,80,2,ON,90.48
+"St George Street",0,40,50,4,BC,73.87
+"Braid Street",0,30,50,4,BC,145.05
+"South Grimsby Rd 12",0,50,80,2,ON,41.78
+"Spence Ave",0,15,50,2,ON,20.05
+"Chemin Grand Pres",0,50,80,2,QC,28.49
+"River Philips Rd.",0,60,80,2,NS,50.28
+"Murray St (Wallaceburg)",0,30,50,2,ON,40.8
+"Prince St.",0,10,50,4,NS,113.74
+"Edinburgh Rd S",0,0,50,2,ON,49.54
+"Beaver Bank Road",0,30,70,2,NS,2.91
+"Range Road 73",0,50,80,2,AB,11.73
+"Lytton North Access",0,35,50,2,BC,94.59
+"Range Road 80",0,50,80,2,AB,15.61
+"Range Road 252",0,50,80,2,AB,139.16
+"100 St In Grand Prairie",0,10,50,4,AB,49.86
+"Kennebecasis Park Rd",0,40,50,2,NB,81.38
+"Sunset Avenue",1,35,50,2,AB,49.24
+8-9-17-9,0,60,80,2,SK,27.64
+2-3-17-7,0,60,80,2,SK,14.36
+"Range Road 15-4",0,55,50,2,AB,72.87
+"West Anirn Road - Rd 34 W",0,60,90,2,MB,52.89
+"St. Jacques Street",0,35,30,2,QC,22.71
+"13Th Line (Innisfil)",0,80,80,2,ON,47.21
+"Smith Rd",0,70,80,2,NS,73.08
+"North Service Road",0,10,70,3,QC,131.3
+"2Nd Street",0,15,50,2,MB,0.23
+"Taylor Avenue",0,25,60,4,MB,5.11
+"Gill St",0,45,40,2,ON,109.79
+"Hwy  11B",0,30,60,2,ON,140.03
+"Miller St (Gogama)",0,55,50,2,ON,86.54
+"Pierre Laporte Blvd.",0,25,90,2,QC,116.99
+"Black Gold Drive In Leduc",0,0,50,4,AB,78.53
+"Lorne St",0,45,50,2,ON,0.73
+"Ochterloney Street",0,0,50,2,NS,12.66
+"Churchill Rd",0,10,80,4,ON,59.13
+"Autoroute #30",0,25,70,2,QC,213.45
+"Highway 21 Near Ferintosh",0,40,100,2,AB,68.41
+"Range Road 251",0,55,80,1,AB,41.98
+"George St",0,45,50,2,ON,91.82
+"Mattock-Mckeague Rd",0,40,50,2,BC,134.12
+"Hwy 9",0,10,50,4,SK,124.67
+"First Ave",0,10,40,4,ON,77.4
+"Mining Rd",0,55,80,2,ON,132.58
+"Crowsnest Trail",0,10,80,4,AB,107.37
+25-26-32-15,1,30,80,2,SK,106.36
+"Isabella Street",0,35,50,2,ON,150.22
+"Grid Road 630",0,55,80,2,SK,10.58
+"Broxburn Road",0,40,80,2,AB,102.64
+"Howard Ave",0,1,50,2,NS,16.5
+"Francois Cusson St",0,5,50,2,QC,3.33
+"Day Street",0,40,60,2,MB,119.74
+"Tufford Rd",0,65,50,2,ON,21.61
+"Roberts Rd",0,65,50,2,ON,28.84
+"Kelson Ave",0,65,50,2,ON,30.9
+"Hwy 560",0,60,60,2,ON,69.41
+"Mount Stephen Rd",0,50,80,2,ON,93.42
+"Aiken Rd.",0,70,30,1,BC,73.98
+"Road 12A North",0,60,70,2,MB,77.53
+"Montee Rouleau - Reg 18",0,50,80,2,ON,85.41
+"King St S - Reg 15",0,5,50,2,ON,62.5
+"Rue Bournival",1,45,80,2,QC,81.42
+"Hwy 83",0,30,100,2,MB,59.83
+"Bovaird Dr (Reg 107)",0,35,80,2,ON,9.43
+"East Loon Rd",0,50,40,2,ON,100.6
+"West Gore St",0,10,40,2,ON,89.03
+"Elk'S Club Rd (Onaping)",0,45,80,2,ON,103.89
+"Hwy  11  (Driftwood)",0,0,80,2,ON,17.47
+"Main St.",0,75,60,2,NB,138.26
+"John St.",1,10,50,2,ON,180.41
+"Peigan Trail Se",0,15,70,2,AB,125.21
+"Township Road 602",1,35,80,2,AB,54.17
+"Rue St-Patrick",0,40,50,2,QC,85.86
+"L�onidas Ave",0,35,50,4,NB,122.39
+"Farm Crossing",0,100,10,2,ON,159.01
+"Fickle Lake Road",1,25,60,2,AB,11.29
+"Pine Park Rd",0,40,80,2,ON,70.15
+25-26-17-3,0,50,80,1,SK,36.3
+"Harris Rd",0,30,50,2,BC,2.46
+"Colborne St (Chatham)",0,35,50,2,ON,63.92
+"167 Avenue @ Fort Road",1,25,60,2,AB,0.86
+"Twp Rd 450",0,55,50,2,AB,47.89
+Mill,1,50,0,1,BC,46.14
+"Forced Rd",0,40,50,2,ON,94.88
+"Jinglepot Road",0,40,50,4,BC,77.3
+8-9-16-2-W2M,0,60,80,1,SK,115.18
+"Twp Rd(Bunny Trail)",0,55,80,2,ON,160.62
+"Rue Collin",1,20,50,2,QC,20.23
+"Rue St-Wilbrod",0,50,50,2,QC,181.22
+"Des Erables Street",0,0,50,2,QC,84.9
+"Ave John F. Kennedy",0,5,50,2,QC,99.9
+4-5-51-14,0,15,100,2,SK,1.4
+"St. James Street",0,5,60,4,MB,0.91
+"5Th St",0,10,50,2,BC,139.9
+"Dorman Rd",0,0,50,2,BC,75.8
+19-20-36-8,0,80,80,1,SK,214.7
+22-23-35-12,0,80,80,2,SK,231.01
+23-24-35-12,0,80,80,2,SK,229.96
+10-15-36-10,0,80,80,1,SK,218.57
+20-21-36-7,0,80,80,2,SK,200.89
+W19-36-7,0,80,80,2,SK,202.92
+21-20-35-12,0,80,80,1,SK,232.02
+34-35-35-11,0,80,80,2,SK,224.63
+"Boul. Tache",0,0,50,2,QC,118.85
+"Academy Road",0,10,50,4,MB,3.43
+"Chemin Belgique",0,80,70,2,QC,53.6
+,0,100,25,2,ON,62.03
+"Old Toll Rd",0,60,50,2,ON,40.6
+"College Avenue",2,10,50,2,MB,1.02
+"Regional Rd No 24",0,10,80,2,ON,22.2
+"Highway 18 In Westlock",0,35,50,4,AB,51.68
+"Cpr Street - East End",0,55,80,2,SK,49.4
+"Notre Dame Avenue",0,10,60,6,MB,0.88
+"Bridgeport Road",0,10,50,4,BC,118.6
+"Unknown Name",0,60,80,1,ON,64.69
+"Erwin Moore Rd",0,60,80,1,ON,139.6
+,0,60,80,1,ON,60.39
+"Lancaster Rd",0,60,80,1,ON,151.43
+"Rue Duchesnay",0,60,30,2,QC,78.06
+"Neptune Terminals",0,15,50,2,BC,151.8
+"St Joseph Street",0,20,50,4,QC,122.28
+"Cty Rd 21",0,50,80,2,ON,77.3
+"Bridgeport Road",0,15,50,4,BC,118.6
+"Highway 806 (Beiseker)",0,40,100,2,AB,91.23
+"River Rd.",0,10,60,2,BC,137
+"Rue St-Louis",0,40,50,2,QC,10.28
+"Inkster Boulevard",0,10,50,4,MB,2.27
+"Foss Rd",0,50,50,2,ON,26.02
+"Concession 8",0,30,60,2,ON,18.48
+"102 Street",0,30,60,4,AB,50.11
+"Rr 271 At Dalemead",0,55,90,2,AB,151.83
+,0,80,80,,SK,185.01
+"Tako Road",0,80,80,2,SK,50.42
+"N-S Grid Road (36-28-21)",0,80,80,2,SK,97.81
+"Muskowekwan R.-Rg Rd 2151",0,80,80,2,SK,59.3
+"Edward St.",0,25,50,3,ON,5.25
+"Alphonse Desjardins",0,25,50,4,QC,10.99
+"Ottawa St-Reg 4",1,10,50,2,ON,63.05
+"Mcgillivray Blvd",0,20,60,5,MB,0.89
+"Chemin Joliette",0,50,80,2,QC,36.3
+"Elizabeth Road",0,25,50,2,MB,2.34
+"Road 18 West",0,80,90,2,MB,35.93
+"Road 21 West",0,80,90,2,MB,39.02
+"Rasmussen Road",0,80,90,2,MB,21.91
+"Road 11 West",0,80,90,2,MB,28.37
+"Road 19 West",0,80,90,2,MB,36.97
+"Road 16 West",0,80,90,2,MB,33.79
+"Road 22 West",0,80,90,1,MB,40.04
+,0,80,90,2,MB,16.8
+"Lots 48-49",0,80,90,2,MB,20.98
+"Road 23 West",0,80,90,2,MB,41.08
+"Road 6 West",0,80,90,1,MB,22.94
+"Road 26 West",0,80,90,2,MB,44.14
+"Taillieu Rd",0,80,90,2,MB,12.34
+"Road 9 West",0,80,90,1,MB,26.16
+"Willowlake Crescent",0,25,50,2,MB,4.05
+"9Th Avenue North",0,25,50,2,SK,2
+"Mckirdie Rd",0,65,50,2,BC,76.28
+"Miworth Rd",0,40,70,2,BC,6.31
+"North St.",0,10,50,2,ON,180.18
+"Vidal St - (City 40B)",0,10,80,2,ON,69.05
+"Beach Rd",0,10,50,2,ON,3
+"Park St",0,25,50,2,ON,60.89
+"Hwy   537",0,50,80,2,ON,248.43
+"Oxford St",0,30,50,2,ON,87.64
+"Chemin St-Jean Baptiste",0,60,80,2,QC,108.05
+"Monaghan Rd",0,10,50,2,ON,118.88
+"Highway 549",0,35,80,2,AB,24.75
+"Ch. Petit St-Esprit",0,75,80,2,QC,113.18
+"Hwy 16A (Main Street)",0,15,50,4,MB,77.82
+"Road 52 West - Aspenheim",0,80,50,2,MB,71.46
+"Tranquille Highway",1,15,60,2,BC,3.38
+"Main Street",0,45,50,2,AB,47.99
+"Hwy 130",0,25,80,2,ON,12.34
+"King Edward Street",0,20,50,2,BC,4.92
+,0,40,50,2,NB,46.95
+"2 St E @ Field",0,20,30,2,BC,136.4
+"Driggs Ave",0,45,50,2,AB,55.69
+"Highway 786",0,45,50,2,AB,51.59
+"Chemin Rouillard",0,95,30,2,QC,51.36
+"Twp Rd 360 Near Red Deer",0,45,80,2,AB,77.91
+"54 Avenue",0,40,60,2,AB,84.04
+"9 Ieme Rang",0,50,80,2,QC,10.57
+Chamberlan,0,60,50,2,NB,133.96
+"Bison Drive",0,25,60,4,MB,3.66
+"45Th Line",0,60,80,2,ON,91.34
+"12Th Line",0,40,80,2,ON,34.68
+"Conroy Rd",0,20,60,4,ON,2.13
+"50 Avenue W 22 Street Se",0,10,50,2,AB,125.69
+"Bentinck St.",0,10,50,2,NS,113.14
+"Melvin Ave.",0,15,50,2,ON,262.3
+"Pembroke St (Sturgeon Fal",1,30,50,2,ON,23.82
+34-35-19-32,0,55,70,2,SK,234.18
+"33Rd Line",0,60,80,2,ON,95.66
+"Township Road 32.02",0,45,90,2,AB,52.34
+W19-28-19,0,55,80,2,SK,89.68
+"Range Road 14-2",0,55,80,2,AB,63.4
+"Mcclure Ferry Road",0,65,50,2,BC,116.39
+"Mckenzie Rd",0,65,50,2,ON,92.57
+"Route Caronnette",0,80,40,1,QC,54.17
+"King Edward Ave",0,15,50,5,BC,9.2
+"Nipigon Bay Rd",0,50,50,2,ON,38.96
+"Boom Avenue",0,55,50,2,NB,3.12
+"Boul. Hamelin",0,30,50,2,QC,5.1
+,0,45,90,2,QC,49.69
+"Port Stanton Rd",0,50,50,2,ON,93.8
+"Pillette St",0,45,50,2,ON,104.01
+"Secondary Highway 520",0,45,80,2,AB,19.8
+"Rue Metropole",0,10,50,2,QC,7.28
+"Route Principale",0,30,90,4,ON,93.48
+"16Th Ave (Reg 73)",0,50,50,4,ON,46.38
+"Unknown Name",0,50,80,2,AB,122.07
+"Regional Road 21",0,50,80,2,AB,120.79
+"109Th Rd",0,70,80,2,ON,84.11
+"Highway 2",0,15,50,4,AB,65.42
+"Highway 45",0,40,50,2,AB,99.03
+"Mont�e St-Francois",0,50,50,2,QC,4.76
+"Road 65 North -Hazelridge",0,50,50,2,MB,106.59
+"88 Street N 60 Avenue",1,20,50,2,AB,172.03
+"Hwy 79  (Bothwell)",0,60,80,2,ON,41.98
+"Road 80 West (Chandler)",0,80,90,2,MB,100.14
+"Elmwood Dr",0,60,60,2,ON,88.79
+"Bridge St.",0,25,50,2,NS,41.12
+"Sabourin Rd",0,100,80,2,ON,63.95
+"Guelph Line (Reg 1)",0,0,50,2,ON,37.94
+"Devonshire Rd",0,15,50,4,ON,105.87
+"Mccowan Rd",0,45,50,2,ON,38.39
+"Lacas Circle",0,45,30,2,QC,18.41
+"Grid Road 600",0,70,80,2,SK,217.15
+"Grey Street",0,25,50,2,MB,124.02
+"Secondary Highway 887",0,45,100,2,AB,16.76
+"10Th Line (Reg 10)",0,0,80,2,ON,38.94
+"Rue St Louis",0,35,50,3,NB,123.77
+26-27-17-7,0,55,80,1,SK,65.16
+5-6-18-6,0,55,80,1,SK,61.17
+"N.Kent Ave.W.Main St",0,10,50,2,BC,9.2
+"Manning Dr",0,25,80,2,ON,77.4
+7-18-19,0,25,80,1,SK,4.26
+31-32-16-27,0,60,80,1,SK,7.35
+19-20-17-1,0,60,80,1,SK,27.98
+10-11-17-28,0,60,80,1,SK,10.84
+22-23-17-1,0,60,80,1,SK,24.92
+28-17-5,0,60,80,2,SK,52.61
+26-27-17-5,0,60,80,1,SK,51.31
+W30-17-4,0,60,80,2,SK,49.28
+Private,0,60,80,2,SK,98.13
+25-26-17-5,0,60,80,1,SK,50.3
+20-21-17-1,0,60,80,1,SK,26.96
+17-18-16-12-W3M,0,60,80,1,SK,101
+"Old Second Sr",0,60,80,2,ON,71.4
+"9Th Line",0,75,60,2,ON,43.4
+"Gagne Rd",0,50,80,2,ON,132.13
+"Prince St",0,10,50,2,NS,0.18
+"184 Street N 137 Avenue",0,30,70,2,AB,2.62
+"Maloney Boulevard",0,0,50,2,QC,112.1
+"East Wheat Pool Road",0,50,80,2,SK,80.67
+"White Swan Park Acc.",0,50,50,2,BC,107.3
+"Tilney Grid Road",0,50,80,2,SK,128.83
+"12 Avenue South",0,30,50,2,AB,86.6
+"Highway 21 At Bashaw",0,40,100,2,AB,84.92
+"Sexsmith Road",0,25,50,2,BC,113.23
+"Kimverly Clark (Exton)",0,65,25,2,ON,135.25
+"4Th Street",1,25,40,2,SK,37.06
+"Rang De La Riv�ere",0,45,50,2,QC,66.58
+"Range Road 180",0,40,40,2,AB,53.41
+"Sutherlnad Rd",0,60,80,2,ON,18.16
+"Drake Rd",0,60,80,2,ON,71.44
+"Sixteen Rd",0,50,50,2,ON,34.12
+"Beachwood Dr",0,40,50,1,ON,4.91
+"Range Road 280",0,45,80,2,AB,47.3
+"Lost Channel Rd/Hwy522",0,50,80,2,ON,74.7
+"Bush Access Off Badger Rd",0,60,90,1,MB,71.65
+"Road 48 East",0,60,90,2,MB,105.11
+"Road 30 East",0,60,90,2,MB,133.87
+,0,60,90,2,MB,116.98
+"Field Access Road - Gated",0,60,90,2,MB,82.1
+"Road 5 North",0,60,90,2,MB,66.88
+"Fr�chette Road",0,60,90,2,MB,108.86
+"Road 88 East",0,60,90,2,MB,50.61
+"Road 32 East",0,60,90,2,MB,132.1
+,0,60,90,2,MB,76.23
+"Road 83 East",0,60,90,2,MB,55.76
+"Field Access",0,60,90,2,MB,55.22
+"Road 76 East",0,60,90,2,MB,63.2
+"Pineridge Road",0,60,90,2,MB,141.24
+"Road 3A North",0,60,90,1,MB,65.1
+"Richmond St (Chatham)",0,15,50,2,ON,65.11
+"River St.",0,10,30,2,NS,40.39
+"Albchem Road",0,60,50,2,MB,53.28
+"Concession Rd 6",0,70,80,1,ON,74.2
+"Sunnyside Road",0,40,80,2,AB,104.74
+"Grid Road 621",0,50,80,2,SK,67.72
+"Archibald Street",0,10,60,2,MB,149.63
+"19Th Ave",0,50,60,2,ON,42.04
+"Des Cypres Road",0,60,50,2,MB,106.99
+"Bourgoin Rd",0,60,50,2,NB,187.68
+"Road 15 West",0,60,90,2,MB,32.71
+"Road 29 West",0,60,90,2,MB,47.29
+"Pleasant St.",0,40,50,2,NB,20.51
+"Gage Ave",0,30,50,2,ON,41.54
+"Wellington St",0,30,50,2,ON,43.14
+"Horton St",0,10,50,2,ON,77.4
+"Hwy 794 Near Alcomdale",0,35,100,2,AB,31.01
+"Comox Rd",0,20,50,4,BC,73
+"Range Road 250",0,45,80,2,AB,22.61
+"Range Road 243",0,45,80,2,AB,19.01
+"Range Road 233",0,45,80,2,AB,12.73
+"Plinquet Street",0,15,50,2,MB,0.75
+"Cottonwood Road",0,25,50,3,MB,3.18
+"Marquis Drive",0,40,60,4,SK,8.5
+"Wentworth St",0,20,60,2,ON,56.47
+"Huff Rd",0,60,80,2,ON,113.83
+"Marysville Rd (Twp Rd)",0,60,80,2,ON,76.69
+"Pinegrove Rd",0,60,80,2,ON,70.42
+"Pr 583",0,45,90,2,MB,54.84
+"28Th Ave",0,10,50,2,BC,85.59
+"40Street N 72Avenue (#26)",0,10,50,2,AB,171.5
+"Rue Fabre",0,10,50,2,QC,41.2
+"Rochefort Street",0,0,50,2,QC,84.9
+"Meadow St.",0,15,50,2,BC,118.6
+"Substation Road",0,20,50,2,BC,1.33
+"Inkster Boulevard",0,10,50,2,MB,1.95
+"Main Street",0,10,50,2,NB,45.97
+"Murray Point Rd",0,55,80,2,ON,27.79
+7-17-21,0,60,80,1,SK,106.32
+2-3-17-23,0,60,80,1,SK,114.51
+35-36-16-24,0,60,80,2,SK,119.63
+7-8-17-22,0,60,80,2,SK,111.44
+26-27-16-25,0,60,80,1,SK,126.81
+"Mountain Hwy.",0,10,50,4,BC,151.8
+"Dewdney Anenue",0,10,50,6,SK,0.46
+"Range Road 232 (33 St)",0,30,50,2,AB,162.55
+"Chamberlain St.",0,30,50,2,NS,75.92
+"Mclaughlin Rd",0,35,80,4,ON,6.63
+"Queens Walk Rd",0,40,70,2,ON,112
+"Whonnock A",0,65,25,2,BC,96.48
+"Spall Rd.",0,15,50,2,BC,117.04
+"111 Avenue Nw",0,10,60,2,AB,8.4
+"Berryman Ave",0,0,50,2,ON,3.55
+"Roy Road",1,45,70,2,QC,88.24
+"Orkney Rd",0,0,80,2,ON,10.83
+"Twp Rd 391 Near Blackfald",0,35,80,2,AB,6.84
+"Route 625  (Mavis Mills)",0,60,30,2,NB,89.36
+"Steeles Ave W (Reg 15)",0,35,80,2,ON,4.3
+"26Th Line",0,70,80,2,ON,92.58
+"110Th Rd",0,70,80,2,ON,85.38
+"14Th Line",0,70,80,2,ON,97.94
+"Mccaws Rd",0,95,80,1,ON,3.03
+34-35-36-8,0,30,80,2,SK,16.57
+"Young Rd",0,30,80,2,SK,15.55
+22-27-26-22,0,40,80,2,SK,62.55
+"Sask Street",0,60,40,2,SK,25.94
+"Sterling Lyon Parkway",0,10,80,4,MB,4.87
+"Mercer Hill Road",1,25,80,1,AB,40.92
+"Maple St (Second Hwy 857)",0,40,50,2,AB,57.9
+"John Bell Road",0,75,50,2,NS,57.3
+"Beaudry Avenue",0,60,50,2,MB,68.68
+"Mont�e Rivest",0,50,80,2,QC,24.07
+"18Th Street (Hwy 10)",0,25,50,4,MB,1.3
+"Highway 2 In Nampa",1,25,50,2,AB,30.23
+"Chemin Sullivan",0,30,50,4,QC,38.24
+"Bur  Oak Ave",0,50,40,2,ON,45.69
+"Nash Rd",0,0,50,2,ON,38.56
+"Young Street",0,10,50,2,NS,63.82
+"Range Road 240",1,45,50,2,AB,15.86
+"Rafferty Dam Access Rd",0,50,80,2,SK,135.14
+"53 Street - Sec Hwy 856",0,25,60,2,AB,43.29
+"Pine St.",0,10,50,2,ON,178.33
+"Highway 506 West",1,35,60,2,AB,30.68
+"Hwy #97",0,25,100,2,BC,28.66
+"106Th Rd",0,70,80,2,ON,80.31
+"Kitseguecla Lake Rd",1,45,50,1,BC,15.63
+"Township Rd 182 (Earview)",0,55,80,2,SK,29.02
+"Sherbrooke Street",0,10,80,2,QC,131.3
+"Donaghue Rd",0,60,80,2,ON,110.27
+"Caribou St. W.",0,30,60,2,SK,2.87
+"53 Street",0,30,50,4,AB,70.28
+"Rg St Pierre",0,45,50,2,QC,3.01
+"Dog River Rd",0,0,60,2,ON,59.25
+"Cambria St",0,10,50,2,ON,88.96
+"Lynden Rd - Reg 503",0,0,50,2,ON,13.91
+"Rue St-Marc Nord",0,50,50,2,QC,61.47
+,0,50,80,2,ON,84.1
+"Mountain Bay Road",0,50,80,2,ON,32.86
+"195 Avenue E 25 Street",0,50,80,2,AB,120.08
+"Rue Maclaren",0,5,50,2,QC,99.9
+"High Falls Rd",0,50,50,2,ON,125.27
+"Rang De La Chaloupe",0,60,80,2,QC,98.07
+"Grand Rang St Catherine",0,60,80,2,QC,88.27
+Principale-40,0,50,50,2,QC,15.71
+"4Th Line Road",0,50,50,2,QC,9.68
+"Pratt Siding Rd",0,80,50,2,ON,30.62
+"Bradshaw Rd",0,50,80,2,ON,39.5
+"Hwy   2",0,15,100,2,ON,104.8
+"Secondary Hwy 672",0,30,100,2,AB,87.23
+"Boul. Mcwatters",0,30,90,2,QC,92.78
+25-26-17-11-W2M,0,60,80,1,SK,37.39
+13-14-18-16,0,60,80,1,SK,70.25
+15-16-18-12-W2M,0,60,80,1,SK,46.43
+27-26-16-4,0,60,80,1,SK,125.84
+33-34-15-1,0,60,80,2,SK,107.67
+16-17-18-15,0,60,80,2,SK,67.21
+24-17-11,0,60,80,1,SK,36.28
+13-19-18-14,0,60,80,1,SK,63.01
+,0,60,80,2,SK,88.06
+9-10-15-33,0,60,80,1,SK,102
+8-9-13-30,0,60,80,1,SK,79.35
+"Unnamed Road",0,60,80,1,SK,43.51
+9-10-17-9,0,60,80,1,SK,26.62
+35-36-14-33,0,60,80,1,SK,98.02
+2-3-13-30,0,60,80,1,SK,77
+19-20-16-3,0,60,80,1,SK,123.25
+13-14-14-32,0,60,80,2,SK,91.1
+26-23-16-4,0,60,80,2,SK,124.8
+26-27-13-31,0,60,80,1,SK,84.24
+Sec31-32-15-1-W2M,0,60,80,2,SK,109.87
+14-15-18-12-W2M,0,60,80,1,SK,45.37
+17-18-12-W2M,0,60,80,1,SK,48.45
+10-11-17-8,0,60,80,1,SK,19.52
+15-16-18-15,0,60,80,1,SK,66.06
+31-18-13,0,60,80,2,SK,55.97
+10-14-18-16-W2M,0,60,80,1,SK,71.28
+20-21-16-3,0,60,80,1,SK,121.7
+12-17-8,0,60,80,1,SK,17.46
+22-23-18-13,0,60,80,1,SK,51.38
+14-23-14-32,0,60,80,1,SK,91.83
+17-18-13-30,0,60,80,1,SK,80.6
+"N-S Road Allowance",0,60,80,1,SK,10.24
+5-6-18-11-W2M,0,60,80,1,SK,41.87
+10-16-17-8,0,60,80,1,SK,20.54
+"6�me Rue Ouest",0,30,50,4,ON,43.99
+"Vye Rd",0,30,80,2,BC,9.12
+"Nadina Ave.",0,50,50,2,BC,85.91
+"Crowland A-Biggar Rd",0,40,80,2,ON,7.34
+"Rue De L'Eglise",0,70,50,2,NB,181.24
+"Dyke Rd (Catherwood Pk)",0,50,50,2,BC,84.46
+"Falconbridge Rd.",0,10,60,2,ON,262.3
+"Carvel Carmelhein Road",0,80,80,2,SK,30.39
+"Rte De L'Aeroport",0,40,50,4,QC,152.37
+"46 Street S 50 Avenue",1,40,40,4,AB,51.61
+"Pr 210",0,25,90,2,MB,15.85
+"Hwy   3",0,35,80,2,ON,95.54
+,0,65,60,2,NB,154.46
+"Clearwater Station R",0,45,50,2,BC,67.52
+"131 Avenue W 148 Street",0,10,50,2,AB,5.17
+"Pond Mills Rd South",0,25,50,2,ON,77.4
+"Ste Therese Street",0,0,50,2,QC,157.7
+"Wellington St",0,10,50,2,ON,0.34
+"Range Road 61",0,60,80,2,AB,57.94
+"15 Street S 9 Avenue Se",0,20,50,2,AB,0.56
+"2Nd Street West",1,10,50,2,MB,0.1
+Frontenac,0,85,80,2,ON,178.58
+"Midland Rd",0,60,80,2,NB,51.4
+"Chemin De L'Eglise",0,55,50,2,QC,60.54
+"Secondary Highway 501",0,35,100,2,AB,10.16
+"Harrison Bay Rd.",0,40,30,2,BC,70.35
+"Banwell Rd",0,80,60,4,ON,100.06
+"Road 152 West",0,80,90,2,MB,176
+"Road 151 West",0,80,90,2,MB,174.98
+"Road 133 West",0,80,90,2,MB,155.61
+"Road 154 West",0,80,90,2,MB,178.04
+"Queen Street",0,80,50,2,SK,106.26
+"Parking Lot",0,10,0,2,BC,8.19
+"1St Avenue (Pr 254)",0,60,50,2,MB,31.96
+"Municipal Road (Pr 252)",0,60,50,2,MB,55.5
+"Secondary Highway 855",0,40,50,2,AB,70.65
+"Judson St",0,0,60,2,ON,7.71
+"Rue Ste-Elisabeth",0,0,50,2,QC,81.3
+"Blaeberry River Rd.",0,50,80,2,BC,44.29
+"Rue Lemay",0,30,50,2,QC,29.76
+"Range Road 75",0,45,80,2,AB,18.82
+"Boul De La Normandie",0,25,50,4,QC,6.88
+"Ch. Plage J.-Cartier",0,60,50,2,QC,4.59
+"James Street",0,25,40,4,ON,5.77
+"Riedsville Rd",0,60,80,2,ON,65.9
+,0,95,25,2,ON,134.35
+"26Th Street",0,0,50,2,MB,0.98
+"West Loon Rd",0,50,40,2,ON,102
+24-25-13-21-W2M,0,50,80,2,SK,34.18
+6-8-13-W2M,0,50,80,2,SK,89.66
+32-10-17-W2M,0,50,80,2,SK,60.2
+"Rge Rd 2133",0,50,80,2,SK,93.41
+"Rge Rd 2153",0,40,80,2,SK,78.09
+"Hwy 41",0,50,50,2,MB,204.47
+,0,100,15,1,ON,272
+"St Joseph Street",0,20,70,2,QC,6
+"Main Street (Hwy 35)",1,40,50,2,SK,62.8
+"St George St",0,25,50,2,ON,61.27
+"Private Crossing",0,70,0,1,BC,97.51
+"Church St",0,60,50,2,ON,185.72
+"River Street",0,0,50,4,SK,0.4
+"2Nd Avenue West",0,0,50,4,SK,90.22
+"Pr 673 - Main Street",0,30,50,4,MB,71.94
+"Route 111",1,30,90,2,ON,69.01
+"Bishop St",0,10,50,2,ON,3.25
+St-Francois-Xavier,0,0,50,2,QC,34.43
+"Hwy 12",0,30,100,2,SK,69.89
+"10Th Rd E",0,50,60,2,ON,45.46
+"Highway 26",1,30,50,2,AB,68.87
+"Thibault Road",0,80,50,1,QC,63.3
+"Road 4 West In Meadows",0,60,70,2,MB,20.21
+"Clarence St",0,5,50,2,ON,5.14
+"Sugarloaf St - Reg",0,5,50,2,ON,5.14
+"Pleasant St.",0,5,50,2,NB,64.62
+"Achray Rd",0,30,80,2,ON,98.53
+"Kimberly Clark Rd 15",0,70,25,2,ON,99.12
+"Fourth Ave (Sudbury)",0,45,50,2,ON,75.47
+"Railway Ave Mclean",0,60,40,1,SK,69.44
+"4Th Line Rd",0,50,80,2,ON,37.02
+"Wolfe Crossing",0,55,30,1,AB,47.2
+"Camplake Rd",0,50,80,2,ON,4.97
+"Rge Rd 55 Near Med Hat",0,40,80,2,AB,4.33
+"Glen Echo Resort",0,55,0,1,BC,68
+"Lobstick Road",0,70,80,2,AB,75.05
+"Hickson Road",0,50,50,2,BC,30.38
+"68 Avenue E 67 Street",0,10,60,2,AB,4.46
+"Green Wood Rd (Cnty 40)",0,50,80,2,ON,81.33
+"Route 279",0,15,90,2,QC,0.7
+"Rue St-Dominique",0,30,30,3,QC,200.75
+"Second Street",0,40,50,2,SK,101.79
+"Rang Grande Ligne",0,35,80,2,QC,2.2
+"Raynes Avenue",0,10,50,2,NB,2.2
+32-10-12-Epm,0,70,90,2,MB,197.68
+"Rive Sud Road",0,50,65,2,QC,5.05
+"Blue Lake Rd",0,45,80,2,ON,18.75
+"Montee Saint Philippe",0,50,80,2,QC,17.26
+"Chesley Drive",0,10,0,4,NB,1.59
+"Crow Creek Rd (Forestdale",1,50,50,1,BC,59.19
+"Rte Athanase",0,30,80,2,QC,30.55
+"Coxheath Rd",0,35,50,2,NS,110.08
+"Plessis Road",0,10,60,4,MB,1.91
+"Braid St.",0,10,15,2,BC,5.87
+"Hespeler Rd-Reg 24",0,0,60,4,ON,49.8
+"10 Side Rd",0,60,80,2,ON,51.9
+"26 Avenue W 11 Street Se",0,15,50,4,AB,0.64
+"Hwy 21 Near Ferintosh",0,40,100,2,AB,72.98
+"Dahlie Rd",0,50,50,2,BC,124.05
+"50 Street Hwy 2A In Leduc",1,15,50,4,AB,0.34
+"Herb Bilton Way",0,50,50,2,BC,131.84
+"Blvd Des Sources",0,0,40,2,QC,14.19
+"Secondary Highway 830",0,40,100,2,AB,101.11
+"Errington St - Reg 14 (Ch",0,55,40,2,ON,91.38
+"40 Avenue",1,25,50,2,SK,83.29
+"Clayburn Road",0,30,50,2,BC,3.99
+"7Th Line",0,30,80,2,ON,12.48
+"Garnet Street",0,50,50,2,SK,30.68
+"Marr Rd",0,15,80,2,ON,22.2
+"1 Street",0,40,50,2,AB,97.45
+"Cresent Drive (Tr 281A)",0,40,50,2,AB,92.02
+"Ring Rd Exit Ramp",1,25,50,2,SK,1.84
+"Hallama Drive North",0,40,90,2,MB,8.6
+"Route 158",0,10,90,4,QC,4.84
+"Frederic Road",0,75,70,1,QC,9.5
+"Ottawa St",0,45,80,2,MB,3.63
+"Thomas Rd",0,60,80,2,ON,123.55
+"Hwy 667 (Near Sultan)",0,45,70,2,ON,94.9
+"Mcgillivray Boulevard",0,25,70,2,MB,7.45
+"Lake St.",0,40,50,4,ON,177.71
+"Peoples Rd",0,15,50,2,ON,3.31
+"Ch. St-Jean",0,75,80,2,QC,108.38
+"St Marc Hwy.",0,35,90,2,QC,36.91
+8-9-17-8,0,55,80,1,SK,74.61
+"Parkhouse Rd (Near Glenco",0,40,80,2,ON,26.09
+"Taits Rd",0,40,80,2,ON,25.86
+"Woods Rd",0,60,80,2,ON,36.74
+"Route 155",0,40,90,2,QC,152.54
+"Range Road 3070",0,30,80,2,SK,8.45
+Lakeshore/Stephenson,0,60,20,2,ON,155.66
+"Worthington No 3 Rd",0,0,80,2,ON,139.5
+"Forest Rd",0,70,80,2,ON,86.29
+"St Pierre Street",0,0,40,2,QC,0.05
+"48 Street & 52 Avenue",0,30,50,4,AB,69.9
+"Ermosa Rd",0,10,50,4,ON,31.59
+"Highway 59",1,30,100,2,AB,34.07
+"Approx 2 Miles East Of Om",0,55,50,2,ON,185.88
+"Gladstone Avenue",0,30,50,4,SK,26.58
+"Rochdale Boulevard",0,25,60,4,SK,2.13
+"Pr 468",1,0,90,2,MB,127.26
+"8Th Street",0,30,50,2,MB,0.05
+"Chantler Rd",0,50,80,2,ON,24.73
+"Passage Pi�tonnier",1,50,80,2,QC,169.65
+"Symington Access Rd",3,15,20,6,MB,149.62
+"Route 116",0,10,50,2,QC,93.26
+"Highway 101",0,30,70,2,MB,5.28
+"Chemin Victoria",0,45,90,2,QC,18.71
+"N/S Grid Road",0,55,80,2,SK,87.62
+"Road 128 West",0,80,90,2,MB,150.33
+"Boulter Road",0,50,50,2,ON,11.26
+"Lafreniere Road",0,45,50,2,ON,1.62
+"Territorial Drive",0,30,80,2,SK,0.3
+"Rue Bellefeuille",0,5,50,2,QC,81.3
+"Range Rd 82A",0,30,90,2,AB,118
+"Union Street",0,8,50,2,BC,155.6
+"Hammersmith Gate",0,15,50,2,BC,118.6
+"Cambie Rd.",0,10,50,4,BC,9.2
+"34 Avenue W 9 Street Se",0,5,50,2,AB,131.88
+"Glenmore Trail East (#4)",0,10,80,4,AB,131.88
+"Provencher Avenue",0,20,50,6,MB,149.63
+"Division St (Cnty 10)",0,40,60,2,ON,41.22
+"Township Road 304",0,25,100,2,AB,70.91
+"Pr 5 & 83",0,40,50,2,MB,62.45
+"Forest Rd",0,35,50,2,ON,148.47
+"84 Avenue Se (@ 34 St)",0,40,50,2,AB,3.81
+"Route No 134",0,65,60,2,NB,164.36
+"St Francois St",0,20,50,4,QC,122.07
+"Fansher Rd",0,60,80,2,ON,39.19
+"Third Street",0,25,40,4,SK,84.5
+"Lac Pierre Paul Rd",0,45,80,2,QC,10.54
+"Rue De La Carriere",0,15,80,2,QC,12.57
+"Plains Rd",0,70,80,2,NS,13.45
+"Bethridge Rd",0,0,50,2,ON,11.14
+"Boul. De Bromont",0,25,50,2,QC,113.65
+"Canby St",0,60,50,2,ON,21.8
+"Rue De La Station",0,60,70,2,QC,55.97
+"De L`Aqueduc",0,40,30,2,QC,14.78
+"Thorold Townline Rd Reg 7",0,60,80,2,ON,25.4
+"Range Road 282",0,55,80,2,AB,159.62
+"82 Avenue (Whyte Avenue)",0,5,50,4,AB,97.02
+"Range Road 123",0,40,80,2,AB,49.82
+"Highway 21",0,25,70,2,SK,0.91
+"Hunsden Side Rd",0,55,60,2,ON,30.46
+"Lac Pierre Paul Rd",0,45,80,2,QC,8.44
+"Tannery Rd",0,45,50,3,BC,140.5
+"Hwy 40",0,30,80,2,ON,44.19
+23-24-36-8,0,0,80,2,SK,203.87
+"Rue St-Joseph",0,5,50,2,QC,99.9
+"36 Street N N 6 Avenue  P",0,10,50,2,AB,106.57
+"Frank Kenny Rd",0,0,80,2,ON,61.7
+"Humberstone Rd",0,55,80,2,ON,25.58
+"Payer Blvd.",0,50,50,6,QC,39.16
+"Range Road 184",0,35,50,2,AB,38.01
+W33-17-6,0,55,80,1,SK,59.84
+11-12-17-8,0,55,80,1,SK,71.51
+"River Rd",0,45,60,2,BC,0.17
+"Michel Creek Road",0,40,40,2,BC,15.22
+"Kanata Valley Access",0,40,70,2,SK,27.75
+"Brier Park Road",0,10,60,2,AB,3.09
+"Township Road 264",0,40,80,2,AB,103.59
+"Mont�e St-Fran�ois",0,80,90,2,QC,86.35
+"St Antoine Road",0,40,50,2,QC,31.09
+"Road 7 East",0,60,90,2,MB,8.04
+"Road 32 West",0,60,90,2,MB,51.13
+"Road 70 North",0,60,90,1,MB,23.27
+"Road 29 West",0,60,90,1,MB,47.65
+"Road 1 West",0,60,90,1,MB,16.9
+"Alps Rd",0,60,50,2,ON,65.03
+"Farr St",0,50,60,2,ON,26.94
+"Havendale Rd",0,50,50,2,ON,55.15
+"129 Street (Blairmore)",0,40,50,2,AB,88.15
+"Range Road 195",0,40,80,2,AB,95.45
+"Range Road 63",0,40,80,2,AB,9.8
+"Range Road 122",0,40,80,2,AB,48.8
+"Range Road 81",0,40,80,2,AB,20.87
+"Range Road 194",0,40,80,2,AB,94.38
+"Range Road 71",0,40,80,1,AB,14.65
+"Range Road 151",0,40,80,2,AB,66.2
+"Range Road 103",0,40,80,2,AB,36.81
+"Range Road 204",0,40,80,2,AB,100.59
+22-23-18-20,0,40,80,2,SK,7.13
+"Columbia St W.",0,15,60,4,ON,62.5
+"Jury Rd",0,60,40,2,ON,7.3
+"Kenyon Rd S Conc. 5",0,80,80,2,ON,28.93
+"Farmers Way",0,100,80,2,ON,68.94
+"Ch. Du 4E Rang",0,80,80,2,ON,11.61
+"Massiedale Rd",0,100,80,2,ON,20.01
+"Sand Rd",0,100,80,1,ON,62.8
+"Highway 44",0,30,100,2,AB,12.73
+"Mckamie Road",0,50,50,2,BC,82.36
+"Hawk Lake Rd",0,40,80,2,ON,121.6
+"Bonny Bay Rd",0,40,80,2,ON,54.5
+"Range Road 84",0,40,80,2,AB,24.83
+"Line 9 N",0,55,80,2,ON,84.23
+"Mosher Drive",0,10,50,2,NS,8.52
+"Road 40 West",1,60,90,2,MB,3.6
+"Notre-Dame Street",0,45,50,2,QC,14.7
+"Tall Pines Trail",0,45,80,2,ON,17.2
+"Parkbeg Access",0,50,40,2,SK,34.52
+"Main Street",0,20,50,2,QC,5.5
+"Cobden Rd (West Of Dowlin",0,50,50,2,ON,99.59
+"96 Street",0,20,50,2,AB,266.39
+"Cabana Rd East",0,15,50,5,ON,224.5
+"Chemin Duncan",0,0,80,2,QC,107.61
+"Gaudette Street",0,10,50,2,QC,24.43
+"Route 132",0,30,100,2,QC,13.1
+"Minnilake South Rd",0,60,50,2,ON,75.25
+"Mount Pleasant Rd",0,55,60,2,ON,31.31
+"King St",0,30,50,2,NS,98.92
+"Guenette St (Valley East)",0,0,60,2,ON,270.55
+"50 Avenue E Centre St Se",0,15,50,2,AB,2.56
+"Allenby Rd",0,40,50,2,BC,38.7
+"Boul. Sacre-Coeur",0,30,90,2,QC,27.19
+"No 6 Road",0,15,50,4,BC,118.6
+"Range Road 102A",0,55,80,2,AB,83.92
+"Baker Lake Island Rd",0,50,30,2,NB,22.3
+"Queen St.",0,10,50,2,NS,0.41
+"Boul. Des Mille-�les",0,50,50,2,QC,10.05
+"4E Av",0,10,50,4,QC,5.62
+"62 Avenue W 67 Street",0,30,60,2,AB,106.08
+"Weber St West",0,5,50,2,ON,62.5
+"Petroleum Way Edmonton",0,30,50,2,AB,165.82
+"Range Road 232A",0,45,80,2,AB,12.72
+"Mccullough St",0,60,80,2,ON,74.87
+"Road 78 West",0,80,90,2,MB,98.1
+"Road 126 West",0,50,90,2,MB,148.22
+"42 Avenue",0,45,50,2,AB,76.08
+"Renfrew Rd",0,40,60,2,BC,28.12
+"Municipal Road",0,55,80,2,SK,86.59
+"Taylor Avenue",0,10,60,4,MB,0.16
+"Princess Margaret Bl",0,10,50,2,NS,10.33
+"8Th Line  (Cnty 1)",0,0,80,2,ON,38.89
+"Secord Rd",0,50,60,2,ON,244.38
+"Perth Reg 107",0,0,50,2,ON,81.54
+"Hwy 100 (S/W Perimeter)",0,10,100,4,MB,4.05
+Downie,0,5,50,2,ON,88.73
+3-36-5,0,40,80,2,SK,31.85
+"104Th Rd",0,70,80,2,ON,79.04
+"Gage Ave",0,10,50,2,ON,55.65
+"De Martigny Blvd",0,0,50,2,QC,39.4
+"Beatty St",0,25,50,2,ON,79.7
+"Victoria St.",0,10,50,2,NS,42.74
+"119 Street",0,40,50,2,AB,88.74
+"Grid Rd",0,0,80,2,SK,44.14
+"Rte 161",0,25,90,2,QC,3.55
+"Farm Crossing",0,100,15,1,ON,8.75
+"Tecumseh Rd West",0,15,50,4,ON,3.6
+"Sider Rd",0,40,80,2,ON,6.83
+"Range Road 15",0,40,80,1,AB,70.37
+"3 Avenue South",0,10,50,2,AB,86.6
+"Mcphillips Street",0,10,60,4,MB,0.32
+"Ch.Du Parc Des Chute",0,50,50,2,QC,75.83
+"Hinchey Rd",0,60,60,2,ON,83.83
+"Gribb Rd",0,70,80,2,ON,91.23
+"First Street",0,5,50,4,MB,0.09
+"Secondary Highway 845",0,35,100,2,AB,54.95
+"Vernon Street",0,80,80,1,SK,151.65
+"Victoria St.",0,30,50,2,NB,124.39
+"7th Line Rd",0,45,0,2,ON,39.22
+"102Nd Rd",0,70,80,2,ON,77.76
+"Township Rd 31.0 Westcott",0,45,50,2,AB,43.53
+"Prince St (Sydney)",0,10,50,4,NS,113.6
+"Minnet Pt. Rd",0,15,50,2,ON,62.03
+"Route 117",0,30,90,2,QC,82.5
+"Spencer Ave (French River",0,45,50,2,ON,112.54
+"Highway 21",0,30,80,2,AB,75.55
+"Montee St-Laurent",0,40,90,2,QC,52.28
+"Route 138",0,40,90,2,QC,32.34
+Closed,0,60,50,2,MB,57.1
+"Access To Water Lagoon",0,100,25,2,ON,80.41
+"Rick'S Fresh Vegetables",0,100,25,2,ON,74.35
+"Black Gold Drive",0,15,50,2,AB,0.19
+"Mission Flats Rd",0,10,50,2,BC,2.74
+"Secondary Highway 766",1,40,50,2,AB,65.4
+"Grandmont Boulevard",1,25,50,2,MB,5.75
+"16Th Street",0,25,60,2,SK,85.6
+"Talbot Line - Cnty 3",0,40,80,2,ON,6.53
+"Rue St-Laurent",1,30,50,2,QC,39.7
+"Lorne St",0,60,80,2,ON,122.69
+"Township Road 470",0,0,80,2,AB,60.92
+"Secondary Highway 661",1,25,50,2,AB,52.74
+"Haight Road",0,80,80,2,SK,181.7
+"John St (Almonte)",0,30,50,2,ON,23.83
+"Steeles Ave E",0,30,60,4,ON,177.55
+"129 Avenue E 62 Street",0,15,50,4,AB,127.21
+"Vavenby Bridge Rd",0,35,50,2,BC,52.98
+19-20-13-20-W2M,0,50,80,2,SK,35.79
+12-13-11-18-W2M,0,50,80,2,SK,56.97
+14-12-5-11,0,50,80,2,SK,113.75
+"Hwy #39 West Of Estevan",0,35,80,2,SK,134.03
+21-22-15-23-W2M,0,50,80,2,SK,14.21
+"Rang St-Andre Nord",0,40,50,2,QC,32.4
+"Chemin D'Acc�s (Areoport)",0,50,70,2,QC,253.34
+19-13-20-W2M,0,50,80,1,SK,34.51
+"Provincial Road 280",0,30,90,2,MB,338.23
+"King St.",0,10,50,2,NS,63.5
+"Rue Principale",1,30,90,2,ON,33.82
+"Range Road 203",0,40,50,2,AB,99.57
+"Delong Drive",0,10,50,2,NB,128.9
+"Highway 810",0,45,50,2,AB,34.06
+"264Th Street",0,65,50,2,BC,98.97
+"2Nd Avenue",0,40,15,2,BC,0.21
+"Rte De Fossambeault",0,0,90,2,QC,145.21
+"Range Road 12",0,45,80,2,AB,26.46
+"Township Road 162",0,45,80,2,AB,46.01
+,0,50,80,2,BC,34.4
+"George Fox Trail",0,0,80,2,BC,32.71
+"Bloomfield Road",0,45,80,2,SK,43.63
+Unknown,0,0,80,2,BC,31.63
+"Bunny Trail  (Burpee)",0,50,80,2,ON,170.12
+"Rue Du Port",0,15,50,2,QC,33.35
+"Huron Church Rd",0,10,50,6,ON,6.05
+,0,40,90,2,MB,30.52
+"Rue St-Joseph",0,30,50,3,QC,2.28
+"Brown Rd",0,80,80,2,ON,25.01
+,0,60,50,2,MB,8.24
+"Pioneer Line",0,40,60,2,ON,21.7
+"Bramalea Rd",0,25,60,4,ON,11.85
+"Stevenson Rd (Reg 53)",0,50,60,4,ON,175.59
+"Whonnock C",0,65,25,2,BC,96.7
+"Range Road 25",0,70,50,1,AB,35.37
+"Bronson Rd",0,60,50,2,NB,38.65
+"Rte 289",0,35,50,2,NB,34.43
+"Sherman Rd",0,40,50,2,BC,40.75
+"Dorman Rd.",0,40,50,2,BC,75.68
+Closed,0,95,15,1,ON,222.4
+,0,95,0,1,ON,133.24
+,0,95,0,1,ON,133.65
+,0,95,0,1,ON,133.77
+,0,95,0,1,ON,133.84
+,0,95,0,1,ON,134.55
+,0,95,0,1,ON,135
+Farm,0,95,15,1,ON,141.08
+,0,95,15,1,ON,132.87
+,0,95,15,1,ON,133.13
+"Hysert Rd",0,50,50,2,ON,43.5
+"Godfrey Rd (Cnty 61)",0,40,60,2,ON,67.73
+"Boul. Des Recollets",0,0,50,4,QC,80.63
+"Worthington No 1",0,50,60,2,ON,141.35
+Mountdale.Ave,0,25,50,2,ON,2.68
+"Baseline Rd West",0,55,70,2,ON,168.22
+"Highway 11",0,40,100,2,AB,10.64
+"Autoroute #30",0,15,70,2,QC,210.7
+"16Th Line",0,70,80,2,ON,95.24
+"Peguis Street",0,35,50,2,MB,121.8
+"Swayze Rd",0,20,50,2,ON,31.01
+"Rue Royale",0,15,50,2,QC,81.3
+"Dutrisac Rd",0,30,60,2,ON,22.22
+"Chemainus Rd.",0,40,50,2,BC,57.03
+"John St N (Cnty 73) (Aylm",0,15,50,2,ON,108.39
+"Ellice Avenue",0,10,60,4,MB,3.23
+"Ellice Avenue",0,10,60,4,MB,2.1
+"Valley Ave",0,30,50,2,BC,4.93
+"Hwy 101 (N/E Perimeter)",0,0,100,4,MB,5.26
+"Chemin Lavaltrie",0,50,80,2,QC,30.57
+"Range Road 151 At Peers",0,70,80,2,AB,113.67
+"Pelican Lake Rd",0,55,80,2,MB,5.04
+"Kettles Rd",0,95,80,1,ON,17.88
+"Ellis Rd",0,95,80,1,ON,13.9
+"Fountain St N - Reg 17",0,15,50,2,ON,5.9
+"Duffys Lane",0,55,50,2,ON,27.3
+"Township Road 424",0,55,50,2,AB,32.09
+"6Th Avenue East",0,10,50,6,SK,90.5
+"105 Avenue",0,25,50,2,AB,183.44
+"11 Street Se-21 Avenue Se",0,10,50,4,AB,0.34
+"Chaumox Rd",0,30,50,2,BC,0.4
+"Sunnylea Drive",0,55,50,2,NS,22.65
+"Hwy 11",0,35,100,2,ON,63.96
+"50 Avenue (Highway 17)",0,20,50,2,SK,84.4
+"Woods Road",0,75,80,2,SK,239.61
+"Doherty St",0,80,80,2,ON,52.56
+"Lafarge Rd",0,0,50,2,BC,116.2
+"Wellandport Rd - Reg 4",0,15,80,2,ON,22.2
+"Shefford Road",0,25,90,2,QC,115.6
+"Principale St.",0,30,50,4,QC,85.72
+"Jones Rd",0,45,80,2,ON,140.72
+"Township Road 20-0",0,55,80,1,AB,81.23
+"Range Road 104",0,55,80,1,AB,34.35
+"Township Road 164",0,55,80,1,AB,37.79
+"Township Road 18-0",0,55,80,1,AB,57.58
+"Railway Avenue",0,55,80,1,AB,34.76
+"Ns W22-15-10-4",0,55,80,1,AB,33.1
+"Bingo Ranch Rd.",0,65,50,1,BC,123.15
+"Range Road 184",1,40,80,2,AB,83.65
+"Ns W19-47-22-3",1,40,80,2,SK,46.96
+"Highway 45",0,30,100,2,AB,141.03
+"Government Rd (Nickel Cen",0,50,50,2,ON,257.17
+"Anson Ave.",0,30,50,2,NS,75.46
+"Highway 20",0,40,70,2,AB,50.38
+"Grassy Brook Road",0,40,80,2,ON,6.2
+"Sec Hwy 534 At Vulcan",0,45,50,2,AB,50.28
+"216 St.",0,35,15,2,BC,18.33
+"Rang St-Andre",0,60,80,2,QC,86.92
+"Benson Ave.",0,50,50,2,BC,85.22
+"Finmark Rd",0,45,80,2,ON,32.5
+"Victoria St.",0,20,50,2,NS,76.95
+"Yellowhead Hwy (16)",1,15,100,2,SK,178.45
+"Haskall Rd",0,95,20,2,ON,273.46
+"Airport Road",0,80,15,1,ON,217.21
+"Private Road",0,80,15,1,ON,217.75
+"Old Orchard",0,60,30,2,ON,61.74
+"Centennial Rd (Landfill S",0,50,50,2,ON,5.63
+"Echo Field Rd.",0,10,80,2,BC,1.3
+"Morningstar Rd",0,0,80,1,ON,234.8
+"39 Avenueemanchesterrdse",0,15,50,2,AB,1.85
+"92 Avenue E 48 Street",0,10,50,2,AB,169.27
+Robert-Lionel-Seguin,0,60,50,1,QC,15.82
+"Talbot St (Essex)",0,25,50,2,ON,224.5
+"Walsh St.",0,25,50,4,ON,4.8
+"Rue Grande-Iles",0,30,50,2,QC,41.67
+"Back Rd",0,75,80,2,NS,43.73
+"Route Gagne",0,60,50,2,QC,77.56
+"Broad Street",0,10,50,6,SK,93.03
+"Route 132",0,45,90,1,QC,45.84
+"Route St-Elzear",0,50,80,2,QC,89.49
+"Grant Avenue",0,30,50,4,MB,4.6
+"Depew St",0,10,50,2,ON,2.27
+"Bretelle Aberdeen",0,50,50,4,QC,46.54
+"Grant Avenue",0,10,50,4,MB,0.64
+"Red Lake Road",0,35,30,2,BC,7.43
+"Cunningham Rd",0,60,50,2,ON,95.9
+"47 Street",0,40,50,2,AB,56.67
+"Rue St-Pierre",0,80,50,2,QC,77.77
+"Mccarthy Rd",0,20,50,2,ON,4.76
+"Garner Rd",0,60,60,2,ON,26.89
+"Hoover Park Dr",0,50,60,4,ON,41.17
+"Elizabeth St.",1,0,50,2,ON,178.13
+"Thatcher Avenue",0,30,50,4,SK,145.77
+"Rosseau Rd",0,45,60,2,ON,12.51
+"Hwy 109 Near Plaster Rock",0,45,80,2,NB,153.83
+"Rue Church",0,5,50,2,QC,99.9
+"Wilkie St",0,60,50,1,ON,93.72
+"Hwy 101 (Perimeter)",0,25,100,4,MB,5.39
+"Palliser Trail",0,40,50,2,AB,0.71
+"Manhattan Avenue",0,25,50,2,MB,123.71
+"Loftus St",0,10,50,2,NB,128.17
+"Prairie Grove Road",0,25,50,2,MB,7.67
+"Harder St.",0,60,90,2,MB,24.93
+"Road 59 North",0,60,90,1,MB,108.85
+"Laurie Mountain Road",0,45,50,2,BC,57.04
+"West Xing Jansen",0,45,80,2,SK,23.57
+"Secondary Highway 881",0,10,50,2,AB,14.42
+"Weddel Pl",0,0,50,2,BC,118.45
+"40 Street n 70 Avenue (#24)",0,10,50,2,AB,171.5
+"41St Ave",0,10,50,2,BC,84.87
+"142 Street N Roudreau",0,10,50,2,AB,3.83
+"Maxwell St",0,10,50,2,ON,59.3
+"Weddel Pl",0,0,50,2,BC,118.23
+"Hwy #35 Xing",0,30,100,2,SK,98.55
+"Wilkes Avenue",0,5,80,2,MB,6.34
+"South Xing Duval",0,40,40,2,SK,56.5
+,0,10,100,1,BC,21.16
+"Coursol Rd (Sturgeon Fall",0,30,50,2,ON,22.73
+"Barlow Trail Se",0,0,70,4,AB,171.5
+"St Eugene Street",0,40,30,2,QC,15.3
+"Secondary Hwy 667",0,30,80,1,AB,74.02
+"Giscome Highway",0,50,60,2,BC,126.62
+"Chemin Kempt",0,65,50,2,NB,100.01
+"Riverside St.",0,30,50,2,BC,0.3
+15-16-17-9,0,55,80,2,SK,79.89
+14-15-17-9,0,55,80,1,SK,78.97
+16-17-17-7,0,55,80,1,SK,68.1
+"Cherry St",0,10,50,2,ON,2.65
+"West Decker Rd.",0,50,80,1,BC,44.66
+"Blvd Greber",0,0,50,4,QC,114.48
+"Road 71 N",0,60,90,2,MB,44.77
+"Worthington No 7",0,50,80,2,ON,135.25
+"Worthington No 6",0,50,80,2,ON,136.26
+22-23-17-2,0,50,80,1,SK,31.06
+"Dimit Rd",0,50,80,2,ON,134.26
+"Montee Graveline",0,0,50,2,QC,16.4
+"Road 80 East",0,60,80,2,MB,58.85
+"St Joseph Blvd.",0,0,50,4,QC,7.65
+"La Pomme D Or Road",0,25,80,2,QC,29.87
+26-27-19-17,0,40,80,2,SK,73.16
+"Griffiths Rd",0,60,80,2,ON,73.2
+"Hwy 75",0,25,100,4,MB,38.5
+"St Patrick Ave",0,0,0,0,BC,126.58
+"Hwy No 132",0,45,90,2,QC,25.42
+"Mclachlins Rd",0,30,80,2,ON,7.09
+"Rg Riviere Chicot S",0,50,80,2,QC,47.23
+"101 Avenue E 104 Street",1,15,50,2,AB,20.2
+"83 Street N Macintyre",1,10,50,2,AB,4.46
+"61Avenue W 30 Street (#3)",1,0,50,4,AB,131.88
+Ferme,0,0,15,1,ON,35.87
+,0,95,15,1,ON,26.41
+Ferme,0,0,15,1,ON,35.25
+Ferme,0,0,15,1,ON,35.34
+Ferme,0,0,15,1,ON,35.43
+,0,95,15,1,ON,36.1
+,0,100,0,1,ON,121.08
+"Rooth Road",0,45,80,2,NB,49.03
+"West Xing Guernsey",0,45,50,2,SK,44.67
+"Stathearne Ave",0,7,50,4,ON,55.65
+"Industrl R",0,0,80,2,BC,75.7
+"Ogden Road @ 15 Street Se",0,0,60,4,AB,173.59
+"Ch. De La Sabli�re",0,55,50,2,NB,65.72
+"Rue St Patrice E",1,10,70,2,QC,84.06
+"11Th Line",0,55,80,2,ON,41.53
+"Range Road 302 (Pincher)",0,45,50,2,AB,61.12
+"28 Street N N 2 Avenue V",0,10,50,2,AB,106.58
+"Cty Rd #29",0,40,80,2,ON,27.9
+"Lindsay Rd",0,30,80,2,ON,27.8
+"Beechwood Rd",0,60,80,2,ON,26.17
+"Regional Rd 3 Or 5?",0,40,80,2,ON,28.08
+"Chemin St-Marc",0,40,80,2,QC,42.33
+"Kildare Rd",0,10,60,4,ON,1.3
+"Chemin De Beaujeu",0,80,50,2,ON,6.17
+"George St.",0,10,50,2,NS,43.1
+"58 Avenue W Centre St Se",0,0,50,2,AB,3.06
+"Route Du 3E Rang",0,75,80,2,QC,9.05
+"41St Ave",0,15,50,4,BC,9.2
+,0,65,15,1,BC,99.94
+"Hwy 10",0,25,100,2,SK,46.81
+"Ns W19-14-16-3",0,50,40,2,SK,20.2
+"N.Bend Ferry Rd.",0,40,50,2,BC,125.49
+"Sea Island Way",0,10,50,2,BC,9.2
+"Laforge Road",0,50,50,2,NB,186.32
+"Sumbler Rd",0,50,50,2,ON,25.37
+"Herd Rd",0,30,80,2,BC,42.6
+"Ch. De La Desserte Agrico",1,80,20,1,QC,90.67
+"3Rd Ave (Cochrane)",0,0,60,2,ON,0.7
+"51 Street S 50 Avenue",0,25,50,4,AB,103.15
+"Hwy 2 (Main Street)",0,15,50,5,SK,40.06
+"Vaughan Rd",0,50,80,1,ON,27.97
+"Golf Course Rd",0,50,80,2,ON,82.5
+,0,50,80,2,ON,44.49
+"8 Th.Street",0,25,50,2,MB,0.56
+"Rue Landry",0,55,50,2,NB,5.78
+"De La Plant",0,55,50,2,NB,6.27
+"Eberts Line",0,45,80,2,ON,24.2
+"Queen St.",0,10,50,2,NS,0.52
+"Route 139",0,30,90,2,QC,4.29
+"Whalen Rd",0,60,80,2,ON,78.22
+"Blyth Park Rd",0,60,80,2,ON,117.86
+"St. Jose Street",0,25,50,4,QC,36.27
+"Spruce Road",1,25,40,2,NT,373.11
+"Eady Station Rd",0,55,80,2,ON,87.02
+"London&Edinburgh Rd",1,10,60,2,ON,49.9
+"Indian Old Way School",0,50,50,2,QC,39.54
+"Rue Principal",0,65,50,2,NB,159.92
+"La Plante Road",0,75,50,2,NB,121.69
+"Caribou Trail Sw",0,25,50,2,AB,163.28
+"Levasseur Road",0,30,50,2,AB,3.43
+"Bishop St- Reg 41",0,10,50,2,ON,49.8
+"Richmond Avenue",0,10,90,2,MB,38.22
+"84 Street Ne",0,25,60,2,AB,120.69
+"Montarville Street",0,30,50,3,QC,9.83
+"Meadowbrook Road",0,25,50,2,MB,3.72
+"Concession Rd South",0,10,50,3,ON,2.93
+"Ns W11-29-22-3",0,30,80,2,SK,114.54
+"Range Road 21-5",0,40,80,2,AB,31.96
+"Old North Rd",1,50,80,2,ON,149.69
+"Simcoe St East",0,5,60,2,ON,0.24
+"Tch 1 East Bound",0,25,100,2,MB,5.7
+"Tch 1 West Bound",0,25,100,2,MB,5.67
+"7Th St.",0,40,50,2,BC,71.3
+"Rocher Blanc St",0,65,50,2,NB,127.27
+"Station Rd",0,65,50,2,NB,75.93
+"Boul Du Havre",0,60,50,2,NB,121.72
+"Wellington Rd.",0,40,50,2,BC,77.9
+"2 Avenue - Blue Ridge",1,30,50,2,AB,89.45
+"Sandalwood Pkw",1,35,60,4,ON,10.59
+"Clarence St South",0,10,50,6,ON,22.2
+"Chemin De La Plage",0,40,80,2,QC,45.2
+"Line 7 N",0,55,80,2,ON,81.4
+"Highway 72 (Beiseker)",0,40,50,2,AB,91.5
+"Twiss Rd (2Nd Line)",0,50,80,2,ON,38.85
+"Highway 21 / 595",0,40,100,2,AB,18.64
+"Canyon Creek Rd",0,35,50,2,BC,137.8
+"Chemin Ste-Marie",0,0,80,2,ON,34.65
+"Cameron St",0,15,50,2,ON,3.58
+"Golf Course Rd",0,70,25,2,ON,114.72
+"Nighswander Rd",0,50,50,2,ON,115.1
+"Tracy (Boul De La Mairie)",0,10,50,4,QC,43.15
+"18Th Street",0,30,90,2,MB,0.85
+"Carlaw Ave",0,0,60,2,ON,3.67
+"1St Ave",0,10,40,2,QC,6
+"Boul. Temiscamingue",0,25,50,4,QC,100.48
+"Mckay Siding Rd",0,55,80,2,NS,49.25
+"Range Road 264",0,50,90,2,AB,148.62
+32-33-29-32,0,45,80,2,SK,103.21
+"Mcnider Rd",0,55,50,2,NB,83.38
+"Newbiggen Dr",0,40,80,2,ON,24.67
+"Sargent Avenue",0,10,60,4,MB,1.81
+"Sargent Avenue",0,10,60,4,MB,3.47
+"Road 32 East - Edgewood",0,50,90,2,MB,107.12
+"Road 34 East -Briercliffe",0,50,90,2,MB,105.02
+"Notre-Dame St.",0,0,50,2,QC,100
+"Main Street In Slave Lake",0,25,50,2,AB,162.5
+"Pauline Johnson Rd",0,3,80,2,ON,25.76
+"15Th Line",0,70,80,2,ON,96.59
+"Secondary Highway 893",1,30,100,2,AB,109.92
+"1 Ere Avenue",0,40,50,2,QC,5.67
+"Township Road 454",0,55,80,2,AB,52.1
+18-19-17,0,40,60,2,SK,78.04
+"Albert St",0,30,50,2,ON,17.4
+"50 Avenue",0,40,50,2,AB,92.79
+"Line 10 N",0,55,80,2,ON,86.8
+"Crozier Road",0,50,80,2,SK,241.65
+"Pleasant Park Rd",0,0,50,4,ON,2.11
+"St' Leger St",0,10,50,2,ON,62.26
+"Rue Bonaventure",0,0,50,2,QC,82.12
+"Devonshire Road",0,10,40,2,QC,144.01
+"Road 47 West",0,80,90,2,MB,66.36
+"108Th Rd",0,70,80,2,ON,82.83
+,1,80,30,2,SK,280.68
+"Corydon Avenue",0,10,50,2,MB,4.12
+"Corydon Avenue",0,10,50,2,MB,1.12
+"49 Street N 50 Avenue",1,30,50,2,AB,29.3
+"Farm Xng",0,80,15,1,ON,67.49
+Farm,0,100,15,1,ON,80.55
+"Farm Xng",0,100,15,1,ON,83.46
+"Farm Xng",0,100,15,1,ON,71.07
+"Farm Xng",0,100,15,1,ON,69.03
+"Farm Xng",0,80,15,1,ON,69.43
+"Luc'S Lane",0,95,15,2,ON,81.32
+"Farm Xng",0,80,10,1,ON,70.37
+"Farm Xng",0,80,10,1,ON,68.19
+"Farm Xng",0,80,10,1,ON,67.9
+"Farm Xng",0,80,10,1,ON,67.69
+"Farm Xng",0,80,10,1,ON,66.91
+"Townsite Road",0,20,50,4,BC,73.5
+"Cedarside Road",0,65,50,2,BC,77.4
+"Ns W6-13-21-3",0,55,80,2,SK,53.89
+"Ns W8-12-3-4",0,55,80,2,AB,131.51
+"Ns W33-12-20-3",0,55,80,1,SK,45.15
+"Ns W22-12-28-3",0,55,80,1,SK,99.14
+"Ns W26-12-29-3",0,55,80,1,SK,104.12
+"Ns W33-13-18-3",0,55,80,2,SK,31.11
+"Regional Road 42",0,55,80,1,AB,134.71
+"Ns W3-12-24-3",0,55,80,2,SK,71.2
+"Private Road",0,0,80,2,AB,126.52
+"Ns W34-13-18-3",0,55,80,2,SK,30.1
+"King St E - Reg 8",0,20,40,2,ON,8.82
+"Pine Street",0,10,50,2,BC,9.2
+"Chemin Du Lac",0,60,70,2,QC,56.92
+"Churchs Lane",0,20,50,2,ON,2.63
+"Martindale Rd (Sudbury)",0,15,50,2,ON,79.17
+"Howard Ave",0,15,50,4,ON,2.5
+"Cambie-Solsqua Rd",0,50,50,2,BC,37.23
+"Kensington Avenue",0,0,50,4,SK,155
+"Breckenridge Avenue",1,0,50,2,AB,72.72
+"Geo. Hunt Mem. Dr",0,55,40,2,ON,27.41
+"Conc Road 2",0,50,60,2,ON,82.87
+"Hwy 583",0,50,80,2,ON,282.78
+7-8-31-24,0,80,80,2,SK,124.61
+W18-26-12,0,80,80,2,SK,44.34
+16-17-22-5,0,80,80,2,SK,273.21
+23-24-22-6,0,60,80,2,SK,276.52
+23-24-8-19,0,80,80,2,SK,84.51
+W31-28-20,0,80,80,2,SK,96.63
+"Range Road 112",0,80,80,2,AB,171.13
+35-36-22-7,0,80,80,1,SK,2.86
+W7-28-17,0,80,80,2,SK,77.07
+"Range Road 92",0,80,80,2,AB,156.98
+"Ns W8-43-27-3",0,80,80,2,SK,96.39
+"Ns W15-39-20-3",0,80,80,2,SK,41.86
+22-23-20-1,0,80,80,1,SK,244.63
+8-17-18-30,0,80,80,1,SK,219
+"Range Road 104",0,80,80,2,AB,165.89
+10-15-30-23,0,80,80,2,SK,113.83
+N34-18-31,0,80,80,1,SK,224.94
+33-34-21-4,0,80,80,2,SK,265.51
+"Ns W14-39-20-3",0,80,80,1,SK,40.82
+Sec-16-28-18-W2W,0,80,80,1,SK,80.27
+45511,0,35,100,2,SK,39.03
+"Logan Avenue",0,5,60,4,MB,1.25
+"Timmins St",0,30,50,2,ON,0.93
+"Range Road 183",0,40,80,1,AB,87.09
+"Highway 564 (Delacour)",0,40,50,2,AB,111.78
+"37Th Ave",0,10,50,2,BC,85.12
+"Range Road 104",0,25,80,2,AB,193.39
+"Hwy 583",0,50,80,2,ON,285.75
+"Government Rd",0,10,50,2,ON,143.39
+"153Rd Ave. & 142Nd St.",0,35,60,2,AB,2.28
+"Range Road130",0,60,35,2,AB,100.17
+"Lineham Ave In Okotoks",0,25,50,2,AB,26.33
+"St Louis Street",0,10,50,4,QC,44.27
+"White Rd",0,60,80,1,ON,14.7
+"Fountain St N - Reg 17",0,15,70,4,ON,6.18
+"Giscome Highway",0,50,80,2,BC,124.83
+"Ch. St-Ignace",0,25,80,2,QC,26.25
+"Township Road 12-4",0,45,80,2,AB,21.84
+"Highway 41",0,40,100,2,AB,66.31
+"Bolingbrooke Station Rd",0,50,80,2,ON,29.82
+"Range Road 205",0,40,80,2,AB,101.61
+2-25-22,0,40,80,2,SK,52.31
+22-27-18-20,0,40,80,2,SK,7.36
+"Range Road 130",0,40,80,1,AB,21.14
+"Range Road 202",0,40,80,2,AB,96.92
+"Township Road 505",0,40,80,2,AB,4.93
+"Junction Ave.",0,25,60,2,BC,70.24
+"Pr 7",0,30,100,4,MB,14.4
+"Shaw Rd (Cnty 20)",0,30,100,2,ON,33.05
+"Avenue W",1,25,50,4,SK,1.82
+"Frontenac Street",0,10,50,3,QC,0.28
+"Rang St Claude",0,35,80,2,QC,28.87
+"116 Avenue @ 144 Street",0,10,50,2,AB,5.41
+"S Kent St.W.Laurel",0,10,50,2,BC,9.2
+"Township Road 344",0,30,100,2,AB,42.21
+"Vibert Rd",0,40,60,2,ON,13.78
+"Marble St",0,20,50,2,NB,42.5
+"5Th Street",0,40,50,2,AB,52.78
+"Rue Alexander",0,30,50,2,QC,41.76
+"Frank St",0,45,50,2,BC,2.19
+"Clarke Blvd.",0,10,50,4,ON,13.02
+"Rang Ruisseau-Des-Noyers",0,40,80,2,QC,26.75
+"Chemin Evangeline",0,40,80,2,QC,25.13
+"Rue Notre-Dame Nord",0,40,50,2,QC,62
+"West End Xing Drinkwater",0,30,80,2,SK,11.87
+13-14-11-18-W2M,0,50,80,1,SK,56.45
+22-23-10-17-W2M,0,50,80,2,SK,63.85
+28-29-11-18-W2M,0,50,80,1,SK,52.55
+20-29-12-19,0,50,80,2,SK,43.99
+11-12-6-12,0,50,80,1,SK,105.44
+"Clergue St (Kakabeca Fall",0,35,50,2,ON,22.59
+Guy,0,40,50,2,QC,109.5
+"Range Road 81",0,70,80,2,AB,69.92
+"River Road",0,10,60,2,BC,100.34
+Private,0,85,25,2,ON,179
+"Hwy 368",0,30,100,2,SK,38.63
+"Range Road 70",0,60,80,2,AB,62.28
+"Howard Ave",0,15,50,2,ON,224.5
+"Range Road 175",1,40,60,2,AB,83.03
+"Neebing Ave.",0,10,50,2,ON,7.78
+"43 Street",0,30,50,2,AB,56.36
+"Township Road 11-2",0,45,80,2,AB,13.48
+"Edward Ave  (Coniston)",0,40,50,2,ON,71.29
+"Main Street - South Jct.",0,60,50,2,MB,63.74
+"4Th Street",0,60,50,2,MB,95.98
+"Road 143 West",0,30,90,2,MB,44.47
+"Pleasant St.",0,10,50,2,NS,63.67
+"Lord De La Cannerie",0,50,80,2,QC,17.91
+"Western Drive",0,45,50,4,AB,28.05
+"Viking Way",0,0,0,2,BC,118.6
+"3E Rue",0,10,50,2,QC,5.62
+"Winston Churchill Bl",0,10,60,2,ON,18.88
+"Baseline Rd",0,5,60,2,ON,26.5
+"Sidney St",0,60,50,1,ON,93.02
+"East St",0,60,50,2,ON,7.82
+"William St.",0,10,50,2,NS,38
+"Whitehead T",0,20,50,2,QC,81.3
+"Woodlawn Rd Pr Hwy 6",0,10,60,5,ON,33.49
+"Shelley Road / Loopol Rd",0,50,50,2,BC,136.07
+"Kirk Rd",0,60,60,1,ON,55.92
+"Bridge Rd",1,40,50,2,NB,47.81
+"Aberdeen Ave",0,10,50,2,ON,58.42
+"4 Street East",0,40,50,2,AB,40.4
+"First West Bay Rd (Keewat",0,40,80,2,MB,3.85
+"Pr 350",0,60,90,2,MB,21.98
+"Pr 350",0,60,90,2,MB,22.31
+"Pr 350 - Katrime",0,60,90,2,MB,23.07
+"Junction Rd",0,0,80,1,BC,0.11
+"St Leon Street",0,45,50,2,QC,7.34
+"Kaulback St.",0,25,50,2,NS,63.57
+"Ch. Ste-Marguerite",0,40,50,2,QC,75.28
+"Auldgirth Road",0,40,50,2,BC,75.6
+"Forest Rd",0,70,80,2,ON,85.85
+"Memorial Ave",0,15,50,4,ON,2.49
+"Eagle Lake Rd",0,50,80,2,ON,42.5
+"Allardville (Hwy 360)",0,70,90,2,NB,96.52
+"Highway 566",0,40,100,2,AB,106.84
+"Pine Hill Rd(1St Line Rd)",0,60,80,2,ON,47.12
+"Township Road 160",0,60,80,2,SK,106.66
+"West Road Waldeck",0,60,80,2,SK,99.98
+"Pearl St",0,30,50,2,ON,128.7
+"115 Avenue @ 144 Street",0,10,50,2,AB,5.41
+"9 Avenue N W 39 Street  D",0,10,50,4,AB,106.28
+"Montbrun Street",0,30,30,2,QC,10.53
+"Horner Ave",0,0,50,2,ON,7.77
+"Main St (Stouffville) (Re",0,30,40,2,ON,40.72
+"Rue St-Georges",0,50,50,2,QC,169.13
+"Dublin Avenue",0,0,60,4,MB,0
+"Chemin Victoria",0,45,50,2,QC,24.98
+"Rutherglen Line",0,40,0,2,ON,90.54
+"Ch. Sainte-Marie",0,50,50,2,QC,14.02
+"Hwy  3",0,30,80,2,ON,3.48
+"Township Road 250",0,40,80,2,AB,117.36
+"Community Centre Rd",0,50,50,1,ON,85.38
+"Memorial Dr",0,15,50,2,ON,0.43
+"Delmar Street",0,15,50,2,QC,10.17
+"Dewitt Rd",0,0,80,2,ON,35.32
+"Pickerel River Rd",0,50,40,2,ON,79.5
+"Blvd.Perron (Hwy299)",0,35,80,2,QC,70.18
+"Old Hwy 17",0,0,80,2,ON,21.35
+"Townes Rd",0,0,80,2,ON,8
+Orr,0,5,80,2,ON,16.12
+"Glen Ellen Drive",0,10,80,2,ON,88.6
+"Queen (Ingram) St.",0,30,50,4,BC,39.83
+"4Th Avenue",0,5,50,4,BC,9.2
+"Calixa Lavallee St.",0,40,50,2,QC,22.95
+"Route 131",0,10,90,4,QC,5.53
+1-2-39-1,1,40,80,2,SK,41.45
+"Range Road 142",1,45,80,1,AB,61.02
+"Range Road 145",1,40,80,1,AB,64.08
+"Grand River Rd",1,15,50,2,NB,195.5
+"16Th Avenue",0,15,50,4,BC,9.2
+"Community Ctr. Lane",0,55,50,1,NS,16.31
+"49 Street N 52 Avenue",0,40,50,2,AB,57
+"Georges St.",0,40,50,2,QC,100.48
+"Nipissing St",0,30,50,2,ON,1.01
+"Secretan Turnoff",0,50,80,2,SK,45.04
+"Rge Rd 54 Near Med Hat",0,40,80,2,AB,3.05
+"Road 31 East",0,50,50,2,MB,108.17
+"Rue St-Alphonse",0,20,50,2,QC,6.39
+"Stamp Road",0,10,50,4,BC,37.9
+"Firestone Boulevard",0,10,50,4,QC,6.95
+"Victoria Rd S",0,10,50,4,ON,30.19
+"May Street",0,25,50,2,NS,15.49
+"Queen Street",0,10,50,2,NB,32.8
+"40Street N 78Avenue (#30)",0,10,50,2,AB,131.88
+"32Nd Ave",0,10,50,2,BC,85.37
+"13Th Street West",0,0,50,2,SK,0.3
+"Jeanbaptiste Rolland",0,10,50,2,QC,32.89
+"Township Road 294",0,45,80,2,AB,34.39
+"Township Road 10-0",0,45,80,2,AB,3.27
+"Township Road 134",0,45,80,2,AB,28.05
+"Old Muskoka Rd",0,50,50,2,ON,138.07
+"Princess St (Chatham)",0,35,50,2,ON,63.82
+"Airport Road",0,40,90,2,MB,28.43
+"Road 135 West",0,30,90,2,MB,35.84
+"Mcphee Rd",0,100,80,2,ON,21.22
+"Mill Street",0,10,0,2,BC,70.94
+"Range Road 254",1,35,80,2,AB,98.34
+"Lost Creek Road",0,50,50,1,BC,60.53
+"Rectory St",0,15,50,2,ON,75.6
+"Avenue Du Parc",0,40,50,2,NB,162.07
+"King Edward Street",0,10,70,3,MB,0.91
+"Boul. Ste-Marie",0,25,30,2,QC,211.75
+"Ashburnham Dr",0,30,50,2,ON,117.07
+"Avenue F",0,15,50,2,SK,0.37
+"Aylmer St",0,10,50,2,ON,118.17
+"9 Avenue",0,35,50,2,AB,84.46
+"Rue Fabre",0,30,50,2,QC,40.58
+"Secondary Hwy 765",0,30,80,2,AB,47.8
+"Meridian N 167 Avenue",0,50,60,2,AB,121.96
+"Hwy 1 Eb/Wb Lanes",0,25,110,4,SK,4.76
+"Second Ave  (Sudbury)",0,45,50,2,ON,75.86
+"Cp Xng- King St",0,0,50,2,ON,4.68
+"Madawaska Road",0,10,50,4,ON,25.31
+11-12-33-28,0,80,60,2,SK,148.69
+"Duke St",0,10,50,2,ON,62.82
+Circle/Dundonald,0,10,70,2,SK,0.73
+"Rue Fantaine",0,45,50,2,QC,74.63
+"50 St.(Secondary Hwy 869)",0,40,50,2,AB,18.96
+"Closed  -  Private Xng",0,0,25,2,ON,20.71
+"Telegraph Road",1,50,80,1,BC,93.46
+"Allanburg Rd",0,10,80,2,ON,23.9
+"Ozada Road",0,50,80,2,BC,45.73
+"Broadway - Cnty 109",0,35,60,2,ON,36.02
+"92 Avenue W 34 Street",0,20,50,2,AB,168.76
+"Princess Street 18 20 Ave",0,40,50,2,AB,21.63
+"Range Road 232",0,45,80,2,AB,11.68
+,0,100,25,2,ON,216.01
+"Farm Road",0,100,25,2,ON,216.89
+,0,100,25,1,ON,155.45
+"Highbury Ave",0,25,80,2,ON,30.89
+"Putnam Rd (Cnty 30)",0,25,80,2,ON,14.88
+"37Th Line (Cnty 6)",0,25,80,2,ON,6.2
+"Main St (Hwy 5 & 10)",0,10,50,4,MB,121.64
+"Main St.",0,25,50,2,NS,96.43
+"Waterloo St",0,10,50,2,ON,62.93
+"Levesque Lumber",0,70,80,2,ON,234.09
+"Kimberly Clark",0,70,80,2,ON,92.86
+"Hwy 35",0,30,40,4,SK,94.41
+"Manitoba Avenue",1,10,50,2,MB,1.1
+"Secondary Highway 830",0,30,80,2,AB,143.28
+"Highway 2A",1,15,80,2,AB,60.03
+"Golf Course Rd",0,30,50,2,BC,143.7
+"Cannon St",0,10,50,4,ON,55.65
+"Highway 583 (2 Street N)",0,25,50,2,AB,60.16
+"Right-Of-Way Lane",0,95,25,1,ON,91.92
+"Private Road",0,95,25,2,ON,76.25
+"Inshes Ave  (Chatham)",0,35,50,2,ON,64.99
+"Wentworth St",0,0,50,2,ON,42.61
+21-22-27-16,0,60,80,2,SK,68
+Pedestrain,0,15,80,1,QC,19.95
+"Priv-Columbia Shake",0,70,30,1,BC,91.75
+"Burlington St",0,5,50,2,ON,0.47
+"Maloney Boulevard",0,0,50,2,QC,112.1
+"Queen St",0,10,80,4,ON,21.2
+"East Don Roadway",0,10,80,4,ON,3.12
+"Creditview Rd",0,10,80,4,ON,21.2
+"Martin'S Sr",0,50,80,2,ON,140.97
+"Maplewood Ave",0,10,80,2,ON,55.65
+"Chemin Riv. Rouge",0,75,50,2,QC,106.34
+"Primrose Road",0,50,80,2,SK,131.09
+"Range Road 132",0,45,80,1,AB,54.89
+"Kenilworth Ave",0,10,60,4,ON,55.65
+"Regent Avenue",0,10,60,6,MB,0.56
+"Crane'S Road",0,55,80,2,AB,43.25
+"17 St",0,10,50,2,BC,66
+21-20-48-4,0,25,100,2,SK,35.91
+"Conmee Ave",0,15,50,2,ON,2.43
+"Centre Ave",0,25,50,2,AB,25.98
+"Front/Vanastra Rd",0,25,80,2,ON,31.13
+"Rue Frontenac",0,25,50,2,QC,22.15
+"Hwy  60",0,65,80,2,SK,194.81
+"Hwy 5",0,25,100,2,SK,2.63
+"Chemin Du Parc Road",0,45,80,2,QC,7.51
+"Cedar Ave",0,15,50,2,BC,137.01
+"2 Avenue N W 39 Street  B",0,10,50,2,AB,106.28
+"15 St",0,10,50,2,BC,66
+"Argyle St",0,5,50,2,BC,38.9
+"34 Avenue @ 15 Street Se",0,10,50,2,AB,173.59
+"Main St.",0,10,50,2,BC,9.2
+"Notre Dame Street",0,15,70,2,QC,6
+"Andrew & Gore Sts",0,15,50,2,ON,0.35
+"Townshipline Rd",0,30,50,2,BC,3.5
+"Rue Des Oies Blanches",0,40,50,2,QC,29.94
+"Main Street",0,30,40,2,SK,55.16
+"4Th Line W",0,40,50,2,ON,5.66
+"Mckilligan Rd.",0,50,80,2,BC,80.1
+"Township Road 552",1,0,80,2,AB,90.94
+"Mission Street",0,15,60,2,MB,0.3
+"Boul. Du Havre",0,30,50,2,QC,42.86
+"Grandview Ave.",0,10,50,2,NB,0
+"Baseline Rd West",0,60,70,2,ON,166.92
+"Secondary Highway 855",0,40,80,1,AB,7.42
+"Spruce Street",0,20,30,2,BC,144.49
+"Hwy 4",0,35,70,2,NS,103.89
+"King St (Cnty 20)",0,30,50,2,ON,8.99
+15-51-14,0,15,100,2,SK,131.7
+"Giroux Street",0,40,80,1,QC,44.99
+"Route Lantin",0,40,80,1,QC,37.1
+"Waferboard Rd (Gladwick)",0,45,80,2,ON,117.87
+"Range Road 161",0,30,80,2,AB,227.89
+"Rue Mercier",0,20,50,2,QC,20.17
+"Pedestrian Trail",0,50,80,1,BC,116.25
+"Ridgemount Rd",0,60,50,2,ON,5.6
+"Sisson Ridge Road",0,50,60,2,NB,156.59
+"Morris Avenue",0,10,50,2,MB,34.51
+"Hwy 1",0,25,100,4,SK,0.28
+"Albert St.",0,25,50,2,BC,26.96
+"Rang 16  Est",0,0,80,2,QC,46.07
+"Rosenthal Road",0,70,70,2,AB,25.82
+"Mulgrave Rd   (Hwy 344)",0,40,90,2,NS,7.09
+"Hwy 11",0,40,100,4,SK,11.35
+"Private-Trans Alta",0,45,15,2,BC,10.5
+"Montee L'Epiphanie",0,0,80,2,QC,22.58
+"Mackay Road",0,55,80,2,NB,142.15
+"Money'S Mushrooms",0,45,80,2,BC,46.4
+"James St.",0,10,50,2,BC,40
+"Pr 205",0,25,100,2,MB,32.24
+"Township Road 175",1,45,80,1,AB,60.04
+"15 Street Ne",0,45,50,2,AB,10.6
+"Duplisea Road",0,45,60,2,NB,41.16
+"Road 69 East",0,50,90,2,MB,68.28
+"Turgeon Road",0,75,90,2,NB,131.58
+"Range Road 211",0,40,80,2,AB,102.31
+"Range Road 270",0,55,90,2,AB,150.77
+"Frontenac St.",0,40,50,2,ON,174.29
+"Airport Rd",0,30,50,2,ON,99.96
+"Chemin East Angus",0,35,90,2,QC,41.63
+"Range Road 102",0,55,50,1,AB,31.85
+"Highway 88",0,25,80,2,AB,161.81

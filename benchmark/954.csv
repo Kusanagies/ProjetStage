@@ -1,0 +1,3597 @@
+CONSIS_DRY,CONSIS_MST,CONSIS_PLS,MOTTLE_SZE,ROOT_ORIEN,SALINITY,S_PRM_GRAD,S_PRM_SIZE,S_SEC_SIZE,U_DEPTH
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",212
+" "," "," "," "," "," "," "," "," ",245
+" "," "," "," "," "," "," "," "," ",31
+" "," "," "," "," "," "," "," "," ",50
+" "," "," "," "," "," "," "," "," ",65
+" "," "," "," "," "," "," "," "," ",90
+" "," "," "," "," "," "," "," "," ",116
+" "," "," "," "," "," "," "," "," ",151
+" "," "," "," "," "," "," "," "," ",175
+" "," "," "," "," "," "," "," "," ",200
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",28
+" "," "," "," "," "," "," "," "," ",56
+" "," "," "," "," "," "," "," "," ",89
+" "," "," "," "," "," "," "," "," ",107
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",24
+" "," "," "," "," "," "," "," "," ",54
+" "," "," "," "," "," "," "," "," ",76
+" "," "," "," "," "," "," "," "," ",86
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",50
+" "," "," "," "," "," "," "," "," ",74
+" "," "," "," "," "," "," "," "," ",108
+" "," "," "," "," "," "," "," "," ",149
+" "," "," "," "," "," "," "," "," ",170
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",300
+" "," "," "," "," "," "," "," "," ",310
+" "," "," "," "," "," "," "," "," ",13
+" "," "," "," "," "," "," "," "," ",32
+" "," "," "," "," "," "," "," "," ",64
+" "," "," "," "," "," "," "," "," ",122
+" "," "," "," "," "," "," "," "," ",182
+" "," "," "," "," "," "," "," "," ",221
+" "," "," "," "," "," "," "," "," ",237
+" "," "," "," "," "," "," "," "," ",257
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",70
+" "," "," "," "," "," "," "," "," ",89
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",2
+" ",Friable," "," "," "," ",Weak,"Fine to medium"," ",5
+" ","Very firm","Very plastic"," ",Vertical," ",None," "," ",0
+" ","Very firm","Very plastic",Medium,Vertical," ",Strong,Coarse," ",15
+" ","Very firm","Very plastic",Fine,Vertical," ",Weak,Medium," ",25
+" ","Very firm","Very plastic",Fine,Vertical," ",Weak,Medium," ",38
+" ","Very friable",Plastic," ",Vertical," ","Moderate to strong",Medium," ",0
+" ",Firm,Plastic,Medium,Vertical," ","Weak to moderate","Medium to coarse"," ",20
+" ","Very firm","Very plastic",Medium,Vertical," ",Moderate,Coarse," ",39
+" ","Very firm","Very plastic",Medium,Vertical," ",Moderate,Coarse," ",50
+" ",Firm,"Very plastic",Medium,Vertical," ",Moderate,Coarse," ",59
+" ","Very firm","Very plastic",Medium,Vertical," ",Moderate,Coarse," ",89
+" ",Friable,Slightly," ",Vertical," ","Very weak",Coarse," ",0
+" ",Friable,Slightly,Fine,Vertical," ",None," "," ",21
+" ",Friable,Slightly," ",Vertical," ","Weak to moderate",Coarse," ",36
+" ",Firm,Plastic,Medium,Vertical," ",Weak,Coarse," ",47
+" ",Friable,Slightly,Medium,Vertical," ",None," "," ",57
+" ",Friable,Slightly," ",Vertical," ",None," "," ",84
+" ","Very friable",Slightly," ",Random," ",Weak,Coarse," ",0
+" ",Friable,Nonplastic," ",Vertical," ",None," "," ",10
+" ",Friable,Nonplastic," ",Vertical," ",None," "," ",38
+" ",Friable,Slightly," ",Vertical," ",None," "," ",66
+"Slightly hard","Very friable",Nonplastic," ",Vertical," ",Weak,Coarse," ",0
+Soft,"Very friable",Nonplastic," ",Vertical," ","Weak to moderate",Coarse," ",23
+Hard,"Very friable",Nonplastic," ",Vertical," ",Moderate,Coarse," ",60
+"Slightly hard","Very friable",Nonplastic," ",Vertical," ","Weak to moderate",Coarse," ",95
+" ",Friable,"Very plastic"," ",Vertical," ","Very weak",Coarse," ",0
+" ",Firm,"Very plastic",Medium,Vertical," ","Weak to moderate",Coarse," ",29
+" ",Firm,"Very plastic",Medium,Vertical," ",Weak,Coarse," ",41
+" ",Firm,"Very plastic"," ",Vertical," ",Weak,Coarse," ",55
+" ",Firm,"Very plastic"," ",Vertical," ","Moderate to strong",Coarse," ",0
+" ","Very firm","Very plastic"," ",Vertical," ","Moderate to strong",Coarse," ",16
+" ",Firm,Plastic,Fine,Vertical," ",Weak,Coarse," ",63
+" ","Very firm","Very plastic",Medium,Vertical," ","Moderate to strong",Coarse," ",80
+" ","Very friable",Slightly," ",Vertical," ",Moderate,Coarse," ",0
+" ","Very friable",Slightly," ",Vertical," ",Moderate,Medium," ",11
+" ",Friable,Plastic," ",Vertical," ",Moderate,Medium," ",0
+" ",Firm,Plastic,Medium,Vertical," ","Moderate to strong",Coarse," ",14
+" ",Firm,Plastic,Medium,Vertical," ",Moderate,Coarse," ",30
+" ",Firm,Plastic,Fine,Vertical," ",Weak,Coarse," ",40
+" ",Firm," "," "," "," ",Weak,Coarse," ",66
+" ",Friable," "," "," "," "," "," "," ",0
+" ",Friable," "," "," "," "," "," "," ",8
+" ",Friable," "," "," "," "," "," "," ",13
+" ",Friable," "," "," "," "," "," "," ",17
+" ",Friable,"Very plastic"," ",Vertical," ",None," "," ",0
+" ","Very firm","Very plastic",Fine,Vertical," ",Moderate,Medium," ",23
+" ",Friable,Plastic,Fine,Vertical," ",None," "," ",35
+" ",Firm,"Very plastic",Coarse,Vertical," ",None," "," ",52
+" ",Friable,Nonplastic,Coarse," "," ",Moderate,Coarse," ",80
+" ",Friable,"Very plastic"," ",Random," ","Weak to moderate",Medium," ",0
+" ",Firm,"Very plastic",Fine,Random," ","Very weak",Coarse," ",27
+" ","Very firm","Very plastic",Medium,Random," ","Weak to moderate",Coarse," ",40
+" ",Friable,Slightly," ",Vertical," ",Weak,Medium," ",0
+" ",Friable,Nonplastic," ",Vertical," ",Moderate,Medium," ",21
+" ","Very friable",Nonplastic," "," "," ",None," "," ",54
+" ",Loose,Nonplastic," "," "," ",None," "," ",74
+"Very hard"," ","Very plastic"," ",Vertical," ",Weak,Coarse," ",0
+"Very hard"," ","Very plastic",Fine,Vertical," ","Very weak",Coarse," ",17
+"Very hard"," ","Very plastic"," ",Vertical," ","Weak to moderate",Coarse," ",28
+"Very hard"," ","Very plastic",Fine,Vertical," ",Moderate,Coarse," ",42
+" ",Firm,Plastic," ",Vertical," ",Weak,Coarse," ",0
+" ","Very firm","Very plastic",Fine,Vertical," ",None," "," ",15
+" ","Very firm","Very plastic",Fine,Vertical," ",Weak,Coarse," ",34
+" ","Very firm","Very plastic",Medium," "," ","Weak to moderate","Medium to coarse"," ",62
+"Very hard","Very firm","Very plastic"," ",Vertical," ",Strong,Coarse," ",0
+Extreme,"Very firm","Very plastic",Fine,Random," ",Strong,Coarse," ",33
+"Very hard",Firm,"Very plastic"," ",Vertical," ",Strong,Coarse," ",46
+Extreme,"Very firm","Very plastic"," ",Vertical," ",None," "," ",68
+" ","Very firm","Very plastic"," ",Vertical," ",Moderate,Medium," ",0
+" ","Very firm",Plastic,Fine,Vertical," ",Moderate,"Medium to coarse"," ",15
+" ","Very firm","Very plastic",Fine,Vertical," ",Moderate," "," ",34
+" ","Very firm","Very plastic",Medium,Vertical," ",Moderate,Coarse," ",45
+" ",Firm,"Very plastic"," ",Vertical," ","Moderate to strong",Coarse," ",0
+" ",Firm,"Very plastic",Fine,Vertical," ","Moderate to strong",Medium," ",16
+" "," "," "," "," "," "," ",Medium," ",37
+Hard," ","Very plastic"," ",Vertical," ","Weak to moderate",Coarse," ",0
+"Very hard"," ","Very plastic",Fine,Vertical," ",Weak,Coarse," ",15
+"Very hard"," ","Very plastic"," ",Vertical," ","Weak to moderate",Coarse," ",31
+"Very hard"," ","Very plastic"," ",Vertical," ","Very weak",Coarse," ",50
+"Slightly hard",Firm,Slightly," ",Vertical," ","Weak to moderate",Medium," ",0
+Hard,Firm,Plastic,Medium,Vertical," ","Very weak",Coarse," ",19
+"Very hard","Very firm",Plastic," ",Vertical," ","Very weak",Coarse," ",49
+" ","Very friable","Very plastic"," ",Vertical," ",Weak,Medium," ",0
+" ",Friable,"Very plastic",Fine,Vertical," ","Weak to moderate",Medium," ",20
+" ",Friable,Slightly,Fine,Vertical," ","Very weak",Medium," ",44
+" ",Friable,Slightly,Fine,Vertical," ","Very weak",Coarse," ",52
+" ",Friable,Slightly,Fine,Vertical," ","Very weak",Coarse," ",76
+" ","Very friable",Slightly," ",Random," ",Moderate,Medium," ",0
+" ",Loose,Nonplastic," ",Vertical," ",None," "," ",22
+" ","Very friable",Nonplastic,Fine,Vertical," ",None," "," ",33
+" ","Very firm",Slightly,Fine,Vertical," ",Moderate,Coarse," ",44
+" ","Very firm","Very plastic"," ",Vertical," ",Weak,Coarse," ",60
+" ","Very firm","Very plastic"," ",Vertical," ",Weak,Coarse," ",77
+"Very hard"," ","Very plastic"," ",Vertical," ",Weak,Coarse," ",0
+Rigid," ","Very plastic",Fine,Vertical," ","Weak to moderate",Coarse," ",18
+" ",Firm,"Very plastic"," ",Vertical," ","Weak to moderate",Coarse," ",31
+" ",Firm,"Very plastic",Medium,Vertical," ",Weak,Coarse," ",46
+" ",Friable,Plastic," ",Random," ",Moderate,Coarse," ",0
+" ","Very firm","Very plastic",Fine,Vertical," ","Very weak",Coarse," ",15
+" ","Very firm","Very plastic"," ",Vertical," ",Weak,Coarse," ",34
+" ","Very firm","Very plastic",Fine,Vertical," ",Weak,Coarse," ",43
+" ",Friable,Slightly," ",Vertical," ","Very weak","Medium to coarse"," ",0
+" ","Very friable",Slightly,Fine,Vertical," ","Very weak",Coarse," ",24
+" ",Firm,"Very plastic"," ",Vertical," ","Moderate to strong","Medium to coarse"," ",40
+"Very hard"," ","Very plastic",Medium,Vertical," ",Moderate,Coarse," ",54
+Hard," ","Very plastic"," ",Vertical," ",Strong,Coarse," ",65
+Extreme," ","Very plastic",Fine,Vertical," ",Strong,Coarse," ",70
+" ",Friable,"Very plastic"," ",Vertical," ","Very weak",Coarse," ",0
+" ",Firm,"Very plastic",Fine,Vertical," ","Moderate to strong",Coarse," ",19
+" ",Firm,"Very plastic"," ",Vertical," ","Weak to moderate","Medium to coarse"," ",40
+" "," ","Very plastic",Fine,Vertical," ","Moderate to strong",Coarse," ",58
+" ","Very friable",Nonplastic," ",Horizontal," ",Moderate,Fine," ",0
+" ","Very friable",Nonplastic," ",Horizontal," ",None,Fine," ",14
+" ",Loose,Nonplastic," ",Horizontal," ",None,Fine," ",26
+" ",Loose,Nonplastic," ",Horizontal," ",None,"Fine to medium"," ",41
+" ",Loose,Nonplastic," ",Vertical," ",None,Fine," ",67
+" ",Loose,Nonplastic," "," "," ",None,Fine," ",105
+" ",Friable,Plastic," ",Random," ",Moderate,Medium," ",0
+" ",Firm,"Very plastic",Coarse,Vertical," ",Moderate,Medium," ",26
+" ",Firm,"Very plastic"," ",Vertical," ","Moderate to strong",Medium," ",50
+" ",Firm,"Very plastic",Coarse,Vertical," ","Weak to moderate",Coarse," ",85
+" ","Very friable",Nonplastic," ",Vertical," ",None," "," ",0
+" ","Very friable",Nonplastic," ",Vertical," ",None," "," ",19
+" ",Friable,Slightly,Fine,Vertical," ",None," "," ",41
+" ",Friable,Nonplastic," ",Vertical," ",None," "," ",57
+" ",Friable,"Very plastic"," ",Random," ",None," "," ",74
+" ",Friable,Slightly," "," "," ",None," "," ",90
+" ",Firm,"Very plastic"," ",Vertical," ","Moderate to strong",Coarse," ",0
+" ",Firm,"Very plastic",Medium,Vertical," ","Moderate to strong",Coarse," ",10
+" ",Firm,"Very plastic",Fine,Vertical," ","Moderate to strong",Coarse," ",20
+" ",Firm,"Very plastic",Fine,Vertical," ","Moderate to strong","Medium to coarse"," ",41
+Hard," "," ",Medium,Vertical," ","Moderate to strong","Medium to coarse"," ",55
+" ",Friable," "," "," "," "," ","Very fine"," ",0
+" ",Friable," "," "," "," ",Weak,"Fine to medium"," ",1
+" ",Friable,Plastic,Medium,Random," ","Moderate to strong",Medium," ",0
+" ",Firm,"Very plastic"," ",Vertical," ",Moderate,Coarse," ",19
+" ",Firm,"Very plastic"," ",Vertical," ",Moderate,Coarse," ",43
+" ",Firm,Plastic,Coarse,Random," ","Weak to moderate",Coarse," ",87
+"Slightly hard",Friable,"Very plastic"," ",Vertical," ",Moderate,Medium," ",0
+Hard,"Very firm","Very plastic",Fine,Vertical," ",Strong,Medium," ",17
+Hard,"Very firm","Very plastic"," ",Vertical," ",Strong,Coarse," ",39
+"Very hard","Very firm","Very plastic"," ",Vertical," ",Strong,Medium," ",53
+" "," "," "," "," "," "," "," "," ",15
+"Very hard",Firm,Plastic,Medium," "," ",None," "," ",122
+Soft,Friable,Nonplastic," "," "," ",Weak,Fine," ",0
+Soft,"Very friable",Nonplastic," "," "," "," "," "," ",5
+Soft,"Very friable",Slightly," "," "," "," "," "," ",13
+Soft,"Very friable",Slightly,Fine," "," "," "," "," ",33
+"Slightly hard",Friable,Plastic,Fine," "," "," "," "," ",48
+Hard,Firm,Plastic,Medium," "," ",None," "," ",58
+Hard,Firm,Plastic,Coarse," "," ",None," "," ",74
+"Very hard",Firm,Plastic,Coarse," "," ",None," "," ",89
+Loose,"Very friable",Nonplastic," "," "," ",Weak,Fine," ",6
+Soft,"Very friable",Slightly," "," "," ",Weak,"Fine to medium"," ",0
+"Slightly hard","Very friable",Slightly,Fine," "," ",Weak,"Fine to medium"," ",6
+Hard,Friable,Plastic,Fine," "," ","Weak to moderate","Fine to medium"," ",35
+Hard,Firm,Plastic,Medium," "," ",None," "," ",40
+"Very hard",Firm,Plastic,Medium," "," ",None," "," ",52
+"Very hard",Firm,Plastic,Fine," "," ",None," "," ",92
+"Slightly hard","Very friable",Nonplastic," "," "," "," "," "," ",12
+"Slightly hard","Very friable",Nonplastic," "," "," "," "," "," ",0
+Hard,Firm,Plastic,Medium," "," "," "," "," ",6
+"Very hard",Firm,Plastic,Medium," "," "," "," "," ",17
+Hard,Firm,Slightly,Fine," "," "," "," "," ",27
+"Very hard",Firm,Plastic,Coarse," "," "," "," "," ",37
+"Very hard",Firm,Plastic,Medium," "," "," "," "," ",67
+" "," "," "," "," "," "," "," "," ",3
+" ",Loose,Nonplastic," "," "," ",None,Coarse," ",66
+" ",Firm,Nonplastic," "," "," ",None,Medium," ",72
+" ",Firm,Nonplastic," "," "," ",None,Coarse," ",92
+" "," "," "," "," "," "," "," "," ",2
+" ","Very friable",Nonplastic," "," "," ",None,"Fine to medium"," ",0
+" ","Very friable",Nonplastic," "," "," ",Weak,"Fine to medium"," ",5
+" ",Friable,Nonplastic," "," "," ",Weak,"Fine to medium"," ",10
+" ",Friable,Nonplastic," "," "," ","Very weak","Fine to medium"," ",20
+" ",Firm,Nonplastic," "," "," ","Very weak",Medium," ",30
+" ",Firm,Nonplastic,Fine," "," ","Very weak",Medium," ",46
+" ",Friable,Nonplastic," "," "," ","Very weak","Fine to medium"," ",58
+" ","Very friable"," "," "," "," ",None," "," ",0
+" ",Friable," "," "," "," ",None," "," ",23
+" ",Friable," "," "," "," ",None," "," ",38
+" "," "," "," "," "," ",None," "," ",66
+" ",Friable," "," "," "," ",None," "," ",101
+" ",Firm," "," "," "," ",None," "," ",106
+" ",Firm," "," "," "," ",None," "," ",156
+" "," "," "," "," "," "," "," "," ",0
+" ","Very friable"," "," "," "," ",Weak,Fine," ",8
+Soft,"Very friable"," "," "," "," ",Weak,Fine," ",18
+Soft,"Very friable"," "," "," "," ",Weak,Fine," ",31
+Hard,Firm," "," "," "," ",Weak," "," ",51
+"Very hard",Firm," ",Medium," "," ",Weak,Coarse," ",68
+"Very hard",Firm," ",Medium," "," ",Weak,Coarse," ",83
+"Very hard",Firm," ",Medium," "," ",Weak,Coarse," ",106
+"Very hard",Firm," ",Medium," "," ",Weak,Coarse," ",136
+" ",Friable," "," "," "," "," "," "," ",0
+" ",Friable," "," "," "," "," "," "," ",6
+" ",Friable," "," "," "," "," "," "," ",12
+" ",Friable," "," "," "," "," "," "," ",20
+" ",Friable," "," "," "," "," "," "," ",23
+" ",Firm," "," "," "," "," "," "," ",28
+" ",Loose," "," ",Random," ",None," "," ",0
+" ",Loose," "," ",Random," ",None," "," ",13
+" ",Loose," "," "," "," ",None," "," ",26
+" ","Very friable"," "," "," "," ",None," "," ",51
+" ",Loose," ",Fine," "," ",None," "," ",66
+" ",Loose," "," ",Horizontal," ",None," "," ",7
+" ",Loose," "," ",Horizontal," ",None," "," ",0
+" ",Loose," "," ",Horizontal," ",None," "," ",5
+" ",Loose," "," ",Random," ",None," "," ",23
+" ",Loose," "," "," "," ",None," "," ",50
+" ",Friable," "," "," "," ",Moderate,Coarse," ",0
+" ",Friable," ",Fine," "," ",Moderate,Fine," ",18
+" ",Firm," ",Medium," "," ",Moderate,"Medium to coarse"," ",20
+" ",Firm," ",Medium," "," ",Strong,Coarse," ",45
+" ",Friable," "," "," "," ","Weak to moderate",Medium," ",0
+" ",Firm," "," "," "," "," "," "," ",9
+" ","Very friable"," "," ",Random," ",Moderate,Coarse," ",0
+" ","Very friable"," "," ",Vertical," ",Moderate,Coarse," ",14
+" ","Very friable"," "," ",Vertical," ",Moderate,Coarse," ",18
+" ","Very friable"," "," ",Vertical," ",Moderate,Medium," ",28
+" ","Very friable"," ",Fine,Vertical," ",Moderate,Medium," ",37
+" ","Very friable"," ",Fine,Vertical," ",Moderate,Medium," ",60
+" ","Very friable"," ",Fine," "," ",Moderate,Medium," ",75
+" ",Friable," "," ",Random," ",Moderate,Medium," ",0
+" ","Very friable"," ",Medium,Vertical," ",None," "," ",19
+" ","Very friable"," ",Medium," "," ",None," "," ",51
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ","Very friable"," ",Fine,Vertical," ",None," "," ",24
+" ","Very friable"," ",Fine," "," ",None," "," ",41
+" ",Friable," "," ",Random," "," "," "," ",0
+" ",Friable," ",Fine,Vertical," "," "," "," ",22
+" ",Friable," "," "," "," ",Weak,Fine,"Fine to medium",0
+" ",Friable," "," "," "," ",Weak,Medium," ",2
+" ",Friable," "," "," "," ",Weak," "," ",11
+" ",Friable," "," "," "," ",None," "," ",18
+" ","Very friable"," "," ",Vertical," ",Moderate,Medium," ",0
+" ","Very friable"," ",Medium," "," ",Weak,Fine," ",16
+" ",Friable," ",Medium," "," ",Strong,Coarse," ",28
+" ",Firm," "," ",Random," ",Moderate,Medium," ",0
+" ","Very firm"," ",Fine,Random," ","Moderate to strong",Medium," ",8
+" ","Very firm"," ",Fine,Random," ",None," "," ",10
+" ",Firm," ",Fine," "," ",Moderate,Fine," ",14
+" ","Very firm"," ",Fine," "," ",None," "," ",58
+" ","Very friable"," "," ",Vertical," ","Very weak",Fine," ",0
+" ",Loose," "," ",Random," ",None," "," ",23
+" ",Loose," ",Medium,Oblique," ",None," "," ",36
+" ",Loose," ",Medium," "," ",None," "," ",55
+" ","Very firm"," "," "," "," ",None," "," ",83
+" "," "," "," ",Random," ",None," "," ",13
+" ",Loose," "," ",Random," ",None," "," ",0
+" ",Loose," "," ",Random," ",None," "," ",14
+" ",Loose," "," ",Random," ",None," "," ",33
+" ",Loose," "," "," "," ",None," "," ",50
+" ","Very friable"," "," ",Random," ","Very weak","Very fine"," ",0
+" ","Very friable"," ",Fine,Random," ","Very weak","Very fine"," ",23
+" ","Very friable"," ",Fine,Random," ",None," "," ",35
+" ","Very friable"," ",Fine," "," ",None," "," ",47
+" "," "," "," ",Random," "," "," "," ",0
+" "," "," "," ",Random," ",None," "," ",15
+" "," "," "," ",Random," ",None," "," ",25
+" "," "," "," ",Random," ",None," "," ",42
+" "," "," ",Fine," "," ",None," "," ",59
+" ",Friable," "," ",Random," ",Strong,Medium," ",0
+" ",Firm," ",Fine,Random," ",Weak,Coarse," ",22
+" ",Firm," ",Fine," "," ",None," "," ",48
+" ","Very friable"," "," ",Random," ",None," "," ",0
+" ","Very friable"," ",Fine,Random," ",None," "," ",19
+" ","Very friable"," ",Fine,Random," ",None," "," ",25
+" ","Very friable"," ",Coarse,Random," ",None," "," ",36
+" ","Very friable"," ",Medium," "," ",None," "," ",48
+" ","Very friable"," "," ",Random," ","Moderate to strong",Fine," ",0
+" ","Very friable"," ",Fine,Random," ",Weak,Fine," ",25
+" ","Very friable"," ",Fine," "," ",None," "," ",33
+" ","Very friable"," "," ",Random," ","Very weak","Fine to medium"," ",0
+" ","Very friable"," "," ",Random," ",None," "," ",24
+" ","Very friable"," ",Fine,Random," ",None," "," ",28
+" ",Loose," ",Coarse,Random," ",None," "," ",38
+" ",Friable," "," "," "," ",None," "," ",54
+" ","Very friable"," "," "," "," ",None," "," ",69
+" ",Friable," "," "," "," "," "," "," ",0
+" ",Friable," "," "," "," "," "," "," ",6
+" ",Friable," "," "," "," "," "," "," ",12
+" ",Friable," "," "," "," "," "," "," ",14
+" ",Friable," "," "," "," "," "," "," ",20
+" ",Friable," "," "," "," "," "," "," ",24
+" ","Very friable"," "," ",Random," ",None," "," ",0
+" ","Very friable"," "," "," "," ",None," "," ",26
+" ","Very friable"," ",Medium," "," ",None," "," ",28
+" ",Friable," ",Coarse," "," ",None," "," ",50
+" ","Very friable"," "," "," "," ",None," "," ",0
+" ","Very friable"," "," ",Random," ",None," "," ",27
+" ","Very friable"," "," ",Random," ",None," "," ",32
+" ","Very friable"," ",Medium,Vertical," ",None," "," ",42
+" ",Friable," ",Medium,Vertical," ",None," "," ",57
+" ","Very friable"," "," ",Random," ",None,"Very fine"," ",0
+" ","Very friable"," "," ",Vertical," ",None,"Very fine"," ",20
+" ",Loose," "," "," "," ",None,Coarse," ",36
+" ","Very friable"," "," "," "," ",None," "," ",0
+" ",Loose," "," "," "," ",None," "," ",20
+" ",Loose," "," "," "," ",None," "," ",28
+" ",Loose," "," "," "," ",None," "," ",36
+" ",Loose," "," "," "," ",None," "," ",58
+" ","Very friable"," "," ",Random," ",None,"Very fine"," ",0
+" ","Very friable"," "," ",Random," ",None,"Very fine"," ",22
+" "," "," "," "," "," ",Weak,Fine," ",0
+" "," "," "," "," "," ",Weak,Fine," ",1
+" "," "," "," "," "," ",Weak,"Fine to medium"," ",5
+" ","Very friable"," "," ",Random," ",Moderate,Fine," ",0
+" ","Very friable"," "," ",Vertical," ","Very weak","Very fine"," ",20
+" ",Friable," "," ",Vertical," "," "," "," ",33
+" ","Very friable"," "," ",Horizontal," ",None," "," ",0
+" ",Loose," "," ",Horizontal," ",None,"Very fine"," ",5
+" ",Loose," "," ",Oblique," ",None,"Very fine"," ",22
+" ",Loose," ",Fine," "," ",None,"Very fine"," ",51
+" ","Very friable"," "," ",Random," ",None," "," ",0
+" ",Friable," "," ",Random," ",None," "," ",24
+" ","Very friable"," "," ",Vertical," ",None," "," ",36
+" ","Very friable"," "," "," "," ",None," "," ",60
+" ","Very friable"," ",Fine,Random," ","Very weak",Fine," ",0
+" ","Very friable"," ",Fine,Horizontal," ","Very weak",Fine," ",18
+" ","Very friable"," ",Fine,Vertical," ","Very weak",Fine," ",40
+" ",Friable," ",Fine," "," ",None," "," ",60
+" ","Very firm"," "," "," "," ",None," "," ",183
+" ","Very friable"," "," ",Random," ",None,Fine," ",0
+" ",Loose," "," ",Vertical," ",None,Fine," ",15
+" ",Loose," "," "," "," ",None,Fine," ",37
+" ","Very friable"," "," ",Random," ",None," "," ",0
+" ","Very friable"," "," ",Vertical," ",None," "," ",20
+" ",Loose," "," ",Vertical," ",None," "," ",38
+" ",Loose," "," "," "," ",None," "," ",76
+" "," "," "," ",Oblique," ",None," "," ",5
+" ",Loose," "," ",Oblique," ",None," "," ",0
+" ",Loose," "," ",Oblique," ",None," "," ",7
+" ",Loose," "," ",Vertical," ",None," "," ",21
+" ",Friable," "," "," "," ",None," "," ",56
+" ",Loose," "," ",Random," ",None," "," ",0
+" ",Loose," "," ",Oblique," ",None," "," ",19
+" ",Loose," "," ",Vertical," ",None," "," ",22
+" ",Loose," "," ",Vertical," ",None," "," ",74
+" ","Very friable"," "," ",Random," ",None," "," ",4
+" ","Very friable"," "," ",Vertical," ",None," "," ",0
+" ","Very friable"," "," ",Vertical," ",None," "," ",4
+" ",Loose," "," ",Vertical," ",None," "," ",34
+" ",Loose," "," "," "," ",None," "," ",66
+" ","Very friable"," "," "," "," ","Very weak","Very fine"," ",0
+" ","Very friable"," "," "," "," "," "," "," ",20
+" ","Very friable"," "," "," "," "," "," "," ",35
+" ",Loose," "," "," "," "," "," "," ",45
+Soft,Friable," "," "," "," "," "," "," ",0
+Soft,Friable," "," "," "," ",Weak,Fine," ",1
+Hard,Friable," "," "," "," ","Weak to moderate",Fine," ",7
+" ","Very friable"," "," "," "," ",None," "," ",15
+" ","Very friable"," "," "," "," ",None," "," ",0
+" ","Very friable"," "," "," "," ",None," "," ",5
+" ","Very friable"," ",Medium," "," ",None," "," ",27
+" ",Loose," ",Medium," "," ",None," "," ",50
+" ","Very friable"," "," ",Random," ",Weak,Fine," ",0
+" ","Very friable"," ",Medium,Vertical," ",Weak,Fine," ",24
+" ","Very friable"," ",Medium,Vertical," ",Weak,Fine," ",43
+" ","Very friable"," ",Medium,Vertical," ",None," "," ",61
+" ","Very friable"," "," ",Horizontal," ",None," "," ",0
+" ","Very friable"," "," ",Vertical," ",None," "," ",20
+" ",Loose," "," ",Vertical," ",None," "," ",25
+" ",Loose," "," ",Vertical," ",None," "," ",43
+" ",Loose," "," "," "," ",None," "," ",50
+" ",Loose," "," "," "," ",None," "," ",75
+" ",Loose," "," "," "," ",None," "," ",105
+" "," "," "," "," "," ",None," "," ",130
+" ","Very friable"," "," ",Random," ",None," "," ",0
+" ","Very friable"," "," ",Vertical," ",None," "," ",16
+" ","Very friable"," "," "," "," ",None," "," ",42
+" ","Very friable"," ",Fine," "," ",None," "," ",70
+" ",Friable," "," ",Random," ",Weak,Fine," ",0
+" ",Firm," ",Fine,Vertical," ",Weak,Coarse," ",23
+" ",Firm," ",Fine,Vertical," ",Weak,Coarse," ",34
+" ",Firm," ",Fine,Random," ",Weak,Coarse," ",51
+" ",Firm," ",Fine,Random," ",Weak,Fine," ",61
+" ",Firm," ",Medium,Random," ",None," "," ",82
+" ",Firm," ",Fine,Random," ",None," "," ",107
+" ","Very friable"," ",Fine,Vertical," ","Very weak",Coarse," ",0
+" ",Friable," ",Fine,Vertical," ","Very weak",Medium," ",19
+" ",Friable," ",Fine,Vertical," ","Very weak",Medium," ",28
+" ",Friable," "," ",Vertical," ",None," "," ",42
+" ","Very friable"," "," ",Random," ",None," "," ",0
+" ","Very friable"," "," ",Random," ",None," "," ",12
+" ",Loose," "," ",Random," ",None," "," ",19
+" ",Loose," "," ",Random," ",None," "," ",39
+" ",Loose," "," ",Random," ",None," "," ",55
+" ",Loose," "," ",Random," ",None," "," ",70
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",6
+" ",Friable," "," "," "," "," "," "," ",12
+" ","Very friable"," "," ",Random," "," "," "," ",12
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ","Very friable"," "," ",Random," "," "," "," ",13
+" ","Very friable"," "," ",Random," "," "," "," ",25
+" ","Very friable"," "," ",Random," "," "," "," ",33
+" ",Loose," ",Fine,Random," "," "," "," ",42
+" ",Loose," "," "," "," "," "," "," ",70
+"Very hard",Firm,"Very plastic",Fine,Vertical," ","Weak to moderate",Medium," ",0
+"Very hard",Firm,"Very plastic",Medium,Vertical," ",Weak,Fine," ",26
+"Very hard",Firm,"Very plastic",Coarse,Vertical," ",Weak,Fine," ",42
+"Very hard",Friable,"Very plastic"," ",Random," ",Moderate,Fine," ",0
+"Very hard",Friable,"Very plastic"," ",Random," ",Moderate,"Fine to medium"," ",15
+"Very hard",Friable,"Very plastic"," ",Vertical," ",Weak,Fine," ",23
+"Very hard",Friable,"Very plastic"," ",Vertical," ","Very weak",Coarse," ",72
+"Slightly hard",Friable,Slightly," ",Vertical," ","Moderate to strong",Coarse," ",0
+"Slightly hard",Friable,Slightly," ",Vertical," ",Moderate,Medium," ",12
+"Slightly hard",Friable,Slightly," ",Vertical," ",Weak,Fine," ",22
+Hard,Friable,"Very plastic"," ",Vertical," ","Very weak",Medium," ",50
+Soft,"Very friable",Nonplastic," ",Vertical," ",None," "," ",0
+Soft,"Very friable",Nonplastic,Coarse,Vertical," ",None," "," ",21
+Soft,"Very friable",Nonplastic,Coarse," "," "," "," "," ",67
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",4
+" ",Friable," "," "," "," ",Weak,"Fine to medium"," ",7
+Soft,Friable,Slightly," ",Random," ",Moderate,Medium," ",0
+Soft,Friable,Slightly," ",Random," ",None," "," ",15
+Soft,Friable,Slightly," ",Vertical," ",None," "," ",18
+Hard,Friable,Plastic," ",Vertical," ",None," "," ",33
+" "," "," "," "," "," "," "," "," ",77
+"Slightly hard",Friable,Plastic," ",Random," ",Moderate,"Fine to medium"," ",0
+"Slightly hard",Friable,Plastic," ",Random," ",Moderate,"Fine to medium"," ",30
+"Slightly hard",Friable,Plastic," ",Random," ",Weak,"Fine to medium"," ",46
+" "," "," "," "," "," "," "," "," ",64
+" "," "," "," "," "," "," "," "," ",84
+" "," "," "," "," "," "," "," "," ",0
+" "," "," ",Fine," "," ",None," "," ",8
+" "," "," ",Fine,Vertical," ",None," "," ",28
+Soft,"Very friable",Nonplastic,Coarse,Vertical," ",None," "," ",38
+" "," "," ",Coarse,Vertical," ",None," "," ",73
+" "," "," ",Coarse," "," ",None," "," ",90
+" "," "," ",Coarse," "," ",None," "," ",100
+"Slightly hard",Friable,Slightly," ",Vertical," ",Moderate,Medium," ",0
+"Slightly hard",Friable,Slightly," ",Vertical," ","Weak to moderate","Fine to medium"," ",7
+"Slightly hard",Friable,Slightly,Medium,Vertical," "," "," "," ",21
+" "," "," ",Medium," "," "," "," "," ",43
+" "," "," "," "," "," "," "," "," ",25
+Hard,Friable,"Very plastic"," "," "," ","Very weak",Fine," ",0
+Hard,Friable,"Very plastic",Medium," "," ","Very weak",Fine," ",5
+Hard,Friable,"Very plastic"," "," "," "," "," "," ",40
+" ",Friable,Nonplastic," ",Random," ",Weak,"Fine to medium"," ",0
+" ",Friable,Nonplastic," ",Oblique," ","Very weak","Fine to medium"," ",25
+" ",Friable,Nonplastic,Medium,Oblique," ","Very weak","Fine to medium"," ",30
+" ",Friable,Nonplastic," ",Oblique," ","Weak to moderate","Medium to coarse"," ",35
+" ","Very friable",Nonplastic,Coarse,Oblique," ",None," "," ",72
+" ",Loose,Nonplastic," "," "," ",None," "," ",92
+" "," "," "," "," "," ","Very weak",Fine," ",200
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",34
+" "," "," "," "," "," "," "," "," ",44
+" "," "," "," "," "," "," "," "," ",77
+" "," "," "," "," "," "," "," "," ",107
+" "," "," "," "," "," "," "," "," ",136
+" "," "," "," "," "," "," "," "," ",170
+" "," "," "," "," "," "," "," "," ",192
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",1
+" ",Friable," "," "," "," ",Weak,Fine," ",3
+Loose," ",Nonplastic," ",Vertical," "," "," "," ",13
+Loose," ",Nonplastic," ",Vertical," "," "," "," ",0
+"Very hard"," ",Nonplastic," ",Random," "," "," "," ",30
+"Slightly hard"," ",Nonplastic," ",Random," "," "," "," ",35
+Loose," ",Nonplastic," ",Random," "," "," "," ",40
+Loose," ",Nonplastic," ",Random," "," "," "," ",52
+Soft,Friable,Nonplastic," ",Vertical," ","Moderate to strong","Fine to medium"," ",0
+Soft,"Very friable",Nonplastic," ",Vertical," ","Weak to moderate",Medium," ",20
+Soft,"Very friable",Nonplastic," ",Vertical," ","Weak to moderate",Medium," ",25
+Hard,Friable,Nonplastic," ",Vertical," ",Moderate,Medium," ",60
+Hard,Firm,Nonplastic," ",Oblique," ",Moderate,Medium," ",88
+"Slightly hard",Firm,Nonplastic," "," "," ",None," "," ",123
+Soft,"Very friable",Nonplastic," "," "," ",None," "," ",155
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ","Very friable"," ",Fine,Random," "," "," "," ",19
+" ","Very friable"," ",Fine,Vertical," "," "," "," ",25
+" ","Very friable"," ",Coarse,Vertical," "," "," "," ",36
+" ","Very friable"," ",Medium," "," "," "," "," ",48
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ","Very friable"," ",Fine,Random," "," "," "," ",23
+" ","Very friable"," ",Fine,Random," "," "," "," ",35
+" ","Very friable"," ",Fine," "," "," "," "," ",47
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",112
+" "," "," "," "," "," "," "," "," ",205
+" "," "," "," "," "," "," "," "," ",240
+" "," "," "," "," "," "," "," "," ",260
+"Very hard",Firm,Plastic," "," "," ",None," "," ",305
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" "," "," "," ",Random," "," "," "," ",24
+" "," "," ",Fine,Random," "," "," "," ",28
+" ",Loose," ",Coarse," "," "," "," "," ",38
+" ",Friable," ",Fine," "," "," "," "," ",54
+" ","Very friable"," "," "," "," "," "," "," ",69
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",1
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",136
+" "," "," "," "," "," "," "," "," ",278
+" "," "," "," "," "," "," "," "," ",358
+" "," "," "," "," "," "," "," "," ",397
+Hard,Firm,Plastic," "," "," ",None," "," ",536
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ","Very friable"," ",Medium,Vertical," "," "," "," ",24
+" ","Very friable"," ",Medium,Vertical," "," "," "," ",43
+" ","Very friable"," ",Medium,Vertical," "," "," "," ",61
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",65
+" "," "," "," "," "," "," "," "," ",159
+" "," "," "," "," "," "," "," "," ",232
+Hard,Firm,Plastic," "," "," ",None," "," ",292
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ","Very friable"," "," ",Vertical," "," "," "," ",14
+" ","Very friable"," "," ",Vertical," "," "," "," ",18
+" ","Very friable"," "," ",Vertical," "," "," "," ",28
+" ","Very friable"," ",Fine,Vertical," "," "," "," ",37
+" ","Very friable"," ",Fine,Vertical," "," "," "," ",60
+" ","Very friable"," ",Fine," "," "," "," "," ",75
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",74
+Hard,Firm,Plastic," "," "," ",None," "," ",275
+" ","Very friable"," "," ",Vertical," "," "," "," ",0
+" ",Friable," ",Fine,Vertical," "," "," "," ",19
+" ",Friable," ",Fine,Vertical," "," "," "," ",28
+" ",Friable," ",Fine,Vertical," "," "," "," ",42
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",4
+" ",Friable," "," "," "," ",Weak,"Fine to medium"," ",8
+" ",Friable," "," ",Random," "," "," "," ",0
+" ",Friable," ",Fine,Vertical," "," "," "," ",22
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ","Very friable"," "," ",Vertical," "," "," "," ",20
+" ",Firm," "," ",Vertical," "," "," "," ",33
+" ","Very friable"," ",Fine,Random," "," "," "," ",0
+" ","Very friable"," ",Fine,Horizontal," "," "," "," ",18
+" ","Very friable"," ",Fine,Vertical," "," "," "," ",40
+" ",Firm," ",Fine," "," "," "," "," ",60
+" ","Very firm"," "," "," "," "," "," "," ",183
+" ",Firm," "," ",Random," "," "," "," ",0
+" ","Very firm"," ",Fine,Random," "," "," "," ",8
+" ","Very firm"," ",Fine,Random," "," "," "," ",10
+" ",Firm," ",Fine," "," "," "," "," ",14
+" ","Very firm"," ",Fine," "," "," "," "," ",58
+" ",Firm," "," ",Random," "," "," "," ",0
+" ","Very firm"," ",Fine,Random," "," "," "," ",8
+" ","Very firm"," ",Fine,Random," "," "," "," ",10
+" ",Firm," ",Fine," "," "," "," "," ",14
+" ","Very firm"," ",Fine," "," "," "," "," ",58
+" ","Very friable"," "," ",Random," "," "," "," ",0
+Loose," "," "," ",Vertical," "," "," "," ",15
+Loose," "," "," "," "," "," "," "," ",37
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ","Very friable"," ",Medium,Random," "," "," "," ",22
+" ","Very friable"," "," ",Oblique," "," "," "," ",0
+" ",Loose," "," ",Random," "," "," "," ",15
+" ","Very friable"," "," ",Random," "," "," "," ",25
+" ","Very friable"," "," ",Vertical," "," "," "," ",42
+" ","Very firm"," ",Fine," "," "," "," "," ",59
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ","Very friable"," "," ",Random," "," "," "," ",12
+" ",Loose," "," ",Random," "," "," "," ",19
+" ",Loose," "," ",Random," "," "," "," ",39
+" ",Loose," "," ",Random," "," "," "," ",55
+" ",Loose," "," ",Random," "," "," "," ",70
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ","Very friable"," "," ",Vertical," "," "," "," ",4
+" ","Very friable"," "," ",Vertical," "," "," "," ",8
+Loose," "," "," ",Vertical," "," "," "," ",38
+Loose," "," "," "," "," "," "," "," ",70
+Loose," "," "," ",Random," "," "," "," ",0
+Loose," "," "," ",Vertical," "," "," "," ",18
+Loose," "," "," ",Vertical," "," "," "," ",26
+Loose," "," "," "," "," "," "," "," ",34
+Loose," "," "," "," "," "," "," "," ",75
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ","Very friable"," ",Fine,Vertical," "," "," "," ",24
+" ","Very friable"," ",Fine," "," "," "," "," ",41
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ","Very friable"," ",Fine,Random," "," "," "," ",25
+" ","Very friable"," ",Fine," "," "," "," "," ",33
+" ",Friable," "," ",Random," "," "," "," ",0
+" ",Firm," ",Fine,Random," "," "," "," ",22
+" ",Firm," ",Fine," "," "," "," "," ",48
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ","Very friable"," "," ",Random," "," "," "," ",20
+" ","Very friable"," "," ",Vertical," "," "," "," ",35
+" ",Loose," "," ",Vertical," "," "," "," ",45
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ","Very friable"," "," ",Random," "," "," "," ",24
+" ","Very friable"," "," ",Vertical," "," "," "," ",36
+" ","Very friable"," "," "," "," "," "," "," ",60
+" ","Very friable"," "," ",Horizontal," "," "," "," ",0
+" ",Loose," "," ",Horizontal," "," "," "," ",5
+" ",Loose," "," ",Oblique," "," "," "," ",22
+" ",Loose," ",Fine," "," "," "," "," ",51
+" ",Friable," "," ",Random," "," "," "," ",0
+" ",Firm," ",Fine,Vertical," "," "," "," ",23
+" ",Firm," ",Fine,Vertical," "," "," "," ",34
+" ",Firm," ",Fine,Random," "," "," "," ",51
+" ",Firm," ",Fine,Random," "," "," "," ",61
+" "," "," ",Medium," "," "," "," "," ",82
+" ",Firm," ",Fine,Random," "," "," "," ",107
+" ","Very friable"," "," ",Oblique," "," "," "," ",0
+" ",Loose," "," ",Oblique," "," "," "," ",19
+" ",Loose," "," ",Random," "," "," "," ",23
+" ",Loose," "," ",Vertical," "," "," "," ",35
+" ",Loose," "," "," "," "," "," "," ",71
+" ",Loose," "," "," "," "," "," "," ",78
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ",Friable," "," ",Vertical," "," "," "," ",18
+" ",Friable," "," "," "," "," "," "," ",38
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ",Loose," "," ",Random," "," "," "," ",20
+" ",Loose," "," ",Vertical," "," "," "," ",28
+" ",Loose," "," ",Vertical," "," "," "," ",36
+" ",Loose," "," "," "," "," "," "," ",58
+" ","Very friable"," "," ",Vertical," "," "," "," ",0
+" ","Very friable"," ",Medium,Vertical," "," "," "," ",16
+" "," "," ",Medium," "," "," "," "," ",28
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ","Very friable"," "," ",Vertical," "," "," "," ",14
+" ","Very friable"," "," ",Vertical," "," "," "," ",18
+" ","Very friable"," "," ",Vertical," "," "," "," ",28
+" ","Very friable"," ",Fine,Vertical," "," "," "," ",37
+" ","Very friable"," ",Fine,Vertical," "," "," "," ",60
+" ","Very friable"," ",Fine," "," "," "," "," ",75
+" ","Very friable"," "," ",Vertical," "," "," "," ",0
+" ",Loose," "," ",Random," "," "," "," ",23
+" ",Loose," ",Medium,Oblique," "," "," "," ",36
+" ",Loose," ",Medium," "," "," "," "," ",55
+" ","Very firm"," "," "," "," "," "," "," ",83
+" "," "," "," "," "," "," "," "," ",0
+" ",Friable,Slightly," "," "," "," "," "," ",5
+" "," "," ",Coarse," "," "," "," "," ",10
+" "," "," ",Medium," "," "," "," "," ",28
+" "," "," "," "," "," "," "," "," ",35
+" ","Very friable"," "," ",Random," "," "," "," ",0
+" ","Very friable"," "," ",Vertical," "," "," "," ",16
+" ","Very friable"," "," "," "," "," "," "," ",42
+" ","Very friable"," "," "," "," "," "," "," ",70
+" "," "," ",Medium," "," ",Weak,Coarse," ",5
+" "," "," "," "," "," "," "," "," ",1
+" ",Friable," "," ",Vertical," ",None,Fine," ",0
+Loose," "," "," ",Vertical," ",Moderate,Fine," ",5
+" ",Friable," "," ",Vertical," ",Weak,Fine," ",15
+" "," "," ",Fine,Vertical," "," ",Fine," ",32
+" "," "," ",Medium," "," ",Weak,Coarse," ",47
+" "," "," "," "," "," "," "," "," ",5
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",5
+" ",Friable," "," "," "," ",Weak,Fine," ",20
+" ","Very friable"," ",Fine," "," ",Weak,Fine," ",35
+" "," "," "," "," "," "," "," "," ",12
+" "," "," "," "," "," "," "," "," ",7
+" ",Friable," "," ",Horizontal," ",Weak,Fine," ",0
+" "," "," "," ",Horizontal," ",Weak,Fine," ",5
+" ",Firm," ",Coarse,Vertical," ",Moderate,Coarse," ",13
+" ",Firm," "," ",Vertical," ",Moderate,Medium," ",40
+" "," "," "," "," "," "," "," "," ",65
+" "," "," "," "," "," "," "," "," ",7
+" ",Loose," "," "," "," ",None," "," ",0
+" ",Friable," "," "," "," ",Weak,Coarse," ",20
+" "," "," "," "," "," ",Weak,Coarse," ",29
+" ","Very friable"," "," "," "," "," "," "," ",40
+" ","Very friable"," "," "," "," "," "," "," ",60
+" "," "," ",Medium," "," ",Weak,Coarse," ",7
+" "," "," "," "," "," "," "," "," ",1
+" "," "," "," "," "," ",Weak,Fine," ",0
+" "," "," "," "," "," ",Weak,Fine," ",7
+" "," "," ",Medium," "," ",Weak,Fine," ",15
+" "," "," ",Medium," "," "," ",Coarse," ",35
+" "," "," ",Medium," "," ",Weak,Coarse," ",50
+" "," "," ",Medium," "," ",None," "," ",15
+" ",Friable," "," "," "," ",None," "," ",0
+" ",Friable," "," "," "," ",None," "," ",12
+" ",Friable," "," "," "," ",Moderate,Medium," ",17
+" ",Friable," ",Medium," "," ",Weak,Medium," ",30
+" ",Friable," ",Medium," "," ",Weak," "," ",37
+" "," "," ",Medium," "," ",None," "," ",62
+" "," "," "," "," "," "," "," "," ",5
+" ",Friable," "," "," "," ",Weak,Coarse," ",0
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",6
+" ",Friable," "," "," "," ",Weak,Coarse," ",15
+" ",Friable," "," "," "," ",Weak,Fine," ",37
+" "," "," "," "," "," "," "," "," ",80
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," ",Horizontal," ",Weak,Fine," ",0
+" "," "," "," ",Horizontal," ",Strong,Fine," ",7
+" "," "," "," ",Vertical," ",Moderate,Fine," ",17
+" "," "," "," "," "," "," "," "," ",30
+" "," "," "," "," "," "," "," "," ",10
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Moderate,Fine," ",7
+" "," "," "," "," "," "," "," "," ",5
+" ",Firm," "," "," "," "," "," "," ",30
+" "," "," "," "," "," "," "," "," ",55
+" ",Firm," "," "," "," ",None," "," ",12
+" ",Friable," "," ",Vertical," ",Weak,Fine," ",0
+" ",Friable," "," ",Vertical," ",Weak,Fine," ",7
+" "," "," "," ",Vertical," ",Moderate,Medium," ",12
+" ",Firm," "," ",Vertical," ",None," "," ",17
+" ",Firm," "," ",Vertical," ",None," "," ",25
+" ",Firm," "," "," "," ",None," "," ",45
+" "," "," "," "," "," "," "," "," ",60
+" ",Loose," "," "," "," "," "," "," ",5
+" ",Loose," "," "," "," ",Weak,Coarse," ",0
+" ",Firm," "," "," "," ","Weak to moderate",Coarse," ",7
+" "," "," "," "," "," ",Strong," "," ",12
+" "," "," "," "," "," ",Weak," "," ",22
+" ",Firm," "," "," "," "," "," "," ",37
+" ",Loose," "," "," "," "," "," "," ",53
+" "," "," "," "," "," "," "," "," ",20
+" "," "," "," "," "," "," "," "," ",12
+" ",Firm," ",Fine,Vertical," ",Weak,Coarse," ",0
+" ",Firm," ",Coarse,Vertical," "," "," "," ",10
+" "," "," ",Medium," "," "," "," "," ",40
+" "," "," ",Fine," "," "," "," "," ",60
+" "," "," "," "," "," "," "," "," ",12
+" "," "," "," "," "," ",Weak,Fine," ",0
+" "," "," "," "," "," ",Moderate,Fine," ",12
+" "," "," "," "," "," ",Weak,Coarse," ",35
+" "," "," ",Medium," "," ",None," "," ",50
+" "," "," ",Medium," "," "," "," "," ",70
+" "," "," "," "," "," "," "," "," ",20
+" "," "," "," "," "," "," "," "," ",12
+" ",Firm," ",Fine,Vertical," ",Weak,Coarse," ",0
+" ",Firm," ",Coarse,Vertical," "," "," "," ",10
+" "," "," ",Medium," "," "," "," "," ",40
+" "," "," ",Fine," "," "," "," "," ",60
+" "," "," "," "," "," "," "," "," ",5
+" ",Friable," "," ",Vertical," ",Moderate,Fine," ",0
+Loose,Loose," "," ",Vertical," ",Moderate,Fine," ",5
+" ",Firm," "," ",Vertical," ",Weak,Medium," ",15
+" "," "," "," "," "," "," "," "," ",21
+" "," "," "," "," "," "," "," "," ",20
+" "," "," "," "," "," "," "," "," ",1
+Hard,Friable," "," "," "," ",Weak,Fine," ",0
+"Slightly hard",Friable," ",Fine," "," ",Weak," "," ",7
+Hard,"Very friable"," ",Medium," "," ",None," "," ",12
+Hard,Firm," ",Fine," "," ",None," "," ",37
+Hard,Firm," "," "," "," ",None," "," ",50
+" "," "," "," "," "," "," "," "," ",18
+" "," "," "," "," "," "," "," "," ",17
+"Slightly hard"," "," "," "," "," ",None," "," ",0
+Hard,Friable," ",Fine," "," ",None," "," ",1
+Hard,Firm," ",Fine," "," ",None," "," ",15
+Hard,Firm," "," "," "," ",None," "," ",50
+" "," "," "," "," "," "," "," "," ",7
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," "," "," "," ",1
+"Slightly hard",Friable," "," "," "," ",Weak,Fine," ",0
+Soft,Friable," "," "," "," ",Weak,Fine," ",5
+Soft,Friable," "," "," "," ",Weak,Fine," ",17
+" "," "," "," "," "," ",None," "," ",35
+Hard,"Very firm"," "," "," "," ",None," "," ",50
+" "," "," "," "," "," "," "," "," ",16
+" ",Firm," "," "," "," ",None," "," ",53
+" "," "," "," "," "," "," "," "," ",15
+"Slightly hard",Friable," "," "," "," ",Weak,Fine," ",0
+"Slightly hard"," "," ",Fine," "," "," ",Fine," ",8
+Soft,Friable," ",Fine," "," ",Weak,Medium," ",15
+"Slightly hard",Firm," ",Fine," "," ",Weak,Fine," ",20
+" ","Very firm"," "," "," "," ",Moderate,Fine," ",29
+" "," "," ",Medium," "," ",None," "," ",30
+" "," "," ",Medium," "," ",None," "," ",40
+" "," "," "," "," "," "," "," "," ",11
+" "," "," "," "," "," "," "," "," ",10
+"Slightly hard",Friable," "," "," "," "," ",Fine," ",0
+"Slightly hard",Friable," "," "," "," ",None," "," ",12
+Hard,Firm," "," "," "," ",None," "," ",20
+" "," "," ",Medium," "," ",Strong,Coarse," ",22
+" "," "," ",Fine," "," ",None," "," ",35
+" ",Loose," "," "," "," "," "," "," ",2
+" "," "," "," "," "," "," "," "," ",1
+" ","Very friable",Nonplastic," "," "," ",Weak,Fine," ",0
+Soft,Friable," "," "," "," ",Moderate,Fine," ",15
+"Slightly hard",Friable,Nonplastic," "," "," ",Moderate,Fine," ",20
+" "," "," ",Fine," "," ",None," "," ",40
+Hard,Firm," "," "," "," ",None," "," ",50
+" ",Loose," "," "," "," "," "," "," ",0
+" ",Loose," "," "," "," "," "," "," ",6
+" ",Loose," "," "," "," "," "," "," ",15
+" ",Loose," "," "," "," "," "," "," ",39
+" "," "," "," "," "," "," "," "," ",25
+" "," "," "," "," "," "," "," "," ",5
+"Slightly hard",Friable," ",Medium," "," ","Very weak",Fine," ",0
+"Slightly hard",Friable," ",Medium," "," ",Weak,Fine," ",10
+" "," "," ",Medium," "," "," "," "," ",17
+"Slightly hard",Friable," "," "," "," ",None," "," ",18
+" "," "," ",Coarse," "," ",None," "," ",35
+" "," "," ",Medium," "," ",None," "," ",50
+" "," "," "," "," "," "," "," "," ",3
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" "," "," "," "," "," "," "," "," ",14
+" "," "," "," "," "," ",Weak,Fine," ",15
+" "," "," "," "," "," ",Weak,Medium," ",21
+" ",Friable," "," "," "," "," "," "," ",26
+" ",Loose," "," "," "," "," "," "," ",6
+" ",Loose," "," "," "," "," "," "," ",5
+Soft,"Very friable"," "," "," "," ",Moderate,Fine," ",1
+Soft,Friable,Plastic," "," "," ",Moderate,Fine," ",0
+Soft,Friable," "," "," "," ",Moderate,Fine," ",6
+"Slightly hard",Friable," "," "," "," ",Moderate,Fine," ",10
+" "," "," "," "," "," ",Weak,Fine," ",35
+Hard,"Very firm"," ",Medium," "," ",None," "," ",40
+Hard,"Very friable"," "," "," "," ",None," "," ",60
+" "," "," "," "," "," "," "," "," ",7
+Soft,Friable," "," "," "," ",Weak,"Very fine"," ",0
+Soft,Friable," ",Medium," "," ",Weak,Fine," ",7
+Hard,Firm," ",Fine," "," ",Weak," "," ",25
+" "," "," ",Fine," "," ",None," "," ",33
+" ",Firm," "," "," "," ",None," "," ",100
+" "," "," "," "," "," "," "," "," ",51
+Hard," "," "," "," "," "," "," "," ",50
+Soft," "," "," "," "," "," "," "," ",1
+"Slightly hard",Friable," "," "," "," ",Weak,Fine," ",0
+Hard,Friable," ",Medium," "," ",Weak,Fine," ",15
+" "," "," "," "," "," ",None," "," ",40
+" "," "," "," "," "," ",None," "," ",41
+Hard,Firm," ",Medium," "," ",None," "," ",42
+"Slightly hard",Firm," "," "," "," ",None," "," ",57
+" "," "," "," "," "," "," "," "," ",2
+" ",Loose," "," "," "," "," "," "," ",0
+" ",Loose," "," "," "," "," "," "," ",4
+" ",Friable," "," "," "," ",None," "," ",17
+" ",Friable," "," "," "," ",None," "," ",28
+" "," "," "," "," "," "," "," "," ",1
+" "," "," "," "," "," ",None," "," ",0
+" "," "," "," "," "," ",None," "," ",7
+" "," "," "," "," "," ",None," "," ",25
+" "," "," "," "," "," "," "," "," ",6
+" "," "," ",Fine," "," ",None," "," ",40
+" "," "," "," "," "," "," "," "," ",60
+" "," "," "," "," "," "," "," "," ",5
+Soft,Loose," "," "," "," ",None,Fine," ",0
+" ",Friable,Slightly," "," "," ",Weak,Fine," ",5
+"Slightly hard",Friable," "," "," "," ",None," "," ",10
+Hard,Firm," ",Fine," "," ",None," "," ",17
+" ",Firm," ",Fine," "," ",None," "," ",33
+Hard," "," "," "," "," "," "," "," ",37
+" "," "," "," "," "," "," "," "," ",38
+" "," "," "," "," "," "," "," "," ",15
+"Slightly hard","Very friable"," ",Fine," "," ",None," "," ",0
+Hard,Friable," ",Medium," "," ",None," "," ",7
+" "," "," "," "," "," "," "," "," ",20
+Hard,Firm," ",Medium," "," "," "," "," ",21
+Hard,"Very firm"," ",Fine," "," ",None," "," ",30
+" "," "," "," "," "," "," "," "," ",15
+" ",Firm," "," "," "," ",None," "," ",58
+" ",Friable," "," "," "," ",Moderate,Medium," ",0
+" ",Friable," "," "," "," ",Moderate,Fine," ",4
+" ",Friable," "," "," "," ",Moderate,Fine," ",8
+" "," "," "," "," "," ",None," "," ",22
+" "," "," "," "," "," ",None," "," ",23
+" ","Very firm"," "," "," "," ",None," "," ",24
+" "," "," "," "," "," ",None," "," ",35
+" "," "," "," "," "," ",None," "," ",50
+" "," "," "," "," "," "," "," "," ",2
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Weak,Medium," ",3
+" ","Very friable"," "," "," "," ",Weak,Medium," ",6
+" ","Very firm"," "," "," "," ",Moderate,Fine," ",11
+" ",Firm," "," "," "," ",None," "," ",17
+" "," "," "," "," "," ",None," "," ",25
+Soft,Friable," "," ",Vertical," ",Moderate,Medium," ",0
+"Slightly hard",Friable," "," ",Vertical," ",Weak,Fine," ",15
+Hard,"Very firm"," "," "," "," ",None," "," ",46
+" "," "," "," "," "," "," "," "," ",12
+" "," "," "," "," "," "," "," "," ",7
+Soft,"Very friable",Nonplastic," "," "," ",Weak,Medium," ",0
+Soft,"Very friable",Nonplastic,Coarse," "," ",Weak,Medium," ",10
+"Very hard","Very firm",Nonplastic," "," "," ",Strong,Coarse," ",14
+Hard,Firm,Nonplastic," "," "," ",Weak,Coarse," ",36
+"Slightly hard",Friable,Nonplastic," "," "," ",Moderate," "," ",45
+" "," "," "," "," "," "," "," "," ",14
+Soft,"Very friable",Nonplastic," "," "," ",Weak,Medium," ",0
+Soft,"Very friable",Nonplastic,Coarse," "," ",Moderate,Medium," ",5
+"Very hard","Very firm",Nonplastic," "," "," ",Strong," "," ",25
+Hard,Firm,Nonplastic," "," "," ","Moderate to strong"," "," ",36
+" "," "," "," ",Horizontal," "," "," "," ",5
+"Slightly hard",Friable,"Very plastic"," ",Horizontal," ",Moderate,Medium," ",0
+"Slightly hard",Friable,Plastic,Coarse,Horizontal," ",Weak,Coarse," ",2
+Soft," "," "," "," "," ",Weak,Fine," ",0
+Soft," "," "," "," "," ",Moderate,Medium," ",3
+" ",Firm," "," "," "," ",Strong," "," ",9
+" ",Friable," "," "," "," "," ",Fine," ",14
+" "," "," "," ",Horizontal," "," "," "," ",22
+" "," "," "," ",Horizontal," "," "," "," ",20
+" "," "," "," ",Random," "," "," "," ",7
+"Slightly hard",Friable,Nonplastic," ",Random," ",None," "," ",0
+"Slightly hard",Friable,Nonplastic,Coarse,Random," ",None," "," ",2
+"Slightly hard",Friable,Nonplastic,Coarse,Random," ",None," "," ",18
+"Slightly hard",Friable,Nonplastic,Coarse,Random," ",None," "," ",38
+Hard,Firm,Nonplastic,Medium," "," ",Weak," "," ",62
+" "," "," "," ",Horizontal," "," "," "," ",6
+Soft,"Very friable",Nonplastic,Fine,Random," ",Weak,Medium," ",0
+Soft,Friable,Nonplastic,Medium,Random," ",Weak,Medium," ",3
+Hard,Firm,Slightly,Coarse," "," "," "," "," ",17
+Hard,Firm,Slightly,Medium," "," "," "," "," ",25
+" "," "," "," ",Horizontal," "," "," "," ",8
+Soft,"Very friable",Nonplastic,Medium,Horizontal," ",Weak,"Fine to medium"," ",0
+Soft,"Very friable",Nonplastic,Medium,Horizontal," ",Weak,"Fine to medium"," ",10
+Soft,"Very friable",Nonplastic," "," "," ",Weak,Fine," ",38
+Soft,"Very friable",Nonplastic," "," "," ",Weak,Fine," ",60
+"Slightly hard","Very friable",Nonplastic," "," "," ","Weak to moderate"," "," ",75
+" "," "," "," ",Horizontal," "," "," "," ",5
+Soft,"Very friable",Nonplastic," ",Horizontal," ",Weak,"Fine to medium"," ",0
+Soft,"Very friable",Nonplastic," ",Horizontal," ",Weak,Fine," ",9
+"Slightly hard",Friable,Nonplastic," ",Horizontal," ","Weak to moderate","Very fine to fine"," ",24
+"Slightly hard",Friable,Nonplastic,Medium,Vertical," ",Weak,Medium," ",38
+Hard,Firm,Nonplastic,Medium," "," ","Moderate to strong",Coarse," ",66
+" "," "," "," "," "," "," "," "," ",10
+Soft,"Very friable",Nonplastic," "," "," ","Very weak","Very fine to fine"," ",0
+"Slightly hard",Friable,Nonplastic," "," "," ",Weak,Coarse," ",2
+Hard,Firm,Nonplastic,Medium," "," ",None,Coarse," ",27
+" "," "," "," "," "," ",None," "," ",38
+" "," "," "," ",Random," "," "," "," ",12
+Hard,Firm,"Very plastic"," ",Random," ","Weak to moderate","Fine to medium"," ",0
+"Slightly hard"," ",Slightly," ",Random," ",Weak," "," ",7
+"Slightly hard","Very friable",Plastic," ",Random," ",Weak," "," ",15
+" "," "," "," "," "," "," "," "," ",5
+"Slightly hard",Friable,Slightly," ",Random," ","Weak to moderate","Fine to medium"," ",0
+"Slightly hard",Friable,Slightly," ",Random," ","Weak to moderate","Fine to medium"," ",12
+Soft,"Very friable"," ",Fine,Random," ","Very weak",Fine," ",25
+" "," "," "," ",Random," "," "," "," ",5
+Soft,"Very friable",Nonplastic," ",Random," ","Very weak",Fine," ",0
+"Slightly hard",Friable,Slightly," ",Random," ",Weak,Fine," ",6
+"Slightly hard",Friable,Plastic," ",Random," ","Very weak",Fine," ",20
+"Very hard",Firm,Plastic,Fine,Random," ","Very weak",Fine," ",30
+Soft," "," "," "," "," ",Weak,Fine," ",0
+Soft," "," "," "," "," ",Weak,Medium," ",2
+" ",Friable," "," "," "," ",Weak,Medium," ",6
+" ",Friable," "," "," "," ",Moderate,Medium," ",8
+" ",Friable," "," "," "," "," "," "," ",14
+" ",Friable," "," "," "," "," "," "," ",21
+"Slightly hard","Very friable",Slightly," ",Random," ","Very weak","Very fine to fine"," ",0
+"Slightly hard","Very friable",Slightly," ",Random," ","Very weak",Fine," ",20
+"Slightly hard",Friable,Slightly," "," "," ",Weak,Fine," ",40
+"Slightly hard",Friable,Slightly," "," "," ","Very weak",Fine," ",72
+Loose,Loose,Slightly," ",Random," ",Weak,Fine," ",0
+Soft,"Very friable",Slightly," ",Random," ",Weak,Fine," ",9
+" "," ",Slightly," ",Random," ",Weak,Fine," ",32
+" "," "," "," ",Random," ",None," "," ",44
+" "," "," "," ",Random," "," "," "," ",12
+" ",Loose,Nonplastic," ",Random," ",None," "," ",0
+" ",Firm,Nonplastic," ",Random," ","Very weak",Fine," ",10
+" ","Very firm",Nonplastic," ",Random," ",None," "," ",18
+" ",Firm,Nonplastic," "," "," ",None," "," ",30
+" ",Loose,Nonplastic," "," "," ",None," "," ",50
+" "," "," "," ",Random," "," "," "," ",10
+Loose,Loose,Nonplastic,Medium,Random," ",None," "," ",0
+Soft,"Very friable",Nonplastic,Coarse,Random," ",Weak,Fine," ",10
+Soft,"Very friable",Nonplastic,Coarse,Random," ",Weak,Fine," ",20
+" "," "," "," ",Random," "," "," "," ",4
+Soft,"Very friable",Slightly," ",Random," ","Very weak",Fine," ",0
+"Slightly hard",Friable,Slightly," ",Random," ",Weak,Fine," ",6
+"Slightly hard","Very friable",Slightly," ",Random," ",Weak,Fine," ",21
+Loose,Loose,Nonplastic," "," "," "," "," "," ",35
+" "," "," "," ",Random," "," "," "," ",20
+Loose,Loose,Nonplastic,Medium,Random," ",None," "," ",0
+Soft,Loose,Nonplastic,Coarse,Random," ",None," "," ",5
+"Slightly hard",Friable,Slightly," ",Random," ",Weak,Fine," ",9
+Hard,Firm,Slightly,Fine,Random," "," ",Medium," ",17
+Extreme,"Very firm",Nonplastic,Fine," "," ","Moderate to strong",Medium," ",33
+Soft,Loose,Nonplastic,Fine," "," ",None," "," ",45
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," "," "," "," ",0
+" "," "," ",Medium," "," "," "," "," ",12
+" "," "," "," "," "," "," "," "," ",1
+" ",Loose," "," "," "," ",Weak," "," ",0
+" ",Loose," "," "," "," ",Weak," "," ",1
+Soft," "," "," "," "," ",None," "," ",3
+" ",Friable," "," "," "," "," "," "," ",7
+" ","Very friable"," "," "," "," ",Weak," "," ",11
+" ",Loose," "," "," "," "," "," "," ",26
+" "," "," "," ",Horizontal," "," "," "," ",10
+" "," "," "," ",Horizontal," "," "," "," ",5
+" ",Friable," "," ",Horizontal," ",Weak,Fine," ",0
+" ","Very friable"," ",Coarse,Horizontal," ",None,Coarse," ",3
+" ",Friable," ",Coarse,Horizontal," ",None,Medium," ",33
+" ",Firm," ",Coarse," "," ",Moderate,"Medium to coarse"," ",45
+" "," "," "," ",Horizontal," "," "," "," ",4
+" "," "," "," ",Horizontal," "," "," "," ",1
+Soft,"Very friable",Slightly," ",Random," ",None," "," ",0
+Soft,"Very friable",Nonplastic," ",Oblique," ","Very weak","Medium to coarse"," ",2
+Soft,"Very friable",Nonplastic," ",Oblique," ","Very weak","Medium to coarse"," ",14
+Loose,Loose,Nonplastic," "," "," ",None," "," ",34
+" "," "," "," ",Oblique," "," "," "," ",11
+"Slightly hard",Friable,Slightly,Medium,Oblique," ","Weak to moderate","Fine to medium"," ",0
+" "," "," "," "," "," "," "," "," ",8
+Soft,Friable," "," "," "," "," "," "," ",0
+"Slightly hard",Friable," ",Medium," "," ",Weak," "," ",20
+Hard,Firm," ",Medium," "," ",Moderate,Coarse," ",45
+Hard,Firm," "," "," "," ","Weak to moderate",Medium," ",60
+" "," "," "," ",Horizontal," "," "," "," ",5
+"Slightly hard",Friable,Plastic," "," "," ",Weak,Medium," ",0
+Soft,Friable,Plastic," "," "," "," "," "," ",1
+"Slightly hard",Friable,Plastic," "," "," "," "," "," ",15
+Soft,Friable,Plastic," "," "," "," "," "," ",40
+Soft,Friable,Slightly," "," "," "," "," "," ",65
+" "," "," "," "," "," "," "," "," ",10
+Hard,Firm,Plastic," "," "," ",Weak,"Fine to medium"," ",0
+" ",Friable,Slightly,Coarse," "," ",Weak,"Fine to medium"," ",10
+"Very hard",Firm," ",Coarse," "," ","Moderate to strong","Medium to coarse"," ",25
+" "," "," "," "," "," "," "," "," ",5
+Soft,Friable," "," "," "," ",Weak,Fine," ",0
+Soft,Friable,Plastic," "," "," "," ",Fine," ",3
+Soft,Friable,Plastic," "," "," "," "," "," ",20
+" "," "," "," "," "," "," "," "," ",45
+" "," "," "," ",Random," "," "," "," ",4
+Soft,Friable,Nonplastic," ",Random," ","Weak to moderate","Fine to medium"," ",0
+Extreme,Firm,Nonplastic," ",Random," ","Weak to moderate",Coarse," ",10
+Loose,Firm,Nonplastic," ",Random," ","Weak to moderate"," "," ",22
+Loose,Loose,Nonplastic," ",Random," ",None,"Very fine"," ",37
+" "," "," "," "," "," "," "," "," ",3
+" "," "," "," "," "," "," "," "," ",0
+Soft,Friable," "," "," "," "," ",Fine," ",1
+Soft,Friable," ",Medium," "," "," "," "," ",15
+" "," "," ",Medium," "," "," "," "," ",35
+" "," "," "," "," "," "," "," "," ",10
+Soft,"Very friable",Nonplastic," "," "," ",Weak,"Fine to medium"," ",0
+"Slightly hard",Friable,Nonplastic," "," "," ","Weak to moderate","Medium to coarse"," ",10
+Extreme,"Very firm",Nonplastic," "," "," ",Strong," "," ",17
+"Very hard",Firm,Nonplastic," "," "," ","Moderate to strong"," "," ",32
+Loose,Loose,Nonplastic," "," "," ",None," "," ",52
+"Very hard",Firm,Plastic," "," "," ",Moderate,Coarse," ",0
+"Slightly hard",Friable,Slightly," "," "," ",Weak,"Fine to medium"," ",12
+Soft,"Very friable",Plastic," "," "," ",Weak,Fine," ",15
+"Slightly hard","Very friable",Plastic," "," "," ",Weak,Fine," ",35
+" "," "," "," "," "," "," "," "," ",50
+" "," "," "," "," "," "," "," "," ",13
+Loose,"Very friable"," "," "," "," ","Very weak",Fine," ",0
+Soft,Friable,Slightly," "," "," ","Very weak",Fine," ",3
+Soft,"Very friable",Slightly," "," "," ","Very weak",Fine," ",15
+" ","Very friable",Slightly," "," "," ","Very weak",Fine," ",40
+" "," "," "," "," "," "," "," "," ",3
+Loose,Loose," "," "," "," ",None," "," ",0
+Loose,Loose," "," "," "," ",None," "," ",11
+Loose,Loose," "," "," "," ",None," "," ",16
+Loose,Loose," "," "," "," ",None," "," ",39
+Loose,Loose," "," "," "," ",None," "," ",53
+" "," "," "," ",Random," "," "," "," ",0
+Soft,Friable,Slightly," ",Random," ",Weak,Fine," ",5
+Soft,"Very friable",Slightly," ",Random," ","Weak to moderate",Medium," ",12
+Soft,Friable,Nonplastic," "," "," "," "," "," ",32
+" "," "," "," "," "," "," "," "," ",8
+"Slightly hard",Friable,Slightly," "," "," ",Weak,Fine," ",0
+Hard,Firm,Plastic," "," "," ",Moderate,"Fine to medium"," ",8
+Hard,Firm,Plastic," "," "," ",Moderate,Fine," ",13
+"Very hard",Firm,Plastic," "," "," ",Weak,Fine," ",25
+Hard,Firm,Plastic," "," "," ",None," "," ",51
+Hard,Firm,Plastic," "," "," ",None," "," ",59
+" "," "," "," ",Vertical," "," "," "," ",0
+"Slightly hard",Friable," "," ",Vertical," ",Weak,"Fine to medium"," ",2
+"Slightly hard",Firm," "," ",Vertical," ",Weak,"Medium to coarse"," ",9
+" ",Loose," "," ",Vertical," ","Very weak","Medium to coarse"," ",37
+" "," "," "," "," "," "," "," "," ",7
+Hard,Friable,Plastic," ",Random," ",Weak,Coarse," ",0
+"Slightly hard",Friable,Nonplastic," ",Random," ",Moderate,Coarse," ",10
+" "," "," "," ",Horizontal," ",Weak,Coarse," ",22
+"Slightly hard",Friable,Nonplastic," ",Random," ",Weak,"Medium to coarse"," ",34
+" "," "," "," "," "," "," "," "," ",6
+Hard,Friable,Slightly," ",Random," ",Weak,"Fine to medium"," ",0
+Hard,Firm,Slightly," ",Random," ",Weak,"Fine to medium"," ",2
+"Slightly hard","Very friable",Nonplastic," ",Random," ",Weak,"Fine to medium"," ",14
+"Slightly hard",Friable,Nonplastic," "," "," ",Weak,"Fine to medium"," ",28
+" "," "," "," ",Random," "," "," "," ",20
+"Very hard",Firm,Slightly," ",Random," ",Moderate,"Medium to coarse"," ",0
+"Slightly hard",Friable,Plastic," ",Random," ",Moderate,Coarse," ",7
+Hard,"Very friable",Nonplastic," "," "," ",Weak,Coarse," ",23
+Soft,Friable,Plastic," ",Random," ",Weak,Medium," ",0
+Soft,"Very friable",Nonplastic," ",Random," ",Weak,"Fine to medium"," ",8
+" "," "," "," ",Random," "," "," "," ",11
+" "," "," "," ",Random," ",Weak,Medium," ",22
+Soft,"Very friable",Slightly," ",Vertical," ","Very weak",Fine," ",24
+"Slightly hard",Friable,Slightly," ",Vertical," ",Moderate,Medium," ",29
+" "," "," "," ",Random," "," "," "," ",5
+" "," "," "," ",Random," "," "," "," ",0
+"Slightly hard","Very friable",Nonplastic," ",Vertical," ","Very weak",Fine," ",1
+"Slightly hard","Very friable",Slightly," ",Vertical," ","Very weak",Medium," ",11
+"Slightly hard",Friable,Slightly," "," "," ","Very weak",Medium," ",41
+" "," "," "," ",Random," "," "," "," ",5
+" "," "," "," ",Random," "," "," "," ",0
+Hard,"Very friable",Nonplastic," ",Random," ","Very weak","Fine to medium"," ",2
+Hard,"Very friable",Nonplastic," ",Random," ",Weak,"Medium to coarse"," ",12
+Hard,"Very friable",Nonplastic," "," "," ",Weak,"Fine to medium"," ",18
+" "," "," "," ",Vertical," "," "," "," ",7
+Hard,Friable,Slightly," ",Vertical," ","Very weak",Coarse," ",0
+"Slightly hard",Friable,Slightly," ",Horizontal," ",Weak,Coarse," ",5
+"Slightly hard","Very friable",Nonplastic," ",Horizontal," ","Very weak",Coarse," ",12
+"Slightly hard","Very friable",Nonplastic," "," "," ","Very weak",Coarse," ",35
+" "," "," "," "," "," "," "," "," ",7
+Hard,"Very friable",Nonplastic," ",Vertical," ","Very weak",Coarse," ",0
+Hard,Firm,Slightly," ",Horizontal," ","Very weak","Medium to coarse"," ",8
+"Slightly hard","Very friable",Nonplastic," ",Horizontal," ","Weak to moderate",Coarse," ",16
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",8
+" "," "," "," "," "," "," "," "," ",38
+"Very hard",Friable," "," ",Vertical," ",Moderate,Coarse," ",47
+" "," "," "," ",Random," "," "," "," ",5
+Soft,"Very friable",Nonplastic," ",Random," ",Weak,Fine," ",0
+Soft,"Very friable",Nonplastic,Fine,Random," ",Weak,"Medium to coarse"," ",19
+"Slightly hard","Very friable",Nonplastic," ",Vertical," ",Moderate,Medium," ",0
+"Slightly hard","Very friable",Nonplastic," ",Vertical," ",Moderate,"Fine to medium"," ",7
+Soft,"Very friable",Nonplastic," ",Vertical," ",Moderate,"Fine to medium"," ",33
+"Slightly hard",Friable,Nonplastic," ",Vertical," ",Weak,Coarse," ",58
+" "," "," "," ",Random," "," "," "," ",18
+Hard,Friable,Nonplastic," ",Random," ","Very weak","Medium to coarse"," ",0
+" ","Very friable"," "," ",Random," ","Very weak",Medium," ",15
+" ",Loose,Nonplastic," "," "," "," "," "," ",27
+"Slightly hard",Friable,Slightly," "," "," ",Moderate,Medium," ",0
+" "," "," "," "," "," "," "," "," ",20
+Soft,"Very friable",Nonplastic," "," "," ","Weak to moderate",Medium," ",23
+Hard,Friable,Slightly," "," "," ","Weak to moderate",Medium," ",33
+"Slightly hard",Friable,Slightly," "," "," ",Strong,Medium," ",45
+" "," "," "," "," "," "," "," "," ",15
+"Slightly hard","Very friable",Nonplastic," "," "," ",Weak,"Medium to coarse"," ",0
+Soft,"Very friable",Nonplastic," "," "," ",Moderate,"Medium to coarse"," ",5
+Soft,"Very friable",Nonplastic," "," "," ",Weak,"Medium to coarse"," ",12
+"Slightly hard",Friable,Nonplastic," "," "," ",Moderate,Coarse," ",22
+" "," "," "," "," "," "," "," "," ",34
+"Slightly hard",Friable,Nonplastic," "," "," ","Moderate to strong",Medium," ",0
+Soft,Friable,Nonplastic," "," "," ","Weak to moderate",Medium," ",12
+Soft,"Very friable",Nonplastic," "," "," ",Moderate,"Fine to medium"," ",20
+Soft,"Very friable",Nonplastic," "," "," ",Moderate,Fine," ",45
+" "," "," "," "," "," "," "," "," ",14
+"Slightly hard",Friable,Plastic," "," "," ",Weak,Medium," ",0
+"Slightly hard",Friable,Slightly," "," "," ",Weak,"Medium to coarse"," ",6
+"Slightly hard",Friable,Nonplastic," "," "," ","Weak to moderate","Medium to coarse"," ",18
+Soft,"Very friable",Slightly," "," "," ",Weak,"Medium to coarse"," ",28
+" "," "," "," "," "," "," "," "," ",18
+" "," "," "," "," "," ",Weak,Medium," ",0
+" "," "," "," "," "," ",Weak,"Medium to coarse"," ",2
+"Slightly hard",Friable,Slightly," "," "," ",Weak,Medium,Coarse,16
+"Slightly hard","Very friable",Nonplastic," "," "," ",Weak,Coarse," ",36
+" "," "," "," "," "," "," "," "," ",15
+"Slightly hard",Friable,Plastic," "," "," ",Moderate,"Medium to coarse"," ",0
+"Slightly hard",Friable,Slightly," "," "," ",Moderate,Medium," ",12
+"Slightly hard",Friable,Slightly," "," "," ",Moderate,Medium," ",27
+"Slightly hard","Very friable",Slightly," "," "," ",Strong,"Medium to coarse"," ",42
+" "," "," "," "," "," "," "," "," ",10
+Soft,"Very friable",Nonplastic," "," "," ",Moderate,Medium," ",0
+Soft,"Very friable",Slightly," "," "," ",Moderate,"Fine to medium"," ",12
+"Slightly hard",Friable,Nonplastic," "," "," ","Weak to moderate",Fine," ",35
+Soft,Friable,Nonplastic," "," "," ",Moderate,Coarse," ",54
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",10
+Hard,Friable,Plastic," "," "," ",Strong,"Medium to coarse"," ",12
+"Very hard",Friable,Plastic," "," "," ","Moderate to strong","Fine to medium"," ",30
+"Very hard",Friable,Plastic," "," "," ","Moderate to strong","Fine to medium"," ",46
+Soft,"Very friable",Slightly," "," "," ",Moderate,Medium," ",0
+" "," "," "," "," "," ",Weak,Medium," ",16
+"Slightly hard",Friable,Slightly," "," "," ",Weak,"Fine to medium"," ",19
+" ",Loose,Nonplastic,Fine," "," ",Weak,Fine," ",37
+Loose," ",Nonplastic," "," "," "," "," "," ",48
+Soft,"Very friable",Nonplastic," ",Random," ","Weak to moderate","Fine to medium"," ",0
+"Slightly hard",Friable,Slightly," "," "," ","Weak to moderate",Coarse," ",7
+Soft,"Very friable",Nonplastic," ",Random," ",Weak,"Medium to coarse"," ",15
+Soft,"Very friable",Nonplastic," ",Random," ",Weak,"Medium to coarse"," ",25
+Soft,"Very friable",Nonplastic," ",Random," ",Moderate,Coarse," ",37
+"Very hard","Very firm",Nonplastic," "," "," ",Strong,"Fine to medium"," ",54
+Extreme," "," "," "," "," "," "," "," ",6
+" ",Friable,Nonplastic," ",Random," ",Weak,Coarse," ",0
+"Slightly hard","Very friable",Nonplastic," ",Random," ","Very weak",Medium," ",4
+"Slightly hard","Very friable",Nonplastic," ",Random," ","Very weak",Medium," ",32
+"Slightly hard","Very friable",Nonplastic," ",Random," ",Moderate,Medium," ",46
+" "," "," "," ",Horizontal," "," "," "," ",18
+"Slightly hard","Very friable",Nonplastic," ",Horizontal," ","Very weak","Medium to coarse"," ",0
+" "," "," "," "," "," "," "," "," ",12
+"Slightly hard","Very friable",Slightly,Fine," "," ","Weak to moderate","Medium to coarse"," ",0
+" "," "," "," ",Random," "," "," "," ",13
+Soft,"Very friable",Nonplastic," ",Random," ","Very weak","Medium to coarse"," ",0
+Soft,"Very friable",Nonplastic," ",Random," ","Very weak","Fine to medium"," ",12
+" "," "," "," ",Random," "," "," "," ",4
+"Slightly hard",Friable,Slightly," ",Random," ",Weak,Coarse,Coarse,0
+Soft,"Very friable",Nonplastic," ",Horizontal," ","Very weak","Medium to coarse"," ",10
+"Slightly hard",Friable,Nonplastic," ",Horizontal," ",Weak,Coarse,Coarse,22
+"Slightly hard",Friable,Nonplastic," ",Random," ",Weak,Coarse,Coarse,31
+" "," "," "," "," "," ",Weak,Fine," ",0
+"Slightly hard",Friable,Slightly," "," "," ","Very weak","Very fine"," ",9
+Soft,"Very friable",Nonplastic," "," "," ","Weak to moderate",Fine," ",17
+" ",Loose,Nonplastic," "," "," "," "," "," ",46
+" ",Loose,Nonplastic," "," "," "," "," "," ",54
+" "," "," "," "," "," "," "," "," ",10
+"Slightly hard","Very friable",Nonplastic," "," "," ",Moderate,Fine," ",0
+"Slightly hard","Very friable",Nonplastic," "," "," ",Moderate,"Fine to medium"," ",7
+Soft,"Very friable",Nonplastic," "," "," ",Moderate,Fine," ",22
+" ",Loose,Nonplastic," "," "," "," "," "," ",30
+" "," "," "," "," "," "," "," "," ",10
+" "," "," "," "," "," ","Very weak",Fine," ",0
+Soft,Friable,Nonplastic," "," "," ","Very weak","Fine to medium"," ",4
+"Slightly hard",Friable,Nonplastic," "," "," ",Weak,Medium," ",16
+"Slightly hard",Friable,Slightly," "," "," ",Weak,Coarse," ",27
+"Very hard","Very firm",Slightly," "," "," ","Moderate to strong",Coarse," ",38
+"Slightly hard",Friable,Nonplastic," "," "," ",Moderate,Medium," ",0
+"Slightly hard",Friable,Nonplastic,Coarse," "," ",Moderate,"Medium to coarse"," ",4
+"Slightly hard","Very friable",Nonplastic,Medium," "," ",Weak,"Medium to coarse"," ",18
+" "," "," ",Medium," "," "," "," "," ",34
+" "," "," "," "," "," "," "," "," ",9
+Soft,"Very friable",Nonplastic," "," "," ",Moderate,Medium," ",0
+Soft,"Very friable",Nonplastic," "," "," ",Weak,Medium," ",5
+Soft,"Very friable",Nonplastic," "," "," ",Weak,Medium," ",29
+Soft,"Very friable",Nonplastic," "," "," ",Moderate,"Medium to coarse"," ",50
+" ",Loose,Nonplastic," "," "," "," "," "," ",67
+" "," "," "," ",Vertical," "," "," "," ",9
+Soft,"Very friable",Nonplastic," ",Vertical," ","Very weak","Fine to medium"," ",0
+Soft,"Very friable",Nonplastic," ",Vertical," ","Very weak","Fine to medium"," ",1
+" ",Loose,Nonplastic," ",Vertical," "," "," "," ",25
+" ",Loose,Nonplastic," "," "," "," "," "," ",40
+" "," "," "," "," "," "," "," "," ",8
+Soft,"Very friable",Nonplastic," "," "," ",Weak,Coarse,Coarse,0
+Soft,"Very friable",Nonplastic," "," "," ","Very weak","Fine to medium"," ",8
+Soft,"Very friable",Nonplastic," "," "," ",Weak,Coarse,Coarse,14
+" "," "," "," "," "," "," "," "," ",21
+" "," "," "," ",Oblique," "," "," "," ",7
+Soft,"Very friable",Nonplastic," ",Oblique," ","Weak to moderate",Medium," ",0
+Soft,"Very friable",Nonplastic," ",Oblique," ",Weak,Medium," ",9
+"Slightly hard",Friable,Nonplastic," ",Horizontal," ","Moderate to strong",Medium," ",33
+"Slightly hard",Friable,Nonplastic," "," "," ","Moderate to strong","Medium to coarse"," ",47
+Hard,Firm,Nonplastic," "," "," ","Moderate to strong","Medium to coarse"," ",77
+Soft,"Very friable",Nonplastic," ",Oblique," ",Weak,"Very fine to fine"," ",0
+Soft,"Very friable",Nonplastic," ",Oblique," ",Weak,"Fine to medium"," ",30
+"Very hard","Very firm",Nonplastic," ",Horizontal," ",Weak,"Fine to medium"," ",44
+Rigid,"Very firm",Nonplastic," "," "," ",Weak,"Fine to medium"," ",52
+" "," "," "," "," "," "," "," "," ",6
+Hard,Friable,Nonplastic," "," "," ",Weak,Coarse,Coarse,0
+Soft,"Very friable",Nonplastic," "," "," ",Weak,Coarse," ",7
+Soft,"Very friable",Nonplastic," "," "," ",Weak,Coarse," ",21
+Soft,"Very friable",Nonplastic," "," "," ","Very weak",Coarse," ",34
+" "," "," "," "," "," "," "," "," ",5
+Soft,"Very friable",Slightly," "," "," ",Moderate,Fine," ",0
+"Slightly hard",Friable,Plastic," "," "," ",Weak,Fine," ",5
+"Very hard",Friable,Plastic," "," "," ",Moderate,Fine," ",28
+Hard,Friable,Plastic," "," "," ",Moderate,Fine," ",48
+Hard,Friable,Plastic," "," "," ",None," "," ",71
+Hard,Friable,Plastic," "," "," ",None," "," ",102
+" "," "," "," "," "," "," "," "," ",7
+Soft,Friable,Nonplastic," "," "," ",Moderate,Medium," ",0
+Soft,Friable,Nonplastic," "," "," ",Weak,"Medium to coarse"," ",2
+"Slightly hard","Very friable",Nonplastic," "," "," ",Moderate,"Medium to coarse"," ",10
+Soft,"Very friable",Nonplastic," "," "," ",Moderate,"Medium to coarse"," ",14
+Loose,"Very friable",Nonplastic," "," "," ",Weak,"Medium to coarse"," ",23
+" "," "," "," "," "," "," "," "," ",15
+"Slightly hard",Friable,Nonplastic," "," "," ",Weak,Medium," ",0
+Soft,"Very friable",Nonplastic," "," "," ",Weak,"Medium to coarse"," ",7
+"Slightly hard",Friable,Nonplastic," "," "," ",Moderate,"Medium to coarse"," ",24
+"Slightly hard",Friable,Nonplastic," "," "," ",Moderate,"Medium to coarse"," ",39
+" "," "," "," "," "," "," "," "," ",10
+"Slightly hard",Friable,Nonplastic,Medium," "," ",Weak,Coarse," ",0
+Soft,"Very friable",Nonplastic," ",Horizontal," ",Weak,Coarse," ",16
+" "," "," "," "," "," "," "," "," ",6
+Hard,Friable,Nonplastic," ",Vertical," ",Moderate,Medium," ",0
+Soft,"Very friable",Nonplastic," ",Horizontal," ",Weak,"Medium to coarse"," ",5
+Soft,"Very friable",Nonplastic," "," "," ",Weak,"Medium to coarse"," ",15
+" "," "," "," "," "," "," "," "," ",10
+"Slightly hard",Friable,Nonplastic," "," "," ",Weak,"Medium to coarse"," ",0
+Hard,Friable,Nonplastic," "," "," ",Weak,"Medium to coarse"," ",9
+Soft,"Very friable",Nonplastic,Coarse," "," ",Weak,"Fine to medium"," ",26
+Soft,"Very friable",Nonplastic,Fine," "," ",Weak,"Fine to medium"," ",45
+" "," "," "," "," "," "," "," "," ",10
+"Slightly hard","Very friable",Nonplastic," "," "," ",Weak,"Fine to medium"," ",0
+"Slightly hard","Very friable",Nonplastic," "," "," ",Weak,"Medium to coarse"," ",7
+Soft,"Very friable",Nonplastic," "," "," ",Weak,"Fine to medium"," ",21
+Soft,"Very friable",Nonplastic," "," "," ",Weak,"Fine to medium"," ",36
+" "," "," "," "," "," "," "," "," ",8
+Soft,"Very friable"," "," "," "," ","Weak to moderate",Fine," ",0
+Hard,Firm," "," "," "," ",Moderate,Fine," ",20
+"Very hard","Very firm"," "," "," "," ",Weak,Medium," ",36
+Hard,Friable," "," "," "," ",Weak,Medium," ",69
+" "," "," "," "," "," "," "," "," ",86
+" "," "," "," "," "," "," "," "," ",5
+Loose,Loose,Nonplastic," "," "," "," "," "," ",0
+Loose,Loose,Nonplastic," "," "," "," "," "," ",8
+Loose,Loose,Nonplastic," "," "," "," "," "," ",33
+Loose,Loose,Nonplastic," "," "," "," "," "," ",51
+Loose,Loose,Nonplastic," "," "," "," "," "," ",76
+Loose,"Very friable",Nonplastic," "," "," "," "," "," ",102
+" "," "," "," "," "," "," ",Medium,Coarse,0
+" "," "," "," "," "," "," ",Fine," ",20
+" "," "," "," "," "," "," ",Fine," ",30
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",20
+" "," "," "," "," "," "," "," "," ",50
+" "," "," "," "," "," "," "," "," ",80
+" "," "," "," "," "," "," "," "," ",105
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",20
+" "," "," "," "," "," "," "," "," ",40
+" "," "," "," "," "," "," "," "," ",220
+" "," "," "," "," "," "," "," "," ",280
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",40
+" "," "," "," "," "," "," "," "," ",160
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",20
+" "," "," "," "," "," "," "," "," ",50
+" "," "," "," "," "," "," "," "," ",70
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",15
+" "," "," "," "," "," "," "," "," ",220
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",25
+Soft,Friable,Slightly," "," "," ",Weak,Fine," ",0
+Soft,Friable,Slightly," "," "," ","Very weak",Medium," ",20
+Loose," ",Nonplastic," "," "," ","Very weak",Medium," ",25
+"Slightly hard",Friable,Slightly," "," "," ",None,Fine," ",36
+"Slightly hard",Friable,Slightly," "," "," "," "," "," ",71
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",10
+" "," "," "," "," "," "," "," "," ",30
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",15
+" "," "," "," "," "," "," "," "," ",70
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",20
+" "," "," "," "," "," "," "," "," ",60
+" "," "," "," "," "," "," "," "," ",100
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",15
+" "," "," "," "," "," "," "," "," ",60
+" "," "," "," "," "," "," "," "," ",380
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",20
+" "," "," "," "," "," "," "," "," ",85
+" "," "," "," "," "," "," "," "," ",105
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",25
+" "," "," "," "," "," "," "," "," ",45
+" "," "," "," "," "," "," "," "," ",100
+" "," "," "," "," "," "," ","Medium to coarse"," ",5
+"Slightly hard",Friable,Plastic," "," "," ","Weak to moderate"," "," ",0
+"Slightly hard",Friable,Slightly," "," "," ",Weak,"Medium to coarse",Coarse,8
+"Slightly hard",Friable,Slightly," "," "," ",Weak,"Medium to coarse"," ",32
+Soft,Friable,Slightly," "," "," ",Weak," "," ",45
+" "," "," "," "," "," "," "," "," ",12
+"Slightly hard",Firm,Slightly," "," "," ",Moderate,Coarse," ",0
+"Slightly hard",Firm,Slightly," "," "," ",Weak,Medium," ",4
+Hard,"Very firm",Nonplastic," "," "," ",Weak,Medium," ",21
+Hard,Firm,Nonplastic," "," "," ",Moderate,Coarse,Coarse,36
+" "," "," "," ",Vertical," "," "," "," ",4
+Hard,"Very friable",Plastic," "," "," ",Weak,"Fine to medium"," ",0
+"Slightly hard",Friable,Plastic," "," "," ","Very weak","Fine to medium"," ",3
+"Slightly hard",Friable,Slightly," "," "," ","Very weak",Fine," ",12
+Soft,Friable," "," "," "," ","Very weak","Very fine"," ",36
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",4
+" "," "," "," "," "," "," "," "," ",9
+" "," "," "," "," "," "," "," "," ",29
+" "," "," "," "," "," "," "," "," ",67
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",10
+" "," "," "," "," "," "," "," "," ",50
+" "," "," "," "," "," "," "," "," ",400
+" "," "," "," "," "," "," "," "," ",7
+Soft,"Very friable",Plastic," "," "," ",Moderate,Coarse," ",0
+"Slightly hard","Very friable",Slightly," "," "," ",Weak,"Medium to coarse"," ",6
+"Slightly hard",Friable,Slightly," "," "," ",Weak,Coarse," ",17
+"Slightly hard",Firm,Nonplastic," "," "," ",Moderate,"Medium to coarse"," ",41
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",20
+" "," "," "," "," "," "," "," "," ",80
+" "," "," "," "," "," "," "," "," ",240
+" "," "," "," "," "," "," "," "," ",260
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",20
+" "," "," "," "," "," "," "," "," ",50
+" "," "," "," "," "," "," "," "," ",70
+" "," "," "," "," "," "," "," "," ",110
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",20
+" "," "," "," "," "," "," "," "," ",220
+" "," "," "," "," "," "," "," "," ",240
+" "," "," "," "," "," "," "," "," ",8
+"Slightly hard",Friable,Slightly," "," "," ","Moderate to strong","Medium to coarse"," ",0
+"Slightly hard",Friable,Nonplastic," "," "," ",Strong,Coarse," ",5
+Soft,Friable,Nonplastic," "," "," ","Moderate to strong",Coarse," ",22
+Soft,Friable,Nonplastic," "," "," ",Moderate,Coarse," ",37
+" "," "," "," "," "," "," "," "," ",5
+"Slightly hard",Friable,Slightly," "," "," ",Weak,"Fine to medium"," ",0
+"Slightly hard",Friable,Slightly," "," "," ",Weak,"Medium to coarse"," ",3
+"Slightly hard",Friable,Nonplastic," "," "," ",Moderate,Coarse," ",15
+Soft,Firm,Nonplastic," "," "," ",Moderate,Medium," ",32
+" "," "," "," "," "," "," "," "," ",5
+"Very hard",Firm,"Very plastic"," "," "," ","Weak to moderate","Fine to medium"," ",0
+Hard,Friable,Plastic," "," "," ",Weak,"Medium to coarse"," ",2
+Hard,Friable," "," "," "," ",Weak,"Medium to coarse"," ",21
+" "," "," "," "," "," ",Moderate,"Medium to coarse"," ",36
+" "," "," "," "," "," "," "," "," ",5
+"Slightly hard",Friable,Plastic," "," "," ",Weak,Medium," ",0
+"Slightly hard",Friable,Plastic,Fine," "," ",Moderate,Coarse," ",10
+"Slightly hard",Friable,Plastic,Medium," "," ",Moderate,Coarse," ",24
+"Slightly hard",Friable,Nonplastic,Medium," "," ",Weak,Medium," ",42
+" "," "," "," "," "," "," "," "," ",12
+Soft,Friable,Slightly," "," "," ","Weak to moderate",Medium," ",0
+"Slightly hard",Firm,Slightly," "," "," ",Strong,Coarse," ",3
+"Slightly hard",Firm,Nonplastic," "," "," ","Weak to moderate","Medium to coarse"," ",37
+Hard,Firm,Nonplastic," "," "," ",Strong,"Medium to coarse"," ",59
+" ",Loose,Nonplastic," "," "," "," "," "," ",105
+" "," "," "," "," "," "," "," "," ",23
+"Slightly hard",Friable,Slightly," "," "," ","Very weak","Medium to coarse"," ",0
+"Slightly hard","Very friable",Nonplastic,Fine," "," ","Very weak","Medium to coarse"," ",18
+"Very hard",Friable,Plastic,Medium," "," ","Weak to moderate",Coarse," ",34
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",3
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",4
+" "," "," "," "," "," "," "," "," ",12
+" "," "," "," "," "," "," "," "," ",16
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",4
+" "," "," "," "," "," "," "," "," ",14
+" "," "," "," "," "," "," "," "," ",24
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",7
+" "," "," "," "," "," "," "," "," ",27
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",3
+" "," "," "," "," "," "," "," "," ",6
+" "," "," "," "," "," "," "," "," ",16
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",3
+" "," "," "," "," "," "," "," "," ",13
+" "," "," "," "," "," "," "," "," ",25
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",15
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",15
+"Slightly hard",Friable,"Very plastic"," "," "," ",Moderate,"Fine to medium"," ",0
+"Very hard",Firm,"Very plastic"," "," "," ","Moderate to strong",Coarse," ",25
+Extreme,"Very firm","Very plastic"," "," "," ",Strong,Coarse," ",40
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," "," "," "," ",50
+" "," "," "," "," "," "," "," "," ",450
+" "," "," "," "," "," "," "," "," ",520
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",30
+" "," "," "," "," "," "," "," "," ",100
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",40
+" "," "," "," "," "," "," "," "," ",80
+" "," "," "," "," "," "," "," "," ",110
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",30
+" "," "," "," "," "," "," "," "," ",550
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",20
+" "," "," "," "," "," "," "," "," ",40
+" "," "," "," "," "," "," "," "," ",80
+" "," "," "," "," "," "," "," "," ",20
+"Slightly hard","Very friable",Nonplastic," ",Horizontal," ",Weak,Coarse," ",0
+Soft,"Very friable",Slightly," ",Horizontal," ","Weak to moderate","Medium to coarse"," ",12
+" ",Loose,Nonplastic," ",Horizontal," "," "," "," ",27
+" "," "," "," ",Horizontal," "," "," "," ",0
+" "," "," "," ",Horizontal," "," "," "," ",15
+Hard,Friable,Nonplastic," "," "," "," "," "," ",20
+" "," "," "," ",Horizontal," "," "," "," ",4
+" "," "," "," ",Horizontal," "," "," "," ",0
+" "," "," "," ",Horizontal," ",None," "," ",1
+" "," "," "," ",Oblique," ",None," "," ",5
+" "," "," "," ",Horizontal," ",None," "," ",30
+" "," "," "," "," "," ",None," "," ",60
+" "," "," "," ",Horizontal," "," "," "," ",5
+Soft," ",Nonplastic," "," "," ",None," "," ",0
+Loose," ",Nonplastic," ",Random," ",None," "," ",5
+Loose," ",Nonplastic," ",Random," ",None," "," ",9
+"Slightly hard"," ",Nonplastic," ",Horizontal," ","Weak to moderate",Medium," ",41
+" "," ",Nonplastic," "," "," ",None," "," ",58
+" "," "," "," ",Vertical," "," "," "," ",5
+" "," "," "," ",Oblique," ",None,Medium," ",0
+" "," "," "," ",Oblique," ",None,Medium," ",3
+" "," "," "," "," "," "," ",Medium," ",5
+" "," "," "," "," "," ","Very weak",Coarse," ",15
+" "," "," "," "," "," ",None,Coarse," ",25
+" "," "," "," ",Horizontal," "," "," "," ",4
+" "," "," "," ",Horizontal," "," "," "," ",0
+" ",Friable," ",Fine,Oblique," ",None," "," ",2
+" ","Very friable"," ",Medium," "," ",Weak,Coarse," ",19
+" ",Friable," ",Fine," "," ",Weak,Coarse," ",29
+" "," "," ",Fine," "," ",Weak,Coarse," ",41
+" "," "," "," ",Horizontal," ",None," "," ",5
+" ",Loose," "," ",Horizontal," ",Strong,Coarse," ",0
+Extreme,"Very firm"," ",Medium," "," ",None," "," ",10
+" ",Loose," "," "," "," ",None," "," ",30
+" ",Loose," "," "," "," "," "," "," ",45
+" "," "," "," ",Horizontal," "," "," "," ",7
+" "," "," "," ",Oblique," "," "," "," ",0
+" "," "," ",Coarse," "," ",None," "," ",14
+" "," "," "," ",Horizontal," "," "," "," ",3
+" "," "," "," ",Horizontal," "," "," "," ",0
+" "," "," "," ",Oblique," "," "," "," ",2
+" "," "," "," ",Oblique," "," "," "," ",3
+" "," "," "," "," "," "," "," "," ",18
+" "," "," "," "," "," "," "," "," ",28
+" "," "," "," ",Horizontal," "," "," "," ",3
+" "," "," "," ",Horizontal," ",None," "," ",0
+" "," "," "," ",Oblique," "," "," "," ",2
+" "," "," "," ",Oblique," "," "," "," ",3
+" "," "," "," "," "," "," "," "," ",18
+" "," "," "," "," "," "," "," "," ",28
+" "," "," "," "," "," "," "," "," ",20
+Soft,"Very friable",Nonplastic," "," "," ","Very weak","Medium to coarse"," ",0
+Hard,"Very firm",Plastic,Medium," "," "," "," "," ",26
+" "," "," "," ",Vertical," "," "," "," ",28
+" "," "," "," ",Vertical," "," "," "," ",18
+Soft,"Very friable",Nonplastic," ",Random," ","Very weak","Very fine to fine"," ",0
+Soft,"Very friable",Nonplastic," ",Random," ","Very weak","Very fine to fine"," ",20
+Soft,"Very friable"," "," ",Random," ",Weak,"Fine to medium"," ",32
+"Slightly hard",Firm,Nonplastic,Medium," "," ",Moderate,Medium," ",60
+" "," "," "," ",Horizontal," "," "," "," ",10
+"Slightly hard",Friable,Slightly," ",Horizontal," ","Weak to moderate",Medium," ",0
+Hard,Firm,Slightly,Fine,Horizontal," ","Weak to moderate",Medium," ",7
+"Slightly hard",Friable,Slightly,Fine," "," ",Weak,Medium," ",23
+" "," "," ",Fine," "," "," "," "," ",41
+Soft,"Very friable",Nonplastic," ",Vertical," ",Weak,Fine," ",0
+" "," "," "," ",Random," "," "," "," ",7
+" "," "," "," "," "," "," "," "," ",12
+" "," "," "," ",Random," "," "," "," ",9
+" "," "," "," ",Random," "," "," "," ",7
+" "," "," "," ",Horizontal," ",Weak,"Fine to medium"," ",0
+" "," "," "," ",Horizontal," ",Weak,"Fine to medium"," ",10
+" "," "," "," ",Horizontal," ",Weak,"Fine to medium"," ",20
+" "," "," "," ",Horizontal," ",Weak,"Fine to medium"," ",28
+" "," "," "," ",Horizontal," ","Very weak","Fine to medium"," ",36
+" "," "," "," ",Horizontal," "," "," "," ",8
+" "," "," "," ",Oblique," ",Weak,Fine," ",0
+" "," "," "," ",Oblique," ",Weak,Fine," ",6
+" "," "," "," ",Oblique," ","Weak to moderate","Fine to medium"," ",9
+" "," "," "," "," "," ","Weak to moderate","Fine to medium"," ",26
+" "," "," "," "," "," ","Weak to moderate","Fine to medium"," ",46
+" "," "," "," "," "," ","Weak to moderate","Fine to medium"," ",70
+" "," "," "," ",Horizontal," "," "," "," ",26
+" "," "," "," ",Oblique," "," "," "," ",5
+" "," "," "," ",Horizontal," "," "," "," ",0
+" "," "," "," ",Horizontal," ",Weak,Medium," ",3
+" "," "," "," ",Horizontal," ",Moderate,Coarse," ",9
+" "," "," "," "," "," ",Weak,Medium," ",29
+" "," "," "," "," "," ",Weak,Medium," ",49
+" "," "," "," "," "," ","Very weak",Medium," ",67
+" "," "," "," "," "," "," "," "," ",12
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," ","Very weak",Fine," ",0
+" "," "," "," "," "," ","Moderate to strong","Fine to medium"," ",15
+" "," "," "," "," "," ",Weak,"Fine to medium"," ",30
+" "," "," "," "," "," ",Weak,Medium," ",75
+" "," "," "," "," "," ",Weak,Medium," ",110
+" "," "," "," ",Horizontal," "," "," "," ",50
+" "," "," "," ",Horizontal," ","Very weak",Fine," ",0
+" "," "," "," ",Horizontal," ",Weak,"Fine to medium"," ",3
+" "," "," "," "," "," ",Weak,"Fine to medium"," ",18
+" "," "," "," "," "," ",None," "," ",35
+" "," "," "," "," "," ",None," "," ",55
+" "," "," "," ",Horizontal," "," "," "," ",30
+" "," ",Plastic," ",Horizontal," ","Weak to moderate",Fine," ",0
+" "," ",Slightly," ",Horizontal," ","Weak to moderate","Fine to medium"," ",10
+" "," ",Slightly," "," "," ",Weak,"Fine to medium"," ",20
+" "," ",Slightly," "," "," ","Weak to moderate",Medium," ",27
+" "," "," "," ",Oblique," "," "," "," ",8
+" "," ",Nonplastic," ",Oblique," ",Weak,Fine," ",0
+" "," ",Slightly," ",Oblique," ","Moderate to strong",Coarse," ",10
+" "," ",Slightly," ",Oblique," ","Moderate to strong",Coarse," ",25
+" "," ",Nonplastic," "," "," ","Weak to moderate","Fine to medium"," ",37
+" "," ",Nonplastic," "," "," ",None," "," ",45
+" "," "," "," ",Horizontal," "," "," "," ",22
+" "," "," "," ",Horizontal," "," "," "," ",5
+" "," ",Slightly," ",Oblique," ","Weak to moderate",Medium," ",0
+" "," ",Slightly," ",Oblique," ","Very weak","Very fine"," ",10
+" "," ",Slightly," "," "," ",Weak,"Fine to medium"," ",15
+" "," ",Slightly," "," "," ",Moderate,"Medium to coarse"," ",25
+" "," ",Nonplastic," "," "," ",None," "," ",43
+" "," "," "," ",Oblique," "," "," "," ",30
+" "," ",Slightly," ",Oblique," ","Weak to moderate","Fine to medium"," ",0
+" "," ",Slightly," "," "," ",Moderate,Coarse," ",5
+" "," ",Slightly," "," "," ",Moderate,"Medium to coarse"," ",17
+" "," ",Slightly," "," "," ","Very weak",Fine," ",27
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",2
+" ",Friable," "," "," "," ",Weak,Fine," ",6
+" ",Friable," "," "," "," ",Weak,"Fine to medium"," ",10
+" ",Friable," "," "," "," ",Weak,Medium," ",14
+" ",Friable," "," "," "," "," "," "," ",20
+" "," "," "," "," "," "," "," "," ",12
+" ",Firm," "," "," "," ",Weak,Fine," ",0
+" ",Firm," "," "," "," ","Weak to moderate",Medium," ",1
+" ",Friable," "," "," "," ","Weak to moderate",Fine," ",5
+" ",Friable," "," "," "," ","Weak to moderate",Fine," ",20
+" ",Loose," "," "," "," ",None," "," ",48
+" ",Friable," "," "," "," ","Very weak","Fine to medium"," ",0
+" ",Friable," "," "," "," ",None," "," ",10
+" ",Friable," "," "," "," ","Weak to moderate","Fine to medium"," ",15
+" ",Firm," "," "," "," ",None," "," ",25
+" ",Firm," "," "," "," ",None," "," ",38
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",18
+" "," "," "," "," "," "," "," "," ",20
+" "," "," "," "," "," "," "," "," ",28
+" "," "," "," "," "," "," "," "," ",3
+" ",Loose," "," "," "," "," ",Fine," ",0
+" ",Friable," "," "," "," "," ",Fine," ",3
+" ",Friable," "," "," "," "," ",Fine," ",15
+" ",Firm," "," "," "," "," ",Medium," ",18
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," "," "," "," ",18
+" "," "," "," "," "," "," "," "," ",25
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," "," "," "," ",18
+" ","Very friable"," "," "," "," ",Weak,Coarse," ",5
+" ",Friable," "," "," "," "," ",Fine," ",0
+" ",Friable," "," "," "," "," ",Fine," ",4
+" ",Friable," "," "," "," "," ",Fine," ",25
+" ",Firm," "," "," "," ",Weak,Fine," ",40
+" ","Very firm"," "," "," "," "," "," "," ",60
+" ",Loose," "," "," "," "," "," "," ",3
+" ",Friable," "," "," "," ",Moderate,Medium," ",0
+" ",Friable," "," "," "," ","Weak to moderate",Fine," ",5
+" ",Friable," "," "," "," ","Weak to moderate",Fine," ",13
+" ",Friable," "," "," "," ","Weak to moderate","Fine to medium"," ",23
+" ",Firm," "," "," "," ",Moderate,Medium," ",33
+" "," "," "," "," "," ","Weak to moderate",Coarse," ",0
+" "," "," "," "," "," ",Weak," "," ",3
+" "," "," "," "," "," ","Weak to moderate",Fine," ",5
+" "," "," "," "," "," ","Weak to moderate",Medium," ",8
+" "," "," "," "," "," ","Weak to moderate",Medium," ",20
+" "," "," "," "," "," "," "," "," ",38
+" ","Very friable"," "," "," "," "," "," "," ",3
+" ",Friable,Plastic," "," "," ","Weak to moderate",Medium," ",0
+" ",Friable,Slightly,Fine," "," ","Weak to moderate","Fine to medium"," ",5
+" ",Friable,Slightly,Fine," "," ","Weak to moderate",Medium," ",13
+" ",Friable,Slightly,Medium," "," ","Weak to moderate",Medium," ",28
+" ",Firm,Slightly,Medium," "," ",Weak,"Very fine to fine"," ",38
+" ",Friable,Plastic," "," "," ","Very weak",Coarse," ",75
+" ","Very friable"," "," "," "," "," "," "," ",10
+" ","Very friable"," "," "," "," "," "," "," ",5
+" ","Very friable"," "," "," "," ","Very weak","Fine to medium"," ",0
+" ","Very firm"," ",Coarse," "," ",None," "," ",10
+" ","Very firm"," ",Coarse," "," ",None," "," ",43
+" ","Very firm"," ",Medium," "," ",None," "," ",58
+" ",Loose," "," "," "," "," "," "," ",3
+Soft,"Very friable"," "," "," "," ",Moderate,"Fine to medium"," ",0
+" ",Friable," "," "," "," ","Weak to moderate",Fine," ",3
+" ",Firm," "," "," "," ","Weak to moderate",Fine," ",8
+" ",Firm," "," "," "," ",Weak,"Fine to medium"," ",15
+" ",Firm," "," "," "," ",Moderate,Medium," ",28
+Hard,Firm," "," "," "," ",Moderate,Medium," ",38
+Hard,Firm," "," "," "," ",Weak,Medium," ",55
+" ",Loose," "," "," "," "," "," "," ",3
+" ",Firm," "," "," "," ","Weak to moderate","Very fine"," ",0
+" ",Friable," "," "," "," ","Weak to moderate","Fine to medium"," ",3
+" ",Friable," "," "," "," ","Weak to moderate",Medium," ",8
+" ",Loose," "," "," "," ","Weak to moderate","Fine to medium"," ",15
+" ","Very friable"," "," "," "," ",Weak,Medium," ",25
+" ",Firm,Slightly,Fine," "," ",Strong,Medium," ",0
+" ",Friable,Slightly,Fine," "," ",Moderate,Fine," ",4
+" ",Firm,Plastic,Medium," "," ",Moderate,Medium," ",12
+Hard,Firm,Plastic,Medium," "," ",Weak,Coarse," ",25
+" ",Loose," "," "," "," ",Strong,Coarse," ",5
+" ","Very friable"," "," "," "," ",Strong,Coarse," ",0
+" ",Firm,Slightly," "," "," ",None," "," ",3
+" ",Firm,Plastic,Medium," "," ",None," "," ",8
+Hard,Firm,Plastic,Medium," "," ",None," "," ",30
+Hard,Firm,Plastic,Fine," "," ",None," "," ",40
+" ","Very friable"," "," "," "," "," "," "," ",3
+" ",Firm," "," "," "," ","Weak to moderate",Medium," ",0
+" ",Loose," ",Medium," "," ","Weak to moderate",Fine," ",3
+" ",Firm," ",Medium," "," ","Weak to moderate",Medium," ",10
+" ",Firm,Slightly,Medium," "," ",Weak,Medium," ",18
+" ","Very firm","Very plastic",Medium," "," ",None," "," ",30
+" ","Very friable"," "," "," "," "," "," "," ",15
+" ","Very friable"," "," "," "," ",None," "," ",8
+" ","Very friable"," "," "," "," ",None," "," ",0
+" "," ",Slightly," "," "," ",None," "," ",10
+" "," ",Slightly," "," "," ",None," "," ",30
+" ",Friable," "," "," "," "," "," "," ",3
+" "," "," "," "," "," "," "," "," ",180
+" ",Firm," "," "," "," ",Moderate,Medium," ",0
+" ",Firm," "," "," "," ",Moderate,Medium," ",8
+" ",Firm," "," "," "," ",Moderate,Medium," ",15
+" ",Firm," "," "," "," ",Moderate,"Medium to coarse"," ",28
+Hard,Firm,Slightly,Coarse," "," "," ",Fine," ",40
+Hard,"Very firm",Plastic,Coarse," "," "," ",Medium," ",50
+Hard,Firm,Plastic,Medium," "," "," "," "," ",100
+Hard,Firm,Plastic,Fine," "," "," "," "," ",135
+" "," "," "," "," "," "," "," "," ",8
+" ",Friable," "," "," "," ",Weak,Medium," ",0
+" ",Friable," "," "," "," ",Moderate,Medium," ",8
+" ",Friable," "," "," "," ",Moderate,Medium," ",13
+" ","Very friable"," "," "," "," ",Strong,Medium," ",33
+" ","Very friable"," "," "," "," ",Weak,Medium," ",45
+" ","Very friable"," "," "," "," ",Weak,Fine," ",55
+" ",Loose," "," "," "," "," "," "," ",5
+" ","Very friable"," "," "," "," "," "," "," ",0
+" ",Friable," "," "," "," "," ",Medium," ",5
+" ",Friable," "," "," "," "," ",Medium," ",13
+" ",Firm," "," "," "," "," ",Medium," ",18
+" ",Firm," "," "," "," "," ",Medium," ",48
+" "," "," "," "," "," "," "," "," ",120
+" "," "," "," "," "," "," "," "," ",8
+" ","Very friable"," "," "," "," ",Weak,Medium," ",0
+" ",Friable," "," "," "," ",Moderate,Medium," ",3
+" ",Firm," "," "," "," ",Moderate,Coarse," ",33
+" ",Firm," "," "," "," ",Weak,Coarse," ",53
+" "," "," "," "," "," "," "," "," ",0
+" "," "," "," "," "," "," "," "," ",18
+" "," "," "," "," "," "," "," "," ",28
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",3
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Moderate,Fine," ",4
+" ",Friable," "," "," "," ","Weak to moderate",Medium," ",8
+" ",Friable," "," "," "," ",Weak,Medium," ",15
+" ",Friable," "," "," "," ",None," "," ",28
+" ",Friable," "," "," "," ",None," "," ",135
+" ",Loose," "," "," "," ","Weak to moderate",Medium," ",8
+" ",Friable," "," "," "," ","Weak to moderate",Fine," ",0
+" ",Friable," "," "," "," ",Moderate,Medium," ",5
+" ",Friable," "," "," "," ",Moderate,Medium," ",20
+" ",Firm," "," "," "," ",Moderate,Medium," ",30
+" ",Firm," "," "," "," ",Moderate,Fine," ",43
+" "," "," "," "," "," "," "," "," ",5
+" ",Friable,Slightly," "," "," ",Moderate,Fine," ",0
+" ","Very friable",Plastic," "," "," ",Strong,Medium," ",5
+" ","Very friable",Slightly," "," "," ",Strong,Medium," ",9
+" ",Firm,Slightly," "," "," ",Moderate,Coarse," ",19
+Hard,Firm,Plastic," "," "," ",Strong," "," ",33
+Hard,Firm,Plastic," "," "," ",Strong," "," ",53
+Hard," ",Plastic," "," "," ",None," "," ",90
+" "," ",Plastic," "," "," ",None," "," ",120
+" "," "," "," "," "," "," "," "," ",4
+" ",Friable," "," "," "," ",Moderate,Medium," ",0
+" ",Loose," "," "," "," ",Moderate,Medium," ",5
+" ",Friable," "," "," "," ",Moderate,Medium," ",25
+" ",Firm," "," "," "," ",Moderate,Medium," ",38
+" ",Firm," "," "," "," ","Very weak",Medium," ",58
+" ",Firm," "," "," "," ","Very weak",Medium," ",135
+" ",Friable,Slightly," "," "," ",Weak,"Fine to medium"," ",0
+" ",Friable,Slightly," "," "," ",Strong,Medium," ",5
+" ",Friable,Slightly," "," "," ",Moderate,Fine," ",6
+" ",Friable,Plastic," "," "," ",Moderate,Fine," ",10
+" ",Friable,Plastic," "," "," ",Moderate,Medium," ",15
+" ",Friable," "," "," "," ",Weak,Medium," ",30
+Hard,Friable,Plastic," "," "," ",Moderate,Medium," ",45
+Hard,Friable,Plastic,Fine," "," ",Moderate,Coarse," ",100
+" ",Loose," "," "," "," ",Weak,Fine," ",5
+" "," "," "," "," "," "," "," "," ",140
+" ",Friable,Plastic," "," "," ",Moderate,Fine," ",0
+" ","Very friable",Plastic," "," "," ",Strong,Fine," ",5
+" ","Very friable",Plastic," "," "," ",Strong,Fine," ",10
+" ",Firm,Plastic," "," "," ",Weak,Fine," ",20
+" "," "," "," "," "," "," ",Fine," ",25
+" "," "," "," "," "," "," "," "," ",30
+" ","Very firm",Plastic," "," "," "," ",Coarse," ",70
+" "," "," "," "," "," "," "," "," ",120
+" "," "," "," "," "," "," "," "," ",3
+" ",Friable,Slightly," "," "," ",Moderate,"Fine to medium"," ",0
+" ",Friable,Slightly," "," "," ",Strong,Medium," ",5
+" ",Friable,Slightly," "," "," ",Strong,Medium," ",15
+" ",Friable," "," "," "," ",Moderate,Medium," ",25
+" ",Friable," "," "," "," ",Moderate,Medium," ",33
+" ",Friable," "," "," "," ",Weak,Fine," ",65
+" ",Friable," "," "," "," ",Weak," "," ",105
+" ",Friable,Plastic," "," "," ",Weak," "," ",150
+" ",Loose," "," "," "," "," "," "," ",3
+Hard,"Very firm",Plastic,Fine," "," ",None,Fine,Medium,120
+" ",Firm,Plastic," "," "," ",Moderate," "," ",0
+" ",Friable,Slightly," "," "," ",Strong," "," ",3
+" ",Friable,Slightly," "," "," ",Strong," "," ",5
+" ",Friable,Plastic," "," "," ",Strong," "," ",11
+" ",Firm,Plastic," "," "," ",Strong," "," ",18
+" ","Very firm",Plastic,Medium," "," ",Moderate,Coarse," ",25
+Hard,"Very firm",Plastic,Fine," "," "," ",Medium," ",38
+Hard,"Very firm",Plastic,Fine," "," ",None,Fine," ",90
+" "," "," "," "," "," "," "," "," ",18
+" ",Friable," ",Medium," "," ",Moderate,Medium," ",0
+" ",Firm,Slightly,Medium," "," "," ",Fine," ",13
+" ",Friable,Plastic,Fine," "," ",Weak,Medium," ",25
+" "," "," ",Fine," "," ",Weak,Medium," ",38
+" "," "," "," "," "," ",None," "," ",60
+" "," "," "," "," "," ",None," "," ",98
+" "," "," "," "," "," ",Moderate,Medium," ",8
+" ","Very friable",Plastic,Coarse," "," ",None," "," ",0
+" "," ",Plastic,Medium," "," ",Strong,Coarse," ",25
+" "," ",Slightly,Medium," "," ","Very weak",Medium," ",55
+" "," ",Slightly,Medium," "," ",Weak,Medium," ",80
+Hard,"Very firm",Slightly,Fine," "," ",Strong,Coarse," ",105
+Hard,"Very firm",Slightly,Fine," "," ",Strong,Coarse," ",135
+" ",Loose," "," "," "," "," "," "," ",8
+" ",Friable," "," "," "," "," "," "," ",90
+" ",Friable," "," "," "," "," "," "," ",135
+" ",Friable," "," "," "," "," "," "," ",165
+" ","Very friable"," "," "," "," "," "," "," ",3
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ","Weak to moderate",Medium," ",10
+" ",Friable," "," "," "," ","Weak to moderate",Medium," ",13
+" ",Friable," "," "," "," ","Weak to moderate",Medium," ",20
+" ",Friable," "," "," "," ",Weak," "," ",30
+" ",Friable," "," "," "," ","Very weak"," "," ",40
+" ",Friable," "," "," "," "," "," "," ",58
+" ",Loose," "," "," "," "," "," "," ",8
+" ",Firm,Plastic," "," "," ",Weak,Coarse," ",75
+" ",Firm,Plastic," "," "," ",Moderate,Medium," ",105
+" ",Loose," "," "," "," "," "," "," ",7
+" ",Loose," "," "," "," ",Weak,Medium," ",6
+" ",Friable,Plastic," "," "," ",Strong,Fine," ",0
+" ","Very friable",Slightly," "," "," ",Weak,Coarse," ",8
+" ","Very friable",Slightly," "," "," ",Moderate,Fine," ",15
+" ",Friable,Slightly," "," "," ",Moderate,Fine," ",23
+" ",Friable,Slightly," "," "," ",Strong,Fine," ",35
+" ",Friable,Slightly," "," "," ",Weak,Fine," ",53
+" ",Loose," "," "," "," "," "," "," ",7
+Hard," ",Nonplastic," "," "," "," "," "," ",52
+" "," "," "," "," "," "," "," "," ",75
+" ",Loose," "," "," "," "," "," "," ",4
+" ",Loose," "," "," "," ",Strong,Fine," ",2
+" ",Friable,Slightly," "," "," "," "," "," ",0
+" ",Loose,Slightly," "," "," "," ",Fine," ",4
+"Slightly hard",Loose,Slightly," "," "," "," "," "," ",10
+"Slightly hard",Loose,Slightly," "," "," "," "," "," ",18
+Hard," ",Slightly," "," "," ",Moderate,Fine," ",28
+Hard,Loose,Nonplastic," "," "," "," "," "," ",45
+" ",Loose," "," "," "," "," "," "," ",4
+"Slightly hard",Firm,Slightly," "," "," ",Moderate,Medium," ",35
+Hard,Firm,Slightly," "," "," ",Weak,Medium," ",10
+"Very hard","Very firm",Slightly," "," "," ","Weak to moderate",Coarse," ",90
+" ",Loose," "," "," "," "," "," "," ",3
+" ",Loose," "," "," "," ","Weak to moderate",Fine," ",1
+"Slightly hard",Firm,Nonplastic," "," "," ",Moderate,Medium," ",0
+" ",Loose,Slightly," "," "," ",Moderate,Fine," ",5
+" ",Loose,Slightly," "," "," ",Moderate,Fine," ",12
+" ",Loose,Slightly," "," "," ",Moderate,Fine," ",18
+"Slightly hard",Friable,Slightly," "," "," ",Moderate,Fine," ",23
+"Slightly hard",Friable,Slightly," "," "," ",Moderate,Fine," ",30
+" ",Loose," "," "," "," "," "," "," ",7
+" ",Loose," "," "," "," "," "," "," ",6
+" ",Loose," "," "," "," "," ",Fine," ",4
+Loose,"Very friable",Slightly," "," "," ",Strong,Fine," ",0
+" ",Loose,Nonplastic," "," "," ",Strong,Fine," ",5
+Loose," ",Nonplastic," "," "," ","Very weak",Medium," ",25
+" "," ",Slightly,Medium," "," ",Weak," "," ",68
+" "," ",Slightly,Medium," "," ",Moderate,Medium," ",85
+Hard," ",Slightly," "," "," "," "," "," ",103
+" ",Loose," "," "," "," "," "," "," ",5
+" ","Very firm",Plastic," "," "," ",Strong,Coarse," ",60
+" ","Very firm",Plastic," "," "," ",Strong,Coarse," ",80
+" ","Very firm",Plastic," "," "," ",Strong,Coarse," ",120
+" ",Loose," "," "," "," "," "," "," ",4
+" ",Loose," "," "," "," "," ",Medium," ",3
+" ",Loose,Plastic," "," "," ",Weak,Medium," ",0
+" ",Loose," "," "," "," ",Weak,Medium," ",3
+" ",Loose," "," "," "," ",Weak,Fine," ",5
+" ",Friable,Nonplastic," "," "," ",Weak,Fine," ",13
+" ",Friable,Nonplastic," "," "," ",Moderate,Coarse," ",18
+" ",Firm,Nonplastic," "," "," ",Moderate,Fine," ",30
+Loose,Friable," "," "," "," "," "," "," ",0
+" "," "," "," "," "," ",Weak," "," ",30
+" ",Friable," "," "," "," "," "," "," ",36
+" "," "," "," "," "," "," "," "," ",61
+" "," "," "," "," "," ",None," "," ",137
+" ","Very firm",Plastic," "," "," ",Moderate,Coarse," ",40
+" ","Very firm"," "," "," "," ",Moderate,Coarse," ",55
+" "," "," "," "," "," "," "," "," ",3
+" "," "," "," "," "," "," "," "," ",2
+" ",Friable,Nonplastic," "," "," ",Moderate,Coarse," ",0
+" ","Very friable"," "," "," "," ",Weak,Medium," ",3
+" ",Friable,Nonplastic," "," "," ",Weak,Medium," ",4
+" ",Friable," "," "," "," ","Weak to moderate",Medium," ",9
+" ",Firm," "," "," "," ",Moderate,Medium," ",16
+" ","Very firm"," "," "," "," ",Strong,Coarse," ",30
+" ",Loose,Nonplastic," "," "," ",None," "," ",88
+" ",Loose,Nonplastic," "," "," ",None," "," ",98
+" "," "," "," "," "," "," "," "," ",14
+" "," "," "," "," "," "," "," "," ",5
+" ",Firm,Plastic,Coarse," "," ","Weak to moderate"," "," ",0
+" ","Very friable",Plastic,Coarse," "," ",Weak,Medium," ",20
+" ",Firm,Plastic,Medium," "," ",Strong," "," ",30
+" ","Very firm",Slightly,Medium," "," ",Strong," "," ",45
+" ",Friable,Slightly,Medium," "," ",Moderate," "," ",70
+" ",Loose,Nonplastic," "," "," ",None," "," ",85
+" ",Loose," "," "," "," "," "," "," ",10
+" ","Very firm",Plastic,Fine," "," ","Moderate to strong",Coarse," ",85
+" ",Loose," "," "," "," "," "," "," ",9
+" ",Loose," "," "," "," "," "," "," ",5
+" ",Friable,Slightly,Coarse," "," ",Moderate,Fine," ",0
+" ",Firm,Plastic,Fine," "," ",Moderate,Medium," ",3
+" ",Friable,Nonplastic,Fine," "," ",Weak,Medium," ",18
+" ",Firm,Plastic,Coarse," "," ",Moderate,Medium," ",28
+" ","Very firm",Plastic,Fine," "," ","Moderate to strong",Medium," ",35
+" ","Very firm",Plastic,Fine," "," ","Moderate to strong",Coarse," ",65
+" ",Loose," "," "," "," "," "," "," ",14
+" ",Loose," "," "," "," "," "," "," ",13
+" ",Loose," "," "," "," "," "," "," ",12
+" ",Firm,"Very plastic",Fine," "," ",Moderate,Coarse," ",0
+" ",Firm,Plastic,Coarse," "," ",Moderate,Coarse," ",10
+" ",Firm,"Very plastic"," "," "," ",None," "," ",33
+" ",Firm,"Very plastic",Fine," "," ",None," "," ",63
+" ",Firm,"Very plastic"," "," "," ",None," "," ",90
+" ",Loose," "," "," "," "," "," "," ",4
+" ",Friable,Nonplastic," "," "," ",None," "," ",43
+" ","Very friable",Nonplastic," "," "," "," "," "," ",80
+" ",Friable,Nonplastic," "," "," "," "," "," ",108
+" ",Loose," "," "," "," "," "," "," ",3
+" ",Loose," "," "," "," "," "," "," ",1
+" ","Very friable",Nonplastic," "," "," ",Weak,Medium," ",0
+" ",Loose,Nonplastic," "," "," ",Weak,Medium," ",3
+" ",Loose,Nonplastic," "," "," ","Very weak",Fine," ",5
+" ",Loose,Nonplastic," "," "," ",None," "," ",8
+" ",Loose,Nonplastic," "," "," ",None," "," ",15
+" ",Loose,Nonplastic," "," "," ","Very weak",Fine," ",30
+" ",Loose," "," "," "," "," "," "," ",5
+" ",Firm," "," "," "," ",Weak,Fine," ",55
+" ",Firm," "," "," "," ",Weak,Fine," ",70
+" ",Loose," "," "," "," "," "," "," ",4
+" ",Loose," "," "," "," "," "," "," ",3
+" ",Loose,Plastic," "," "," ",Moderate,Fine," ",0
+" ",Loose,Nonplastic," "," "," ",Weak,Fine," ",3
+" ",Loose,Nonplastic," "," "," ",Moderate,Fine," ",5
+" ",Loose,Nonplastic," "," "," ",Weak,Fine," ",13
+" ",Loose,Nonplastic," "," "," ",Weak,Fine," ",20
+" ",Loose," "," "," "," ",Weak,Fine," ",30
+" "," "," "," "," "," "," "," "," ",4
+"Slightly hard","Very friable",Nonplastic," "," "," ",Weak,Medium," ",0
+"Slightly hard","Very friable",Nonplastic," "," "," ",Weak,Medium," ",36
+"Slightly hard","Very friable",Nonplastic," "," "," ",Moderate,Medium," ",51
+"Slightly hard",Friable,Nonplastic," "," "," ",Strong,Coarse," ",64
+Hard,Firm,Plastic,Fine," "," ",Weak,Medium," ",69
+"Very hard",Firm,Plastic,Medium," "," ",Moderate,"Medium to coarse"," ",102
+" ",Friable," "," "," "," ",Moderate,Fine," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",2
+" ",Friable," "," "," "," ",Strong,Medium," ",5
+" ",Friable," "," "," "," ",Moderate,Coarse," ",9
+" ",Firm," "," "," "," ",Moderate,Fine," ",13
+" ",Firm," "," "," "," ","Weak to moderate",Fine," ",23
+" "," "," "," "," "," "," "," "," ",36
+" "," "," "," "," "," "," "," "," ",5
+Loose,Friable," "," "," "," ",Weak,Medium," ",0
+Loose,"Very friable"," "," "," "," ",Strong,Medium," ",5
+" ",Friable," "," "," "," ",Moderate,Coarse," ",23
+" ",Firm," "," "," "," ",Moderate,Medium," ",38
+Hard,Firm,Plastic," "," "," ",Moderate,Medium," ",48
+Hard,Firm,Plastic," "," "," ",Strong,Medium," ",64
+"Very hard","Very firm"," "," "," "," "," ",Coarse," ",94
+" "," "," "," "," "," "," "," "," ",3
+Soft,"Very friable",Nonplastic," "," "," ",Weak,Medium," ",0
+"Slightly hard",Friable,Nonplastic," "," "," ",Moderate,Medium," ",10
+Soft,"Very friable",Nonplastic," "," "," ",Moderate,"Fine to medium"," ",20
+"Slightly hard","Very friable",Nonplastic,Fine," "," ",Moderate,Medium," ",46
+"Very hard",Firm,Plastic,Medium," "," ",Moderate,"Medium to coarse"," ",64
+" "," "," "," "," "," "," "," "," ",97
+"Very hard",Firm,Plastic," "," "," ",Moderate,"Medium to coarse"," ",114
+" "," "," "," "," "," "," "," "," ",5
+Hard,Firm,Plastic," "," "," "," ",Coarse," ",0
+Soft,Friable,Plastic," "," "," ",Strong,Medium," ",23
+Hard,Firm,"Very plastic"," "," "," "," ",Coarse," ",33
+Hard,Firm,"Very plastic"," "," "," ","Moderate to strong",Coarse," ",53
+Hard,Firm,"Very plastic"," "," "," ","Moderate to strong",Coarse," ",80
+Hard,Firm,"Very plastic"," "," "," ",Weak,Coarse," ",115
+Hard,Firm,"Very plastic"," "," "," ",Weak,Coarse," ",150
+Soft,Friable," "," "," "," ",Strong,Medium," ",0
+" ",Friable,Plastic," "," "," ",Moderate,Medium," ",20
+"Slightly hard",Firm,Plastic," "," "," ",Moderate,Medium," ",60
+Hard,Firm,Plastic," "," "," ",Moderate,Coarse," ",90
+Hard,Firm,Plastic," "," "," ",Weak,Coarse," ",120
+Loose,"Very friable"," "," "," "," ",None," "," ",0
+Soft,"Very friable"," "," "," "," ",Moderate,Fine," ",7
+"Slightly hard",Friable," "," "," "," ",Moderate,Fine," ",17
+"Slightly hard",Friable," "," "," "," ",Weak,Medium," ",22
+Hard,Firm," "," "," "," ","Very weak",Medium," ",32
+"Very hard","Very firm"," "," "," "," ",None," "," ",44
+"Very hard","Very firm"," "," "," "," ",None," "," ",60
+"Very hard","Very firm"," "," "," "," ",None," "," ",80
+Soft,"Very friable"," "," "," "," ",Weak,Medium," ",0
+Soft,"Very friable"," "," "," "," ",Moderate,"Fine to medium"," ",7
+"Slightly hard","Very friable"," "," "," "," ",Moderate,Fine," ",12
+"Slightly hard","Very friable"," "," "," "," ",Weak,Medium," ",32
+Hard,Friable," "," "," "," ","Weak to moderate",Coarse," ",45
+Hard,Firm," "," "," "," "," ",Coarse," ",65
+"Very hard","Very firm"," "," "," "," "," ",Coarse," ",82
+" "," "," "," "," "," "," "," "," ",4
+Loose,Friable," "," "," "," ","Very weak",Medium," ",0
+Loose,Friable," "," "," "," ",Weak,"Fine to medium"," ",6
+Soft,Friable," "," "," "," ",Weak,"Fine to medium"," ",14
+"Slightly hard",Firm," "," "," "," ",Strong,Medium," ",27
+Hard,Firm," "," "," "," ","Moderate to strong",Medium," ",60
+Hard,Firm," "," "," "," "," "," "," ",93
+" "," "," "," "," "," "," "," "," ",3
+" "," ",Nonplastic," "," "," "," "," "," ",0
+" "," ",Slightly," "," "," ",Strong," "," ",3
+" "," ",Nonplastic," "," "," ",Weak," "," ",20
+" ",Firm,Plastic," "," "," "," "," "," ",35
+" "," "," "," "," "," "," "," "," ",8
+" "," ","Very plastic"," "," "," "," "," "," ",0
+" "," ","Very plastic",Coarse," "," "," ",Coarse," ",8
+" "," ",Slightly,Fine," "," "," "," "," ",21
+" "," ",Plastic," "," "," "," ",Coarse," ",35
+" "," ",Nonplastic," "," "," "," "," "," ",0
+" "," ",Nonplastic," "," "," ",Weak," "," ",3
+" "," ",Nonplastic," "," "," ",Weak," "," ",19
+" "," ",Slightly,Medium," "," "," "," "," ",30
+" ",Firm,"Very plastic",Fine," "," "," "," "," ",43
+" "," "," "," "," "," "," "," "," ",8
+" "," "," "," "," "," ",None," "," ",120
+"Slightly hard",Friable,Slightly,Coarse," "," ",Weak," "," ",0
+"Slightly hard",Firm,Slightly,Medium," "," "," "," "," ",4
+"Slightly hard",Firm,Plastic,Medium," "," ",Weak,Medium," ",10
+Hard,Friable,Plastic,Coarse," "," "," ",Coarse," ",13
+Hard,Firm,Plastic,Fine," "," "," "," "," ",28
+"Very hard",Firm,Plastic," "," "," "," ",Coarse," ",43
+Hard,Firm,Plastic,Medium," "," ",Weak," "," ",68
+Hard,Firm,Plastic,Coarse," "," ",Weak,Coarse," ",90
+" ",Friable,Slightly," "," "," ",Strong," "," ",0
+Hard,Firm,Slightly," "," "," "," "," "," ",8
+Hard,Firm,Plastic," "," "," ",Moderate,Coarse," ",15
+Hard,Firm,Plastic,Coarse," "," "," "," "," ",23
+"Very hard","Very firm","Very plastic",Medium," "," ",Strong,Coarse," ",30
+" ",Firm,Plastic,Medium," "," ",Weak,Coarse," ",45
+" "," ",Plastic,Medium," "," "," "," "," ",63
+Hard,Firm,Plastic,Medium," "," ",Weak,Medium," ",90
+" "," "," "," "," "," "," "," "," ",4
+" ",Loose,Nonplastic," "," "," ",None," "," ",0
+" ","Very friable",Slightly," "," "," ",Moderate,Fine," ",13
+" ",Friable,Nonplastic," "," "," ",Moderate,Fine," ",23
+" ",Friable,Nonplastic," "," "," "," ","Fine to medium"," ",38
+"Slightly hard",Friable,Nonplastic," "," "," ",Moderate,Medium," ",48
+" "," "," "," "," "," "," "," "," ",64
+" "," "," "," "," "," "," "," "," ",13
+" ",Friable,Slightly," "," "," ",Strong," "," ",0
+Hard,Firm,Slightly," "," "," "," "," "," ",8
+Hard,Firm,Plastic," "," "," ",Moderate,Coarse," ",15
+Hard,Firm,Plastic,Coarse," "," "," "," "," ",23
+"Very hard","Very firm","Very plastic",Medium," "," ",Strong,Coarse," ",30
+" ",Firm,Plastic,Fine," "," ",Weak,Coarse," ",46
+" ",Firm,Plastic,Medium," "," "," "," "," ",63
+Hard,Firm,Plastic,Medium," "," ",Weak,Medium," ",91
+" "," "," "," "," "," "," "," "," ",4
+Hard,"Very firm",Plastic," "," "," ",Weak," "," ",107
+Loose,Loose,Nonplastic,Coarse," "," ",Weak,Medium," ",0
+Hard,"Very firm",Nonplastic,Medium," "," "," "," "," ",20
+Loose,Loose,Nonplastic,Medium," "," ","Very weak"," "," ",28
+Loose,Loose,Nonplastic," "," "," ","Very weak"," "," ",35
+Loose,Loose,Nonplastic,Fine," "," ",None," "," ",46
+Hard,"Very firm",Nonplastic,Medium," "," "," ","Medium to coarse"," ",51
+Hard,Firm,Plastic,Medium," "," "," "," "," ",52
+"Very hard","Very firm",Plastic," "," "," ",Weak,Coarse," ",68
+" "," "," "," "," "," "," "," "," ",3
+" "," "," "," "," "," "," "," "," ",2
+Soft,Friable,Nonplastic," "," "," ",Weak,Fine," ",0
+"Slightly hard",Friable,Slightly," "," "," ",Weak,Fine," ",10
+Soft,Friable,Plastic," "," "," ",Moderate,Fine," ",15
+"Slightly hard",Firm,Plastic," "," "," "," "," "," ",36
+Hard,Firm,Plastic," "," "," "," ","Medium to coarse"," ",61
+" "," "," "," "," "," "," "," "," ",11
+" "," "," "," "," "," "," "," "," ",10
+Soft,Friable,Nonplastic," "," "," ",Weak,Medium," ",0
+Soft,"Very friable",Slightly," "," "," ",Moderate,"Fine to medium"," ",10
+Soft,"Very friable",Slightly," "," "," "," ",Medium," ",25
+Hard,"Very firm",Nonplastic," "," "," "," "," "," ",33
+Hard,"Very firm",Nonplastic," "," "," "," "," "," ",81
+" "," "," "," "," "," "," "," "," ",8
+" ",Firm," "," "," "," ",Weak," "," ",66
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," ",Weak," "," ",4
+Soft,Friable,Nonplastic," "," "," ",Weak,Fine," ",0
+Soft,"Very friable",Slightly," "," "," "," ",Fine," ",4
+Soft,Friable," "," "," "," "," ",Fine," ",10
+Hard,"Very firm"," "," "," "," "," ",Coarse," ",10
+Hard,"Very firm"," "," "," "," "," ",Coarse," ",30
+Hard,Firm," "," "," "," ",Weak,Coarse," ",43
+" "," "," "," "," "," "," "," "," ",8
+" "," "," "," "," "," "," "," "," ",7
+" ","Very friable"," "," "," "," ",None," "," ",0
+" ",Friable," "," "," "," ",Weak," "," ",6
+" ",Friable," "," "," "," "," "," "," ",11
+" ","Very firm"," "," "," "," ",None," "," ",30
+" ",Loose," "," "," "," "," "," "," ",38
+" ",Loose," "," "," "," "," "," "," ",56
+" "," "," "," "," "," "," "," "," ",71
+" "," "," "," "," "," "," "," "," ",4
+" ",Friable," "," "," "," ",Moderate,Fine," ",0
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",2
+" ",Friable," "," "," "," ",Moderate,Fine," ",19
+" ",Firm," "," "," "," ",Moderate,Medium," ",23
+" ",Firm," "," "," "," ",Moderate,Medium," ",33
+" ","Very firm"," "," "," "," ",Moderate,Coarse," ",48
+" ","Very firm"," "," "," "," ",Weak,Coarse," ",74
+" ","Very firm"," "," "," "," "," "," "," ",85
+" "," "," "," "," "," "," "," "," ",7
+" ",Firm," "," "," "," ",Weak,Fine," ",70
+" ",Friable," "," "," "," ",Moderate,"Very fine"," ",0
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",1
+" ","Very friable"," "," "," "," ",Strong,Fine," ",9
+" ","Very friable"," ",Fine," "," ",Moderate,Fine," ",13
+" ",Friable," "," "," "," ",Moderate,Medium," ",19
+" ",Friable," "," "," "," ",Weak,Medium," ",36
+" ",Firm," "," "," "," ",Weak,Fine," ",49
+" ",Firm," "," "," "," ",Weak,Fine," ",56
+" "," "," "," "," "," "," "," "," ",15
+" "," "," "," "," "," "," "," "," ",14
+" "," "," "," "," "," "," "," "," ",13
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ",Friable,Slightly," "," "," ",Weak,Medium," ",5
+" "," ",Slightly," "," "," ",Moderate,Medium," ",45
+" "," "," "," "," "," ",Weak," "," ",70
+" ",Friable," "," "," "," ",Moderate,Coarse," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",15
+" ",Firm," ",Medium," "," ",Strong,Fine," ",17
+" ","Very firm"," ",Medium," "," ",Strong,Medium," ",45
+" ","Very firm"," "," "," "," ",Moderate,Medium," ",120
+" ",Loose," "," "," "," ","Moderate to strong",Coarse," ",0
+" ",Friable," "," "," "," ",Weak,Medium," ",7
+" ",Friable," ",Fine," "," ",Weak,Fine," ",12
+" ",Firm," ",Coarse," "," ",Moderate,Medium," ",22
+" ",Firm," ",Fine," "," ",Moderate,Medium," ",30
+" ",Friable,Nonplastic," "," "," "," ",Fine," ",0
+" ","Very friable",Nonplastic," "," "," ",Weak,Fine," ",15
+" "," ",Nonplastic," "," "," ",Moderate,Fine," ",27
+" ","Very friable",Nonplastic," "," "," ",Weak,Medium," ",35
+"Very hard",Firm,Plastic,Medium," "," ","Moderate to strong",Coarse," ",37
+"Very hard",Firm,Plastic,Medium," "," ","Moderate to strong",Coarse," ",57
+Loose," ",Nonplastic,Fine," "," ",None," "," ",83
+" ",Firm,Plastic,Medium," "," ","Moderate to strong",Medium," ",100
+" "," "," "," "," "," "," "," "," ",4
+" "," "," "," "," "," "," "," "," ",3
+" ",Friable," ",Medium," "," ",Weak,Fine," ",0
+" "," "," ",Coarse," "," ",Weak,Fine," ",4
+" ",Firm,Slightly,Medium," "," ",Weak,Fine," ",20
+" ",Firm,Plastic,Medium," "," ","Weak to moderate",Fine," ",28
+" ",Firm,Plastic,Coarse," "," ","Weak to moderate",Medium," ",35
+" ",Firm,Plastic,Coarse," "," ",Weak,Medium," ",42
+" ",Firm,Plastic,Medium," "," ",Weak,Medium," ",83
+Hard,Friable," "," "," "," ",Moderate,Medium," ",0
+Hard,Firm," "," "," "," ",Moderate,Coarse," ",15
+" ",Firm," "," "," "," ",Moderate,Medium," ",48
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",0
+" ",Friable," "," "," "," ",Weak,Medium," ",18
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",25
+" ","Very firm"," "," "," "," "," "," "," ",33
+" ",Friable," "," "," "," ",Weak,Coarse," ",43
+" ",Loose," ",Medium," "," "," "," "," ",61
+" ","Very friable"," "," "," "," ",Strong,Medium," ",0
+" ",Friable," "," "," "," ",Moderate,Fine," ",2
+"Very hard",Friable," "," "," "," ","Moderate to strong",Fine," ",17
+" ",Friable," "," "," "," ","Weak to moderate",Fine," ",32
+" ",Firm," "," "," "," ","Moderate to strong",Fine," ",45
+" ","Very firm"," "," "," "," ",Moderate,Fine," ",56
+" ","Very firm"," "," "," "," ",Moderate,Fine," ",80
+" "," "," "," "," "," "," "," "," ",8
+" "," "," "," "," "," "," "," "," ",6
+" "," "," "," "," "," "," "," "," ",5
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ","Very friable",Slightly," "," "," ",Moderate,Fine," ",5
+" "," "," "," "," "," ",Strong,"Fine to medium"," ",20
+" ",Firm," ",Medium," "," ",Strong,Medium," ",32
+" ",Friable," "," "," "," ",Moderate,Medium," ",47
+" "," "," "," "," "," "," "," "," ",6
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",6
+" ",Firm," "," "," "," ",Moderate,Medium," ",25
+" ",Loose," "," "," "," "," "," "," ",51
+" ",Firm," "," "," "," ",Strong,Coarse," ",76
+Soft," "," "," "," "," ",Strong,Medium," ",0
+" "," "," "," "," "," ","Moderate to strong",Fine," ",11
+" ",Friable," "," "," "," ",Moderate,Fine," ",26
+" ",Friable," "," "," "," ",Moderate,Fine," ",38
+" ",Friable," "," "," "," ",Moderate,Fine," ",48
+" ",Firm," "," "," "," ",Moderate,Fine," ",60
+" ",Firm," "," "," "," ",Moderate,Fine," ",75
+" "," "," "," "," "," "," "," "," ",2
+" ",Friable," "," "," "," ",Moderate,Medium," ",0
+" ","Very friable"," "," "," "," ","Moderate to strong",Fine," ",7
+" ",Friable," "," "," "," ",Moderate,Fine," ",22
+" ",Firm," "," "," "," ",Moderate,Medium," ",30
+" ","Very firm"," "," "," "," "," ",Medium," ",37
+" "," "," "," "," "," "," "," "," ",4
+" ",Friable," "," "," "," ",Moderate,Fine," ",0
+" ",Friable," "," "," "," ",Strong,Medium," ",5
+" ",Friable," "," "," "," ",Strong,Medium," ",20
+" ",Firm," "," "," "," ",Moderate,Fine," ",26
+" ",Firm," "," "," "," ",Moderate,Medium," ",41
+" ",Friable," "," "," "," ",Weak,Medium," ",0
+" ","Very friable"," "," "," "," ",Strong,Medium," ",7
+" ","Very friable"," "," "," "," ",Weak,Coarse," ",23
+" "," "," "," "," "," ",Moderate,Coarse," ",41
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," "," "," "," ",4
+" "," "," "," "," "," "," "," "," ",2
+" ",Friable," "," "," "," ","Weak to moderate",Fine," ",0
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",10
+" ",Friable," "," "," "," ","Weak to moderate",Medium," ",30
+" "," "," "," "," "," ","Moderate to strong",Coarse," ",43
+" "," "," "," "," "," "," "," "," ",5
+" ",Friable," "," "," "," ",Strong,Coarse," ",0
+" ","Very friable"," "," "," "," ",Strong,Coarse," ",10
+" ",Loose," "," "," "," ",None," "," ",26
+" ","Very friable"," "," "," "," ",Weak,Fine," ",44
+" ",Friable," "," "," "," ",Weak,Medium," ",0
+" ","Very friable"," "," "," "," ",Strong,Medium," ",7
+" ","Very friable"," "," "," "," ",Weak,Coarse," ",23
+" ","Very friable"," "," "," "," ",Strong,Medium," ",0
+" ","Very friable"," "," "," "," ",Weak,Fine," ",13
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",17
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",19
+" ",Friable," "," "," "," ",Weak,Medium," ",45
+" ",Firm," "," "," "," "," "," "," ",60
+" "," "," "," "," "," "," "," "," ",8
+" ","Very friable"," "," "," "," ",Weak,Medium," ",0
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",12
+" ","Very friable"," "," "," "," ",Weak,Medium," ",30
+" ",Loose," "," "," "," "," "," "," ",44
+" "," "," ",Medium," "," "," "," "," ",64
+" ","Very friable"," "," "," "," ",Strong,Medium," ",0
+" ",Friable," "," "," "," ",Weak,Medium," ",14
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",14
+" ","Very firm"," "," "," "," "," "," "," ",20
+" ",Firm," "," "," "," "," "," "," ",30
+" ",Loose," "," "," "," "," "," "," ",48
+" ",Friable," "," "," "," ",Moderate,Fine," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",17
+" ",Friable," "," "," "," ",Moderate,Medium," ",28
+" ",Loose," "," "," "," "," "," "," ",42
+" "," "," "," "," "," "," "," "," ",6
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ",Strong,Fine," ",3
+" ","Very friable"," "," "," "," ",Weak,Medium," ",5
+" ",Friable," "," "," "," ",Weak,Fine," ",30
+" ",Firm," "," "," "," ",Strong,Medium," ",43
+" ",Firm," "," "," "," ",Moderate,Coarse," ",75
+" "," "," "," "," "," "," "," "," ",8
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Strong,Fine," ",8
+" ",Friable," "," "," "," ",Moderate,Fine," ",25
+" ",Firm," "," "," "," ",Moderate,Fine," ",46
+" ",Firm," "," "," "," ",Moderate,Medium," ",61
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",15
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",22
+" ",Firm," "," "," "," ",Strong,Medium," ",36
+" ","Very firm"," "," "," "," ",Strong,Coarse," ",50
+" ","Very firm"," "," "," "," ",Strong,Coarse," ",75
+" ","Very firm"," "," "," "," ",Strong,Coarse," ",100
+" "," "," "," "," "," "," "," "," ",150
+" ",Friable," "," "," "," ",Strong,Fine," ",0
+" ","Very friable"," "," "," "," ",Strong,Medium," ",5
+" ",Friable," "," "," "," ",Strong,Fine," ",20
+" ","Very firm"," ",Fine," "," ",Strong,Medium," ",38
+" ","Very firm"," "," "," "," ",Strong,Coarse," ",55
+" ","Very firm"," "," "," "," ",Strong,Coarse," ",112
+" "," "," "," "," "," "," "," "," ",4
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ",Moderate,Coarse," ",10
+" ",Loose," "," "," "," "," "," "," ",38
+" "," "," "," "," "," "," "," "," ",41
+" ","Very friable"," "," "," "," ",Moderate,Coarse," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",15
+" ",Friable," "," "," "," ",Moderate,Medium," ",16
+" ",Firm," "," "," "," ",Strong,Medium," ",38
+" ","Very firm"," "," "," "," ",Strong,Medium," ",68
+" ",Firm," "," "," "," "," "," "," ",90
+" "," "," "," "," "," "," "," "," ",8
+" ",Friable," "," "," "," ",Moderate,Fine," ",0
+" ","Very friable"," "," "," "," ",Strong,Coarse," ",5
+" ","Very friable"," "," "," "," ",Strong,Medium," ",36
+" ",Firm," ",Coarse," "," ",Moderate,Fine," ",47
+" ","Very firm"," "," "," "," ",Strong,Coarse," ",53
+" ","Very firm"," "," "," "," ",Strong,Coarse," ",80
+" "," "," "," "," "," "," "," "," ",8
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",0
+" ","Very friable"," "," "," "," ",Strong,Coarse," ",12
+" ","Very friable"," "," "," "," ",Strong,Medium," ",14
+" ",Friable," "," "," "," ",Moderate,Coarse," ",35
+" ","Very firm"," "," "," "," ",Strong,Coarse," ",50
+" ",Friable," "," "," "," ",Strong,Medium," ",0
+" ","Very firm"," ",Medium," "," ",Strong,Medium," ",20
+" ","Very firm"," "," "," "," ",Strong,Coarse," ",46
+" ","Very firm"," "," "," "," ",Strong,Coarse," ",75
+" "," "," "," "," "," "," "," "," ",8
+" ",Firm," "," "," "," ",Strong,Fine," ",0
+" ",Friable," "," "," "," ",Strong,Fine," ",9
+" ",Friable," "," "," "," ",Strong,"Fine to medium"," ",30
+" ",Friable," ",Coarse," "," ",Moderate,Medium," ",41
+" ","Very firm"," "," "," "," ",Strong,"Fine to medium"," ",55
+" ",Firm," "," "," "," ",Strong,Medium," ",92
+" ","Very friable"," "," "," "," ",Strong,Medium," ",0
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",18
+" ",Friable," "," "," "," ",Moderate,Medium," ",28
+" ",Friable," "," "," "," ",Weak,Medium," ",42
+" ",Firm," ",Medium," "," ",Moderate,Coarse," ",75
+" "," "," "," "," "," "," "," "," ",2
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",4
+" ","Very friable"," "," "," "," ",Moderate,Coarse," ",12
+" ",Loose," "," "," "," "," "," "," ",38
+" ",Loose," "," "," "," "," "," "," ",90
+" "," "," "," "," "," "," "," "," ",5
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",0
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",8
+" ","Very friable"," "," "," "," ",Weak,Fine," ",20
+" ",Friable," "," "," "," ",Weak,Fine," ",30
+" ",Firm," "," "," "," "," "," "," ",50
+" "," "," "," "," "," "," "," "," ",4
+" ",Friable," "," "," "," ",Moderate,Medium," ",0
+" ","Very friable"," "," "," "," ",Strong,Medium," ",7
+" ",Friable," "," "," "," ",Moderate,Medium," ",25
+" ",Firm," ",Medium," "," ",Weak,Medium," ",48
+" ","Very firm"," "," "," "," ",Moderate,Coarse," ",84
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",0
+" ","Very friable"," "," "," "," ",Strong,Fine," ",15
+" ",Friable," "," "," "," ",Weak,Fine," ",39
+" ","Very firm"," "," "," "," ",Moderate,Medium," ",63
+" "," "," "," "," "," "," "," "," ",7
+" ",Friable," ",Coarse," "," ",Moderate,Fine," ",0
+" ",Friable," ",Fine," "," ",Strong,Fine," ",7
+" ","Very firm"," ",Coarse," "," ",Strong,Medium," ",16
+" ","Very firm"," ",Fine," "," ",Moderate,Coarse," ",55
+" "," "," "," "," "," "," "," "," ",4
+" ",Friable," "," "," "," ",Moderate,Medium," ",0
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",5
+" ",Firm," "," "," "," ",Moderate,Medium," ",35
+" ","Very firm"," "," "," "," ",Strong,Medium," ",60
+" ",Friable," "," "," "," ",Strong,Coarse," ",0
+" ","Very friable"," "," "," "," ",Strong,Medium," ",15
+" ",Firm," ",Medium," "," ",Strong,Fine," ",28
+" ","Very firm"," "," "," "," ",Strong,Coarse," ",38
+" ","Very firm"," "," "," "," ",Moderate,Medium," ",105
+" "," "," "," "," "," "," "," "," ",4
+" ","Very friable"," "," "," "," ",Weak,Medium," ",0
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",13
+" ",Friable," "," "," "," ",Weak,Medium," ",27
+" ",Friable," "," "," "," ",Weak,Coarse," ",45
+" "," "," "," "," "," "," "," "," ",6
+" ","Very friable"," "," "," "," ",Weak,Medium," ",0
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",10
+" ",Friable," "," "," "," ",Weak,Medium," ",27
+" ",Firm," "," "," "," ",Moderate,"Fine to medium"," ",41
+" ",Firm," "," "," "," ",Moderate,Medium," ",58
+" ","Very firm"," "," "," "," ",Strong,Medium," ",102
+" "," "," "," "," "," "," "," "," ",4
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",0
+" ","Very friable"," "," "," "," ",Strong,Fine," ",7
+" ",Friable," "," "," "," ",None," "," ",45
+" ","Very friable"," "," "," "," ",Strong,Fine," ",0
+" ","Very friable"," "," "," "," ",Strong,Fine," ",15
+" ","Very firm"," "," "," "," ",Moderate,Coarse," ",45
+" ","Very friable"," "," "," "," ",Strong,Medium," ",0
+" ","Very friable"," "," "," "," ",Strong,Fine," ",17
+" ",Loose," "," "," "," "," "," "," ",40
+" ",Loose," "," "," "," "," "," "," ",65
+" ",Friable," "," "," "," ",Strong,Medium," ",0
+" ","Very friable"," "," "," "," ",Strong,Medium," ",20
+" ",Friable," "," "," "," ",Moderate,Medium," ",31
+" ","Very firm"," "," "," "," ",Moderate,Medium," ",37
+" "," "," "," "," "," "," "," "," ",8
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",0
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",3
+" ",Firm," "," "," "," ",Moderate,Coarse," ",16
+" ",Firm," "," "," "," ",Moderate,Medium," ",37
+" ","Very firm"," "," "," "," ",Moderate,Coarse," ",61
+" ","Very friable"," "," "," "," ",Strong,Medium," ",0
+" ","Very friable"," "," "," "," ",Weak,Medium," ",15
+" ",Friable," "," "," "," ",Weak,Medium," ",27
+" ",Friable," "," "," "," ",Weak,Medium," ",39
+" ","Very firm"," ",Medium," "," ",Strong,Coarse," ",47
+" ","Very firm"," ",Medium," "," ",Moderate,Fine," ",76
+" ","Very friable"," "," "," "," ",Strong,"Fine to medium"," ",0
+" ",Friable," "," "," "," ",Strong,Fine," ",15
+" ",Firm," "," "," "," ",Moderate,Fine," ",40
+" "," "," "," "," "," "," "," "," ",50
+" ","Very friable"," "," "," "," ",Strong,Fine," ",0
+" ",Friable," "," "," "," ",Moderate,Medium," ",17
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",17
+" ",Firm," "," "," "," ",Moderate,Fine," ",39
+" ",Firm," "," "," "," "," "," "," ",51
+" "," "," "," "," "," "," "," "," ",5
+" ",Friable," "," "," "," ",Moderate,Medium," ",0
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",8
+" ",Friable," ",Medium," "," ",Moderate,Medium," ",30
+" ",Friable," ",Medium," "," ",Weak,Coarse," ",45
+" "," "," "," "," "," "," "," "," ",2
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ",Strong,Medium," ",15
+" ",Firm," "," "," "," ",Weak,Medium," ",30
+" ","Very firm"," "," "," "," ",Moderate,Coarse," ",55
+" "," "," "," "," "," "," "," "," ",3
+" ",Loose," "," "," "," ",None," "," ",0
+" ",Loose," "," "," "," ",None," "," ",4
+" ",Loose," "," "," "," ",None," "," ",15
+" ",Loose," "," "," "," ",None," "," ",27
+" ",Firm," "," "," "," ",Moderate,Coarse," ",0
+" ","Very firm"," ",Coarse," "," ",Weak,Medium," ",7
+" ","Very firm"," ",Coarse," "," ",Weak,Coarse," ",38
+" ",Firm," "," "," "," ",Moderate,Fine," ",53
+" ","Very firm"," "," "," "," ",Strong,Coarse," ",57
+" ",Friable," "," "," "," ","Moderate to strong",Fine," ",0
+" ",Friable," "," "," "," ","Weak to moderate",Medium," ",16
+" ",Firm," ",Fine," "," ",Weak,Medium," ",30
+" ",Firm," "," "," "," ","Weak to moderate",Medium," ",49
+" ",Friable," "," "," "," ",Moderate,Fine," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",16
+" ",Friable," "," "," "," ",Weak,Fine," ",27
+" ","Very firm"," "," "," "," ",Weak,Medium," ",51
+" ",Friable," "," "," "," ",Weak,Fine," ",66
+" "," "," "," "," "," ","Weak to moderate",Medium," ",92
+" "," "," "," "," "," "," "," "," ",3
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ",Friable," ",Fine," "," ",Moderate,Medium," ",7
+" ",Firm," ",Medium," "," ",Moderate,Medium," ",23
+" ",Firm," ",Coarse," "," ",Weak,Coarse," ",38
+" ","Very firm"," "," "," "," ",Weak,Fine," ",46
+" "," "," "," "," "," "," "," "," ",8
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ",Strong,"Fine to medium"," ",4
+" ",Friable," ",Fine," "," ",Moderate,Fine," ",38
+" ",Friable," "," "," "," ",Weak,Fine," ",56
+" ",Friable," "," "," "," ",Moderate,Coarse," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",15
+" ",Firm," ",Medium," "," ",Strong,Fine," ",17
+" ","Very firm"," "," "," "," ",Strong,Medium," ",45
+" ","Very firm"," "," "," "," ",Moderate,Medium," ",120
+" ",Friable," ",Medium," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Strong,Coarse," ",12
+" ",Friable," ",Medium," "," ",Moderate,Fine," ",24
+" ",Firm," ",Medium," "," ",Weak,Medium," ",43
+" ",Friable," ",Medium," "," ",Moderate,Medium," ",0
+" ","Very friable"," ",Fine," "," ",Weak,Medium," ",10
+" ",Friable," ",Coarse," "," ",Weak,Fine," ",28
+" ",Friable," "," "," "," ",Moderate,Medium," ",0
+Hard,Firm," "," "," "," ",Moderate,Coarse," ",15
+Hard,Firm," "," "," "," ",Moderate,Medium," ",48
+" "," "," "," "," "," "," "," "," ",5
+" ","Very friable"," "," "," "," ",Moderate,Coarse," ",0
+" ",Friable," ",Coarse," "," "," "," "," ",14
+" ",Friable," ",Coarse," "," "," "," "," ",24
+" ","Very firm"," ",Coarse," "," "," "," "," ",50
+" "," "," "," "," "," "," "," "," ",7
+" ",Firm," ",Coarse," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Moderate,Medium," ",15
+" ",Firm," ",Coarse," "," ",Moderate,Medium," ",28
+" ","Very firm"," ",Coarse," "," ",Moderate,Coarse," ",38
+" "," "," "," "," "," "," "," "," ",3
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",0
+" ","Very firm"," "," "," "," ",Strong,Medium," ",1
+" ",Friable," "," "," "," ",Moderate,Coarse," ",26
+" ",Firm," "," "," "," ",Weak,Medium," ",35
+" ","Very firm"," ",Coarse," "," ",Moderate,Medium," ",42
+" ","Very friable"," "," "," "," ",Strong,Medium," ",0
+" ","Very friable"," "," "," "," ",Strong,Medium," ",20
+" ","Very friable"," "," "," "," ",Strong,Coarse," ",43
+" ",Friable," "," "," "," ",None," "," ",63
+" ",Friable," "," "," "," ",None," "," ",115
+" "," "," "," "," "," "," "," "," ",7
+" ",Friable," ",Coarse," "," ",Weak,Medium," ",0
+" ",Firm," ",Coarse," "," ",Weak,Medium," ",17
+" ","Very firm"," ",Coarse," "," ",Weak,Coarse," ",43
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",0
+" ","Very friable"," "," "," "," ",Strong,Fine," ",7
+" ","Very firm"," "," "," "," ",Strong,Medium," ",46
+" ",Friable," "," "," "," ",Moderate,Medium," ",0
+" ",Friable," "," "," "," ","Moderate to strong",Medium," ",25
+" ",Firm," "," "," "," ",Weak,Medium," ",33
+" ","Very firm"," "," "," "," ",Moderate,Coarse," ",45
+" ","Very firm"," "," "," "," "," "," "," ",102
+" ",Friable," "," "," "," "," ",Fine,"Fine to medium",0
+" ","Very friable"," "," "," "," "," "," "," ",23
+" ","Very friable"," "," "," "," "," ",Fine,Medium,24
+" ",Friable," "," "," "," "," "," "," ",48
+" ",Firm," "," "," "," "," ","Medium to coarse"," ",67
+" "," "," "," "," "," "," "," "," ",3
+" ",Friable," "," "," "," ","Weak to moderate","Fine to medium"," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",4
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",14
+" ",Firm," "," "," "," ",Moderate,"Medium to coarse"," ",34
+" ",Firm," "," "," "," ","Moderate to strong",Coarse," ",40
+" ",Firm," "," "," "," ","Weak to moderate",Coarse," ",90
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ",Weak,Fine," ",12
+" ",Loose," "," "," "," "," "," "," ",35
+" ",Friable," "," "," "," "," "," "," ",99
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",0
+" ","Very friable"," "," "," "," ","Very weak",Fine," ",15
+" ",Friable," "," "," "," ","Very weak",Medium," ",23
+" ",Friable," "," "," "," "," "," "," ",33
+" ","Very firm"," "," "," "," ",Weak,Coarse," ",50
+" "," "," "," "," "," "," "," "," ",4
+" ","Very friable"," "," "," "," ",Weak,Medium," ",0
+" ","Very friable"," "," "," "," ",Weak,Medium," ",3
+" ",Friable," "," "," "," ",Weak,"Fine to medium"," ",16
+" ",Firm," "," "," "," ",Weak,Medium," ",37
+" ","Very firm"," "," "," "," ",Moderate,Coarse," ",61
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ",Friable," ",Fine," "," ",Weak,Fine," ",5
+" ",Firm," ",Medium," "," ","Weak to moderate",Medium," ",18
+" ","Very firm"," "," "," "," ","Very weak",Coarse," ",30
+" ","Very firm"," "," "," "," "," "," "," ",95
+" ",Friable," "," "," "," ",Moderate,Fine," ",0
+" ","Very firm"," "," "," "," ",Weak,Coarse," ",37
+" "," "," "," "," "," "," "," "," ",75
+" ",Friable," "," "," "," ",Moderate,Fine," ",0
+" ",Firm," "," "," "," ","Weak to moderate",Medium," ",18
+" ","Very firm"," "," "," "," ","Very weak",Coarse," ",50
+" ","Very friable"," "," "," "," ","Very weak",Fine," ",0
+" ","Very friable"," "," "," "," ",Weak,Fine," ",15
+" ",Loose," "," "," "," "," "," "," ",50
+" ",Loose," "," "," "," "," "," "," ",85
+" "," "," "," "," "," "," "," "," ",12
+" ","Very friable"," "," "," "," ","Very weak",Fine," ",0
+" ","Very firm"," ",Fine," "," "," "," "," ",12
+" ",Friable," ",Fine," "," "," "," "," ",30
+" ",Loose," "," "," "," "," "," "," ",70
+" "," "," "," "," "," "," "," "," ",2
+" ","Very friable"," "," "," "," ","Very weak",Fine," ",0
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",7
+" ","Very friable"," "," "," "," ","Very weak",Medium," ",28
+" ",Loose," "," "," "," ",None," "," ",40
+" ",Loose," "," "," "," ",None," "," ",62
+" ",Loose," "," "," "," ",None," "," ",100
+" ",Friable," "," "," "," ","Weak to moderate",Fine," ",0
+" ","Very friable"," "," "," "," ","Very weak",Fine," ",15
+" ","Very friable"," ",Fine," "," ","Weak to moderate",Fine," ",15
+" ",Loose," "," "," "," ",None," "," ",40
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",0
+" ","Very friable"," "," "," "," ","Weak to moderate",Fine," ",15
+" ",Friable," "," "," "," ","Very weak",Medium," ",28
+" ",Firm," "," "," "," ",None," "," ",42
+" "," "," "," "," "," "," "," "," ",1
+" ","Very friable"," "," "," "," ","Very weak",Fine," ",0
+" ","Very friable"," "," "," "," ","Weak to moderate",Fine," ",4
+" ",Loose," "," "," "," ","Very weak",Fine," ",20
+" ",Loose," "," "," "," "," "," "," ",40
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ","Very weak",Fine," ",15
+" ",Friable," "," "," "," ","Weak to moderate",Fine," ",15
+" ",Friable," "," "," "," ",Weak,Medium," ",40
+" "," "," "," "," "," "," "," "," ",1
+" ",Friable," "," "," "," ",Moderate,Medium," ",0
+" ",Friable," "," "," "," ",Strong,Medium," ",1
+" ",Firm," "," "," "," "," ",Coarse," ",7
+" ",Firm," "," "," "," ",Moderate,Fine," ",9
+" ",Firm," "," "," "," ",Weak,Fine," ",20
+" "," "," "," "," "," "," "," "," ",26
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",15
+" ","Very friable"," ",Coarse," "," ",Weak,Fine," ",23
+" ","Very friable"," "," "," "," ","Very weak",Medium," ",50
+" ",Loose," "," "," "," "," "," "," ",70
+" "," "," "," "," "," "," "," "," ",5
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",0
+" ",Friable," "," "," "," ","Very weak",Fine," ",6
+" ","Very friable"," ",Medium," "," ",Moderate,Fine," ",12
+" ","Very firm"," ",Coarse," "," "," "," "," ",12
+" ","Very firm"," ",Medium," "," "," "," "," ",48
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ",Weak,Fine," ",18
+" ","Very firm"," "," "," "," "," "," "," ",25
+" ","Very firm"," "," "," "," "," "," "," ",35
+" ",Loose," "," "," "," "," "," "," ",50
+" ",Friable," "," "," "," ","Weak to moderate",Fine," ",0
+" ",Friable," "," "," "," ",Weak,Medium," ",15
+" ",Firm," "," "," "," ","Weak to moderate",Medium," ",22
+" ","Very firm"," "," "," "," ",Weak,Coarse," ",70
+" ","Very firm"," "," "," "," "," "," "," ",90
+" "," "," "," "," "," "," "," "," ",4
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",10
+" ",Friable," "," "," "," ","Very weak",Fine," ",20
+" ",Firm," "," "," "," "," "," "," ",70
+" "," "," "," "," "," "," "," "," ",2
+" ","Very friable"," "," "," "," ","Very weak","Medium to coarse"," ",0
+" ","Very friable"," "," "," "," ","Very weak","Medium to coarse"," ",4
+" ","Very friable"," "," "," "," ","Very weak",Coarse," ",35
+" "," "," "," "," "," "," "," "," ",4
+" ",Friable," "," "," "," ",Strong,Coarse," ",0
+" ","Very friable"," "," "," "," ",Weak,Medium," ",5
+" ",Firm," "," "," "," ",Strong,Coarse," ",18
+" ","Very firm"," ",Fine," "," ",Strong,Coarse," ",29
+" ","Very firm"," "," "," "," ",Strong,Coarse," ",52
+" ",Friable," "," "," "," ",Strong,Medium," ",0
+" ",Firm," ",Medium," "," ",Strong,Coarse," ",20
+" ",Firm," ",Medium," "," ",Strong,Coarse," ",40
+" ",Firm," "," "," "," ",Strong,Coarse," ",80
+" ","Very friable"," ",Medium," "," ",Moderate,Fine," ",0
+" ","Very friable"," "," "," "," ",Strong,Coarse," ",24
+" ",Friable," "," "," "," ",Moderate,Medium," ",34
+" ",Loose," "," "," "," ",None," "," ",51
+" ","Very firm"," "," "," "," ",Moderate,Coarse," ",58
+" "," "," "," "," "," "," "," "," ",4
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",3
+" ",Friable," "," "," "," ","Weak to moderate",Fine," ",32
+" ",Friable," "," "," "," ",Moderate,Fine," ",0
+" ",Friable," "," "," "," ",Moderate,Fine," ",12
+" ","Very friable"," "," "," "," ",Weak,Fine," ",50
+" ",Friable," "," "," "," ",Weak,Fine," ",75
+" ","Very friable"," ",Coarse," "," ",Weak,Medium," ",0
+Extreme,"Very firm"," ",Coarse," "," ",Moderate,Coarse," ",15
+Extreme,"Very firm"," ",Coarse," "," "," "," "," ",21
+Hard,Firm," "," "," "," "," "," "," ",60
+Hard,Firm," "," "," "," "," "," "," ",76
+" ","Very friable"," "," "," "," ",Weak,"Medium to coarse"," ",0
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",8
+"Very hard","Very firm"," ",Medium," "," "," "," "," ",12
+" ",Friable," "," "," "," "," "," "," ",34
+Hard,Firm," "," "," "," "," "," "," ",60
+Hard,Firm," "," "," "," ",Moderate,Medium," ",96
+" ","Very friable"," "," ",Oblique," ",Weak,Medium," ",0
+" ","Very friable"," "," ",Oblique," ",Weak,Medium," ",19
+" ","Very friable"," "," ",Vertical," ","Very weak",Medium," ",56
+" ","Very friable"," "," ",Vertical," ","Very weak",Fine," ",71
+" ",Friable," ",Coarse,Vertical," ","Very weak",Coarse," ",115
+" ",Loose," "," "," "," "," "," "," ",150
+" ",Friable," "," "," "," ","Very weak",Coarse," ",195
+" "," "," "," "," "," "," "," "," ",3
+" "," "," "," "," "," "," "," "," ",2
+" ",Friable," "," "," "," ",Strong,"Medium to coarse"," ",0
+" ",Friable," ",Coarse," "," ",Weak,Medium," ",5
+" ",Firm," ",Medium," "," ",Strong,Coarse," ",18
+" ",Firm," ",Medium," "," ",Strong," "," ",18
+" ",Firm," "," "," "," ",Strong," "," ",42
+" ","Very friable"," "," "," "," ",Moderate," "," ",0
+" ","Very friable"," "," "," "," "," ",Medium," ",17
+" ",Friable," "," "," "," "," "," "," ",17
+" ",Friable," "," "," "," "," "," "," ",30
+" ",Firm," "," "," "," ",Strong," "," ",54
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," "," "," "," ",4
+" ",Friable," "," "," "," ",Strong,Medium," ",0
+" ",Friable," "," "," "," ",Strong,Medium," ",2
+" ",Friable," "," "," "," ",Strong," "," ",15
+" ",Firm," "," "," "," "," "," "," ",27
+" ",Firm," "," "," "," ",Strong," "," ",39
+Soft," "," "," "," "," "," "," "," ",8
+" ",Friable," "," "," "," ",Weak,Coarse," ",0
+" ",Firm," ",Coarse," "," "," "," "," ",25
+" ","Very firm"," ",Coarse," "," "," "," "," ",57
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",0
+" ","Very friable"," "," "," "," ",Weak,Fine," ",7
+" ","Very friable"," "," "," "," ",Weak,Fine," ",7
+" ",Firm," "," "," "," ",Weak,Medium," ",28
+" ",Firm," "," "," "," "," "," "," ",56
+" ",Friable," "," "," "," ",Moderate,Medium," ",0
+" ","Very friable"," "," "," "," ",Weak,Fine," ",15
+" ",Friable," "," "," "," ",Moderate,Medium," ",15
+" ",Friable," ",Medium," "," ",Weak,Medium," ",45
+" ",Firm," "," "," "," ",Moderate,Coarse," ",60
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",0
+" ","Very friable"," "," "," "," ","Very weak",Fine," ",20
+" ",Friable," "," "," "," ",None," "," ",58
+" "," "," "," "," "," "," "," "," ",5
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",0
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",8
+" ",Friable," ",Fine," "," ",Weak,Medium," ",19
+" ",Firm," "," "," "," ",Moderate,Medium," ",28
+"Very hard","Very firm"," "," "," "," ",Moderate,Coarse," ",37
+" ",Friable," ",Fine," "," ",Moderate,Medium," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",25
+" ",Firm," ",Fine," "," ",Moderate,Medium," ",27
+"Very hard","Very firm"," ",Fine," "," "," "," "," ",44
+"Very hard","Very firm"," ",Fine," "," "," "," "," ",69
+Hard,"Very firm"," "," "," "," "," "," "," ",135
+" ",Friable," ",Fine," "," ",Moderate,"Fine to medium"," ",0
+" ","Very friable"," ",Fine," "," "," "," "," ",16
+" ","Very friable"," ",Medium," "," ","Very weak","Very fine"," ",29
+" ",Firm," ",Coarse," "," "," "," "," ",35
+" ",Firm," ",Medium," "," "," "," "," ",63
+" ",Friable," ",Medium," "," ","Weak to moderate",Fine," ",0
+" ",Friable," ",Medium," "," ",Moderate,Medium," ",18
+" ","Very firm",Plastic," "," "," ","Moderate to strong",Medium," ",30
+" ",Firm,Plastic,Medium," "," ",Weak,Coarse," ",85
+" ","Very friable"," "," "," "," ",Moderate,"Fine to medium"," ",0
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",18
+" ",Friable," "," "," "," ",Moderate,Medium," ",30
+" ",Firm," "," "," "," ",Weak,Fine," ",36
+"Very hard","Very firm"," "," "," "," "," "," "," ",40
+"Very hard","Very firm"," "," "," "," "," "," "," ",50
+"Very hard","Very firm"," "," "," "," "," "," "," ",65
+"Very hard","Very firm"," "," "," "," "," "," "," ",77
+" "," "," "," "," "," "," "," "," ",4
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ",Friable," ",Fine," "," ",Weak,Fine," ",13
+" ",Friable," ",Fine," "," ","Very weak",Fine," ",23
+" ",Loose," "," "," "," ","Very weak",Fine," ",30
+" "," "," "," "," "," "," "," "," ",2
+" ",Friable," "," "," "," ",Weak,"Fine to medium"," ",0
+" ","Very friable"," "," "," "," ",Weak,Fine," ",11
+" ","Very friable"," ",Fine," "," ",Weak,"Fine to medium"," ",17
+" ",Loose," "," "," "," "," "," "," ",24
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",0
+" ",Friable," "," "," "," ",Moderate,Fine," ",17
+" ",Friable," ",Medium," "," ",Weak,"Fine to medium"," ",23
+Hard,Firm," ",Fine," "," ",Moderate,"Fine to medium"," ",35
+"Very hard","Very firm"," ",Fine," "," "," "," "," ",45
+Hard,"Very firm"," "," "," "," "," "," "," ",80
+" "," "," "," "," "," "," "," "," ",3
+" ",Loose," "," "," "," "," "," "," ",0
+" ","Very friable"," "," "," "," ","Weak to moderate",Coarse," ",11
+" ",Loose," "," "," "," "," "," "," ",19
+" ","Very firm"," "," "," "," "," "," "," ",32
+" ",Firm," "," "," "," "," "," "," ",56
+" ",Loose," "," "," "," "," "," "," ",92
+" "," ",Nonplastic," ",Vertical," ",Moderate,Medium," ",0
+" ","Very friable",Nonplastic," ",Vertical," "," "," "," ",24
+" ",Friable," "," ",Vertical," ",Moderate,"Fine to medium"," ",30
+" "," "," "," ",Vertical," ",Moderate,Medium," ",46
+" "," "," "," ",Vertical," ",Moderate,"Medium to coarse"," ",60
+" "," "," ",Medium,Vertical," ",Moderate,"Medium to coarse"," ",85
+" "," "," "," "," "," "," "," "," ",3
+" ",Friable," "," "," "," ",Moderate,Fine," ",0
+" ",Friable," "," "," "," ",Weak,Medium," ",3
+" ",Friable," "," "," "," ",Moderate,Fine," ",6
+" ",Friable," "," "," "," ",Moderate,Coarse," ",10
+" ",Firm," "," "," "," ",Moderate,Fine," ",15
+" ",Firm," "," "," "," ",Moderate,Medium," ",27
+" "," "," "," "," "," "," "," "," ",43
+" ",Friable,Slightly,Fine," "," ",Moderate,Medium," ",0
+" ",Friable,Slightly,Medium," "," ",Moderate,Medium," ",19
+" "," ",Slightly,Medium," "," ",Moderate,Medium," ",30
+" ",Firm,Plastic,Medium," "," ",Strong,Medium," ",43
+" ",Firm,Slightly," "," "," ",Weak,Medium," ",55
+" "," ",Slightly," "," "," ",None,Medium," ",70
+" "," ",Slightly," "," "," ",Weak,Medium," ",82
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," "," "," "," ",4
+" "," ",Plastic," "," "," ",Strong," "," ",3
+"Slightly hard",Firm,Plastic," "," "," ",Weak,Medium," ",0
+" ",Friable,Slightly,Fine," "," "," ",Fine," ",5
+Loose,Friable,Slightly,Fine," "," ","Weak to moderate",Medium," ",13
+" ",Friable,Slightly,Medium," "," ",Weak,Medium," ",28
+" ",Friable,Slightly,Medium," "," ",Weak,Fine," ",38
+" ",Friable,Plastic," "," "," "," ",Coarse," ",76
+" ","Very friable"," "," ",Vertical," ",Weak,Fine," ",0
+" ","Very friable"," ",Fine,Vertical," ","Very weak",Fine," ",18
+" ","Very friable"," "," ",Vertical," ",Weak,"Fine to medium"," ",23
+" ",Loose," "," ",Vertical," "," "," "," ",38
+" ",Loose," "," ",Vertical," "," "," "," ",55
+" "," "," "," "," "," "," "," "," ",8
+" "," "," "," "," "," "," "," "," ",6
+" ",Friable,Nonplastic," "," "," ",Weak,Medium," ",1
+" ",Friable," "," "," "," "," ",Medium," ",0
+" ",Friable," "," "," "," ",Moderate,Medium," ",8
+" ",Friable," "," "," "," ",Moderate,Medium," ",13
+Soft,"Very friable"," "," "," "," ",Weak,Medium," ",33
+" ","Very friable"," "," "," "," ",Weak,Medium," ",46
+" ",Loose," "," "," "," "," ",Fine," ",56
+" "," "," "," "," "," "," "," "," ",5
+" ",Friable,Plastic," "," "," ",Moderate,Fine," ",0
+Loose,"Very friable",Plastic," "," "," ",Strong,Medium," ",5
+Soft,Friable," "," "," "," ",Strong,Medium," ",9
+" ",Firm,Slightly," "," "," ",Moderate,Coarse," ",19
+Hard,Firm,Plastic," "," "," ",Strong," "," ",33
+Hard,Firm,Plastic," "," "," ",Strong," "," ",53
+Hard," ",Plastic," "," "," ",None," "," ",90
+" "," ",Plastic," "," "," ",None," "," ",120
+" "," "," "," "," "," "," "," "," ",6
+" ",Friable," ",Fine," "," "," "," "," ",84
+" ",Firm," "," "," "," "," "," "," ",102
+" ",Firm," "," "," "," "," "," "," ",122
+" "," "," "," "," "," "," "," "," ",5
+" ",Loose," "," "," "," "," "," "," ",4
+" ",Firm," "," "," "," ",Moderate,Medium," ",0
+" ",Friable,Nonplastic,Coarse," "," ",Weak," "," ",3
+" "," "," ",Fine," "," ",Moderate,Medium," ",5
+" ",Firm," ",Fine," "," ",Moderate,Fine," ",20
+" ",Firm," ",Fine," "," ",Moderate,Medium," ",36
+" "," "," ",Medium," "," "," "," "," ",61
+" "," "," "," "," "," "," "," "," ",4
+" "," "," "," "," "," "," "," "," ",3
+" "," "," "," "," "," "," "," "," ",1
+" ",Friable," "," "," "," ",Moderate,Medium," ",0
+" ","Very friable"," "," "," "," ",Moderate,"Medium to coarse"," ",4
+" ","Very friable"," "," "," "," ",Weak,Coarse," ",12
+" ",Friable," ",Fine," "," ",Moderate,"Fine to medium"," ",22
+" ",Firm," ",Medium," "," "," "," "," ",39
+" ",Firm," "," "," "," "," "," "," ",61
+" "," "," "," "," "," "," "," "," ",1
+" ",Friable,Plastic," "," "," ",Moderate,Coarse," ",0
+" ",Friable,Plastic,Fine," "," ",Weak,"Fine to medium"," ",8
+" "," ",Plastic,Coarse," "," ",Weak,Fine," ",15
+Hard,Firm,Plastic,Coarse," "," "," ",Fine," ",28
+Hard," ",Plastic,Fine," "," ",Weak,Medium," ",38
+" "," "," ",Medium," "," ",Moderate,Fine," ",66
+Hard," ",Plastic,Fine," "," "," "," "," ",76
+" ","Very friable"," "," ",Vertical," ",Weak,Fine," ",0
+" ","Very friable"," ",Fine,Vertical," ","Very weak",Fine," ",18
+" ","Very friable"," "," ",Vertical," ",Weak,Fine,Medium,23
+" ",Loose," "," ",Vertical," "," "," "," ",38
+" ",Loose," "," ",Vertical," "," "," "," ",55
+" "," "," "," "," "," "," "," "," ",6
+" ","Very friable"," "," ",Horizontal," ",Weak,Coarse," ",0
+" ","Very friable"," ",Coarse,Horizontal," ",Weak,Coarse," ",5
+" ","Very friable"," ",Medium,Horizontal," ",Moderate,"Fine to medium"," ",15
+" ",Firm," "," ",Vertical," ",Moderate,Medium," ",24
+" ","Very firm",Slightly," ",Vertical," ",Strong,"Medium to coarse"," ",31
+" ","Very firm","Very plastic"," ",Vertical," ",Strong,"Medium to coarse"," ",54
+" ","Very firm","Very plastic"," ",Vertical," ",Strong,Coarse," ",86
+" "," "," "," ",Random," "," "," "," ",2
+" ","Very friable"," ",Medium,Horizontal," ",Weak,"Fine to medium"," ",0
+" ","Very friable"," "," ",Horizontal," ",Weak,Fine," ",9
+" ","Very friable"," "," ",Vertical," ","Very weak",Fine," ",27
+" ","Very friable"," ",Fine,Vertical," ",Weak,Fine," ",46
+" ",Friable," "," ",Vertical," ",Weak,Fine," ",67
+" ","Very friable"," "," ",Vertical," ",Weak,"Fine to medium"," ",0
+" ","Very friable"," ",Medium,Vertical," ","Very weak",Coarse," ",25
+" ","Very friable"," ",Medium,Vertical," ","Very weak","Medium to coarse"," ",37
+" ",Loose," ",Medium,Vertical," ","Very weak",Coarse," ",56
+" ","Very friable"," ",Medium,Vertical," ","Very weak",Medium," ",80
+" "," "," "," ",Horizontal," "," "," "," ",3
+" ","Very friable"," "," ",Horizontal," ",Weak,Fine," ",0
+" ","Very friable"," "," ",Horizontal," ",Weak,Medium," ",5
+" ","Very friable"," ",Medium,Vertical," ","Very weak",Fine," ",10
+" ",Firm," "," ",Vertical," ",Strong,Medium," ",25
+" ","Very firm"," "," "," "," ",Strong,Coarse," ",46
+" ","Very friable"," "," ",Vertical," ",Moderate,"Fine to medium"," ",0
+" ","Very friable"," ",Medium," "," ",Weak,Medium," ",18
+" ","Very friable"," ",Medium,Vertical," ",Weak,"Medium to coarse"," ",18
+" ","Very friable"," ",Coarse,Vertical," ","Very weak",Coarse," ",26
+" ","Very friable"," "," ",Vertical," ",Weak,"Fine to medium"," ",37
+" ","Very friable"," "," ",Vertical," ","Weak to moderate",Medium," ",51
+" ","Very firm"," "," "," "," ",Strong,Coarse," ",68
+" ","Very firm",Plastic," "," "," ",Strong,"Medium to coarse"," ",76
+" "," "," "," ",Random," "," "," "," ",4
+" "," "," "," ",Random," "," "," "," ",1
+" ",Friable," ",Medium,Vertical," ","Weak to moderate",Medium," ",0
+" ","Very friable"," ",Fine,Horizontal," ",Moderate,Fine," ",5
+" ","Very friable"," ",Fine,Vertical," ","Weak to moderate",Coarse," ",17
+" ",Firm," "," ",Vertical," ","Moderate to strong","Medium to coarse"," ",28
+" ","Very firm"," "," ",Vertical," ",Strong,Coarse," ",39
+" ","Very firm"," "," ",Vertical," "," "," "," ",60
+" "," "," "," ",Random," "," "," "," ",6
+" "," "," "," ",Horizontal," "," "," "," ",2
+" ",Friable," "," ",Horizontal," ","Moderate to strong","Fine to medium"," ",0
+" ","Very friable"," ",Fine,Random," ","Weak to moderate",Fine," ",2
+" ",Friable,Plastic," ",Horizontal," ",Strong,"Fine to medium"," ",7
+" ","Very firm",Plastic,Medium,Vertical," ",Strong,"Medium to coarse"," ",19
+" ","Very firm",Plastic," ",Vertical," ",Strong,Coarse," ",39
+" ",Firm,Plastic," "," "," ",Strong,Fine," ",60
+" "," "," "," "," "," "," "," "," ",120
+Loose,Friable,Nonplastic," ",Vertical," ",Moderate,Medium," ",0
+Loose,Friable," "," ",Vertical," ",Weak,Fine," ",18
+Loose,Friable," "," ",Vertical," ",Moderate,Medium," ",28
+Loose," ",Plastic," ",Vertical," ",Strong,Medium," ",35
+" "," "," "," "," "," "," "," "," ",4
+" ","Very firm",Plastic," "," "," "," ",Coarse," ",71
+" "," "," "," "," "," "," "," "," ",4
+" "," "," "," "," "," ",Weak,Fine," ",1
+" "," "," "," "," "," ",Strong,Coarse," ",0
+" ",Friable,Plastic," "," "," ",Moderate,Medium," ",0
+" ","Very friable",Plastic," "," "," ",Strong,Fine," ",4
+"Slightly hard",Friable,Plastic," "," "," ",Weak,Fine," ",20
+" ",Firm,Plastic," "," "," "," ",Fine," ",25
+" ",Firm,Plastic," "," "," "," ",Medium," ",29
+" "," "," "," "," "," "," "," "," ",4
+Loose,Friable,Nonplastic," "," "," "," "," "," ",60
+" "," "," "," "," "," "," "," "," ",3
+" "," ",Slightly," "," "," "," ",Fine," ",1
+Soft,Firm,Slightly," "," "," ",Weak,Fine," ",0
+Loose," ",Slightly," "," "," ",Weak,Fine," ",4
+Soft,Friable,Slightly," "," "," ",Weak,Fine," ",6
+Soft,Friable,Slightly," "," "," ",Weak,Medium," ",10
+Soft,Friable,Slightly," "," "," ",Weak,Medium," ",23
+Loose,Firm,Nonplastic," "," "," ",Weak," "," ",28
+" "," "," "," "," "," "," "," "," ",20
+" "," "," "," "," "," "," "," "," ",20
+" ",Loose,Slightly," "," "," ",Weak," "," ",0
+" "," "," "," "," "," "," "," "," ",13
+" "," "," "," "," "," "," "," "," ",25
+" "," "," "," "," "," "," "," "," ",23
+" "," "," "," "," "," ",None," "," ",20
+" ",Loose," "," "," "," ",Weak,"Medium to coarse"," ",0
+" "," ",Slightly,Fine," "," ",Weak,"Medium to coarse"," ",18
+Hard," "," "," "," "," ",None," "," ",25
+" "," ",Slightly," "," "," ",None," "," ",30
+" "," ",Slightly," "," "," "," "," "," ",55
+" ",Friable," "," "," "," ",Moderate,Fine," ",0
+" ",Friable," "," "," "," ",Strong,Medium," ",2
+" ",Firm," "," "," "," ",Moderate,Fine," ",5
+" ",Firm," "," "," "," ",Moderate,Fine," ",17
+" "," "," "," "," "," ",Moderate," "," ",27
+" "," "," "," "," "," "," "," "," ",36
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," "," "," "," ",4
+" "," "," "," "," "," ",Strong,Coarse," ",3
+"Slightly hard",Firm,Slightly," "," "," ",Weak," "," ",0
+" ",Loose,Slightly," "," "," ",Strong,Fine," ",5
+Soft,Friable,Slightly," "," "," ",Moderate,Fine," ",13
+" ",Loose,Plastic," "," "," "," ","Fine to medium"," ",23
+" ",Firm,Plastic," "," "," ",Weak,Coarse," ",38
+" "," "," "," "," "," "," "," "," ",15
+" "," "," "," "," "," "," "," "," ",14
+" "," "," "," "," "," "," "," "," ",10
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," "," "," "," ",0
+" ",Firm,Slightly,Fine," "," ",Weak," "," ",5
+" ",Firm," ",Medium," "," "," ",Coarse," ",20
+" ",Firm," ",Coarse," "," "," "," "," ",36
+" "," "," "," "," "," "," "," "," ",0
+Soft," ",Nonplastic," "," "," ",Moderate,Medium," ",0
+" "," ",Slightly,Fine," "," ",None," "," ",20
+" "," ",Slightly," "," "," ",None," "," ",43
+" "," ",Slightly,Coarse," "," ",None," "," ",64
+" "," "," "," "," "," ",None," "," ",76
+" "," "," "," "," "," "," "," "," ",25
+" "," "," "," "," "," "," "," "," ",24
+" "," "," "," "," "," "," "," "," ",23
+"Slightly hard",Firm,Slightly,Fine," "," "," ",Coarse," ",0
+"Slightly hard",Firm,Slightly," "," "," "," ",Coarse," ",4
+" ",Loose,Slightly,Medium," "," ",Moderate,Coarse," ",6
+" ",Loose,Slightly," "," "," ",Weak," "," ",19
+" "," "," "," "," "," "," "," "," ",28
+" "," "," "," "," "," "," "," "," ",25
+" "," "," ",Medium," "," ",Moderate,Medium," ",0
+" ",Firm,Slightly,Medium," "," ",Weak,Fine," ",15
+" "," ",Plastic,Fine," "," ",Weak,Medium," ",41
+" "," "," "," "," "," "," "," "," ",13
+" "," "," "," "," "," "," "," "," ",11
+" "," "," "," "," "," ",Strong,Medium," ",8
+" ",Firm," "," "," "," "," "," "," ",0
+Soft,Friable," "," "," "," "," ",Fine," ",3
+Soft,Friable," "," "," "," ",Strong,Fine," ",5
+" "," "," "," "," "," ",Moderate,Fine," ",25
+Loose," "," "," "," "," "," "," "," ",48
+" "," "," "," "," "," "," "," "," ",6
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," ",Strong," "," ",3
+Soft," ",Slightly," "," "," "," ","Fine to medium"," ",0
+" ",Loose,Slightly," "," "," ",Weak,Fine," ",10
+Soft,Firm,Slightly," "," "," ",Weak,Fine," ",25
+Loose," "," "," "," "," "," "," "," ",38
+" ",Firm," "," "," "," "," "," "," ",43
+" "," "," "," "," "," "," ",Fine,Coarse,75
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," "," "," "," ",4
+" "," ",Plastic," "," "," ",Strong,Medium," ",3
+" ",Friable," ",Medium," "," ",Weak," "," ",0
+" ",Friable," ",Medium," "," ",Moderate,Fine," ",10
+" "," "," ",Coarse," "," ",Moderate,Fine," ",23
+" ","Very firm"," ",Medium," "," "," "," "," ",35
+" ",Loose," ",Medium," "," "," "," "," ",60
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," "," "," "," ",4
+" "," "," "," "," "," "," "," "," ",3
+" "," "," "," "," "," ",Strong,Fine," ",0
+"Slightly hard",Friable," "," "," "," "," ",Fine," ",3
+" ",Loose," "," "," "," "," ",Fine," ",18
+" ",Loose," "," "," "," "," "," "," ",33
+" "," "," "," "," "," "," "," "," ",60
+" "," "," "," "," "," "," "," "," ",100
+" "," "," "," "," "," "," "," "," ",4
+" "," "," "," "," "," "," "," "," ",3
+" "," "," "," "," "," "," ",Fine," ",2
+Soft,Friable," "," "," "," ",Strong,Fine," ",0
+" ",Loose," "," "," "," ",Weak,Medium," ",13
+" ",Loose," "," "," "," ",Weak," "," ",25
+" ",Loose," "," "," "," "," "," "," ",45
+" "," "," "," "," "," ",Strong,Coarse," ",0
+" ",Friable,Slightly," "," "," ",Weak,Fine," ",30
+" ",Friable,Slightly,Medium," "," "," "," "," ",65
+" "," ",Plastic,Fine," "," ",None," "," ",75
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," "," "," "," ",4
+" "," "," "," "," "," ",Weak,Fine," ",1
+" ",Friable,Slightly," "," "," ",Weak,Medium," ",0
+" ",Friable,Slightly," "," "," ",Moderate,Medium," ",5
+" ",Firm,Slightly," "," "," ",Moderate,Medium," ",6
+" ",Firm,Slightly," "," "," ",Weak,Coarse," ",34
+" ",Firm,Slightly," "," "," "," "," "," ",51
+" "," "," "," "," "," "," "," "," ",107
+" "," "," "," "," "," "," "," "," ",8
+" "," "," "," "," "," "," "," "," ",6
+" "," "," "," "," "," "," ",Fine," ",4
+Loose,Friable,Slightly," "," "," ",None," "," ",0
+Soft,Firm,Slightly,Coarse," "," ",Weak," "," ",5
+"Slightly hard",Firm,Plastic," "," "," ",Weak,Coarse," ",10
+"Slightly hard",Firm,Plastic,Medium," "," ",Weak," "," ",38
+" ",Friable,Slightly," "," "," ",Strong,Medium," ",0
+" ",Firm,Slightly," "," "," ",None," "," ",10
+" ",Firm,Slightly,Coarse," "," ",None," "," ",43
+" ",Firm,Slightly,Fine," "," ",None," "," ",63
+" "," "," "," "," "," "," "," "," ",3
+" "," ",Plastic," "," "," ",Weak," "," ",2
+" ",Firm,Plastic," "," "," ",Weak,Coarse," ",0
+" ",Firm,Plastic," "," "," ",Weak," "," ",5
+Hard,Firm,Plastic," "," "," ",Moderate,Fine,Medium,15
+Hard," ",Plastic," "," "," ",Strong,Coarse," ",28
+" "," ",Plastic," "," "," ",Strong,Fine,Medium,60
+Hard,Firm,Plastic," "," "," ",Strong,Medium," ",90
+" "," "," "," "," "," "," "," "," ",10
+" "," "," "," "," "," "," "," "," ",9
+" "," "," "," "," "," ",Strong,Fine," ",8
+" "," ",Plastic," "," "," ",Moderate,Medium," ",0
+" "," "," ",Coarse," "," ",Weak," "," ",10
+" ",Friable,Slightly,Fine," "," ",Moderate,Coarse," ",30
+"Slightly hard",Friable,Slightly," "," "," ",None," "," ",66
+"Slightly hard",Friable,Slightly," "," "," ",None," "," ",76
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," "," "," "," ",4
+" "," "," "," "," "," ",Strong,Fine," ",1
+" "," ",Slightly," "," "," "," "," "," ",0
+Soft,Loose,Slightly," "," "," "," ",Fine," ",4
+Loose,Firm,Slightly," "," "," "," "," "," ",10
+" ",Firm,Slightly," "," "," ",Moderate,Fine," ",28
+" ",Firm," "," "," "," ",Weak," "," ",46
+Hard,Firm,Slightly," "," "," "," "," "," ",53
+" ","Very friable"," "," "," "," ",Weak," "," ",0
+" ",Friable," "," "," "," ",Moderate," "," ",5
+" ",Friable," "," "," "," ",Moderate," "," ",18
+" ",Firm," "," "," "," ",Moderate," "," ",51
+" ",Firm," "," "," ",Weakly," "," "," ",74
+" ",Firm," "," "," ","Moderately saline"," "," "," ",180
+" "," "," "," "," "," "," "," "," ",3
+" "," "," "," "," "," "," "," "," ",3
+" "," "," "," "," "," ",Strong,Medium," ",1
+Loose,Friable," "," "," "," ",Weak,Fine," ",0
+" ",Firm," "," "," "," ",Strong,Fine," ",5
+Loose,Friable," "," "," "," ",Weak,Fine," ",10
+Loose,Friable," "," "," "," ",Weak,Fine," ",18
+Loose,Friable," "," "," "," ",Weak," "," ",28
+Loose,Friable," "," "," "," "," "," "," ",60
+" "," "," "," "," "," "," "," "," ",1
+" ",Friable,Plastic," "," "," ",Strong,Coarse," ",0
+" "," ",Slightly,Fine," "," ",Weak,Medium," ",11
+" ",Friable,Slightly,Medium," "," ",Weak,Medium," ",25
+" ",Firm,Slightly,Coarse," "," ",None," "," ",43
+" ",Firm,Slightly," "," "," ",None," "," ",75
+" "," "," "," "," "," "," "," "," ",2
+" ","Very friable",Plastic," "," "," ",Strong,Coarse," ",0
+" ",Friable,Plastic,Coarse," "," ",None," "," ",5
+" "," ",Slightly,Fine," "," "," "," "," ",20
+" ",Firm,Plastic,Coarse," "," ",None," "," ",30
+" "," "," ",Fine," "," "," "," "," ",76
+" "," "," "," "," "," "," "," "," ",8
+" "," "," "," "," "," "," "," "," ",81
+" "," ",Slightly," "," "," ",Moderate,Fine," ",96
+" "," "," "," "," "," "," "," "," ",119
+" "," "," "," "," "," "," "," "," ",7
+" "," ",Slightly," "," "," "," ",Fine," ",6
+" ",Firm," "," "," "," ",Strong," "," ",0
+" ",Loose,Slightly," "," "," ",Weak," "," ",3
+" "," "," "," "," "," "," ",Fine," ",6
+" "," "," "," "," "," "," "," "," ",11
+" "," "," "," "," "," "," "," "," ",24
+" ",Loose," "," "," "," ",Weak," "," ",56
+" "," "," "," "," "," "," "," "," ",11
+" "," "," "," "," "," "," "," "," ",9
+" "," "," "," "," "," "," ",Medium," ",5
+Soft,Loose,Slightly," "," "," ",Weak,Medium," ",0
+" "," ",Slightly,Fine," "," ",Weak,Medium," ",8
+" "," ",Slightly,Coarse," "," ",Weak,Medium," ",18
+"Slightly hard",Loose,Slightly,Coarse," "," ",Weak,Medium," ",25
+" "," "," ",Medium," "," ",None,Medium," ",46
+" "," "," "," "," "," "," "," "," ",5
+" ",Friable,Plastic," "," "," ",Weak," "," ",152
+" "," "," "," "," "," "," "," "," ",4
+" ",Friable,Nonplastic," "," "," ",Moderate,Coarse," ",1
+" ",Friable,Slightly," "," "," ","Weak to moderate","Fine to medium"," ",0
+" ",Friable,Slightly," "," "," ",Strong,Medium," ",5
+" ",Friable,Slightly," "," "," ",Strong,Medium," ",15
+" ",Friable," "," "," "," ",Moderate,Medium," ",25
+" ",Friable," "," "," "," ",Weak,Fine," ",66
+" ",Friable," "," "," "," ",Weak," "," ",107
+" "," "," "," "," "," "," "," "," ",5
+" "," "," "," "," "," "," "," "," ",4
+" ",Friable," "," "," "," ",Strong," "," ",1
+Loose,Friable," "," "," "," ",Moderate,Medium," ",0
+Loose,Friable," "," "," "," ",Moderate,Fine," ",8
+Loose,"Very friable"," "," "," "," ",Weak,Fine," ",18
+Loose," "," "," "," "," ",Weak,Fine," ",33
+Loose," "," "," "," "," "," "," "," ",51
+" ",Loose," "," "," "," "," "," "," ",122
+" ",Friable," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Weak," "," ",5
+" ",Friable," "," "," "," ",Weak," "," ",15
+" ",Firm," "," "," ",Weakly,Moderate,Medium," ",48
+" ",Firm," "," "," ","Moderately saline",None," "," ",81
+" ",Firm," "," "," ",Weakly,None," "," ",135
+" ",Friable,Nonplastic," "," "," "," ","Medium to coarse"," ",0
+" ",Friable,Nonplastic," "," "," ",Weak,Medium," ",18
+" ",Friable,Nonplastic," "," "," ",Weak," "," ",25
+" ",Friable,Nonplastic," "," "," ",Weak,Medium," ",42
+" ",Firm," "," "," "," ",Weak,Medium," ",65
+" ",Firm," "," "," "," ",Weak," "," ",78
+" "," "," "," "," "," "," "," "," ",123
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ",Weak,Fine," ",26
+" ",Loose," "," "," "," "," "," "," ",36
+" ",Loose," "," "," "," "," "," "," ",50
+" "," "," "," "," "," "," "," "," ",5
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ",Weak,Fine," ",17
+" ",Loose," ",Fine," "," ",None," "," ",30
+" ","Very friable"," "," "," "," ","Very weak",Fine," ",0
+" ","Very friable"," "," "," "," ","Very weak",Fine," ",16
+" ","Very friable"," "," "," "," ",Weak,Fine," ",18
+" ",Loose," "," "," "," ",None," "," ",45
+" ","Very firm"," "," "," "," ","Moderate to strong",Medium," ",90
+" ","Very friable"," "," "," "," ",Moderate,Fine,Medium,0
+" ","Very friable"," "," "," "," ",Weak,Fine," ",27
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",29
+" ","Very friable"," "," "," "," ",Moderate,Fine,Medium,47
+" ","Very firm"," "," "," "," ","Moderate to strong",Medium," ",53
+" ","Very friable"," "," "," "," ","Very weak",Fine," ",0
+" ","Very friable"," "," "," "," ",Weak,Fine," ",12
+" ",Loose," "," "," "," ",None," "," ",42
+" "," "," "," "," "," "," "," "," ",5
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ",Weak,Fine," ",3
+" ",Friable," "," "," "," "," "," "," ",30
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ",Moderate,"Fine to medium"," ",18
+" ",Loose," "," "," "," "," "," "," ",53
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",10
+" ","Very firm"," "," "," "," ",Strong,Medium," ",18
+" ",Friable," "," "," "," ",None," "," ",35
+" ",Friable," "," "," ","Moderately saline",None," "," ",53
+" ",Firm," "," "," "," ",None," "," ",115
+Soft,Friable," "," ",Vertical," ",Weak,Fine," ",0
+Soft,Friable," "," "," "," ",Weak,Fine," ",18
+Soft,Friable," "," "," "," ",Weak,Fine," ",33
+Soft,Friable," "," "," "," ",Weak,Medium," ",53
+Soft,Friable," "," "," "," ",Weak,"Fine to medium"," ",68
+" ","Very friable",Nonplastic," ",Random," ",Weak,Medium," ",0
+" ",Loose,Nonplastic," ",Random," ",None," "," ",23
+" ","Very friable",Nonplastic," ",Random," ",Weak,"Fine to medium"," ",25
+" ",Loose,Nonplastic," ",Random," ",None," "," ",35
+" ",Loose,Nonplastic," ",Random," ",None," "," ",45
+" ",Loose,Nonplastic," ",Random," ",None," "," ",70
+" ",Loose,Nonplastic," ",Random," ",None," "," ",95
+" ","Very friable",Slightly," ",Random," ",Moderate,Coarse," ",0
+" ",Friable,Slightly," ",Random," ","Weak to moderate",Coarse," ",25
+" ",Friable,Slightly," ",Random," ","Weak to moderate",Fine," ",53
+" ",Friable,Slightly," ",Random," ","Weak to moderate","Fine to medium"," ",69
+" "," "," "," "," "," "," "," "," ",1
+" ",Friable,Plastic," ",Random," ",Moderate,Coarse," ",0
+" ",Friable,Plastic," ",Random," ",Moderate,Fine," ",14
+" ",Friable,"Very plastic"," ",Random," ",Moderate,"Fine to medium"," ",16
+" ","Very firm","Very plastic"," ",Vertical," ",Strong,Coarse," ",26
+" ","Very firm","Very plastic"," ",Vertical," ","Weak to moderate",Medium," ",51
+" ","Very firm","Very plastic",Medium,Vertical," ",Strong,Coarse," ",95
+" ","Very firm","Very plastic",Medium,Vertical," ",Strong,Coarse," ",120
+" ",Friable,Slightly," ",Random," ","Weak to moderate",Fine," ",0
+" ",Friable,Nonplastic," ",Random," ",Weak,Fine," ",22
+" ","Very friable",Nonplastic," ",Random," ","Very weak","Very fine"," ",40
+" ",Loose,Nonplastic," ",Random," ",None," "," ",57
+" ",Firm,Nonplastic," "," "," ",Strong,Coarse," ",75
+" ",Firm,Nonplastic," "," "," ",Strong,Coarse," ",110
+" ","Very friable",Plastic," ",Random," ",Moderate,Fine," ",0
+" ",Friable,Plastic," ",Random," ",Weak,Medium," ",29
+" ","Very friable",Slightly," ",Random," ","Very weak",Medium," ",41
+" ",Loose,Nonplastic," ",Random," ",None," "," ",52
+" ",Friable,Plastic," ",Random," ",Strong,"Fine to medium"," ",0
+" ",Friable,Plastic," ",Random," ",Strong,"Fine to medium"," ",20
+" ",Friable,Plastic," ",Oblique," ","Moderate to strong",Medium," ",35
+" ",Firm,"Very plastic",Fine," "," ",Strong,"Medium to coarse"," ",52
+" ",Firm,"Very plastic",Fine," "," ",Strong,"Medium to coarse"," ",77
+" ",Firm,"Very plastic",Fine," "," ",Strong,"Medium to coarse"," ",102
+" ",Firm,Plastic,Fine," "," "," "," "," ",117
+" ","Very friable"," "," "," "," ",Weak,Medium," ",0
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",5
+" ",Friable," "," "," "," ",Moderate,Fine," ",13
+" ",Firm," "," "," "," ",Moderate,Fine," ",15
+" ",Friable," "," "," "," ",Weak," "," ",33
+" ",Friable," "," "," "," ",Weak,Medium," ",41
+" ",Firm," "," "," ","Moderately saline",None," "," ",105
+" ","Very firm"," "," "," ","Moderately saline"," "," "," ",240
+" "," ",Nonplastic," "," "," ",Moderate,"Fine to medium"," ",0
+" ",Firm,Slightly,Medium," "," ",Strong,"Fine to medium"," ",15
+" ",Firm,Slightly," "," "," ","Moderate to strong"," "," ",35
+" ",Firm,Plastic," "," "," "," ",Coarse," ",45
+" ","Very friable"," "," ",Vertical," ","Moderate to strong",Fine," ",0
+" ","Very friable"," "," ",Vertical," ",Weak,Fine," ",25
+" ","Very friable"," ",Medium,Vertical," ",Weak,Fine," ",39
+" ",Friable," ",Medium,Vertical," ","Weak to moderate",Medium," ",50
+" ",Firm," ",Coarse," "," ",Moderate,Coarse," ",66
+" "," "," "," "," "," "," "," "," ",110
+" ","Very friable"," ",Fine,Vertical," ",Moderate,"Fine to medium"," ",0
+" ","Very friable"," ",Coarse,Vertical," ",Moderate,Medium," ",20
+" ","Very friable"," ",Coarse,Vertical," ","Very weak",Medium," ",22
+" ",Firm," ",Coarse," "," ",Moderate,Coarse," ",47
+" "," "," "," "," "," "," "," "," ",100
+" ",Friable," "," ",Random," ",Weak,Coarse," ",0
+" ",Friable," "," ",Random," ",Weak,Fine," ",20
+" ",Friable," "," ",Vertical," ","Very weak",Coarse," ",35
+" ","Very firm"," "," "," "," ",None," "," ",40
+" ",Firm," "," "," "," ",None," "," ",68
+" ",Firm," "," "," "," ",Weak,Medium," ",88
+" ",Friable," "," ",Random," ",Weak,Fine," ",0
+" ",Friable," "," ",Vertical," ",Weak,Medium," ",20
+" ",Friable," ",Medium,Vertical," ","Weak to moderate",Medium," ",35
+" ",Firm," ",Coarse,Vertical," ",Weak,Coarse," ",45
+" ",Firm," ",Medium," "," ",Weak,Medium," ",63
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ",Weak,Fine," ",6
+" ",Firm," "," "," "," ",Weak,Medium," ",10
+" ",Firm," "," "," "," ",Moderate,Medium," ",20
+" ","Very firm"," "," "," "," "," ",Medium," ",46
+" "," "," "," ",Random," "," "," "," ",5
+" ","Very friable"," "," ",Horizontal," ",Weak,"Fine to medium"," ",0
+" ","Very friable"," "," ",Random," ",Moderate,"Fine to medium"," ",8
+" ",Friable," "," ",Vertical," ","Very weak",Medium," ",31
+" ",Firm," ",Fine,Vertical," ",Moderate,Medium," ",35
+" ",Firm," ",Fine," "," ",Weak,Coarse," ",75
+" "," "," "," ",Random," "," "," "," ",4
+" ",Loose," "," ",Random," ",None," "," ",0
+" ","Very friable"," "," ",Horizontal," ","Weak to moderate","Fine to medium"," ",13
+" ","Very friable"," "," ",Horizontal," ",Weak,Medium," ",20
+" "," "," "," ",Random," ","Very weak",Medium," ",31
+" ",Firm," "," ",Vertical," ",Moderate,Coarse," ",40
+" ","Very firm"," "," "," "," ",Weak,Coarse," ",75
+" "," "," "," ",Random," "," "," "," ",4
+" ",Loose," "," ",Random," ",None," "," ",0
+" ",Loose," "," ",Random," ",None," "," ",12
+" ",Loose," "," ",Vertical," ",None," "," ",30
+" ",Loose," "," ",Vertical," ",None," "," ",49
+" ",Loose," "," "," "," "," "," "," ",94
+" ",Friable," ",Fine,Random," ",Moderate,Medium," ",0
+" ",Friable," ",Coarse,Vertical," ",Weak,Medium," ",16
+" ",Firm," "," ",Vertical," ","Moderate to strong",Fine," ",29
+" ","Very firm"," "," "," "," ","Moderate to strong",Coarse," ",51
+" ",Firm," "," "," "," ","Moderate to strong",Coarse," ",85
+" ",Friable,Plastic,Fine,Random," ",Weak,Medium," ",0
+" ",Firm,Plastic,Medium,Vertical," ","Very weak",Medium," ",18
+" ",Firm,Plastic,Medium,Vertical," ","Moderate to strong",Coarse," ",26
+" ",Firm,Plastic," ",Vertical," ",Moderate,Medium," ",38
+" ",Firm,Plastic," ",Vertical," ",Weak,Coarse," ",65
+" "," "," "," ",Random," "," "," "," ",5
+" ",Friable," ",Fine,Horizontal," ","Very weak",Medium," ",0
+" ",Friable," ",Medium,Random," ",Weak,Fine," ",6
+" ",Firm," ",Fine,Horizontal," ",Moderate,Medium," ",27
+" ",Firm," ",Medium,Vertical," ",Moderate,Coarse," ",38
+" ","Very firm"," "," "," "," ",Weak,Coarse," ",78
+" ","Very friable"," "," ",Horizontal," ","Very weak",Medium," ",0
+" ","Very friable"," "," ",Horizontal," ","Very weak",Medium," ",24
+" ","Very friable"," "," ",Random," ",None," "," ",41
+" ",Loose," "," "," "," ",None," "," ",66
+" ",Friable," "," ",Random," "," "," "," ",3
+" ",Friable," "," ",Horizontal," ","Weak to moderate",Medium," ",0
+" ",Friable," "," ",Random," ",Moderate,Medium," ",7
+" ",Friable," "," ",Random," ",Weak,Fine," ",18
+" ",Firm," "," ",Horizontal," ",Weak,Medium," ",31
+" ","Very firm"," "," ",Vertical," ",Moderate,Coarse," ",37
+" ","Very firm"," "," ",Vertical," ",Weak,Coarse," ",58
+" ","Very firm"," "," "," "," ",None," "," ",79
+" "," "," "," ",Random," "," "," "," ",2
+" ",Loose," "," ",Horizontal," ",None," "," ",0
+" ","Very friable"," "," ",Horizontal," ",None," "," ",12
+" ",Loose," "," ",Random," ",None," "," ",25
+" ",Loose," "," ",Vertical," ",None," "," ",42
+" ",Loose," "," "," "," ",None," "," ",69
+" "," "," "," ",Random," "," "," "," ",4
+" ","Very friable"," "," ",Horizontal," ",None," "," ",0
+" ","Very friable"," "," ",Horizontal," ",Weak,Fine," ",6
+" ","Very friable"," "," ",Horizontal," ",Moderate,Fine," ",8
+" ",Friable," "," ",Vertical," ",Weak,Fine," ",19
+" ","Very firm"," "," ",Vertical," ",Moderate,Medium," ",38
+" ","Very firm"," "," "," "," ",None," "," ",64
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Weak,Fine," ",5
+" ","Very firm"," "," "," "," ",Moderate,Medium," ",10
+" ",Firm," "," "," "," ",Moderate,"Medium to coarse"," ",30
+" ",Firm," "," "," "," ",None," "," ",40
+" ",Firm," "," "," "," ",None," "," ",110
+" ",Firm," "," "," "," ",None," "," ",165
+" "," "," "," ",Random," "," "," "," ",4
+" ",Loose,Nonplastic," ",Horizontal," ",None," "," ",0
+" ","Very friable",Nonplastic," ",Random," ",Moderate,Fine," ",12
+" ","Very friable",Nonplastic," ",Random," ",Weak,Fine," ",29
+" ",Firm,Nonplastic," ",Vertical," ",Moderate,Coarse," ",32
+" ",Friable,Nonplastic," ",Vertical," ",Weak,Medium," ",55
+" ",Firm,Slightly," "," "," ",Moderate,Coarse," ",76
+" ","Very friable"," "," ",Random," ",Weak,"Fine to medium"," ",0
+" ","Very friable"," "," ",Random," ",Strong,Coarse," ",5
+" ",Friable," "," ",Random," ",Weak,Coarse," ",21
+" ",Friable," "," ",Random," ",Weak,"Fine to medium"," ",42
+" ",Firm,Plastic," "," "," ",None," "," ",71
+" ",Firm,Plastic," "," "," ",None," "," ",100
+" "," "," "," ",Random," "," "," "," ",1
+" ","Very friable"," "," ",Random," ",Weak,"Medium to coarse"," ",0
+" ",Friable," "," ",Random," ","Weak to moderate","Medium to coarse"," ",9
+" ",Friable," "," ",Random," "," "," "," ",32
+" "," "," "," ",Random," "," "," "," ",4
+" ","Very friable"," "," ",Random," ",Moderate,Fine," ",0
+" ",Friable," "," ",Random," ",Weak,"Medium to coarse"," ",19
+" ","Very friable"," "," ",Random," ",Strong,"Fine to medium"," ",33
+" ","Very friable"," "," ",Random," ","Very weak",Coarse," ",46
+" ",Friable," "," ",Random," "," "," "," ",59
+" ",Friable," "," ",Horizontal," ","Very weak",Medium," ",66
+" "," "," "," ",Random," "," "," "," ",2
+" ","Very friable"," "," ",Random," ",Strong,"Very fine to fine"," ",0
+" ","Very friable"," "," ",Random," ",Moderate,Medium," ",16
+" ","Very friable"," "," ",Random," ",Weak,"Fine to medium"," ",21
+" ","Very friable"," "," ",Random," ",Weak,"Fine to medium"," ",26
+" ",Friable," ",Medium,Random," ","Very weak",Coarse," ",49
+" ",Firm,Slightly,Coarse," "," ","Very weak","Medium to coarse"," ",61
+" ",Firm,Plastic,Coarse," "," ","Very weak","Medium to coarse"," ",90
+" "," "," "," ",Horizontal," "," "," "," ",12
+" ",Friable,Nonplastic,Fine,Vertical," ",Weak,"Medium to coarse"," ",0
+" ",Friable,Nonplastic,Medium,Vertical," ",Moderate,Medium," ",13
+" ",Friable,Nonplastic,Medium," "," ",Moderate,Medium," ",23
+" ","Very firm",Slightly,Medium," "," ","Moderate to strong",Coarse," ",25
+" ","Very firm",Slightly,Fine," "," ",None," "," ",53
+" "," "," "," ",Random," "," "," "," ",2
+" ","Very friable",Slightly," ",Horizontal," ",Moderate,Fine," ",0
+" ",Friable,Slightly,Medium,Vertical," ",Weak,Medium," ",4
+" ",Friable,Slightly,Fine,Vertical," ",Weak,Fine," ",18
+" ",Firm,Plastic,Medium,Vertical," ","Moderate to strong",Medium," ",33
+" ",Firm,Plastic,Fine," "," ","Weak to moderate",Coarse," ",50
+" ",Firm,Plastic,Fine," "," ",Moderate,Coarse," ",67
+" "," "," "," ",Random," "," "," "," ",8
+" "," "," "," ",Random," "," "," "," ",3
+" ",Friable," ",Coarse,Vertical," ",Moderate,Medium," ",0
+" ","Very friable"," ",Coarse,Vertical," ",Weak,Medium," ",7
+" ","Very friable"," ",Coarse,Vertical," ",Weak,Fine," ",19
+" ","Very friable"," "," "," "," ","Very weak",Medium," ",37
+" ",Firm," ",Coarse," "," ",Weak,Medium," ",45
+" ",Firm," ",Coarse," "," ",None," "," ",48
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ",Weak,"Fine to medium"," ",8
+" ",Firm," "," "," ",Weakly,None," "," ",15
+" ",Firm," "," "," ","Moderately saline",None," "," ",51
+" ",Firm," "," "," "," ",None," "," ",115
+" "," "," "," ",Random," "," "," "," ",2
+" ","Very friable"," "," ",Random," ",Weak,Medium," ",0
+" ","Very friable"," "," ",Random," ",Weak,Coarse," ",16
+" ","Very friable"," "," ",Random," ",Weak,Coarse," ",20
+" ",Friable," "," ",Random," ",Moderate,Medium," ",33
+" ",Friable," "," ",Oblique," ","Very weak",Fine," ",49
+" ",Friable," "," ",Vertical," ","Very weak",Coarse," ",65
+" "," "," "," ",Random," "," "," "," ",7
+" ","Very friable"," "," ",Random," ",Weak,Medium," ",0
+" ","Very friable"," "," ",Random," ",Moderate,"Fine to medium"," ",15
+" ","Very friable"," "," ",Random," ","Very weak",Fine," ",30
+" ","Very friable"," "," ",Oblique," ",None," "," ",38
+" ",Friable," "," ",Oblique," ",None," "," ",50
+" ",Firm," ",Coarse," "," ",None," "," ",65
+" ",Friable," ",Coarse,Random," ",Moderate,Fine," ",0
+" ",Friable," ",Medium,Random," ",Weak,Medium," ",21
+" ",Friable," ",Coarse,Vertical," ",Moderate,Medium," ",31
+" ","Very firm"," ",Coarse," "," ",None," "," ",53
+" ","Very firm"," "," "," "," ",None," "," ",75
+" ",Friable," "," ",Random," ",Weak,Coarse," ",0
+" ",Friable," ",Medium,Random," ","Very weak",Coarse," ",23
+" "," "," "," "," "," "," "," "," ",26
+" ",Friable," ",Coarse,Oblique," ","Very weak",Coarse," ",27
+" ",Friable," ",Coarse,Oblique," ",Weak,Coarse," ",54
+" ",Friable," ",Medium,Oblique," ",Weak,Coarse," ",74
+" ",Loose," "," "," "," ",None," "," ",82
+" ",Loose," "," "," "," ",None," "," ",107
+" "," "," "," "," "," "," "," "," ",2
+" "," "," "," "," "," ",Moderate,Fine," ",0
+" "," "," "," "," "," ",Weak,Fine," ",4
+" "," "," "," "," "," ",Weak,Medium," ",9
+" "," "," "," "," "," ","Very weak",Fine," ",26
+" "," "," "," "," "," ","Very weak",Fine," ",57
+" ",Friable," ",Medium," "," ",Weak,Medium," ",0
+" ",Firm," ",Medium," "," ","Very weak",Coarse," ",6
+" ",Firm," ",Medium," "," ","Very weak",Coarse," ",17
+" ",Firm," ",Medium," "," ","Very weak",Coarse," ",30
+" ",Firm," ",Medium," "," ",None," "," ",50
+" "," "," "," "," "," ",Moderate,Fine," ",0
+" "," "," "," "," "," ",Weak,Medium," ",3
+" "," "," ",Fine," "," ","Very weak",Fine," ",15
+" "," "," ",Medium," "," ",Weak,Medium," ",30
+" "," "," ",Medium," "," ","Very weak",Coarse," ",64
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",18
+" ",Friable," "," "," "," ",Weak,Medium," ",25
+" ",Firm," "," "," "," ",Moderate,Medium," ",30
+" ",Firm," "," "," "," ",Weak,Fine," ",46
+" ",Firm," "," "," "," ",Weak,Fine," ",63
+" ",Firm," "," "," ",Weakly,None," "," ",105
+" ",Firm," "," "," ",Weakly,None," "," ",140
+" ",Friable," "," "," "," ",Moderate,Medium," ",0
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",16
+" ","Very friable"," ",Medium," "," ",Weak,Coarse," ",31
+" ",Firm," ",Medium," "," ",Weak,Coarse," ",40
+" ","Very firm"," ",Medium," "," ","Very weak",Coarse," ",61
+" "," "," "," "," "," "," "," "," ",1
+" ","Very friable"," "," "," "," ",Weak,"Medium to coarse"," ",0
+" ","Very friable"," "," "," "," ","Very weak",Medium," ",24
+" "," "," "," "," "," "," "," "," ",32
+" ","Very friable"," "," "," "," ","Very weak",Medium," ",45
+" ",Loose," "," "," "," ",None," "," ",50
+" ","Very friable"," "," "," "," ","Very weak",Coarse," ",60
+" "," "," "," ",Horizontal," "," "," "," ",3
+" ","Very friable"," "," ",Horizontal," ",Weak,Fine," ",0
+" ","Very friable"," "," ",Horizontal," ",Weak,Fine," ",5
+" ","Very friable"," "," ",Horizontal," ",Weak,Fine," ",14
+" ","Very friable"," "," ",Random," ",Weak,Fine," ",27
+" ",Firm," "," ",Vertical," ",Weak,Medium," ",37
+" ","Very firm"," "," ",Vertical," ",Weak,Coarse," ",42
+" ","Very firm"," "," "," "," ",Weak,Coarse," ",61
+" "," "," "," ",Horizontal," "," "," "," ",3
+" ","Very friable"," "," ",Horizontal," ",Moderate,Medium," ",0
+" ","Very friable"," "," ",Horizontal," ",Weak,Fine," ",3
+" ","Very friable"," "," ",Horizontal," ",Weak,Fine," ",5
+" ","Very friable"," "," ",Vertical," ",Weak,Fine," ",16
+" ",Friable," "," ",Vertical," ","Weak to moderate",Medium," ",38
+" ",Firm," "," "," "," "," "," "," ",53
+" "," "," "," "," "," "," "," "," ",2
+" ","Very friable"," "," ",Horizontal," ","Weak to moderate",Medium," ",0
+" ","Very friable"," ",Medium,Horizontal," ",Weak,Fine," ",11
+" ",Friable," ",Medium,Horizontal," ","Very weak",Medium," ",16
+" ",Firm," ",Medium," "," ",Weak,Coarse," ",30
+" ",Firm," ",Medium," "," ",Moderate,Coarse," ",45
+" ",Firm," "," "," "," ",None," "," ",70
+" "," "," "," ",Horizontal," "," "," "," ",9
+" ",Friable," ",Fine,Vertical," ","Very weak",Medium," ",0
+" ",Friable," ",Medium,Vertical," ",Weak,Medium," ",10
+" ",Friable," "," "," "," ","Very weak",Medium," ",26
+" "," "," "," "," "," ","Very weak",Coarse," ",31
+" "," "," "," ",Horizontal," "," "," "," ",5
+" ",Friable," "," ",Random," ",Weak,Medium," ",0
+" ",Friable," "," ",Horizontal," ","Weak to moderate",Fine," ",2
+" ","Very friable"," "," ",Horizontal," ",Weak,Medium," ",3
+" ","Very friable"," "," ",Vertical," ","Very weak",Fine," ",6
+" ",Friable," "," ",Vertical," ",Weak,Fine," ",19
+" ",Friable," "," ",Vertical," ","Very weak",Fine," ",35
+" "," "," "," "," "," "," "," "," ",55
+" ","Very friable"," "," "," "," ",Weak,Fine," ",0
+" ",Friable," "," "," "," ","Weak to moderate",Medium," ",9
+" ",Friable," "," "," "," ",Weak,"Fine to medium"," ",20
+" ","Very firm"," "," "," "," ",None," "," ",61
+" ","Very firm"," "," "," ",Weakly,None," "," ",91
+" ","Very firm"," "," "," "," ",None," "," ",180
+" ","Very firm"," "," "," "," ",None," "," ",215
+" "," "," "," ",Horizontal," "," "," "," ",5
+" ","Very friable"," "," ",Vertical," ",Weak,Medium," ",0
+" ","Very friable"," "," ",Horizontal," ",Weak,Medium," ",5
+" ","Very friable"," "," ",Vertical," ","Very weak","Fine to medium"," ",17
+" ","Very friable"," "," ",Vertical," ","Very weak",Fine," ",32
+" ","Very friable"," "," ",Vertical," ","Very weak",Fine," ",42
+" ",Loose," "," ",Vertical," ",None," "," ",57
+" "," "," "," "," "," "," "," "," ",9
+" ",Friable," ",Medium," "," ",Weak,Coarse," ",0
+" ",Friable," ",Fine," "," ",Weak,Medium," ",17
+" ",Friable," ",Fine," "," ",Weak,Coarse," ",27
+" ",Friable," ",Medium," "," ",Weak,Coarse," ",35
+" ",Firm," "," "," "," "," "," "," ",44
+" "," "," "," ",Random," "," "," "," ",9
+" ","Very friable"," "," ",Horizontal," ",Weak,Coarse," ",0
+" ","Very friable"," "," ",Horizontal," ",Weak,Fine," ",6
+" ","Very friable"," "," ",Horizontal," ","Very weak",Medium," ",9
+" ","Very friable"," "," ",Vertical," ","Very weak",Medium," ",21
+" ","Very friable"," "," ",Vertical," ","Very weak",Medium," ",39
+" ","Very friable"," ",Coarse,Vertical," ","Very weak",Medium," ",66
+" ","Very friable"," ",Fine," "," ",Weak,Coarse," ",90
+" "," "," "," ",Horizontal," "," "," "," ",7
+" ","Very friable"," "," ",Horizontal," ",Weak,Medium," ",0
+" ","Very friable"," "," ",Horizontal," ","Weak to moderate",Fine," ",15
+" ","Very friable"," ",Medium,Vertical," ",Weak,Fine," ",26
+" ",Firm," ",Medium,Vertical," ","Weak to moderate",Medium," ",42
+" ",Firm," "," "," "," ","Weak to moderate",Coarse," ",68
+" ","Very friable"," "," ",Horizontal," ","Very weak",Medium," ",0
+" ","Very friable"," "," ",Horizontal," ","Very weak",Medium," ",21
+" ","Very friable"," "," ",Horizontal," ","Very weak",Fine," ",30
+" ","Very friable"," "," ",Vertical," ","Very weak",Medium," ",45
+" ",Loose," ",Medium,Vertical," "," "," "," ",58
+" ",Loose," "," "," "," "," "," "," ",80
+" "," "," "," ",Horizontal," "," "," "," ",5
+" ","Very friable"," "," ",Horizontal," ",Weak,Fine," ",0
+" ","Very friable"," "," ",Horizontal," ",Weak,Fine," ",5
+" ","Very friable"," "," ",Horizontal," ","Very weak",Medium," ",20
+" ","Very friable"," "," ",Vertical," ","Very weak",Medium," ",38
+" ",Loose," "," ",Vertical," "," "," "," ",60
+" ","Very friable"," "," "," "," ",Moderate,"Fine to medium"," ",0
+" ","Very friable"," ",Fine," "," ",Weak,Medium," ",18
+" ","Very friable"," ",Coarse," "," ","Very weak",Coarse," ",26
+" ","Very friable"," "," "," "," ",Weak,"Fine to medium"," ",37
+" ","Very friable"," "," "," "," ",Moderate,Medium," ",51
+" ","Very firm"," "," "," "," ",Strong,Coarse," ",68
+" ","Very firm",Plastic," "," "," ",Strong,"Medium to coarse"," ",76
+" "," "," "," "," "," "," "," "," ",5
+" ","Very friable"," "," "," "," ",Moderate,Coarse," ",0
+" ",Friable," ",Coarse," "," "," "," "," ",14
+" ",Friable," ",Medium," "," "," "," "," ",24
+" ","Very firm"," ",Coarse," "," "," "," "," ",50
+" ","Very friable"," "," "," "," ",Weak,"Fine to medium"," ",0
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",13
+" ","Very firm"," "," "," "," ",Strong,Medium," ",18
+" ",Firm," "," "," "," ",Moderate,Medium," ",28
+" ","Very firm"," "," "," "," ",None," "," ",43
+" ","Very firm"," "," "," "," ",None," "," ",66
+" "," "," "," "," "," "," "," "," ",3
+" ","Very friable"," "," "," "," ",Moderate,Fine," ",0
+" ","Very friable"," "," "," "," ",Weak,Fine," ",2
+" ","Very friable"," "," "," "," ",Weak,Fine," ",14
+" ","Very friable"," "," "," "," ",Weak,Fine," ",37
+" ","Very friable"," "," "," "," ",None," "," ",59
+Soft,"Very friable"," "," "," "," ",Weak,Medium," ",0
+"Slightly hard",Friable," "," "," "," ",Weak,Medium," ",2
+Hard,Friable," ",Fine," "," ",Weak,Fine," ",9
+Hard,Friable," "," "," "," ",Moderate,Fine," ",18
+"Slightly hard",Friable," "," "," "," ",Weak,Fine," ",22
+Extreme,Firm," "," "," "," ",Weak,Coarse," ",30
+Extreme,Firm," ",Fine," "," ","Very weak",Coarse," ",39
+Extreme,"Very firm"," "," "," "," ",None," "," ",57
+" "," "," "," "," "," "," "," "," ",5
+"Very hard",Firm," ",Fine," "," "," "," "," ",130
+"Very hard",Firm," "," "," "," "," "," "," ",160
+Soft,"Very friable"," "," "," "," ",Weak,Coarse," ",0
+"Slightly hard","Very friable"," "," "," "," ",Weak,Fine," ",4
+"Slightly hard","Very friable"," "," "," "," ","Very weak",Fine," ",14
+Soft,"Very friable"," ",Medium," "," ",Weak,Medium," ",20
+"Slightly hard",Friable," "," "," "," ","Weak to moderate",Fine," ",25
+Hard,Friable," "," "," "," ",Moderate,Medium,Coarse,42
+"Very hard",Firm," ",Medium," "," "," ","Medium to coarse"," ",65
+"Very hard",Firm," ",Fine," "," ",Weak,Coarse," ",100
+Hard,Friable," ",Fine," "," ",None," "," ",0
+Hard,Friable," ",Medium," "," ",Moderate,Medium,Coarse,8
+"Very hard",Firm," "," "," "," ",Moderate,Coarse," ",19
+"Very hard","Very firm"," ",Fine," "," ",None," "," ",28
+"Very hard","Very firm"," "," "," "," "," "," "," ",55
+"Very hard","Very firm"," "," "," "," "," "," "," ",90
+Hard,Friable," "," "," "," ",Moderate,Fine,Medium,0
+Hard,Friable," ",Medium," "," ",Weak,Medium," ",13
+"Very hard",Firm," ",Medium," "," ",Weak,Coarse," ",23
+"Very hard","Very firm"," ",Medium," "," ",None," "," ",33
+"Very hard","Very firm"," ",Coarse," "," ",None," "," ",58
+"Very hard","Very firm"," "," "," "," ",None," "," ",90
+"Very hard","Very firm"," "," "," "," ",None," "," ",120
+Hard,Friable," "," "," "," "," "," "," ",0
+Hard,Friable," ",Coarse," "," ",Weak,Medium," ",9
+"Very hard",Firm," ",Coarse," "," ",Moderate,Coarse," ",16
+"Very hard","Very firm"," "," "," "," ",Weak,Coarse," ",23
+"Very hard","Very firm"," "," "," "," ","Very weak",Coarse," ",43
+"Very hard","Very firm"," "," "," "," ",None," "," ",63
+"Very hard","Very firm"," "," "," "," ",None," "," ",83
+Hard,Firm," "," "," "," ",Weak,Coarse," ",65
+"Very hard",Firm," "," "," "," ",Weak,Coarse," ",100
+Hard,"Very friable"," "," "," "," ",Moderate,Medium," ",0
+"Slightly hard",Friable," ",Fine," "," ",Weak,Fine," ",11
+"Slightly hard",Friable," ",Medium," "," ",Moderate,Medium," ",18
+Hard,Firm," "," "," "," ",Moderate,Medium," ",24
+Hard,Firm," "," "," "," ",Moderate,Fine," ",31
+"Slightly hard","Very friable"," "," "," "," ",None," "," ",42
+Hard,Firm," "," "," "," ",None," "," ",46
+Hard,Firm," "," "," "," ",Weak,Coarse," ",53
+" "," "," "," "," "," "," "," "," ",2
+Hard,"Very friable"," "," "," "," "," "," "," ",98
+Soft,"Very friable"," "," "," "," ",Weak,Fine," ",0
+Soft,"Very friable"," ",Fine," "," ",Weak," "," ",4
+"Slightly hard",Friable," ",Coarse," "," ",Weak,Fine," ",10
+"Slightly hard",Friable," ",Coarse," "," ",Weak," "," ",21
+"Slightly hard",Friable," ",Coarse," "," ",Moderate,Medium," ",34
+"Slightly hard",Friable," "," "," "," ",Weak,Medium," ",43
+Hard,"Very friable"," "," "," "," "," "," "," ",62
+Hard,"Very friable"," "," "," "," "," "," "," ",73
+" "," "," "," "," "," "," "," "," ",10
+Hard,Firm," "," "," "," "," "," "," ",165
+"Slightly hard","Very friable"," "," "," "," ",Weak,Coarse," ",0
+Hard,Firm," "," "," "," "," ",Coarse," ",11
+Hard,Firm," "," "," "," ",Moderate,Medium," ",17

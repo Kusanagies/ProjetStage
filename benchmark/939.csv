@@ -1,0 +1,3597 @@
+COLOUR_2,CONSIS_WET,EFFERVESC,L_DEPTH,MOTTLE_FRQ,ROOT_FREQ,ROOT_ORIEN,ROOT_THICK,S_PRM_SIZE
+" "," "," ",31," "," "," "," "," "
+" "," "," ",245," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",50," "," "," "," "," "
+" "," "," ",65," "," "," "," "," "
+" "," "," ",90," "," "," "," "," "
+" "," "," ",116," "," "," "," "," "
+" "," "," ",151," "," "," "," "," "
+" "," "," ",175," "," "," "," "," "
+" "," "," ",200," "," "," "," "," "
+" "," "," ",212," "," "," "," "," "
+" "," "," ",28," "," "," "," "," "
+" "," "," ",56," "," "," "," "," "
+" "," "," ",89," "," "," "," "," "
+" "," "," ",107," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",24," "," "," "," "," "
+" "," "," ",54," "," "," "," "," "
+" "," "," ",76," "," "," "," "," "
+" "," "," ",86," "," "," "," "," "
+" "," ",Weak," "," "," "," "," "," "
+" "," "," ",50," "," "," "," "," "
+" "," "," ",74," "," "," "," "," "
+" "," "," ",108," "," "," "," "," "
+" "," "," ",149," "," "," "," "," "
+" "," "," ",170," "," "," "," "," "
+" "," ",Weak," "," "," "," "," "," "
+" "," "," ",13," "," "," "," "," "
+" "," "," ",310," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",32," "," "," "," "," "
+" "," "," ",64," "," "," "," "," "
+" "," "," ",122," "," "," "," "," "
+" "," "," ",182," "," "," "," "," "
+" "," "," ",221," "," "," "," "," "
+" "," "," ",237," "," "," "," "," "
+" "," "," ",257," "," "," "," "," "
+" "," "," ",300," "," "," "," "," "
+" "," "," ",70," "," "," "," "," "
+" "," "," ",89," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",2," "," "," "," ",Fine
+" "," "," ",5," "," "," "," ",Fine
+" "," "," ",10," "," "," "," ","Fine to medium"
+" ",Sticky," ",15," ",Few,Vertical,"Very fine"," "
+" ",Sticky," ",25,Many,Few,Vertical,"Very fine",Coarse
+" ",Sticky," ",38,Common,Few,Vertical,"Very fine",Medium
+" ",Sticky," ",80,Few,Few,Vertical,"Very fine",Medium
+" ",Slightly," ",20," ",Many,Vertical,Medium,Medium
+" ",Slightly," ",39,Many,Common,Vertical,"Very fine","Medium to coarse"
+" ",Sticky," ",50,Many,Common,Vertical,"Very fine",Coarse
+" ",Sticky," ",59,Many,Few,Vertical,"Very fine",Coarse
+" ",Sticky,Moderate,89,Many,Few,Vertical,"Very fine",Coarse
+" ",Sticky," ",100,Many,Few,Vertical,"Very fine",Coarse
+" "," "," ",21," ",Many,Vertical,"Very fine",Coarse
+" "," "," ",36,Common,Common,Vertical,"Very fine"," "
+" "," "," ",47," ",Few,Vertical,"Very fine",Coarse
+" "," "," ",57,Many,Few,Vertical,"Very fine",Coarse
+" "," "," ",84,Many,"Very few",Vertical,"Very fine"," "
+" "," "," ",100," ","Very few",Vertical,"Very fine"," "
+" ",Slightly," ",10," ",Common,Random,Micro,Coarse
+" ",Nonsticky," ",38," ",Common,Vertical,"Very fine"," "
+" ",Nonsticky," ",66," ",Common,Vertical,"Very fine"," "
+" ",Slightly," ",100," ","Very few",Vertical,Fine," "
+" ",Nonsticky," ",23," ",Common,Vertical,"Very fine",Coarse
+" ",Nonsticky," ",60," ",Common,Vertical,"Very fine",Coarse
+" ",Nonsticky," ",95," ",Few,Vertical,"Very fine",Coarse
+100yr6030,Nonsticky," ",115," ",Few,Vertical,"Very fine",Coarse
+" ",Sticky," ",29," ",Many,Vertical,Fine,Coarse
+" ",Sticky," ",41,Many,Common,Vertical,"Very fine",Coarse
+" ",Sticky," ",55,Many,Few,Vertical,"Very fine",Coarse
+" ",Sticky," "," "," ",Few,Vertical,"Very fine",Coarse
+" ",Sticky," ",16," ",Many,Vertical,Fine,Coarse
+" ",Sticky," ",63," ",Many,Vertical,"Very fine",Coarse
+" ",Sticky," ",80,Many,Common,Vertical,"Very fine",Coarse
+" ",Sticky," "," ",Many,Few,Vertical,"Very fine",Coarse
+" ",Slightly," ",11," ",Common,Vertical,"Very fine",Coarse
+100yr4040,Slightly," ",24," ",Common,Vertical,"Very fine",Medium
+" ",Sticky," ",14," ",Common,Vertical,Fine,Medium
+" ",Sticky," ",30,Common,Few,Vertical,"Very fine",Coarse
+" ",Sticky," ",40,Common,Few,Vertical,"Very fine",Coarse
+" ",Slightly," ",66,Many,Few,Vertical,"Very fine",Coarse
+" ",Slightly,Moderate," "," "," "," "," ",Coarse
+" "," "," ",8," "," "," "," "," "
+" "," "," ",13," "," "," "," "," "
+" "," "," ",17," "," "," "," "," "
+" "," "," ",25," "," "," "," "," "
+" ",Slightly," ",23," ",Many,Vertical,"Very fine"," "
+" ",Slightly," ",35,Common,Common,Vertical,"Very fine",Medium
+" ",Slightly,Moderate,52,Few,Common,Vertical,"Very fine"," "
+" ",Slightly,Moderate,80,Many,Few,Vertical,"Very fine"," "
+" ",Slightly,Moderate,100,Many," "," "," ",Coarse
+" ",Slightly," ",27," ",Few,Random,"Very fine",Medium
+" ",Slightly," ",40,Many,Few,Random,"Very fine",Coarse
+" ",Slightly,Moderate," ",Common,Few,Random,"Very fine",Coarse
+" ",Slightly," ",21," ",Many,Vertical,"Very fine",Medium
+" ",Nonsticky," ",54," ",Common,Vertical,Fine,Medium
+" ",Nonsticky," ",74," "," "," "," "," "
+" ",Nonsticky," ",100," "," "," "," "," "
+" ",Slightly," ",17," ",Many,Vertical,"Very fine",Coarse
+" ",Slightly," ",28,Many,Common,Vertical,"Very fine",Coarse
+" ",Slightly," ",42," ",Common,Vertical,"Very fine",Coarse
+" ",Slightly,Moderate," ",Common,Common,Vertical,"Very fine",Coarse
+" ",Sticky," ",15," ",Few,Vertical,Fine,Coarse
+" ",Sticky," ",34,Many,Few,Vertical,Fine," "
+" ",Sticky," ",62,Few,"Very few",Vertical,"Very fine",Coarse
+" ",Sticky,Moderate,100,Many," "," "," ","Medium to coarse"
+" ",Slightly," ",33," ",Common,Vertical,"Very fine",Coarse
+" ",Sticky," ",46,Common,Common,Random,"Very fine",Coarse
+" ",Slightly," ",68," ",Common,Vertical,"Very fine",Coarse
+" ",Slightly,Moderate,80," ","Very few",Vertical,"Very fine"," "
+" ",Slightly," ",15," ",Common,Vertical,"Very fine",Medium
+" ",Sticky," ",34,Few,Common,Vertical,"Very fine","Medium to coarse"
+" ",Sticky," ",45,Few,Common,Vertical,"Very fine"," "
+" ",Slightly," ",83,Common,Common,Vertical,"Very fine",Coarse
+" ",Sticky," ",16," ",Common,Vertical,"Very fine",Coarse
+" ",Sticky," ",37,Many,Common,Vertical,"Very fine",Medium
+" "," "," "," "," "," "," "," ",Medium
+" ",Sticky," ",15," ",Many,Vertical,Fine,Coarse
+" ",Slightly," ",31,Many,Common,Vertical,Fine,Coarse
+" ",Slightly,Moderate,50," ",Common,Vertical,Fine,Coarse
+050yr3030,Slightly,Moderate,100," ",Few,Vertical,Fine,Coarse
+" ",Slightly," ",19," ",Few,Vertical,Fine,Medium
+" ",Slightly," ",49,Many,Few,Vertical,"Very fine",Coarse
+" ",Slightly,Moderate," "," ",Few,Vertical,"Very fine",Coarse
+" "," "," ",20," ",Many,Vertical,"Very fine",Medium
+" "," "," ",44,Many,Common,Vertical,"Very fine",Medium
+" "," "," ",52,Many,Common,Vertical,"Very fine",Medium
+" "," ",Moderate,76,Many,Few,Vertical,"Very fine",Coarse
+" "," ",Moderate,100,Many,Few,Vertical,"Very fine",Coarse
+" ",Nonsticky," ",22," ",Many,Random,Fine,Medium
+" ",Nonsticky," ",33," ",Many,Vertical,Fine," "
+" ",Nonsticky," ",44,Common,Common,Vertical,Fine," "
+" ",Nonsticky," ",60,Common,Common,Vertical,Medium,Coarse
+" ","Very sticky"," ",77," ",Common,Vertical," ",Coarse
+" ","Very sticky",Moderate,95," ",Common,Vertical,"Very fine",Coarse
+" ",Slightly," ",18," ",Many,Vertical,Fine,Coarse
+" ",Slightly," ",31,Many,Few,Vertical,"Very fine",Coarse
+"050y 4010",Slightly," ",46," ",Few,Vertical,"Very fine",Coarse
+"050y 4010",Slightly,Moderate," ",Common,Few,Vertical,"Very fine",Coarse
+" ",Slightly," ",15," ",Many,Random,Fine,Coarse
+" ",Sticky," ",34,Common,Many,Vertical,"Very fine",Coarse
+" ",Sticky," ",43," ",Common,Vertical,"Very fine",Coarse
+" ",Sticky,Moderate,75,Common,Common,Vertical,"Very fine",Coarse
+" ",Slightly," ",24," ",Many,Vertical,Fine,"Medium to coarse"
+" ",Slightly," ",40,Common,Common,Vertical,Fine,Coarse
+" ",Sticky," ",54," ",Common,Vertical,Fine,"Medium to coarse"
+" ",Sticky," ",65,Many,Common,Vertical,Fine,Coarse
+" ",Slightly," ",70," ",Few,Vertical,Fine,Coarse
+" ",Slightly,Moderate," ",Common,Few,Vertical,Fine,Coarse
+" ",Slightly," ",19," ",Few,Vertical,Fine,Coarse
+" ",Slightly," ",40,Few,Few,Vertical,Fine,Coarse
+" ",Slightly,Moderate,58," ",Few,Vertical,Fine,"Medium to coarse"
+" ",Slightly,Moderate,85,Few,Few,Vertical,Fine,Coarse
+" "," "," ",14," ",Many,Horizontal,"Very fine",Fine
+" "," "," ",26," ",Common,Horizontal,Medium,Fine
+" "," "," ",41," ",Common,Horizontal,Fine,Fine
+" "," "," ",67," ",Few,Horizontal,"Very fine","Fine to medium"
+" "," "," ",105," "," ",Vertical,"Very fine",Fine
+" "," ",Moderate,125," "," "," "," ",Fine
+" ",Sticky," ",26," ",Common,Random,"Very fine",Medium
+" ",Sticky," ",50,Many,Common,Vertical,"Very fine",Medium
+" ",Sticky," ",85," ",Few,Vertical,"Very fine",Medium
+" ",Sticky," ",100,Many,Few,Vertical,"Very fine",Coarse
+" ",Nonsticky," ",19," ",Common,Vertical,"Very fine"," "
+" ",Nonsticky," ",41," ",Common,Vertical,"Very fine"," "
+" ",Nonsticky," ",57,Few,Few,Vertical,"Very fine"," "
+" ",Nonsticky," ",74," ",Few,Vertical,"Very fine"," "
+" ",Slightly," ",90," ","Very few",Random,"Very fine"," "
+" ",Nonsticky," ",100," "," "," "," "," "
+" ",Sticky," ",10," ",Common,Vertical,"Very fine",Coarse
+" ",Sticky," ",20,Many,Common,Vertical,"Very fine",Coarse
+025yr3060,Sticky," ",41,Common,Common,Vertical,"Very fine",Coarse
+025yr3040,Sticky," ",55,Common,Few,Vertical,"Very fine","Medium to coarse"
+025yr3040," "," ",65,Common,Few,Vertical,Fine,"Medium to coarse"
+" "," "," ",1," "," "," "," ","Very fine"
+" "," "," ",7," "," "," "," ","Fine to medium"
+" ",Slightly," ",19," ",Many,Random,"Very fine",Medium
+" ",Sticky," ",43,Many,Common,Vertical,"Very fine",Coarse
+050yr5020,Sticky," ",87," ",Common,Vertical,"Very fine",Coarse
+050yr5030,Slightly," ",100,Many,Few,Random,"Very fine",Coarse
+" ",Slightly," ",17," ",Common,Vertical,Fine,Medium
+750yr5080,"Very sticky"," ",39,Many,Common,Vertical,"Very fine",Medium
+" ","Very sticky"," ",53," ",Common,Vertical,"Very fine",Coarse
+" ","Very sticky",Moderate,100," ",Few,Vertical,"Very fine",Medium
+" "," "," ",0," "," "," "," "," "
+" ",Slightly," ",152,Common," "," "," "," "
+" ",Nonsticky," ",5," "," "," "," ",Fine
+" ",Nonsticky," ",13," "," "," "," "," "
+" ",Nonsticky," ",33," "," "," "," "," "
+" ",Nonsticky," ",48,Few," "," "," "," "
+" ",Slightly," ",58,Common," "," "," "," "
+" ",Slightly," ",74,Common," "," "," "," "
+" ",Slightly," ",89,Common," "," "," "," "
+" ",Slightly," ",122,Common," "," "," "," "
+" ",Nonsticky," ",0," "," "," "," ",Fine
+" ",Slightly," ",6," "," "," "," ","Fine to medium"
+" ",Slightly," ",35,Common," "," "," ","Fine to medium"
+" ",Slightly," ",40,Common," "," "," ","Fine to medium"
+" ",Slightly," ",52,Many," "," "," "," "
+" ",Slightly," ",92,Common," "," "," "," "
+" ",Slightly," ",120,Few," "," "," "," "
+" ",Nonsticky," ",0," "," "," "," "," "
+" ",Nonsticky," ",6," "," "," "," "," "
+" ",Sticky," ",17,Common," "," "," "," "
+" ",Sticky," ",27,Many," "," "," "," "
+" ",Slightly," ",37,Few," "," "," "," "
+" ",Slightly," ",67,Many," "," "," "," "
+" ",Slightly," ",80,Common," "," "," "," "
+" "," "," ",2," "," "," "," "," "
+" "," "," ",66," "," "," "," ",Coarse
+" "," "," ",72," "," "," "," ",Medium
+" "," "," ",92," "," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",5," ",Many," "," ","Fine to medium"
+" "," "," ",10," ",Many," "," ","Fine to medium"
+"025y 4040"," "," ",20," ",Common," "," ","Fine to medium"
+100yr5060," "," ",30," ",Common," "," ","Fine to medium"
+"025y 5040"," "," ",46," "," "," "," ",Medium
+" "," "," ",54,Few," "," "," ",Medium
+" "," "," ",66," "," "," "," ","Fine to medium"
+" "," "," ",23," ",Common," ",Fine," "
+" "," "," ",38," "," "," "," "," "
+" "," "," ",66,Many," "," "," "," "
+" "," "," ",101,Many," "," "," "," "
+" "," "," ",106,Many," "," "," "," "
+" "," "," ",156,Many," "," "," "," "
+" "," "," "," ",Few," "," "," "," "
+" "," "," ",8," "," "," "," "," "
+100yr4540," "," ",18," ",Many," "," ",Fine
+"010y 5040"," "," ",31," ",Many," "," ",Fine
+"025y 5040"," "," ",51," ",Common," "," ",Fine
+"050y 6525"," "," ",68," ","Very few"," "," "," "
+"050y 6525"," "," ",83,Common," "," "," ",Coarse
+"050y 6525"," "," ",106,Many," "," "," ",Coarse
+"050y 6525"," "," ",136,Many," "," "," ",Coarse
+"050y 6520"," "," ",148,Many," "," "," ",Coarse
+" "," "," ",6," "," "," "," "," "
+" "," "," ",12," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",23," "," "," "," "," "
+" "," "," ",28," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",13," ",Few,Random,Micro," "
+" "," "," ",26," ","Very few",Random,Micro," "
+" "," "," ",51," "," "," "," "," "
+" "," "," ",66," "," "," "," "," "
+" "," "," "," ",Few," "," "," "," "
+" "," "," ",0," ",Common,Horizontal,Coarse," "
+100yr5020," "," ",5," ",Few,Horizontal,Medium," "
+100yr5060," "," ",23," ",Common,Horizontal,Coarse," "
+"025y 6040"," "," ",50," ","Very few",Random,"Very fine"," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",18," ",Few," ",Micro,Coarse
+" "," "," ",20,Few," "," "," ",Fine
+100yr5030," "," ",45,Common," "," "," ","Medium to coarse"
+" "," "," "," ",Common," "," "," ",Coarse
+" "," "," ",9,Few," "," "," ",Medium
+" "," "," "," "," "," "," "," "," "
+" "," "," ",14," ",Many,Random,Micro,Coarse
+" "," "," ",18," ",Many,Vertical,Micro,Coarse
+" "," "," ",28," ",Common,Vertical,Micro,Coarse
+" "," "," ",37," ",Common,Vertical,Micro,Medium
+" "," "," ",60,Many,Few,Vertical,Micro,Medium
+075yr4040," "," ",75,Many,"Very few",Vertical,Micro,Medium
+" "," "," "," ",Many," "," "," ",Medium
+100yr4020," ",Moderate,19," ",Few,Random,"Very fine",Medium
+" "," "," ",51,Common,"Very few",Vertical,"Very fine"," "
+" "," ",Moderate,90,Common," "," "," "," "
+" "," "," ",24," ",Few,Random,"Very fine"," "
+" "," "," ",41,Few,"Very few",Vertical,Micro," "
+" "," ",Moderate," ",Few," "," "," "," "
+100yr5020," "," ",22," ",Common,Random,Micro," "
+" "," "," "," ",Common,Few,Vertical,Micro," "
+" "," "," ",2," "," "," "," ",Fine
+" "," "," ",11," "," "," "," ",Medium
+" "," "," ",18," "," "," "," "," "
+" "," "," ",30," "," "," "," "," "
+" "," "," ",16," ",Common,Vertical,Micro,Medium
+"025y 6040"," "," ",28,Many,"Very few"," ",Micro,Fine
+"025y 6040"," "," "," ",Many," "," "," ",Coarse
+" "," "," ",8," ",Few,Random,Micro,Medium
+" "," "," ",10,Few,"Very few",Random,Micro,Medium
+" "," "," ",14,Many,"Very few",Random,Micro," "
+" "," "," ",58,Common," "," "," ",Fine
+" "," "," "," ",Few," "," "," "," "
+" "," "," ",23," ",Common,Vertical,Micro,Fine
+025yr4080," "," ",36,Few,Few,Random,"Very fine"," "
+" "," "," ",55,Many,"Very few",Oblique,Fine," "
+" "," "," ",83,Common," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," ",Few,Random,"Very fine"," "
+" "," "," ",14," ",Few,Random,"Very fine"," "
+" "," "," ",33,Few,Many,Random,Medium," "
+" "," "," ",50,Few,Few,Random,Coarse," "
+" "," "," "," ",Few," "," "," "," "
+" "," "," ",23," ",Common,Random,"Very fine","Very fine"
+" "," "," ",35,Few,Common,Random,"Very fine","Very fine"
+" "," "," ",47,Few,Few,Random,"Very fine"," "
+"025y 1020"," "," "," ",Few,"Very few"," "," "," "
+100yr2020,Slightly," ",15," ",Common,Random,"Very fine"," "
+" ",Nonsticky," ",25," ",Common,Random,"Very fine"," "
+" ",Slightly," ",42," ",Common,Random,"Very fine"," "
+" ",Slightly," ",59," ",Few,Random,"Very fine"," "
+" ",Sticky," "," ",Common," "," "," "," "
+" "," "," ",22," ",Many,Random,"Very fine",Medium
+" "," "," ",48,Common,Few,Random,"Very fine",Coarse
+" "," "," "," ",Common," "," "," "," "
+" "," "," ",19," ",Common,Random,"Very fine"," "
+" "," "," ",25,Few,Common,Random,"Very fine"," "
+" "," "," ",36,Few,Common,Random,"Very fine"," "
+" "," "," ",48,Many,Few,Random,Micro," "
+"050y 6020"," "," "," ",Common," "," "," "," "
+" "," "," ",25," ",Common,Random,Fine,Fine
+" "," "," ",33,Few,Few,Random,"Very fine",Fine
+" "," "," "," ",Few," "," "," "," "
+" "," "," ",24," ",Many,Random,Medium,"Fine to medium"
+" "," "," ",28," ",Few,Random,"Very fine"," "
+" "," "," ",38," ",Common,Random,"Very fine"," "
+" "," "," ",54,Many,Few,Random,"Very fine"," "
+" "," "," ",69,Common," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",6," "," "," "," "," "
+" "," "," ",12," "," "," "," "," "
+" "," "," ",14," "," "," "," "," "
+" "," "," ",20," "," "," "," "," "
+" "," "," ",24," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",26," ",Many,Random," "," "
+" "," "," ",28," ","Very few"," "," "," "
+" "," "," ",50,Common,"Very few"," "," "," "
+" "," "," "," "," ","Very few"," "," "," "
+" "," "," ",27," ",Many," ","Very fine"," "
+" "," "," ",32," ",Common,Random,Micro," "
+" "," "," ",42," ",Common,Random,Micro," "
+100yr7060," "," ",57,Many,Few,Vertical,Micro," "
+" "," "," "," ",Many,"Very few",Vertical,Micro," "
+" "," "," ",20," ",Common,Random,Micro,"Very fine"
+100yr6080," "," ",36," ",Few,Vertical,Micro,"Very fine"
+100yr7030," "," "," "," ","Very few"," ",Micro,Coarse
+" "," "," ",20," ",Few," ","Very fine"," "
+" "," "," ",28," ",Few," ",Micro," "
+" "," "," ",36," ","Very few"," ",Micro," "
+075yr5080," "," ",58," ","Very few"," ",Micro," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",22," ",Common,Random,"Very fine","Very fine"
+"025y 6040"," "," "," "," ",Few,Random,Micro,"Very fine"
+" "," "," ",1," "," "," "," ",Fine
+" "," "," ",5," "," "," "," ",Fine
+" "," "," ",10," "," "," "," ","Fine to medium"
+" "," "," ",20," ",Common,Random,Micro,Fine
+" "," "," ",33," ",Few,Vertical,Micro,"Very fine"
+100yr6020," ",Strong," "," ","Very few",Vertical,Micro," "
+" "," "," ",5," ",Common,Horizontal,Medium," "
+" "," "," ",22," ",Common,Horizontal,Medium,"Very fine"
+" "," "," ",51," ",Few,Oblique,Fine,"Very fine"
+" "," "," "," ",Few," "," "," ","Very fine"
+" "," ",Strong,24," ",Common,Random,Fine," "
+" "," ",Strong,36," ",Common,Random,Fine," "
+" "," "," ",60," ",Few,Vertical,Fine," "
+" "," ",Strong," "," "," "," "," "," "
+" "," "," ",18,Few,Common,Random,"Very fine",Fine
+" "," "," ",40,Common,Few,Horizontal,"Very fine",Fine
+"050y 7030"," "," ",60,Common,"Very few",Vertical,"Very fine",Fine
+" "," "," ",183,Many," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",15," ",Many,Random,"Very fine",Fine
+" "," "," ",37," ",Common,Vertical,"Very fine",Fine
+100yr6040," "," "," "," "," "," "," ",Fine
+" "," "," ",20," ",Many,Random,"Very fine"," "
+075yr5060," "," ",38," ",Many,Vertical,"Very fine"," "
+" "," "," ",76," ",Few,Vertical,"Very fine"," "
+" "," "," "," "," "," "," "," "," "
+075yr4000," "," ",0," ",Common,Oblique,Coarse," "
+" "," "," ",7," ",Common,Oblique,Medium," "
+" "," "," ",21," ",Few,Oblique,Medium," "
+" "," "," ",56," ",Few,Vertical,"Very fine"," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",19," ",Many,Random,"Very fine"," "
+" "," "," ",22," ",Common,Oblique,"Very fine"," "
+" "," "," ",74," ",Few,Vertical,Micro," "
+" "," "," "," "," ","Very few",Vertical,Micro," "
+" "," "," ",0," ",Many,Random,Medium," "
+" "," "," ",4," ",Many,Vertical,"Very fine"," "
+075yr5060," "," ",34," ",Many,Vertical,"Very fine"," "
+" "," "," ",66," ",Few,Vertical,"Very fine"," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",20," ",Many," ","Very fine","Very fine"
+" "," "," ",35," ",Common," ","Very fine"," "
+" "," "," ",45," ",Few," ","Very fine"," "
+" "," "," "," "," ","Very few"," ","Very fine"," "
+" "," "," ",1," "," "," "," "," "
+" "," "," ",7," "," "," "," ",Fine
+" "," "," ",12," "," "," "," ",Fine
+" "," "," ",0," ",Many," ",Medium," "
+" "," "," ",5," ",Many," ",Medium," "
+" "," "," ",27," ",Many," ",Fine," "
+" "," "," ",50,Common,Few," ",Fine," "
+" "," "," "," ",Few," "," "," "," "
+100yr6010," "," ",24," ",Common,Random,"Very fine",Fine
+" "," "," ",43,Many,Few,Vertical,Micro,Fine
+" "," ",Moderate,61,Many,Few,Vertical,Micro,Fine
+" "," ",Strong," ",Many,Few,Vertical,Micro," "
+" "," "," ",20," ",Common,Horizontal,Coarse," "
+" "," "," ",25," ",Common,Vertical,"Very fine"," "
+" "," "," ",43," ",Few,Vertical,"Very fine"," "
+" "," "," ",50," ","Very few",Vertical,Micro," "
+" "," "," ",75," "," "," "," "," "
+" "," "," ",105," "," "," "," "," "
+" "," "," ",130," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",16," ",Many,Random,Fine," "
+" "," "," ",42," ",Few,Vertical,"Very fine"," "
+" "," "," ",70," "," "," "," "," "
+" "," "," "," ",Many," "," "," "," "
+" "," "," ",23," ",Many,Random,Medium,Fine
+" "," "," ",34,Common,Many,Vertical,Medium,Coarse
+" "," "," ",51,Many,Common,Vertical,Medium,Coarse
+"025y 7020"," "," ",61,Few,Few,Random,Medium,Coarse
+" "," "," ",82,Few,"Very few",Random,Medium,Fine
+" "," "," ",107,Common,Few,Random,Fine," "
+" "," "," ",130,Few,Few,Random,Fine," "
+" "," "," ",19," ",Many,Vertical,Fine,Coarse
+" "," "," ",28,Many,Few,Vertical,Fine,Medium
+" "," "," ",42,Few,Few,Vertical,Micro,Medium
+" "," "," ",58,Few,Few,Vertical,Micro," "
+100yr5010," "," ",12," ",Common,Random,Medium," "
+100yr7020," "," ",19," ",Few,Random,Medium," "
+" "," "," ",39," ",Few,Random,Fine," "
+" "," "," ",55," ",Few,Random,Fine," "
+" "," "," ",70," ",Few,Random,Fine," "
+100yr5060," "," "," "," ",Few,Random,Fine," "
+" "," "," ",6," "," "," "," ",Fine
+" "," "," ",12," "," "," "," ",Fine
+" "," "," ",14," "," "," "," "," "
+100yr2020," "," ",0," ",Many,Random,Coarse," "
+" "," "," ",13," ",Many,Random,Coarse," "
+" "," "," ",25," ",Many,Random,Coarse," "
+" "," "," ",33," ",Common,Random,Medium," "
+" "," "," ",42," ",Common,Random,Fine," "
+" "," "," ",70,Few,"Very few",Random,"Very fine"," "
+" "," "," "," "," "," "," "," "," "
+" ","Very sticky"," ",26,Many,Few,Vertical,Fine,Medium
+" ","Very sticky"," ",42,Common,"Very few",Vertical,"Very fine",Fine
+050gy4510,"Very sticky"," ",115,Many,"Very few",Vertical,Micro,Fine
+100yr7020,"Very sticky"," ",15," ",Common,Random,Medium,Fine
+" ","Very sticky"," ",23," ",Few,Random,Fine,"Fine to medium"
+" ","Very sticky"," ",72," ","Very few",Vertical,"Very fine",Fine
+" ","Very sticky"," ",92," ","Very few",Vertical,"Very fine",Coarse
+" ",Slightly," ",12," ",Many,Vertical,Fine,Coarse
+" ",Slightly," ",22," ",Few,Vertical,Fine,Medium
+" ",Slightly," ",50," ",Few,Vertical,"Very fine",Fine
+" ","Very sticky"," "," "," ","Very few",Vertical,Micro,Medium
+" ",Nonsticky," ",21," ",Few,Vertical,"Very fine"," "
+" ",Nonsticky," ",67,Common,"Very few",Vertical,"Very fine"," "
+" ",Nonsticky," ",100,Common,"Very few"," "," "," "
+" "," "," ",4," "," "," "," ",Fine
+" "," "," ",7," "," "," "," ",Fine
+" "," "," ",10," "," "," "," ","Fine to medium"
+" ",Slightly," ",15," ",Common,Random,Fine,Medium
+" ",Slightly," ",18," ",Few,Random,"Very fine"," "
+" ",Slightly," ",33," ",Few,Vertical,"Very fine"," "
+" ",Sticky," ",77," ","Very few",Vertical,"Very fine"," "
+" "," "," "," "," "," "," "," "," "
+" ",Sticky," ",30," ",Common,Random,Fine,"Fine to medium"
+" ",Sticky," ",46," ",Few,Random,Fine,"Fine to medium"
+100yr3030,Sticky," ",64," ",Few,Random,Fine,"Fine to medium"
+"025y 5020"," ",Moderate,84," "," "," "," "," "
+100yr4020," "," "," "," "," "," "," "," "
+" "," "," ",8," ","Very few"," "," "," "
+" "," "," ",28,Few," "," "," "," "
+" "," "," ",38,Few,"Very few",Vertical,Fine," "
+" ",Nonsticky," ",73,Many,"Very few",Vertical,Fine," "
+" "," "," ",90,Many,"Very few",Vertical,Fine," "
+" "," "," ",100,Common," "," "," "," "
+" "," "," "," ",Common," "," "," "," "
+" ",Slightly," ",7,Few,Common,Vertical,Fine,Medium
+" ",Slightly," ",21," ",Few,Vertical,Fine,"Fine to medium"
+" ",Slightly," ",43,Few,"Very few",Vertical,Fine," "
+100yr5025," "," ",93,Few," "," "," "," "
+050yr2510," "," ",0," "," "," "," "," "
+" ","Very sticky"," ",5," "," "," "," ",Fine
+" ","Very sticky"," ",40,Common," "," "," ",Fine
+" ","Very sticky"," ",103," "," "," "," "," "
+" "," "," ",25," ",Common,Random,Fine,"Fine to medium"
+" "," "," ",30," ","Very few",Oblique,"Very fine","Fine to medium"
+" "," "," ",35,Few,"Very few",Oblique,"Very fine","Fine to medium"
+" "," "," ",72," ","Very few",Oblique,"Very fine","Medium to coarse"
+" "," "," ",92,Common,"Very few",Oblique,"Very fine"," "
+" "," "," ",200," "," "," "," "," "
+" "," "," ",210," "," "," "," ",Fine
+" "," "," ",34," "," "," "," "," "
+" "," "," ",44," "," "," "," "," "
+075yr5040," "," ",77," "," "," "," "," "
+" "," "," ",107," "," "," "," "," "
+050yr2520," "," ",136," "," "," "," "," "
+050yr2520," "," ",170," "," "," "," "," "
+050yr2520," "," ",192," "," "," "," "," "
+" "," "," ",210," "," "," "," "," "
+" "," ",Weak,1," "," "," "," ",Fine
+" "," ",Weak,3," "," "," "," ",Fine
+" "," ",Weak,8," "," "," "," ",Fine
+100yr4030," "," ",0," ",Common,Vertical,Coarse," "
+100yr7015," "," ",30," ",Common,Vertical,Fine," "
+100yr3540," "," ",35," ",Few,Random,Fine," "
+100yr4040," "," ",40," ",Few,Random,Fine," "
+100yr6070," "," ",52," ",Few,Random,Fine," "
+"025y 6040"," "," ",120," ","Very few",Random,Fine," "
+" ",Nonsticky," ",20," ",Many,Vertical,"Very fine","Fine to medium"
+" ",Nonsticky," ",25," ",Common,Vertical,"Very fine",Medium
+" ",Nonsticky," ",60," ",Few,Vertical,"Very fine",Medium
+100yr5020,Nonsticky," ",88," ","Very few",Vertical,"Very fine",Medium
+100yr5030,Nonsticky," ",123," ","Very few",Oblique,"Very fine",Medium
+100yr6030,Nonsticky," ",155," "," "," "," "," "
+100yr4030,Nonsticky," ",180," "," "," "," "," "
+100yr5020," "," ",19," ",Common,Random,Micro," "
+075yr7020," "," ",25,Few,Common,Random,Micro," "
+075yr4040," "," ",36,Few,Common,Vertical,Micro," "
+100yr7040," "," ",48,Many,Few,Vertical,Micro," "
+"050y 7010"," "," "," ",Common," "," "," "," "
+100yr5040," "," ",23," ",Common,Random,Micro," "
+100yr6040," "," ",35,Few,Common,Random,Micro," "
+"025y 7020"," "," ",47,Few,Few,Random,Micro," "
+"050y 7030"," "," "," ",Few," "," "," "," "
+" "," "," ",112," ",Common," "," "," "
+" "," "," ",205," "," "," "," "," "
+" "," "," ",240," "," "," "," "," "
+" "," "," ",260," "," "," "," "," "
+" "," "," ",305," "," "," "," "," "
+" ",Sticky," ",352," "," "," "," "," "
+100yr4020," "," ",24," ",Many,Random,Micro," "
+"075r 7010"," "," ",28," ",Few,Random,Micro," "
+050yr4040," "," ",38,Few,Many,Random,Micro," "
+075yr6080," "," ",54,Many,Few," "," "," "
+100yr6080," "," ",69,Common," "," "," "," "
+"050y 7030"," "," "," "," "," "," "," "," "
+" "," "," ",1," "," "," "," ",Fine
+" "," "," ",8," "," "," "," ",Fine
+" "," "," ",136," ",Common," "," "," "
+" "," "," ",278," ",Few," "," "," "
+" "," "," ",358," "," "," "," "," "
+" "," "," ",397," "," "," "," "," "
+" "," "," ",536," "," "," "," "," "
+" ",Sticky," ",556," "," "," "," "," "
+100yr5010," "," ",24," ",Common,Random,Micro," "
+"050y 6030"," "," ",43,Many,Few,Vertical,Micro," "
+"050y 7030"," ",Moderate,61,Many,Few,Vertical,Micro," "
+100yr5080," ",Strong," ",Many,Few,Vertical,Micro," "
+" "," "," ",65," ",Few," "," "," "
+" "," "," ",159," ",Few," "," "," "
+" "," "," ",232," "," "," "," "," "
+" "," "," ",292," "," "," "," "," "
+" ",Sticky," ",342," "," "," "," "," "
+100yr6020," "," ",14," ",Few,Random,Micro," "
+100yr7025," "," ",18," ",Many,Vertical,Micro," "
+100yr6040," "," ",28," ",Common,Vertical,Micro," "
+100yr7040," "," ",37," ",Common,Vertical,Micro," "
+100yr6030," "," ",60,Many,Few,Vertical,Micro," "
+100yr3030," "," ",75,Many,"Very few",Vertical,Micro," "
+100yr5030," "," "," ",Many," "," "," "," "
+" "," "," ",74," ",Common," "," "," "
+" "," "," ",100," ",Few," "," "," "
+" ",Sticky," ",300," "," "," "," "," "
+100yr6010," "," ",19," ",Many,Vertical,Micro," "
+"025y 6020"," "," ",28,Many,Few,Vertical,Micro," "
+"025y 6020"," "," ",42,Few,Few,Vertical,Micro," "
+"025y 7020"," "," ",58,Few,Few,Vertical,Micro," "
+" "," "," ",4," "," "," "," ",Fine
+" "," "," ",8," "," "," "," ",Fine
+" "," "," ",14," "," "," "," ","Fine to medium"
+100yr4020," "," ",22," ",Common,Random,Micro," "
+"025y 6020"," "," "," ",Common,Few,Vertical,Micro," "
+010yr4030," "," ",20," ",Common,Random,Micro," "
+010yr5030," "," ",33," ",Few,Vertical,Micro," "
+010yr5020," ",Strong," "," ",Many,Vertical,Micro," "
+100yr6030," "," ",18,Common,Common,Random,Micro," "
+"050y 6030"," "," ",40,Common,Few,Horizontal,Micro," "
+"050y 5030"," "," ",60,Common,"Very few",Vertical,Micro," "
+"050y 7030"," "," ",183,Many," "," "," "," "
+"050y 6010"," "," "," "," "," "," "," "," "
+100yr5020," "," ",8," ",Few,Random,"Very fine"," "
+100yr6010," "," ",10,Few,"Very few",Random,Micro," "
+100yr6030," "," ",14,Many,"Very few",Random,Micro," "
+"025y 6020"," "," ",58,Common," "," "," "," "
+"050y 6010"," "," "," ",Few," "," "," "," "
+100yr5020," "," ",8," ",Few,Random,"Very fine"," "
+100yr6010," "," ",10,Few,"Very few",Random,Micro," "
+100yr6030," "," ",14,Many,"Very few",Random,Micro," "
+"025y 6020"," "," ",58,Common," "," "," "," "
+"050y 6010"," "," "," ",Few," "," "," "," "
+100yr4040," "," ",15," ",Many,Random,Micro," "
+100yr5080," "," ",37," ",Common,Vertical,Micro," "
+"025y 6020"," "," "," "," "," "," "," "," "
+100yr5040," "," ",22," ",Few,Random,Micro," "
+"025y 6040"," "," "," ",Few,Few,Random,Micro," "
+100yr4010," "," ",15," ",Common,Oblique,Micro," "
+075yr7020," "," ",25," ",Common,Random,Micro," "
+050yr5060," "," ",42," ",Common,Random,Micro," "
+100yr6030," "," ",59," ",Few,Vertical,Micro," "
+"050y 7020"," "," "," ",Common," "," "," "," "
+100yr3030," "," ",12," ",Common,Random,Medium," "
+075yr7020," "," ",19," ",Few,Random,Medium," "
+050yr4040," "," ",39,Few,Few,Random,Micro," "
+050yr4040," "," ",55,Few,Few,Random,Micro," "
+075yr6060," "," ",70," ",Few,Random,Micro," "
+075yr5060," "," "," "," ","Very few",Random,Micro," "
+050yr2020," "," ",4," ",Many,Random,Micro," "
+" "," "," ",8," ",Many,Vertical,Micro," "
+075yr5040," "," ",38," ",Many,Vertical,Micro," "
+100yr6060," "," ",70," ",Few,Vertical,Micro," "
+100yr7040," "," "," "," "," "," "," "," "
+100yr4020," "," ",18," ",Few,Random,Micro," "
+050yr6010," "," ",26," ",Few,Vertical,Micro," "
+100yr5040," "," ",34," ",Few,Vertical,Micro," "
+"025y 6040"," "," ",75," "," "," "," "," "
+"025y 6040"," "," "," "," "," "," "," "," "
+"025y 5020"," "," ",24," ",Few,Random,Micro," "
+"025y 6020"," ",Moderate,41,Few,"Very few",Vertical,Micro," "
+"025y 7020"," ",Moderate," ",Few," "," "," "," "
+100yr6030," "," ",25," ",Common,Random,Micro," "
+100yr7030," "," ",33,Few,Few,Random,Micro," "
+"025y 7020"," "," "," ",Many," "," "," "," "
+"025y 7020"," "," ",22," ",Many,Random,Micro," "
+"025y 7020"," "," ",48,Common,Few,Random,Micro," "
+"050y 8010"," "," "," ",Common," "," "," "," "
+100yr3030," "," ",20," ",Many,Random,Micro," "
+075yr5060," "," ",35," ",Common,Random,Micro," "
+100yr6040," "," ",45," ",Few,Vertical,Micro," "
+025yr7020," "," "," "," ","Very few",Vertical,Micro," "
+100yr4020," ",Strong,24," ",Common,Random,Micro," "
+100yr4010," ",Strong,36," ",Common,Random,Micro," "
+100yr6020," "," ",60," ",Few,Vertical,Micro," "
+"025y 6020"," ",Strong," "," "," "," "," "," "
+050yr3020," "," ",5," ",Common,Horizontal,Micro," "
+100yr6030," "," ",22," ",Few,Horizontal,Micro," "
+100yr7060," "," ",51," ",Few,Oblique,Micro," "
+"025y 7040"," "," "," ",Few," "," "," "," "
+100yr5010," "," ",23," ",Many,Random,Micro," "
+100yr7010," "," ",34,Common," ",Vertical,Micro," "
+100yr7010," "," ",51,Many,Common,Vertical,Micro," "
+100yr7010," "," ",61,Few,"Very few",Random,Micro," "
+"025y 7000"," "," ",82,Few,Few,Random,Micro," "
+"050y 7020"," "," ",107,Common,Few," ",Micro," "
+"050y 7020"," "," "," ",Few,Few,Random,Micro," "
+100yr4030," "," ",19," ",Common,Oblique,Micro," "
+100yr6010," "," ",23," ",Common,Oblique,Micro," "
+050yr3040," "," ",35," ",Few,Random,Micro," "
+100yr5060," "," ",71," ","Very few",Vertical,Micro," "
+100yr5080," "," ",78," "," "," "," "," "
+"025y 6040"," "," "," "," "," "," "," "," "
+100yr2020," "," ",18," ",Many,Random,Micro," "
+"025y 7040"," ",Strong,38," ",Few,Vertical,Micro," "
+"050y 7030"," ",Strong," "," "," "," "," "," "
+075yr4020," "," ",20," ",Few,Random,Micro," "
+100yr7010," "," ",28," ",Few,Random,Micro," "
+100yr4030," "," ",36," ","Very few",Vertical,Micro," "
+100yr5080," "," ",58," ","Very few",Vertical,Micro," "
+100yr7040," "," "," "," "," "," "," "," "
+100yr4020," "," ",16," ",Common,Vertical,Micro," "
+100yr6030," "," ",28,Many,"Very few",Vertical,Micro," "
+100yr6030," "," "," ",Many," "," "," "," "
+100yr6020," "," ",14," ",Few,Random,Micro," "
+100yr7025," "," ",18," ",Many,Vertical,Micro," "
+100yr6040," "," ",28," ",Common,Vertical,Micro," "
+100yr7040," "," ",37," ",Common,Vertical,Micro," "
+100yr6030," "," ",60,Many,Few,Vertical,Micro," "
+100yr3030," "," ",75,Many,"Very few",Vertical,Micro," "
+100yr5030," "," "," ",Many," "," "," "," "
+100yr4020," "," ",23," ",Common,Vertical,Micro," "
+025yr4080," "," ",36,Few,Few,Random,Micro," "
+100yr7040," "," ",55,Many,"Very few",Oblique,Micro," "
+"025y 7040"," "," ",83,Common," "," "," "," "
+"025y 7020"," "," "," "," "," "," "," "," "
+" "," "," ",5," ",Many," "," "," "
+100yr7010," "," ",10," "," "," "," "," "
+"050y 8020"," "," ",28,Many," "," "," "," "
+"050y 6010"," "," ",35,Many," "," "," "," "
+"050y 4010"," "," ",60," "," "," "," "," "
+100yr4010," "," ",16," ",Many,Random,Micro," "
+100yr6030," "," ",42," ",Few,Vertical,Micro," "
+100yr6030," ",Strong,70," "," "," "," "," "
+"025y 6010"," ",Strong," "," "," "," "," "," "
+" "," "," ",1,Few," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",5," ",Few,Vertical,Fine,Fine
+" "," "," ",15," ",Common,Vertical,Fine,Fine
+" "," "," ",32," ",Common,Vertical,Fine,Fine
+" "," "," ",47,Common,Few,Vertical,"Very fine",Fine
+" "," "," "," ",Few," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",5," ",Common," "," ",Fine
+" "," "," ",20," ",Many," "," ",Fine
+" "," "," ",35," ",Common," "," ",Fine
+" "," "," ",60,Few," "," "," ",Fine
+" "," "," ",7,Few," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",5," ",Common,Horizontal," ",Fine
+" "," "," ",13," ",Common,Horizontal," ",Fine
+" "," "," ",40,Many,"Very few",Vertical," ",Coarse
+" "," "," ",65,Few,"Very few",Vertical," ",Medium
+" "," "," "," ",Few," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",20," ",Few," "," "," "
+" "," "," ",29," ",Common," "," ",Coarse
+" "," "," ",40," ",Common," "," ",Coarse
+" "," "," ",60," ",Few," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",1,Few," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",7,Few," "," "," ",Fine
+" "," "," ",15," "," "," "," ",Fine
+" "," "," ",35,Few," "," "," ",Fine
+" "," "," ",50,Many," "," "," ",Coarse
+" "," "," "," ",Few," "," "," ",Coarse
+" "," "," ",0,Common," "," "," "," "
+" "," "," ",12," "," "," "," "," "
+" "," "," ",17," "," "," "," "," "
+" "," "," ",30," "," "," "," ",Medium
+" "," "," ",37,Common," "," "," ",Medium
+" "," "," ",62,Common," "," "," "," "
+" "," "," "," ",Common," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",6," ",Common," "," ",Coarse
+" "," "," ",15," ",Many," "," ",Fine
+" "," "," ",37," ",Common," "," ",Coarse
+" "," "," ",80," ",Few," "," ",Fine
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",7," ",Many,Horizontal,Fine,Fine
+" "," "," ",17," ",Many,Horizontal,Fine,Fine
+" "," "," ",30," ",Common,Vertical,Fine,Fine
+" "," "," ",50," ",Few," ",Fine," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",7," ",Few," "," ",Fine
+" "," "," ",12," ",Common," "," ",Fine
+" "," "," ",30," ","Very few"," "," "," "
+" "," "," ",55," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0,Many," "," "," "," "
+" "," "," ",7," ",Few,Vertical," ",Fine
+" "," "," ",12," ",Few,Vertical," ",Fine
+" "," "," ",17," ",Common,Vertical," ",Medium
+" "," "," ",25,Many,Few,Vertical," "," "
+" "," "," ",45,Few,"Very few",Vertical," "," "
+" "," "," ",60,Many," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",7," ",Common," "," ",Coarse
+075yr3040," "," ",12," ",Common," "," ",Coarse
+" "," "," ",22," ",Few," "," "," "
+" "," "," ",37," ",Few," "," "," "
+" "," "," ",53," ","Very few"," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",12," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",10,Few,Few,Vertical,Fine,Coarse
+" "," "," ",40,Many,Few,Vertical,"Very fine"," "
+" "," "," ",60,Many,Few," "," "," "
+" "," "," "," ",Few," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",12," ",Few," "," ",Fine
+" "," "," ",35," ",Common," "," ",Fine
+" "," "," ",50," ",Few," "," ",Coarse
+" "," "," ",70,Many," "," "," "," "
+" "," "," "," ",Few," "," "," "," "
+" "," "," ",12," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",10,Few,Few,Vertical,Fine,Coarse
+" "," "," ",40,Many,Few,Vertical,"Very fine"," "
+" "," "," ",60,Many,Few," "," "," "
+" "," "," "," ",Few," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",5," ",Common,Vertical," ",Fine
+" "," "," ",15," ",Many,Vertical," ",Fine
+" "," "," ",25," ",Few,Vertical," ",Medium
+100yr4020," "," ",20," "," "," "," "," "
+100yr3010," "," ",1," "," "," "," "," "
+100yr3010," "," ",0," ",Common," ",Medium," "
+100yr7010,Sticky," ",7," ",Common," ",Fine,Fine
+"025y 7020",Slightly," ",12,Few,Common," ",Fine," "
+100yr6040," "," ",37,Many,Few," ",Fine," "
+"050y 7020",Nonsticky," ",50,Few," "," "," "," "
+"050y 5020"," "," "," "," "," "," "," "," "
+" "," "," ",17," "," "," "," "," "
+100yr3020," "," ",0," "," "," "," "," "
+075yr6020,Sticky," ",1," ",Common," ","Very fine"," "
+100yr7020,Slightly," ",15,Few,Few," ","Very fine"," "
+"050y 7020",Nonsticky," ",50,Few," "," "," "," "
+"050y 6030",Nonsticky," "," "," "," "," "," "," "
+100yr5030," "," ",5," "," "," "," "," "
+100yr4020," "," ",1," "," "," "," "," "
+100yr4010," "," ",0," "," "," "," "," "
+075yr8020,Slightly," ",5," ",Many," ",Fine,Fine
+100yr8040,Nonsticky," ",17," ",Common," ",Fine,Fine
+100yr6060,Slightly," ",35," ",Common," ",Fine,Fine
+"050y 7020"," "," ",50," ","Very few"," ",Fine," "
+"050y 5020"," "," "," "," "," "," "," "," "
+" "," "," ",15," "," "," "," "," "
+100yr7020," "," "," "," "," "," "," "," "
+050yr3020," "," ",0," "," "," "," "," "
+100yr7020,Sticky," ",8," ",Common," ",Fine,Fine
+100yr6020,Sticky," ",15,Few,Common," ",Fine,Fine
+075yr6020,Slightly," ",20,Few,Common," ",Fine,Medium
+050yr5020," "," ",29,Few," "," ",Medium,Fine
+050yr6080," "," ",30," "," "," "," ",Fine
+050yr5040," "," ",40,Many," "," "," "," "
+100yr7030," "," ",53,Common," "," "," "," "
+" "," "," ",10," "," "," "," "," "
+075yr4020," "," ",0," "," "," "," "," "
+075yr7020," "," ",12," ",Common," ","Very fine",Fine
+100yr4030," "," ",20," ",Common," ","Very fine"," "
+050yr6040," "," ",22," "," "," "," "," "
+100yr7040," "," ",35,Common,Few," ",Fine,Coarse
+100yr7030," "," ",45,Common," "," "," "," "
+" "," "," ",1," "," "," "," "," "
+075yr4020," "," ",0," "," "," "," "," "
+" ",Slightly," ",15," ",Many," ",Fine,Fine
+050yr4040," "," ",20," ",Common," ",Fine,Fine
+075yr6060,Slightly," ",40," ",Common," ",Fine,Fine
+"025y 7020"," "," ",50,Few,"Very few"," ",Fine," "
+"025y 7020"," "," "," "," "," "," "," "," "
+" "," "," ",6," "," "," "," "," "
+" "," "," ",15," "," "," "," "," "
+" "," "," ",39," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+025yr3020," "," ",5,Many," "," "," "," "
+"100r 2020"," "," ",0,Many," "," "," "," "
+075yr7010,Sticky," ",10,Common,Common," ",Fine,Fine
+025yr3020,Sticky," ",17,Common,Few," ",Fine,Fine
+025yr4080," "," ",18,Common," "," "," "," "
+050yr5060,Slightly," ",35," "," "," "," "," "
+100yr6040," "," ",50," "," "," "," "," "
+"025y 5040"," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",14," "," "," "," ",Fine
+" "," "," ",15," "," "," "," "," "
+" ",Slightly," ",21," "," "," "," ",Fine
+" ",Sticky," ",26," "," "," "," ",Medium
+" "," "," "," "," "," "," "," "," "
+" "," "," ",4," "," "," "," "," "
+050yr3030," "," ",1," ",Many," ",Medium," "
+050yr2010,Sticky," ",0," ",Many," ",Fine,Fine
+075yr8020," "," ",6," ",Many," ",Fine,Fine
+050yr3040,Sticky," ",10," ",Many," ",Fine,Fine
+075yr7080,Slightly," ",35," ",Common," ",Fine,Fine
+"025y 5040"," "," ",40," "," "," "," ",Fine
+"025y 6040"," "," ",60,Common," "," "," "," "
+"050y 5030"," "," "," "," "," "," "," "," "
+100yr3040," "," ",0," "," "," "," "," "
+050yr8020,Slightly," ",7," ",Many," ",Fine,"Very fine"
+050yr5060,Slightly," ",25,Few,Common," ",Fine,Fine
+100yr6030,Nonsticky," ",33,Common,Few," ",Fine," "
+"050y 7030"," "," ",100,Common," "," "," "," "
+"050y 7020"," "," "," "," "," "," "," "," "
+" "," "," ",50," "," "," "," "," "
+" "," "," ",1," ",Common," ",Fine," "
+" ",Sticky," ",0," "," "," "," "," "
+100yr7020,Slightly," ",15," ",Common," ","Very fine",Fine
+050yr3030," "," ",40,Few,"Very few"," ",Fine,Fine
+025yr4040," "," ",41," "," "," "," "," "
+050yr2010," "," ",42," "," "," "," "," "
+050yr3030," "," ",57,Many," "," "," "," "
+075yr6020," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",4," "," "," "," "," "
+" "," "," ",17," "," "," "," "," "
+" "," "," ",28," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+075yr4020," "," ",0," "," "," "," "," "
+100yr8010," "," ",7," "," "," "," "," "
+075yr8060," "," ",25," "," "," "," "," "
+100yr7030," "," ",40," "," "," "," "," "
+050yr4010," "," ",5," "," "," "," "," "
+"050y 6030"," "," ",60,Few," "," "," "," "
+"050y 6020"," "," "," "," "," "," "," "," "
+050yr3010," "," ",0," "," "," "," "," "
+075yr8000,Slightly," ",5," ",Many," ",Fine,Fine
+075yr6020,Slightly," ",10," ",Many," ",Fine,Fine
+050yr4020," "," ",17," ",Common," ",Fine," "
+075yr6040," "," ",33,Common,Common," ",Fine," "
+"050y 6030"," "," ",37,Common," "," "," "," "
+050yr2010," "," ",38," "," "," "," "," "
+" "," "," ",40," "," "," "," "," "
+050yr3030," "," ",0," "," "," "," "," "
+050yr7020,Slightly," ",7,Few,Common," ",Coarse," "
+100yr3030,Sticky," ",20,Common,Common," ",Fine," "
+100yr2010," "," ",21," "," "," "," "," "
+025yr5020,Nonsticky," ",30,Common,"Very few"," ","Very fine"," "
+050yr5030," "," ",45,Few," "," "," "," "
+" "," "," ",0," ",Many," "," "," "
+"050y 6020"," "," "," "," "," "," "," "," "
+050yr8010," "," ",4," ",Common," ",Fine,Medium
+075yr7020," "," ",8," ",Common," ",Fine,Fine
+050yr3010," "," ",22," ",Common," ",Fine,Fine
+050yr2010," "," ",23," "," "," "," "," "
+075yr5080," "," ",24," "," "," "," "," "
+075yr4040," "," ",35," ",Few," ",Fine," "
+100yr5040," "," ",50," ",Few," ",Fine," "
+100yr6030," "," ",58," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",3," "," "," "," ",Fine
+" "," "," ",6," "," "," "," ",Medium
+" "," "," ",11," "," "," "," ",Medium
+" "," "," ",17," "," "," "," ",Fine
+" "," "," ",25," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+100yr6040,Nonsticky," ",15," ",Common,Vertical,Fine,Medium
+075yr6060,Nonsticky," ",46," ","Very few",Vertical,"Very fine",Fine
+"050y 5020",Nonsticky," ",100," "," "," "," "," "
+" "," "," ",7," "," "," "," "," "
+" "," "," ",0," ",Common," ",Fine," "
+" ",Nonsticky," ",10," ",Common," ",Medium,Medium
+" ",Nonsticky," ",14,Few,Few," ",Medium,Medium
+050yr2520,Nonsticky," ",36," "," "," "," ",Coarse
+" ",Nonsticky," ",45," "," "," "," ",Coarse
+" ",Nonsticky," "," "," "," "," "," "," "
+" "," "," ",0," ",Few," ",Fine," "
+" ",Nonsticky," ",5," ",Few," ","Very fine",Medium
+" ",Nonsticky," ",25,Few,Few," ","Very fine",Medium
+" ",Nonsticky," ",36," "," "," "," "," "
+" ",Nonsticky," "," "," "," "," "," "," "
+" "," "," ",0," ",Few,Horizontal,Medium," "
+" ",Sticky," ",2," ",Common,Horizontal,Fine,Medium
+" ",Slightly," ",17,Common,Few,Horizontal,"Very fine",Coarse
+" "," "," ",3," "," "," "," ",Fine
+" "," "," ",9," "," "," "," ",Medium
+" "," "," ",14," "," "," "," "," "
+" "," "," "," "," "," "," "," ",Fine
+" "," "," ",20," ",Common,Horizontal,Medium," "
+" "," "," ",7," ",Common,Horizontal,Medium," "
+" "," "," ",0," ",Few,Random,"Very fine"," "
+" ",Nonsticky," ",2," ",Few,Random,"Very fine"," "
+" ",Nonsticky," ",18,Many,"Very few",Random,"Very fine"," "
+" ",Nonsticky," ",38,Common,"Very few",Random,"Very fine"," "
+" ",Nonsticky," ",62,Many,"Very few",Random,"Very fine"," "
+" ",Slightly," "," ",Common," "," "," "," "
+" "," "," ",0," ",Many,Horizontal,Medium," "
+" ",Nonsticky," ",3,Common,Common,Random,"Very fine",Medium
+" ",Nonsticky," ",17,Common,Common,Random,"Very fine",Medium
+" ",Slightly," ",25,Many," "," "," "," "
+" ",Slightly," ",55,Many," "," "," "," "
+" "," "," ",0," ",Many,Horizontal,Medium," "
+" ",Nonsticky," ",10,Common,Common,Horizontal,"Very fine","Fine to medium"
+" ",Nonsticky," ",38,Common,Few,Horizontal,Fine,"Fine to medium"
+" ",Nonsticky," ",60," "," "," "," ",Fine
+" ",Nonsticky," ",75," "," "," "," ",Fine
+" ",Nonsticky," ",90," "," "," "," "," "
+" "," "," ",0," ",Common,Horizontal,Fine," "
+" ",Nonsticky," ",9," ",Few,Horizontal,Fine,"Fine to medium"
+" ",Nonsticky," ",24," ",Common,Horizontal,"Very fine",Fine
+" ",Nonsticky," ",38," ",Common,Horizontal,"Very fine","Very fine to fine"
+" ",Nonsticky," ",66,Common,"Very few",Vertical,"Very fine",Medium
+" ",Nonsticky," ",80,Common," "," "," ",Coarse
+" "," "," ",0," ",Common," ",Coarse," "
+" ",Nonsticky," ",2," ",Common," ",Medium,"Very fine to fine"
+" ",Nonsticky," ",27," ",Few," ",Fine,Coarse
+" ",Nonsticky," ",38,Common," "," "," ",Coarse
+" "," "," ",60," "," "," "," "," "
+" "," "," ",0," ",Many,Random,Coarse," "
+050yr5020,Sticky," ",7," ",Common,Random,Medium,"Fine to medium"
+050yr4540,Slightly," ",15," ",Common,Random,Fine," "
+050yr5040,Slightly," ",67," ",Few,Random,Fine," "
+" "," "," ",0," "," "," "," "," "
+" ",Slightly," ",12," ",Many,Random,Fine,"Fine to medium"
+" ",Slightly," ",25," ",Common,Random,Fine,"Fine to medium"
+" ",Slightly," ",42,Few,Few,Random,Fine,Fine
+" "," "," ",0," ",Many,Random,Fine," "
+" ",Nonsticky," ",6," ",Common,Random,Fine,Fine
+" ",Slightly," ",20," ",Common,Random,Fine,Fine
+" ",Sticky," ",30," ",Common,Random,Fine,Fine
+" ",Sticky," ",52,Few,Few,Random,Fine,Fine
+075yr5040," "," ",2," "," "," "," ",Fine
+" "," "," ",6," "," "," "," ",Medium
+" "," "," ",8," "," "," "," ",Medium
+" "," "," ",14," "," "," "," ",Medium
+" "," "," ",21," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" ",Slightly," ",20," ",Few,Random,Fine,"Very fine to fine"
+" ",Slightly," ",40," ",Few,Random,Fine,Fine
+" ",Slightly," ",72," "," "," "," ",Fine
+" ",Slightly," ",82," "," "," "," ",Fine
+" ",Slightly," ",12," ",Many,Random,Fine,Fine
+" ",Slightly," ",32," ",Common,Random,Fine,Fine
+" ",Slightly," ",44," ",Few,Random,Fine,Fine
+" "," "," ",69," ",Few,Random,Fine," "
+" "," "," ",0," ",Common,Random,Fine," "
+" ",Nonsticky," ",10," ",Few,Random,Fine," "
+" ",Nonsticky," ",18," ","Very few",Random,Fine,Fine
+" ",Nonsticky," ",30," ","Very few",Random,Fine," "
+" ",Nonsticky," ",50," "," "," "," "," "
+" ",Nonsticky," ",65," "," "," "," "," "
+" "," "," ",0," ",Common,Random,Fine," "
+" ",Nonsticky," ",10,Common,Common,Random,Fine," "
+" ",Nonsticky," ",20,Common,Few,Random,Fine,Fine
+" ",Nonsticky," ",23,Many,"Very few",Random,Fine,Fine
+" "," "," ",0," ","Very few",Random,Fine," "
+" ",Slightly," ",6," ",Few,Random,Fine,Fine
+" ",Slightly," ",21," ",Few,Random,Fine,Fine
+" ",Slightly," ",35," ","Very few",Random,Fine,Fine
+" ",Nonsticky," ",57," "," "," "," "," "
+" "," "," ",0," ",Few,Random,Fine," "
+" ",Nonsticky," ",5,Common,Few,Random,Fine," "
+" ",Nonsticky," ",9,Few,Few,Random,Fine," "
+050yr4060,Slightly," ",17," ",Common,Random,Fine,Fine
+" ",Slightly," ",33,Few,Few,Random,Fine,Medium
+" ",Nonsticky," ",45,Many," "," "," ",Medium
+" ",Nonsticky," ",60,Many," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",12," "," "," "," "," "
+" "," "," ",72,Common," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",1," "," "," "," "," "
+" "," "," ",3," "," "," "," "," "
+" "," "," ",7," "," "," "," "," "
+" "," "," ",11," "," "," "," "," "
+" "," "," ",26," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",5," ",Common,Horizontal,Coarse," "
+" "," "," ",0," ",Common,Horizontal,Coarse," "
+" ",Slightly," ",3," ",Few,Horizontal,"Very fine",Fine
+100yr5080,Slightly," ",33,Many,"Very few",Horizontal,"Very fine",Coarse
+" ",Slightly," ",45,Many,"Very few",Horizontal,"Very fine",Medium
+" ",Slightly," "," ",Common," "," "," ","Medium to coarse"
+" "," "," ",1," ",Many,Horizontal,Medium," "
+" "," "," ",0," ",Many,Horizontal,Medium," "
+" ",Slightly," ",2," ",Common,Random,Fine," "
+" ",Slightly," ",14," ",Common,Oblique,Fine,"Medium to coarse"
+" ",Nonsticky," ",34," ",Few,Oblique,Fine,"Medium to coarse"
+" ",Nonsticky," "," "," "," "," "," "," "
+" "," "," ",0," ",Common,Oblique,Fine," "
+" ",Slightly," ",10,Common,Few,Oblique,Fine,"Fine to medium"
+" "," "," ",0," ",Many," ",Fine," "
+075yr7020," "," ",20," ",Many," ","Very fine"," "
+050yr5080," "," ",45,Common,Few," ",Fine," "
+050yr5060," "," ",60,Many," "," "," ",Coarse
+025yr5040," "," "," "," "," "," "," ",Medium
+100yr6020," "," ",0," ",Many,Horizontal,Fine," "
+050yr8010,Sticky," ",1," ",Many," ","Very fine",Medium
+100yr6060,Sticky," ",15," ",Many," ","Very fine"," "
+"025y 7060",Sticky," ",40,Few,Few," ",Fine," "
+"025y 6040",Sticky," ",65,Few," "," "," "," "
+"025y 5040",Slightly," "," ",Few," "," "," "," "
+" "," "," ",0," ",Many," ",Fine," "
+050yr6020,Sticky," ",10," ",Few," ",Fine,"Fine to medium"
+" ",Slightly," ",25,Few,Few," ","Very fine","Fine to medium"
+075yr4040,Sticky," "," ",Few,"Very few"," ",Micro,"Medium to coarse"
+" "," "," ",0," ",Common," ",Fine," "
+100yr7010,Sticky," ",3," ",Common," ",Fine,Fine
+" "," "," ",20," ",Common," ",Fine,Fine
+" ",Sticky," ",45,Few,Few," ",Fine," "
+" "," "," ",60," "," "," "," "," "
+" "," "," ",0," ",Many,Random,Fine," "
+" ",Nonsticky," ",10," ",Common,Random,Fine,"Fine to medium"
+" ",Slightly," ",22," ",Few,Random,Fine,Coarse
+" ",Nonsticky," ",37," ","Very few",Random,Micro," "
+" ",Nonsticky," "," "," ","Very few",Random,Micro,"Very fine"
+100yr4010," "," ",0," ",Many," ","Very fine"," "
+100yr7010," "," ",1," "," "," "," "," "
+100yr5040," "," ",15,Few,Many," ","Very fine",Fine
+100yr5040," "," ",35,Many,Common," ",Fine," "
+"025y 6020"," "," ",50,Few," "," "," "," "
+" "," "," ",0," ",Many," ",Fine," "
+" ",Nonsticky," ",10," ",Many," ",Fine,"Fine to medium"
+" ",Nonsticky," ",17," ",Common," ",Fine,"Medium to coarse"
+" ",Nonsticky," ",32," ","Very few"," ","Very fine"," "
+" ",Nonsticky," ",52," "," "," "," "," "
+" ",Nonsticky," "," "," "," "," "," "," "
+" ",Slightly," ",12," ",Few," ","Very fine",Coarse
+" ",Nonsticky," ",15," ",Many," ",Fine,"Fine to medium"
+" ",Slightly," ",35," ",Common," ",Fine,Fine
+" ",Slightly," ",50," ",Common," ","Very fine",Fine
+" "," "," ",65," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Nonsticky," ",3," ",Common," ",Medium,Fine
+" ",Slightly," ",15," ",Common," ",Fine,Fine
+" ",Slightly," ",40," ",Few," ",Fine,Fine
+" ",Slightly," "," "," "," "," "," ",Fine
+" "," "," ",0," "," "," "," "," "
+" "," "," ",11," "," "," "," "," "
+" "," "," ",16," "," "," "," "," "
+" "," "," ",39," "," "," "," "," "
+" "," "," ",53," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",5," ",Many,Random,"Very fine"," "
+" ",Slightly," ",12," ",Common,Random,Fine,Fine
+" ",Slightly," ",32," ",Common,Random,Fine,Medium
+" ",Nonsticky," ",62," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Slightly," ",8," "," "," "," ",Fine
+" ",Sticky," ",13," "," "," "," ","Fine to medium"
+" ",Sticky," ",25," "," "," "," ",Fine
+" ",Sticky," ",51," "," "," "," ",Fine
+" ",Sticky," ",59," "," "," "," "," "
+" ",Sticky," "," "," "," "," "," "," "
+" "," "," ",2," ",Common,Vertical,Fine," "
+" ",Sticky," ",9," ",Common,Vertical,Fine,"Fine to medium"
+" ",Sticky," ",37," ",Common,Vertical,"Very fine","Medium to coarse"
+" ",Nonsticky," ",80," ","Very few",Vertical,Micro,"Medium to coarse"
+" "," "," ",0," "," "," "," "," "
+" ",Slightly," ",10," ",Common,Random,Fine,Coarse
+" ",Slightly," ",22," ",Common,Random,Fine,Coarse
+" "," "," ",34," ",Few,Horizontal,Fine,Coarse
+" ",Nonsticky," ",45," ",Few,Random,Fine,"Medium to coarse"
+" "," "," ",0," ",Many," ",Medium," "
+" ",Slightly," ",2," ",Many,Random,Medium,"Fine to medium"
+" ",Sticky," ",14," ",Common,Random,Medium,"Fine to medium"
+" ",Nonsticky," ",28," ",Common,Random,Medium,"Fine to medium"
+" ",Nonsticky," ",40," "," "," "," ","Fine to medium"
+" "," "," ",0," ",Many,Random,Coarse," "
+" ",Slightly," ",7," ",Common,Random,Medium,"Medium to coarse"
+" ",Sticky," ",23," ",Few,Random,Medium,Coarse
+" ",Slightly," ",45," "," "," "," ",Coarse
+" ",Nonsticky," ",8," ",Many,Random,Medium,Medium
+" ",Nonsticky," ",11," ",Many,Random,Medium,"Fine to medium"
+" "," "," ",22," ",Many,Random,Medium," "
+" "," "," ",24," ",Many,Random,Medium,Medium
+" ",Nonsticky," ",29," ",Many,Vertical,Medium,Fine
+" ",Slightly," "," "," ",Common,Vertical,Medium,Medium
+" "," "," ",0," ",Many,Random,Medium," "
+" "," "," ",1," ",Many,Random,Medium," "
+" ",Slightly," ",11," ",Common,Vertical,Medium,Fine
+" ",Sticky," ",41," ",Common,Vertical,Medium,Medium
+" ",Slightly," ",55," "," "," "," ",Medium
+" "," "," ",0," ",Many,Random,Medium," "
+" "," "," ",2," ",Many,Random,Medium," "
+" ",Slightly," ",12," ",Common,Random,Medium,"Fine to medium"
+" ",Slightly," ",18," ",Common,Random,Medium,"Medium to coarse"
+" ",Slightly," ",38," "," "," "," ","Fine to medium"
+" "," "," ",0," ",Common,Vertical,Fine," "
+" ",Nonsticky," ",5," ",Common,Vertical,Fine,Coarse
+" ",Slightly," ",12," ",Common,Horizontal,Medium,Coarse
+" ",Nonsticky," ",35," ",Few,Horizontal,"Very fine",Coarse
+" ",Nonsticky," "," "," "," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" ",Nonsticky," ",8," ",Few,Vertical,"Very fine",Coarse
+" ",Nonsticky," ",16," ",Few,Horizontal,"Very fine","Medium to coarse"
+" ",Nonsticky," ",29," ","Very few",Horizontal,"Very fine",Coarse
+" "," "," ",8," "," "," "," "," "
+" "," "," ",38," "," "," "," "," "
+" "," "," ",47," "," "," "," "," "
+" ",Slightly," ",60," ",Common,Vertical,Fine,Coarse
+100yr2020," "," ",0," ",Many,Random,Medium," "
+" ",Nonsticky," ",19," ",Common,Random,Fine,Fine
+" ",Nonsticky," ",54,Few,Common,Random,Fine,"Medium to coarse"
+" ",Nonsticky," ",7," ",Many,Vertical,Medium,Medium
+" ",Nonsticky," ",33," ",Common,Vertical,Medium,"Fine to medium"
+" ",Nonsticky," ",58," ",Common,Vertical,Medium,"Fine to medium"
+" ",Nonsticky," ",95," ","Very few",Vertical,Fine,Coarse
+" "," "," ",0," ",Many,Random,Medium," "
+" ",Nonsticky," ",15," ",Common,Random,Medium,"Medium to coarse"
+" ",Nonsticky," ",27," ",Few,Random,Fine,Medium
+" ",Nonsticky," "," "," "," "," "," "," "
+" ",Slightly," ",20," ",Common," ",Fine,Medium
+" "," "," ",23," ",Common," ",Fine," "
+" ",Slightly," ",33," ",Common," ",Fine,Medium
+" ",Slightly," ",45," ",Common," ",Fine,Medium
+" ",Slightly," "," "," ","Very few"," ",Fine,Medium
+" "," "," ",0," "," "," "," "," "
+" ",Slightly," ",5," ",Many," ",Medium,"Medium to coarse"
+" ",Slightly," ",12," ",Common," ",Fine,"Medium to coarse"
+" ",Slightly," ",22," ",Few," ","Very fine","Medium to coarse"
+" ",Slightly," ",34," "," "," "," ",Coarse
+" "," "," "," "," "," "," "," "," "
+" ",Sticky," ",12," ",Common," ",Fine,Medium
+" ",Nonsticky," ",20," ",Common," ",Fine,Medium
+" ",Slightly," ",45," ",Few," ",Fine,"Fine to medium"
+" ",Slightly," "," "," "," "," "," ",Fine
+" "," "," ",0," ",Common," ",Medium," "
+" ",Sticky," ",6," ",Common," ",Medium,Medium
+" ",Slightly," ",18," ",Common," ",Fine,"Medium to coarse"
+" ",Slightly," ",28," ",Few," ",Fine,"Medium to coarse"
+" ",Slightly," "," "," "," "," "," ","Medium to coarse"
+" "," "," ",0," "," "," "," "," "
+" "," "," ",2," ",Many," ",Medium,Medium
+" "," "," ",16," ",Common," ",Medium,"Medium to coarse"
+" ",Slightly," ",36," ",Common," ",Fine,Medium
+" ",Slightly," "," "," ",Common," ",Fine,Coarse
+" "," "," ",0," ",Many," ",Coarse," "
+" ",Sticky," ",12," ",Common," ",Coarse,"Medium to coarse"
+" ",Sticky," ",27," ",Common," ",Medium,Medium
+" ",Sticky," ",42," ",Few," ",Fine,Medium
+" ",Sticky," "," "," "," "," "," ","Medium to coarse"
+" "," "," ",0," ",Many," ",Medium," "
+" ",Slightly," ",12," ",Many," ",Fine,Medium
+" ",Slightly," ",35," ",Many," ",Fine,"Fine to medium"
+" ",Sticky," ",54," ",Few," ",Fine,Fine
+" ",Slightly," "," "," "," "," "," ",Coarse
+" "," "," ",10," ",Common," ",Medium," "
+" "," "," ",12," ",Common," ",Medium," "
+" ",Sticky," ",30," ",Common," ",Fine,"Medium to coarse"
+" ",Sticky," ",46," ",Few," ",Fine,"Fine to medium"
+" ",Slightly," "," "," "," "," "," ","Fine to medium"
+" ",Nonsticky," ",16," ",Common," ",Medium,Medium
+" "," "," ",19," ",Common," ",Medium,Medium
+" ",Nonsticky," ",37," ",Common," ",Medium,"Fine to medium"
+" ",Nonsticky," ",48,Common,Common," ",Medium,Fine
+" ",Nonsticky," "," "," "," "," "," "," "
+" ",Nonsticky," ",7," ",Many,Random,Fine,"Fine to medium"
+" ",Slightly," ",15," ",Many," ",Medium,Coarse
+" ",Nonsticky," ",25," ",Common,Random,Fine,"Medium to coarse"
+" ",Nonsticky," ",37," ",Common,Random,"Very fine","Medium to coarse"
+" ",Nonsticky," ",54," ",Common,Random,"Very fine",Coarse
+" ",Nonsticky," "," "," "," "," "," ","Fine to medium"
+" "," "," ",0," "," "," "," "," "
+" ",Nonsticky," ",4," ",Common,Random,Fine,Coarse
+" ",Slightly," ",32," ",Common,Random,Fine,Medium
+" ",Nonsticky," ",46," ",Few,Random,"Very fine",Medium
+" ",Nonsticky," "," "," ","Very few",Random,"Very fine",Medium
+" "," "," ",0," ",Many,Horizontal,Medium," "
+" ",Nonsticky," ",35," ",Many,Horizontal,Medium,"Medium to coarse"
+" "," "," ",0," ",Many," ",Fine," "
+" ",Slightly," ",9,Few,Common," ",Fine,"Medium to coarse"
+" "," "," ",0," ",Many,Random,Fine," "
+" ",Nonsticky," ",12," ",Common,Random,Fine,"Medium to coarse"
+" ",Nonsticky," ",32," ",Few,Random,"Very fine","Fine to medium"
+" "," "," ",0," ",Common,Random,Fine," "
+" ",Slightly," ",10," ",Common,Random,Fine,Coarse
+" ",Nonsticky," ",22," ",Common,Horizontal,Fine,"Medium to coarse"
+" ",Nonsticky," ",31," ",Few,Horizontal,Fine,Coarse
+" ",Nonsticky," "," "," "," ",Random,"Very fine",Coarse
+" "," "," ",9," ",Common," ",Fine,Fine
+" ",Slightly," ",17," ",Common," ",Fine,"Very fine"
+" ",Nonsticky," ",46," ",Few," ",Fine,Fine
+" ",Nonsticky," ",54," ","Very few"," ",Fine," "
+" ",Nonsticky," "," "," "," "," "," "," "
+" "," "," ",0," ",Many," ",Medium," "
+" ",Slightly," ",7," ",Many," ",Medium,Fine
+" ",Slightly," ",22," ",Few," ",Fine,"Fine to medium"
+" ",Nonsticky," ",30," ",Few," ",Fine,Fine
+" ",Nonsticky," ",35," "," "," "," "," "
+" "," "," ",0," ",Many," ",Medium," "
+" "," "," ",4," ",Many," ",Medium,Fine
+" ",Slightly," ",16," ",Common," ",Medium,"Fine to medium"
+" ",Slightly," ",27," ",Common," ",Medium,Medium
+" ",Sticky," ",38," ",Few," ",Medium,Coarse
+" ",Sticky," ",53," ","Very few"," ",Fine,Coarse
+" ",Sticky," ",4," ",Many," ",Medium,Medium
+" ",Sticky," ",18,Many,Few," ",Fine,"Medium to coarse"
+" ",Slightly," ",34,Common,"Very few"," ","Very fine","Medium to coarse"
+" "," "," ",50,Few," "," "," "," "
+" "," "," ",0," ",Many," ",Medium," "
+" ",Nonsticky," ",5," ",Many," ",Medium,Medium
+" ",Nonsticky," ",29," ",Many," ",Medium,Medium
+" ",Nonsticky," ",50," ",Many," ",Medium,Medium
+" ",Nonsticky," ",67," ",Many," ",Fine,"Medium to coarse"
+" ",Nonsticky," ",80," ","Very few"," ","Very fine"," "
+" "," "," ",0," ",Common,Vertical,Medium," "
+" ",Nonsticky," ",1," ",Common,Vertical,Medium,"Fine to medium"
+100yr6060,Nonsticky," ",25," ",Few,Vertical,"Very fine","Fine to medium"
+100yr6040,Nonsticky," ",40," ","Very few",Vertical,"Very fine"," "
+100yr5060,Nonsticky," ",60," "," "," "," "," "
+" "," "," ",0," ",Many," ",Medium," "
+050yr6010,Slightly," ",8," ",Many," ",Medium,Coarse
+075yr5060,Slightly," ",14," ",Common," ",Fine,"Fine to medium"
+075yr6040,Slightly," ",21," ",Few," ",Fine,Coarse
+075yr6020," "," ",40," "," "," "," "," "
+" "," "," ",0," ",Many,Oblique,Medium," "
+100yr8010,Slightly," ",9," ",Common,Oblique,Medium,Medium
+100yr6040,Slightly," ",33," ",Few,Oblique,Medium,Medium
+100yr6030,Slightly," ",47," ","Very few",Horizontal,Fine,Medium
+100yr6030,Nonsticky," ",77," "," "," "," ","Medium to coarse"
+100yr6040,Nonsticky," "," "," "," "," "," ","Medium to coarse"
+100yr5040,Slightly," ",30," ",Many,Oblique,Fine,"Very fine to fine"
+100yr4060,Slightly," ",44," ",Few,Oblique,Fine,"Fine to medium"
+100yr4030,Slightly," ",52," ","Very few",Horizontal,"Very fine","Fine to medium"
+100yr5030,Slightly," ",70," "," "," "," ","Fine to medium"
+" "," "," ",0," ",Many," ",Fine," "
+" ",Slightly," ",7," ",Common," ",Fine,Coarse
+" ",Slightly," ",21," ",Common," ","Very fine",Coarse
+" ",Nonsticky," ",34," ",Common," ",Fine,Coarse
+" ",Nonsticky," "," "," ",Few," ",Fine,Coarse
+" "," "," ",0," "," "," "," "," "
+" ",Nonsticky," ",5," "," "," "," ",Fine
+" ",Slightly," ",28," "," "," "," ",Fine
+" ",Sticky," ",48," "," "," "," ",Fine
+" ",Sticky," ",71," "," "," "," ",Fine
+" ",Sticky," ",102," "," "," "," "," "
+" ",Slightly," "," "," "," "," "," "," "
+" "," "," ",0," ",Many," ",Coarse," "
+" ",Slightly," ",2," ",Many," ",Coarse,Medium
+" ",Slightly," ",10," ",Many," ",Fine,"Medium to coarse"
+" ",Sticky," ",14," ",Many," ",Fine,"Medium to coarse"
+" ",Nonsticky," ",23," ",Common," ",Fine,"Medium to coarse"
+" ",Nonsticky," ",45," ",Few," ",Fine,"Medium to coarse"
+" "," "," ",0," ",Many," ",Medium," "
+" ",Slightly," ",7," ",Common," ",Fine,Medium
+" ",Nonsticky," ",24," ",Few," ",Fine,"Medium to coarse"
+" ",Slightly," ",39," ","Very few"," ",Fine,"Medium to coarse"
+" ",Nonsticky," ",46," "," "," "," ","Medium to coarse"
+" "," "," ",0," ",Common," ",Fine," "
+" ",Slightly," ",16,Many,Many," ",Fine,Coarse
+" ",Nonsticky," ",31," ","Very few",Horizontal,"Very fine",Coarse
+" "," "," ",0," ",Many," ",Fine," "
+" ",Nonsticky," ",5," ",Common,Vertical,Fine,Medium
+" ",Nonsticky," ",15," ",Many,Horizontal,Fine,"Medium to coarse"
+" ",Nonsticky," "," "," "," "," "," ","Medium to coarse"
+" "," "," ",0," ",Many," ",Medium," "
+" ",Slightly," ",9," ",Many," ",Medium,"Medium to coarse"
+" ",Sticky," ",26," ",Common," ",Medium,"Medium to coarse"
+" ",Nonsticky," ",45,Few,Few," ",Fine,"Fine to medium"
+" ",Nonsticky," ",55,Common," "," "," ","Fine to medium"
+" "," "," ",0," ",Many," ",Medium," "
+" ",Slightly," ",7," ",Many," ",Medium,"Fine to medium"
+" ",Slightly," ",21," ",Common," ",Medium,"Medium to coarse"
+" ",Slightly," ",36," ",Common," ",Medium,"Fine to medium"
+" ",Slightly," ",48," "," "," "," ","Fine to medium"
+" "," "," ",0," "," "," "," "," "
+" "," "," ",15," "," "," "," ",Fine
+" "," "," ",36," "," "," "," ",Fine
+" "," "," ",69," "," "," "," ",Medium
+" "," "," ",86," "," "," "," ",Medium
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Nonsticky," ",8," "," "," "," "," "
+" ",Nonsticky," ",33," "," "," "," "," "
+" ",Nonsticky," ",51," "," "," "," "," "
+" ",Nonsticky," ",76," "," "," "," "," "
+" ",Nonsticky," ",102," "," "," "," "," "
+" ",Nonsticky," "," "," "," "," "," "," "
+100yr4030," "," ",20," "," "," "," ",Medium
+100yr4040," "," ",30," "," "," "," ",Fine
+100yr4040," "," "," "," "," "," "," ",Fine
+" "," "," ",20," "," "," "," "," "
+" "," "," ",50," "," "," "," "," "
+" "," "," ",80," "," "," "," "," "
+" "," "," ",105," "," "," "," "," "
+" "," "," ",116," "," "," "," "," "
+" "," "," ",20," "," "," "," "," "
+" "," "," ",40," "," "," "," "," "
+" "," "," ",220," "," "," "," "," "
+" "," "," ",280," "," "," "," "," "
+" "," "," ",300," "," "," "," "," "
+" "," "," ",40," "," "," "," "," "
+" "," "," ",160," "," "," "," "," "
+" "," "," ",215," "," "," "," "," "
+" "," "," ",20," "," "," "," "," "
+" "," "," ",50," "," "," "," "," "
+" "," "," ",70," "," "," "," "," "
+" "," "," ",90," "," "," "," "," "
+" "," "," ",15," "," "," "," "," "
+" "," "," ",220," "," "," "," "," "
+" "," "," ",280," "," "," "," "," "
+" "," "," ",25," "," "," "," "," "
+" "," "," ",110," "," "," "," "," "
+" ",Slightly," ",20," "," "," "," ",Fine
+" ",Nonsticky," ",25," "," "," "," ",Medium
+" ",Nonsticky," ",36," "," "," "," ",Medium
+" ",Slightly," ",71," "," "," "," ",Fine
+" ",Slightly," "," "," "," "," "," "," "
+" "," "," ",10," "," "," "," "," "
+" "," "," ",30," "," "," "," "," "
+" "," "," ",70," "," "," "," "," "
+" "," "," ",15," "," "," "," "," "
+" "," "," ",70," "," "," "," "," "
+" "," "," ",120," "," "," "," "," "
+" "," "," ",20," "," "," "," "," "
+" "," "," ",60," "," "," "," "," "
+" "," "," ",100," "," "," "," "," "
+" "," "," ",140," "," "," "," "," "
+" "," "," ",15," "," "," "," "," "
+" "," "," ",60," "," "," "," "," "
+" "," "," ",380," "," "," "," "," "
+" "," "," ",450," "," "," "," "," "
+" "," "," ",20," "," "," "," "," "
+" "," "," ",50," "," "," "," "," "
+" "," "," ",105," "," "," "," "," "
+" "," "," ",150," "," "," "," "," "
+" "," "," ",25," "," "," "," "," "
+" "," "," ",45," "," "," "," "," "
+" "," "," ",100," "," "," "," "," "
+" "," "," ",130," "," "," "," "," "
+" "," "," ",0," ",Common," ",Medium,"Medium to coarse"
+075yr7020,Slightly," ",8," ",Common," ",Medium," "
+075yr7060,Slightly," ",32," ",Common," ",Fine,"Medium to coarse"
+075yr7040,Slightly," ",45," ","Very few"," ",Fine,"Medium to coarse"
+100yr6040,Slightly," ",60," ","Very few"," ","Very fine"," "
+" "," "," ",0," ",Many," ",Medium," "
+100yr7010,Slightly," ",4," ",Common," ",Medium,Coarse
+100yr5080,Slightly," ",21," ",Few," ",Fine,Medium
+100yr6060,Nonsticky," ",36," ","Very few"," ","Very fine",Medium
+100yr7040,Nonsticky," ",45," "," "," "," ",Coarse
+" "," "," ",0," ",Many,Vertical,"Very fine"," "
+100yr6030,Sticky," ",3," ",Common," ","Very fine","Fine to medium"
+100yr6060,Sticky," ",12," ",Common," ","Very fine","Fine to medium"
+100yr6080,Sticky," ",36," ",Few," ","Very fine",Fine
+100yr7060,Slightly," "," "," ","Very few"," ","Very fine","Very fine"
+" "," "," ",30," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",4," "," "," "," "," "
+" "," "," ",9," "," "," "," "," "
+" "," "," ",29," "," "," "," "," "
+" "," "," ",67," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",10," "," "," "," "," "
+" "," "," ",50," "," "," "," "," "
+" "," "," ",400," "," "," "," "," "
+" "," "," ",450," "," "," "," "," "
+" "," "," ",0," ",Common," ",Fine," "
+" ",Slightly," ",6," ",Common," ",Fine,Coarse
+100yr6060,Slightly," ",17," ",Few," ",Fine,"Medium to coarse"
+100yr7060,Slightly," ",41," ","Very few"," ",Fine,Coarse
+100yr6080,Slightly," "," "," ","Very few"," ","Very fine","Medium to coarse"
+" "," "," ",20," "," "," "," "," "
+" "," "," ",80," "," "," "," "," "
+" "," "," ",240," "," "," "," "," "
+" "," "," ",260," "," "," "," "," "
+" "," "," ",350," "," "," "," "," "
+" "," "," ",20," "," "," "," "," "
+" "," "," ",50," "," "," "," "," "
+" "," "," ",70," "," "," "," "," "
+" "," "," ",110," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",20," "," "," "," "," "
+" "," "," ",220," "," "," "," "," "
+" "," "," ",240," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," ",Many," ",Fine," "
+100yr7020,Slightly," ",5," "," "," "," ","Medium to coarse"
+100yr6080," "," ",22," ",Few," ",Fine,Coarse
+100yr6060,Slightly," ",37," ","Very few"," ",Fine,Coarse
+100yr7040,Slightly," ",60," "," "," "," ",Coarse
+" "," "," ",0," ",Many," ",Medium," "
+100yr8010,Nonsticky," ",3," ",Common," ",Medium,"Fine to medium"
+100yr6080,Slightly," ",15," ",Common," ",Fine,"Medium to coarse"
+100yr7060,Slightly," ",32," ",Few," ",Fine,Coarse
+100yr6020,Nonsticky," ",50," ","Very few"," ",Fine,Medium
+" "," "," ",0," ",Many," ",Medium," "
+100yr6020,Sticky," ",2," ",Many," ",Medium,"Fine to medium"
+100yr7060,Sticky," ",21," ",Many," ",Medium,"Medium to coarse"
+100yr7080,Slightly," ",36," ",Common," ",Fine,"Medium to coarse"
+100yr6040," "," ",42," "," "," "," ","Medium to coarse"
+" "," "," ",0," ",Many," ",Medium," "
+100yr7030,Slightly," ",10," ",Many," ",Medium,Medium
+100yr6040,Slightly," ",24,Many,Few," ",Medium,Coarse
+100yr7040,Slightly," ",42,Common,"Very few"," "," ",Coarse
+100yr5050,Slightly," ",55,Common,Few," "," ",Medium
+" "," "," ",0," ",Many," ",Coarse," "
+100yr7010,Slightly," ",3," ",Many," ",Medium,Medium
+100yr6060,Slightly," ",37," ",Common," ",Medium,Coarse
+100yr7040,Nonsticky," ",59," ",Few," ",Fine,"Medium to coarse"
+100yr7010,Nonsticky," ",72," "," "," "," ","Medium to coarse"
+100yr7010,Nonsticky," "," "," "," "," "," "," "
+" "," "," ",0," ",Many," ",Medium," "
+100yr5060,Slightly," ",18," ",Common," ",Medium,"Medium to coarse"
+100yr5030,Slightly," ",34,Few,Common," ",Fine,"Medium to coarse"
+100yr7020,Sticky," ",50,Many,"Very few"," ","Very fine",Coarse
+" "," "," ",3," "," "," "," "," "
+" "," "," ",18," "," "," "," "," "
+" "," "," ",4," "," "," "," "," "
+" "," "," ",12," "," "," "," "," "
+" "," "," ",16," "," "," "," "," "
+" "," "," ",76," "," "," "," "," "
+" "," "," ",4," "," "," "," "," "
+" "," "," ",14," "," "," "," "," "
+" "," "," ",24," "," "," "," "," "
+" "," "," ",32," "," "," "," "," "
+" "," "," ",7," "," "," "," "," "
+" "," "," ",27," "," "," "," "," "
+" "," "," ",37," "," "," "," "," "
+" "," "," ",3," "," "," "," "," "
+" "," "," ",6," "," "," "," "," "
+" "," "," ",16," "," "," "," "," "
+" "," "," ",26," "," "," "," "," "
+" "," "," ",3," "," "," "," "," "
+" "," "," ",13," "," "," "," "," "
+" "," "," ",25," "," "," "," "," "
+" "," "," ",45," "," "," "," "," "
+" "," "," ",15," "," "," "," "," "
+" "," "," ",20," "," "," "," "," "
+" "," "," ",15," "," "," "," "," "
+" "," "," ",20," "," "," "," "," "
+" ","Very sticky"," ",25," "," "," "," ","Fine to medium"
+" ","Very sticky"," ",40," "," "," "," ",Coarse
+" ","Very sticky"," ",60," "," "," "," ",Coarse
+" "," "," ",5," "," "," "," "," "
+" "," "," ",185," "," "," "," "," "
+" "," "," ",5," "," "," "," "," "
+" "," "," ",50," "," "," "," "," "
+" "," "," ",450," "," "," "," "," "
+" "," "," ",520," "," "," "," "," "
+" "," "," ",550," "," "," "," "," "
+" "," "," ",30," "," "," "," "," "
+" "," "," ",100," "," "," "," "," "
+" "," "," ",115," "," "," "," "," "
+" "," "," ",40," "," "," "," "," "
+" "," "," ",80," "," "," "," "," "
+" "," "," ",110," "," "," "," "," "
+" "," "," ",120," "," "," "," "," "
+" "," "," ",30," "," "," "," "," "
+" "," "," ",550," "," "," "," "," "
+" "," "," ",600," "," "," "," "," "
+" "," "," ",20," "," "," "," "," "
+" "," "," ",40," "," "," "," "," "
+" "," "," ",80," "," "," "," "," "
+" "," "," ",90," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Nonsticky," ",12," ",Many,Horizontal,Medium,Coarse
+" ",Slightly," ",27," ",Common,Horizontal,Fine,"Medium to coarse"
+" ",Nonsticky," ",33," ","Very few",Horizontal,"Very fine"," "
+" "," "," ",15," ",Many,Horizontal,Medium," "
+" "," "," ",20," ",Many,Horizontal,Medium," "
+" ",Nonsticky," ",22," "," "," "," "," "
+" "," "," ",0," ",Many,Horizontal,Fine," "
+" "," "," ",1," ",Many,Horizontal,Fine," "
+075yr7020," "," ",5," ",Common,Horizontal,Fine," "
+075yr5060," "," ",30," ",Common,Oblique,Medium," "
+010yr6040," "," ",60," ",Common,Horizontal,Fine," "
+075yr5040," "," "," "," "," "," "," "," "
+" "," "," ",0," ",Common,Horizontal,Medium," "
+075yr8020," "," ",5," "," "," "," "," "
+075yr6060," "," ",9," ",Common,Random,Fine," "
+100yr6060," "," ",41," ",Common,Random,Fine," "
+100yr6040," "," ",58," ","Very few",Horizontal,Medium,Medium
+100yr6040," "," "," "," "," "," "," "," "
+" "," "," ",0," ",Many,Vertical,Medium," "
+" "," "," ",3," ",Few,Oblique,Fine,Medium
+100yr5040," "," ",5," ",Few,Oblique,"Very fine",Medium
+075yr5040," "," ",15," ","Very few"," "," ",Medium
+100yr7060," "," ",25," "," "," "," ",Coarse
+075yr6060," "," "," "," "," "," "," ",Coarse
+" "," "," ",0," ",Many,Horizontal,Fine," "
+" "," "," ",2," ",Many,Horizontal,Fine," "
+100yr8020," "," ",19,Common,"Very few",Oblique,Fine," "
+075yr7020," "," ",29,Common," "," "," ",Coarse
+075yr6040," "," ",41,Few," "," "," ",Coarse
+050yr6040,Slightly," "," ",Few," "," "," ",Coarse
+" "," "," ",0," ",Many,Horizontal,Medium," "
+100yr8020," "," ",10," ",Few,Horizontal,Fine,Coarse
+100yr6080," "," ",30,Few," "," "," "," "
+100yr6060," "," ",45," "," "," "," "," "
+075yr6040," "," "," "," "," "," "," "," "
+" "," "," ",0," ",Many,Horizontal,Fine," "
+100yr3010," "," ",14," ",Few,Oblique,Medium," "
+100yr6040,Sticky," "," ",Many," "," "," "," "
+" "," "," ",0," ",Common,Horizontal,Fine," "
+075yr7020," "," ",2," ",Few,Horizontal,Fine," "
+100yr5060," "," ",3," ",Few,Oblique,"Very fine"," "
+075yr7060," "," ",18," ",Few,Oblique,"Very fine"," "
+075yr6060," "," ",28," ","Very few"," ","Very fine"," "
+075yr6040," "," "," "," "," "," "," "," "
+" "," "," ",0," ",Common,Horizontal,Fine," "
+075yr7020," "," ",2," ",Few,Horizontal,Fine," "
+100yr5060," "," ",3," ",Few,Oblique,"Very fine"," "
+075yr7060," "," ",18," ",Few,Oblique,"Very fine"," "
+075yr6060," "," ",28," ","Very few"," ","Very fine"," "
+075yr6040," "," "," "," "," "," "," "," "
+" "," "," ",0," ",Many," ",Fine," "
+" ",Slightly," ",26," ",Common," ",Fine,"Medium to coarse"
+" ",Sticky," "," ",Many," "," "," "," "
+" "," "," ",18," ",Many,Vertical,Medium," "
+" "," "," ",0," ",Many,Vertical,Medium," "
+" ",Nonsticky," ",20," ",Many,Random,Fine,"Very fine to fine"
+" ",Nonsticky," ",32," ",Few,Random,Fine,"Very fine to fine"
+" ",Nonsticky," ",60," ","Very few",Random,Fine,"Fine to medium"
+" ",Nonsticky," "," ",Common," "," "," ",Medium
+" "," "," ",0," ",Many,Horizontal,Medium," "
+" ",Sticky," ",7," ",Common,Horizontal,Medium,Medium
+" ",Sticky," ",23,Many,"Very few",Horizontal,Fine,Medium
+" ",Sticky," ",41,Many," "," "," ",Medium
+" "," "," "," ",Many," "," "," "," "
+" ",Nonsticky," ",7," ",Many,Vertical,"Very fine",Fine
+" "," "," ",12," ",Many,Random,"Very fine"," "
+" "," "," ",30," "," "," "," "," "
+100yr2020," "," ",7," ",Common,Random,Medium," "
+100yr3020," "," ",0," ",Common,Random,Medium," "
+100yr2020," "," ",10," ",Few,Horizontal,Fine,"Fine to medium"
+100yr3030," "," ",20," ",Few,Horizontal,Fine,"Fine to medium"
+100yr3020," "," ",28," ",Few,Horizontal,Fine,"Fine to medium"
+100yr3030," "," ",36," ",Few,Horizontal,Fine,"Fine to medium"
+100yr5040," "," ",65," ","Very few",Horizontal,"Very fine","Fine to medium"
+" "," "," ",0," ",Common,Horizontal,Medium," "
+075yr6040," "," ",6," ",Few,Oblique,Fine,Fine
+050yr4040," "," ",9," ",Few,Oblique,Fine,Fine
+075yr4040," "," ",26," ",Few,Oblique,Fine,"Fine to medium"
+075yr4060," "," ",46," "," "," "," ","Fine to medium"
+075yr4040," "," ",70," "," "," "," ","Fine to medium"
+075yr4040," "," ",78," "," "," "," ","Fine to medium"
+050yr2510," "," ",5," ",Common,Horizontal,Medium," "
+050yr2510," "," ",0," ",Common,Oblique,Fine," "
+075yr6020," "," ",3," ","Very few",Horizontal,Fine," "
+050yr2520," "," ",9," ","Very few",Horizontal,Fine,Medium
+075yr4040," "," ",29," ","Very few",Horizontal,Fine,Coarse
+075yr3040," "," ",49," "," "," "," ",Medium
+075yr4040," "," ",67," "," "," "," ",Medium
+075yr4040," "," "," "," "," "," "," ",Medium
+050yr2520," "," ",5," "," "," "," "," "
+100yr2020," "," ",0," "," "," "," "," "
+075yr3040," "," ",15," "," "," "," ",Fine
+100yr3040," "," ",30," "," "," "," ","Fine to medium"
+075yr3040," "," ",75," "," "," "," ","Fine to medium"
+050yr4040," "," ",110," "," "," "," ",Medium
+100yr4030," "," ",150," "," "," "," ",Medium
+050yr2510," "," ",0," ",Common,Horizontal,Medium," "
+100yr5030," "," ",3," ",Common,Horizontal,Fine,Fine
+075yr3040," "," ",18," ",Common,Horizontal,Fine,"Fine to medium"
+075yr4040," "," ",35," "," "," "," ","Fine to medium"
+075yr4040," "," ",55," "," "," "," "," "
+100yr4040," "," ",65," "," "," "," "," "
+" "," "," ",0," ",Common,Horizontal," "," "
+" ",Sticky," ",10,Common,Common,Horizontal," ",Fine
+" ",Slightly," ",20,Common,Few,Horizontal," ","Fine to medium"
+" ",Sticky," ",27,Common," "," "," ","Fine to medium"
+" ","Very sticky"," "," ",Common," "," "," ",Medium
+" "," "," ",0," ",Common,Oblique,Medium," "
+" ",Nonsticky," ",10," ",Common,Oblique,Medium,Fine
+" ",Slightly," ",25," ",Few,Oblique,Fine,Coarse
+" ",Slightly," ",37," ",Few,Oblique,Fine,Coarse
+" ",Nonsticky," ",45," "," "," "," ","Fine to medium"
+" ",Nonsticky," "," "," "," "," "," "," "
+" "," "," ",5," ",Common,Horizontal,Medium," "
+" "," "," ",0," ",Common,Horizontal,Medium," "
+" ",Slightly," ",10," ",Few,Oblique,Fine,Medium
+" ",Slightly," ",15," ",Few,Oblique,Fine,"Very fine"
+" ",Slightly," ",25,Few," "," "," ","Fine to medium"
+" ",Slightly," ",43," "," "," "," ","Medium to coarse"
+" ",Nonsticky," "," "," "," "," "," "," "
+" "," "," ",0," ",Common,Oblique,Medium," "
+" ",Slightly," ",5,Many,Few,Oblique,Fine,"Fine to medium"
+" ",Slightly," ",17,Few," "," "," ",Coarse
+" ",Slightly," ",27,Common," "," "," ","Medium to coarse"
+" ",Slightly," ",40,Common," "," "," ",Fine
+" "," "," ",2," "," "," "," ",Fine
+" "," "," ",6," "," "," "," ",Fine
+" "," "," ",10," "," "," "," ",Fine
+" "," "," ",14," "," "," "," ","Fine to medium"
+" "," "," ",20," "," "," "," ",Medium
+" "," "," ",24," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",1," "," "," "," ",Fine
+" "," "," ",5," "," "," "," ",Medium
+" "," "," ",20," "," "," "," ",Fine
+" "," "," ",48," "," "," "," ",Fine
+" "," "," "," "," "," "," "," "," "
+" "," "," ",10," "," "," "," ","Fine to medium"
+" "," "," ",15," "," "," "," "," "
+" "," "," ",25," "," "," "," ","Fine to medium"
+" "," "," ",38," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",18," "," "," "," "," "
+" "," "," ",20," "," "," "," "," "
+" "," "," ",28," "," "," "," "," "
+" "," "," ",50," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",3," "," "," "," ",Fine
+" "," "," ",15," "," "," "," ",Fine
+" "," "," ",18," "," "," "," ",Fine
+" ",Slightly," "," "," "," "," "," ",Medium
+" "," "," ",5," "," "," "," "," "
+" "," "," ",18," "," "," "," "," "
+" "," "," ",25," "," "," "," "," "
+" "," "," ",28," "," "," "," "," "
+" "," "," ",5," "," "," "," "," "
+" "," "," ",18," "," "," "," "," "
+" "," "," ",30," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Coarse
+" "," "," ",4," "," "," "," ",Fine
+" "," "," ",25," "," "," "," ",Fine
+" "," "," ",40," "," "," "," ",Fine
+" "," "," ",60," "," "," "," ",Fine
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",5," "," "," "," ",Medium
+" "," "," ",13," "," "," "," ",Fine
+" "," "," ",23," "," "," "," ",Fine
+" "," "," ",33," "," "," "," ","Fine to medium"
+" "," "," "," "," "," "," "," ",Medium
+" "," "," ",3," ",Many," "," ",Coarse
+" "," "," ",5," "," "," "," "," "
+" "," "," ",8," "," "," "," ",Fine
+" "," "," ",20," "," "," "," ",Medium
+" "," "," ",38," "," "," "," ",Medium
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",5," "," "," "," ",Medium
+" ",Slightly," ",13,Few," "," "," ","Fine to medium"
+" ",Slightly," ",28,Common," "," "," ",Medium
+" ",Slightly," ",38,Common," "," "," ",Medium
+" ",Slightly," ",75,Common," "," "," ","Very fine to fine"
+" ",Slightly," "," "," "," "," "," ",Coarse
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",10," "," "," "," ","Fine to medium"
+" "," "," ",43,Many," "," "," "," "
+" "," "," ",58,Many," "," "," "," "
+" "," "," "," ",Common," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",3," "," "," "," ","Fine to medium"
+" "," "," ",8," "," "," "," ",Fine
+" "," "," ",15," "," "," "," ",Fine
+" "," "," ",28," "," "," "," ","Fine to medium"
+" "," "," ",38," "," "," "," ",Medium
+" "," "," ",55," "," "," "," ",Medium
+" "," "," "," "," "," "," "," ",Medium
+" "," "," ",0," "," "," "," "," "
+" "," "," ",3," "," "," "," ","Very fine"
+" "," "," ",8," "," "," "," ","Fine to medium"
+" "," "," ",15," "," "," "," ",Medium
+" "," "," ",25," "," "," "," ","Fine to medium"
+" "," "," "," "," "," "," "," ",Medium
+" ",Slightly," ",4,Common," "," "," ",Medium
+" ",Slightly," ",12,Common," "," "," ",Fine
+" ",Slightly," ",25,Common," "," "," ",Medium
+" ",Sticky," ",90,Common," "," "," ",Coarse
+" "," "," ",0," "," "," "," ",Coarse
+" "," "," ",3," "," "," "," ",Coarse
+" ",Slightly," ",8," "," "," "," "," "
+" ",Nonsticky," ",30,Common," "," "," "," "
+" ",Nonsticky," ",40,Many," "," "," "," "
+" "," "," ",90,Common," "," "," "," "
+" "," "," ",0," ",Many," "," "," "
+" "," "," ",3," "," "," "," ",Medium
+" "," "," ",10,Few," "," "," ",Fine
+" "," "," ",18,Few," "," "," ",Medium
+" "," "," ",30,Few," "," "," ",Medium
+" "," "," "," ",Many," "," "," "," "
+" "," "," ",8," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",10,Many," "," "," "," "
+" "," "," ",30,Many," "," "," "," "
+" "," "," "," ",Few," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",8," "," "," "," ",Medium
+" "," "," ",15," "," "," "," ",Medium
+" "," "," ",28," "," "," "," ",Medium
+" "," "," ",40," "," "," "," ","Medium to coarse"
+" ",Sticky," ",50,Common," "," "," ",Fine
+" ",Sticky," ",100,Common," "," "," ",Medium
+" ",Sticky," ",135,Common," "," "," "," "
+" ",Sticky," ",180,Common," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+100yr7020," "," ",8," "," "," "," ",Medium
+" "," "," ",13," "," "," "," ",Medium
+" "," "," ",33," "," "," "," ",Medium
+" "," "," ",45," "," "," "," ",Medium
+" "," "," ",55," "," "," "," ",Medium
+" "," "," ",120," "," "," "," ",Fine
+" "," "," ",0," "," "," "," "," "
+" "," "," ",5," "," "," "," "," "
+" "," "," ",13," "," "," "," ",Medium
+" "," "," ",18," "," "," "," ",Medium
+" "," "," ",48," "," "," "," ",Medium
+" "," "," ",120," "," "," "," ",Medium
+" "," "," ",135," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",3," "," "," "," ",Medium
+" "," "," ",33," "," "," "," ",Medium
+" "," "," ",53,Many," "," "," ",Coarse
+" "," "," "," "," "," "," "," ",Coarse
+" "," "," ",18," "," "," "," "," "
+" "," "," ",28," "," "," "," "," "
+" "," "," ",55," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Medium
+" "," "," ",4," "," "," "," ",Fine
+" "," "," ",8," "," "," "," ",Fine
+" "," "," ",15," "," "," "," ",Medium
+" "," "," ",28," "," "," "," ",Medium
+" "," "," ",135," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," ",Many," "," ",Medium
+" "," "," ",5," ",Many," "," ",Fine
+" "," "," ",20," ",Many," "," ",Medium
+" "," "," ",30," ",Common," "," ",Medium
+" "," "," ",43," ",Common," "," ",Medium
+" "," "," "," "," ",Few," "," ",Fine
+" "," "," ",0," "," "," "," "," "
+" ",Sticky," ",5," "," "," "," ",Fine
+" ",Slightly," ",9," "," "," "," ",Medium
+" ",Slightly," ",19," "," "," "," ",Medium
+" ",Slightly," ",33," "," "," "," ",Coarse
+" ",Slightly," ",53," "," "," "," "," "
+" ",Slightly," ",90," "," "," "," "," "
+" ",Sticky," ",120," "," "," "," "," "
+" ",Sticky," ",135," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",5," "," "," "," ",Medium
+" "," "," ",25," "," "," "," ",Medium
+" "," "," ",38," "," "," "," ",Medium
+" "," "," ",58," "," "," "," ",Medium
+" "," "," ",135," "," "," "," ",Medium
+" "," "," "," "," "," "," "," ",Medium
+" ",Slightly," ",5," "," "," "," ","Fine to medium"
+" ",Slightly," ",6," "," "," "," ",Medium
+" ",Slightly," ",10," "," "," "," ",Fine
+" ",Sticky," ",15," "," "," "," ",Fine
+" ",Sticky," ",30," "," "," "," ",Medium
+" "," "," ",45," "," "," "," ",Medium
+" ",Sticky," ",100," "," "," "," ",Medium
+" ",Sticky," ",130,Few," "," "," ",Coarse
+" "," "," ",0," "," "," "," ",Fine
+" "," "," ",148," "," "," "," "," "
+" ",Slightly," ",5," "," "," "," ",Fine
+" ",Slightly," ",10," "," "," "," ",Fine
+" ",Slightly," ",20," "," "," "," ",Fine
+" ",Slightly," ",25," "," "," "," ",Fine
+" "," "," ",30," "," "," "," ",Fine
+" "," "," ",70," "," "," "," "," "
+" ",Sticky," ",120," "," "," "," ",Coarse
+" "," "," ",140," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Slightly," ",5," "," "," "," ","Fine to medium"
+" ",Slightly," ",15," "," "," "," ",Medium
+" ",Slightly," ",25," "," "," "," ",Medium
+" "," "," ",33," "," "," "," ",Medium
+" "," "," ",65," "," "," "," ",Medium
+" "," "," ",105," "," "," "," ",Fine
+" "," "," ",150," "," "," "," "," "
+" "," "," ",160," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Slightly," ",155,Common," "," "," ",Fine
+" ",Slightly," ",3," "," "," "," "," "
+" ",Slightly," ",5," "," "," "," "," "
+" ",Slightly," ",11," "," "," "," "," "
+" ",Slightly," ",18," "," "," "," "," "
+" ",Sticky," ",25," "," "," "," "," "
+" ",Sticky," ",38,Common," "," "," ",Coarse
+" ",Sticky," ",90,Common," "," "," ",Medium
+" ",Slightly," ",120,Common," "," "," ",Fine
+" "," "," ",0," "," "," "," "," "
+" "," "," ",13,Common," "," "," ",Medium
+" ",Slightly," ",25,Common," "," "," ",Fine
+" ",Slightly," ",38,Few," "," "," ",Medium
+" "," "," ",60,Few," "," "," ",Medium
+" "," "," ",98," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Medium
+" ",Slightly," ",25,Many," "," "," "," "
+" ",Slightly," ",55,Many," "," "," ",Coarse
+" ",Slightly," ",80,Many," "," "," ",Medium
+" ",Slightly," ",105,Few," "," "," ",Medium
+" ",Slightly," ",135,Few," "," "," ",Coarse
+" ",Slightly," "," ",Few," "," "," ",Coarse
+" "," "," ",3," "," "," "," "," "
+" "," "," ",135," "," "," "," "," "
+" "," "," ",165," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",10," "," "," "," ",Fine
+" "," "," ",13," "," "," "," ",Medium
+" "," "," ",20," "," "," "," ",Medium
+" "," "," ",30," "," "," "," ",Medium
+" "," "," ",40," "," "," "," "," "
+" "," "," ",58," "," "," "," "," "
+" "," "," ",90," "," "," "," "," "
+" "," "," ",7," "," "," "," "," "
+" ",Slightly," ",105," "," "," "," ",Coarse
+" ",Slightly," ",135," "," "," "," ",Medium
+" "," "," ",6," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Medium
+" ",Slightly," ",8," "," "," "," ",Fine
+" ",Nonsticky," ",15," "," "," "," ",Coarse
+" ",Slightly," ",23," "," "," "," ",Fine
+" ",Slightly," ",35," "," "," "," ",Fine
+" ",Slightly," ",53," "," "," "," ",Fine
+" ",Slightly," ",75," "," "," "," ",Fine
+" "," "," ",4," "," "," "," "," "
+" "," "," ",75," "," "," "," "," "
+" "," "," ",95," "," "," "," "," "
+" "," "," ",2," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Fine
+" ",Slightly," ",4," "," "," "," "," "
+" "," "," ",10," "," "," "," ",Fine
+" "," "," ",18," "," "," "," "," "
+" "," "," ",28," "," "," "," "," "
+" "," "," ",45," "," "," "," ",Fine
+" "," "," ",52," "," "," "," "," "
+" "," "," ",3," "," "," "," "," "
+" ",Slightly," ",60," "," "," "," ",Medium
+" ",Nonsticky," ",90," "," "," "," ",Medium
+" ",Slightly," ",120," "," "," "," ",Coarse
+" "," "," ",1," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Fine
+" ",Nonsticky," ",5," "," "," "," ",Medium
+" ",Slightly," ",12," "," "," "," ",Fine
+" ",Slightly," ",18," "," "," "," ",Fine
+" ",Slightly," ",23," "," "," "," ",Fine
+" ",Slightly," ",30," "," "," "," ",Fine
+" ",Slightly," ",35," "," "," "," ",Fine
+" "," "," ",6," "," "," "," "," "
+" "," "," ",4," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Fine
+" ",Slightly," ",5," "," "," "," ",Fine
+" ",Nonsticky," ",25," "," "," "," ",Fine
+" "," "," ",68," "," "," "," ",Medium
+" ",Slightly," ",85,Common," "," "," "," "
+" ",Slightly," ",103,Common," "," "," ",Medium
+" ",Slightly," ",130," "," "," "," "," "
+" "," "," ",4," "," "," "," "," "
+" ",Sticky," ",80," "," "," "," ",Coarse
+" ",Sticky," ",120," "," "," "," ",Coarse
+" ",Sticky," ",135," "," "," "," ",Coarse
+" "," "," ",3," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Medium
+" ",Sticky," ",3," "," "," "," ",Medium
+" ",Nonsticky," ",5," "," "," "," ",Medium
+" ",Nonsticky," ",13," "," "," "," ",Fine
+" ",Nonsticky," ",18," "," "," "," ",Fine
+" ",Slightly," ",30," "," "," "," ",Coarse
+" ",Slightly," ",60," "," "," "," ",Fine
+" "," "," ",30," "," "," "," "," "
+" "," "," ",36," "," "," "," "," "
+" "," "," ",61," "," "," "," "," "
+" "," "," ",137," "," "," "," "," "
+" "," "," ",152," "," "," "," "," "
+" ",Sticky," ",55," "," "," "," ",Coarse
+" "," "," ",90," "," "," "," ",Coarse
+" "," "," ",2," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Slightly," ",3," "," "," "," ",Coarse
+" "," "," ",4," "," "," "," ",Medium
+" ",Slightly," ",9," "," "," "," ",Medium
+" "," "," ",16," "," "," "," ",Medium
+" "," "," ",30," "," "," "," ",Medium
+" ",Slightly," ",40," "," "," "," ",Coarse
+" ",Nonsticky," ",98," "," "," "," "," "
+" ",Nonsticky," ",120," "," "," "," "," "
+" "," "," ",5," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Sticky," ",20,Few," "," "," "," "
+" ",Sticky," ",30,Few," "," "," ",Medium
+" ",Sticky," ",45,Many," "," "," "," "
+" ",Sticky," ",70,Many," "," "," "," "
+" ",Slightly," ",85,Many," "," "," "," "
+" ",Nonsticky," ",88," "," "," "," "," "
+" "," "," ",9," "," "," "," "," "
+" ",Sticky," ",105,Many," "," "," ",Coarse
+" "," "," ",5," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Sticky," ",3,Many," "," "," ",Fine
+" ",Sticky," ",18,Many," "," "," ",Medium
+" ",Nonsticky," ",28,Many," "," "," ",Medium
+" ",Sticky," ",35,Many," "," "," ",Medium
+" ",Sticky," ",65,Many," "," "," ",Medium
+" ",Sticky," ",85,Many," "," "," ",Coarse
+" "," "," ",13," "," "," "," "," "
+" "," "," ",12," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ","Very sticky"," ",10,Many," "," "," ",Coarse
+" ",Sticky," ",33,Few," "," "," ",Coarse
+" ","Very sticky"," ",63," "," "," "," "," "
+" ","Very sticky"," ",90,Many," "," "," "," "
+" ","Very sticky"," ",105," "," "," "," "," "
+" "," "," ",3," "," "," "," "," "
+" ",Slightly," ",80," "," "," "," "," "
+" ",Sticky," ",108," "," "," "," "," "
+" ",Sticky," ",120," "," "," "," "," "
+" "," "," ",1," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Nonsticky," ",3," "," "," "," ",Medium
+" ",Nonsticky," ",5," "," "," "," ",Medium
+" ",Nonsticky," ",8," "," "," "," ",Fine
+" ",Nonsticky," ",15," "," "," "," "," "
+" ",Nonsticky," ",30," "," "," "," "," "
+" ",Nonsticky," ",43," "," "," "," ",Fine
+" "," "," ",4," "," "," "," "," "
+" "," "," ",70," "," "," "," ",Fine
+" "," "," ",110," "," "," "," ",Fine
+" "," "," ",3," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Sticky," ",3," "," "," "," ",Fine
+" ",Slightly," ",5," "," "," "," ",Fine
+" ",Slightly," ",13," "," "," "," ",Fine
+" ",Nonsticky," ",20," "," "," "," ",Fine
+" ",Nonsticky," ",30," "," "," "," ",Fine
+" "," "," ",55," "," "," "," ",Fine
+" "," "," ",0," "," "," "," "," "
+100yr7010,Nonsticky," ",36," "," "," "," ",Medium
+100yr5020,Nonsticky," ",51," "," "," "," ",Medium
+100yr3030,Nonsticky," ",64," "," "," "," ",Medium
+050yr3020,Nonsticky," ",69," "," "," "," ",Coarse
+100yr5030,Sticky," ",102,Common," "," "," ",Medium
+100yr4040,Slightly," "," ",Common," "," "," ","Medium to coarse"
+" "," "," ",2," "," "," "," ",Fine
+" "," "," ",5," "," "," "," ",Fine
+" "," "," ",9," "," "," "," ",Medium
+" "," "," ",13," "," "," "," ",Coarse
+" "," "," ",23," "," "," "," ",Fine
+" "," "," ",36," "," "," "," ",Fine
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+"025y 8010"," "," ",5," ",Common," ",Fine,Medium
+100yr6560," "," ",23," ",Common," "," ",Medium
+100yr7040,Slightly," ",38," "," "," "," ",Coarse
+100yr7030," "," ",48,Few," "," "," ",Medium
+100yr6040,Sticky," ",64,Few," "," "," ",Medium
+" ",Sticky," ",94," "," "," "," ",Medium
+" "," "," ",127," "," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+100yr5010,Nonsticky," ",10," "," "," "," ",Medium
+050yr4080,Slightly," ",20," "," "," "," ",Medium
+075yr5060,Slightly," ",46," "," "," "," ","Fine to medium"
+100yr6030,Slightly," ",64,Common," "," "," ",Medium
+100yr5040,Sticky," ",97,Many," "," "," ","Medium to coarse"
+" "," "," ",114," "," "," "," "," "
+100yr4030,Sticky," "," "," "," "," "," ","Medium to coarse"
+" "," "," ",0," "," "," "," "," "
+050yr7025,Sticky," ",23," "," "," "," ",Coarse
+025yr5040,Sticky," ",33," "," "," "," ",Medium
+050yr3040,"Very sticky"," ",53," "," "," "," ",Coarse
+025yr6040,"Very sticky"," ",80," "," "," "," ",Coarse
+025yr6040,"Very sticky"," ",115," "," "," "," ",Coarse
+025yr6040,"Very sticky"," ",150," "," "," "," ",Coarse
+025yr6040,"Very sticky"," ",163," "," "," "," ",Coarse
+100yr6020," "," ",20," "," "," "," ",Medium
+050yr6040,"Very sticky"," ",60," "," "," "," ",Medium
+050yr5040,"Very sticky"," ",90," "," "," "," ",Medium
+050yr5053,"Very sticky"," ",120," "," "," "," ",Coarse
+050yr5053,"Very sticky"," ",138," "," "," "," ",Coarse
+100yr6510," "," ",7," ",Many," "," "," "
+100yr6050," "," ",17," ",Many," ",Fine,Fine
+100yr6040," "," ",22," ",Common," ",Fine,Fine
+100yr6525," "," ",32,Few,Few," ",Fine,Medium
+050yr6020," "," ",44," ",Few," "," ",Medium
+050yr6025," "," ",60," ",Few," "," "," "
+050yr5030," "," ",80," ","Very few"," "," "," "
+050yr5030," "," ",94," "," "," "," "," "
+075yr4530," "," ",7," ",Many," "," ",Medium
+075yr4540," "," ",12," ",Many," "," ","Fine to medium"
+050yr4535," "," ",32," ",Common," "," ",Fine
+050yr4535," "," ",45," ",Few," "," ",Medium
+050yr4535," "," ",65," ",Few," "," ",Coarse
+050yr4530," "," ",82," ",Few," "," ",Coarse
+040yr4040," "," ",92," "," "," "," ",Coarse
+" "," "," ",3," ",Common," "," "," "
+" ",Nonsticky," ",6," ",Many," "," ",Medium
+" ",Slightly," ",14," ",Many," "," ","Fine to medium"
+" ",Sticky," ",27," ",Common," "," ","Fine to medium"
+" ",Sticky," ",60,Few,Common," "," ",Medium
+" ","Very sticky"," ",93,Few," "," "," ",Medium
+" ","Very sticky"," ",111," ",Few," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Nonsticky," ",3," "," "," "," "," "
+" ",Slightly," ",20,Few," "," "," "," "
+" ",Nonsticky," ",35,Common," "," "," "," "
+" ",Sticky," ",90," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Slightly," ",8,Many," "," "," "," "
+" ","Very sticky"," ",21,Common," "," "," ",Coarse
+" ",Slightly," ",35,Many," "," "," "," "
+" ",Sticky," "," "," "," "," "," ",Coarse
+" ",Nonsticky," ",3," "," "," "," "," "
+" ",Slightly," ",19," "," "," "," "," "
+" ",Slightly," ",30," "," "," "," "," "
+" ",Slightly," ",43,Many," "," "," "," "
+" ","Very sticky"," ",110,Many," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",135," "," "," "," "," "
+" ",Slightly," ",4," "," "," "," "," "
+" ",Slightly," ",10,Common," "," "," "," "
+" ",Slightly," ",13,Common," "," "," ",Medium
+" ",Slightly," ",28,Many," "," "," ",Coarse
+" ",Slightly," ",43,Common," "," "," "," "
+" ",Slightly," ",68,Common," "," "," ",Coarse
+" ",Slightly," ",90,Common," "," "," "," "
+" ",Slightly," ",120,Common," "," "," ",Coarse
+" ",Slightly," ",8," "," "," "," "," "
+" ",Sticky," ",15," "," "," "," "," "
+" ",Sticky," ",23," "," "," "," ",Coarse
+" ",Slightly," ",30,Many," "," "," "," "
+" ","Very sticky"," ",45," "," "," "," ",Coarse
+" ",Sticky," ",63,Many," "," "," ",Coarse
+" ",Sticky," ",90,Many," "," "," "," "
+" ",Sticky," ",103,Common," "," "," ",Medium
+" "," "," ",0," "," "," "," "," "
+" ",Nonsticky," ",13," "," "," "," "," "
+" ",Slightly," ",23," "," "," "," ",Fine
+" ",Nonsticky," ",38," "," "," "," ",Fine
+" ",Nonsticky," ",48," "," "," "," ","Fine to medium"
+" ",Nonsticky," ",64," "," "," "," ",Medium
+" "," "," ",74," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Slightly," ",8," "," "," "," "," "
+" ",Sticky," ",15," "," "," "," "," "
+" ",Sticky," ",23,Few," "," "," ",Coarse
+" ",Slightly," ",30,Many," "," "," "," "
+" ","Very sticky"," ",46," "," "," "," ",Coarse
+" ",Sticky," ",63,Many," "," "," ",Coarse
+" ",Sticky," ",91,Many," "," "," "," "
+" ",Sticky," ",104,Common," "," "," ",Medium
+" "," "," ",0," "," "," "," "," "
+" ",Slightly," "," "," "," "," "," "," "
+075yr5020,Nonsticky," ",20,Many," "," "," ",Medium
+" ",Nonsticky," ",28,Common," "," "," "," "
+050yr4030,Nonsticky," ",35,Common," "," "," "," "
+075yr5060,Nonsticky," ",46," "," "," "," "," "
+" ",Nonsticky," ",51,Common," "," "," "," "
+100yr5060,Slightly," ",52,Common," "," "," ","Medium to coarse"
+050yr3030,Slightly," ",68,Many," "," "," "," "
+" ",Slightly," ",107," "," "," "," ",Coarse
+" "," "," ",2," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Nonsticky," ",10," "," "," "," ",Fine
+" ",Nonsticky," ",15," "," "," "," ",Fine
+" ",Slightly," ",36," "," "," "," ",Fine
+" ",Slightly," ",61," "," "," "," "," "
+" ",Slightly," "," "," "," "," "," ","Medium to coarse"
+" "," "," ",10," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Nonsticky," ",10," "," "," "," ",Medium
+" ",Slightly," ",25," "," "," "," ","Fine to medium"
+" ",Slightly," ",33," "," "," "," ",Medium
+" ",Nonsticky," ",81," "," "," "," "," "
+" ",Nonsticky," ",102," "," "," "," "," "
+" "," "," ",5," "," "," "," "," "
+" "," "," ",152," "," "," "," "," "
+" "," "," ",4," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Nonsticky," ",4," "," "," "," ",Fine
+" ",Slightly," ",10," "," "," "," ",Fine
+" "," "," ",24," "," "," "," ",Fine
+050yr5060," "," ",30," "," "," "," ",Coarse
+" "," "," ",43," "," "," "," ",Coarse
+" "," "," ",66," "," "," "," ",Coarse
+" "," "," ",7," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",6," "," "," "," "," "
+" "," "," ",11," "," "," "," "," "
+" "," "," ",30," "," "," "," "," "
+" "," "," ",38," "," "," "," "," "
+" "," "," ",56," "," "," "," "," "
+100yr6030," "," ",71," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," ",Many," "," "," "
+" "," "," ",2," ",Many," "," ",Fine
+" "," "," ",19," ",Many," "," ",Fine
+" "," "," ",23," ",Common," "," ",Fine
+" "," "," ",33," ",Few," "," ",Medium
+" "," "," ",48," ",Few," "," ",Medium
+" "," "," ",74," ",Few," "," ",Coarse
+" "," "," ",85," ","Very few"," "," ",Coarse
+" "," "," ",110," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",80," "," "," "," ",Fine
+" "," "," ",1," ",Many," "," ","Very fine"
+" "," "," ",9," ",Many," "," ",Fine
+" "," "," ",13," ",Many," "," ",Fine
+" "," "," ",19,Few,Many," "," ",Fine
+" "," "," ",36," ",Many," "," ",Medium
+" "," "," ",49," ",Common," "," ",Medium
+" "," "," ",56," ",Few," "," ",Fine
+" "," "," ",70," "," "," "," ",Fine
+" "," "," ",14," "," "," "," "," "
+" "," "," ",13," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",5," "," "," "," ",Fine
+" "," "," ",45," "," "," "," ",Medium
+" ",Slightly," ",70," "," "," "," ",Medium
+" "," "," ",100," "," "," "," "," "
+" "," "," ",15," "," "," "," ",Coarse
+" "," "," ",17," "," "," "," ",Fine
+" "," "," ",45,Common," "," "," ",Fine
+" "," "," ",120,Few," "," "," ",Medium
+" "," "," ",180," "," "," "," ",Medium
+" "," "," ",7," "," "," "," ",Coarse
+" "," "," ",12," "," "," "," ",Medium
+" "," "," ",22,Common," "," "," ",Fine
+" "," "," ",30,Many," "," "," ",Medium
+" "," "," ",85,Common," "," "," ",Medium
+" "," "," ",15," "," "," "," ",Fine
+" "," "," ",27," "," "," "," ",Fine
+" "," "," ",35," "," "," "," ",Fine
+" "," "," ",37," "," "," "," ",Medium
+" ",Sticky," ",57,Common," "," "," ",Coarse
+" ",Slightly," ",83,Common,Many," "," ",Coarse
+" ",Nonsticky," ",100,Common," "," "," "," "
+" "," "," "," ",Few," "," "," ",Medium
+" "," "," ",3," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",4,Common," "," "," ",Fine
+" "," "," ",20,Common," "," "," ",Fine
+" "," "," ",28,Common," "," "," ",Fine
+" "," "," ",35,Common," "," "," ",Fine
+" "," "," ",42,Many," "," "," ",Medium
+" "," "," ",83,Many," "," "," ",Medium
+" "," "," ",100,Common," "," "," ",Medium
+" "," "," ",15," "," "," "," ",Medium
+" "," "," ",48," "," "," "," ",Coarse
+" "," "," ",63," "," "," "," ",Medium
+" "," "," ",18," "," "," "," ",Fine
+" "," "," ",25," "," "," "," ",Medium
+" "," "," ",33," "," "," "," ",Medium
+" "," "," ",43," "," "," "," "," "
+" "," "," ",61," "," "," "," ",Coarse
+" "," "," ",100,Common," "," "," "," "
+" "," "," ",2," "," "," "," ",Medium
+075yr6020," "," ",17," "," "," "," ",Fine
+" "," "," ",32," "," "," "," ",Fine
+" "," "," ",45," "," "," "," ",Fine
+" "," "," ",56," "," "," "," ",Fine
+" "," "," ",80," "," "," "," ",Fine
+" "," "," ",115," "," "," "," ",Fine
+" "," "," ",6," "," "," "," "," "
+" "," "," ",5," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",5," "," "," "," ",Fine
+" "," "," ",20," "," "," "," ",Fine
+" "," "," ",32," "," "," "," ","Fine to medium"
+" "," "," ",47,Common," "," "," ",Medium
+" "," "," ",100," "," "," "," ",Medium
+" "," "," ",0," "," "," "," "," "
+" "," "," ",6," "," "," "," ",Fine
+" "," "," ",25," "," "," "," ",Medium
+" "," "," ",51," "," "," "," ",Medium
+" "," "," ",76," "," "," "," "," "
+" "," "," ",100," "," "," "," ",Coarse
+" "," "," ",11," "," "," "," ",Medium
+" "," "," ",26," "," "," "," ",Fine
+" "," "," ",38," "," "," "," ",Fine
+" "," "," ",48," "," "," "," ",Fine
+" "," "," ",60," "," "," "," ",Fine
+" "," "," ",75," "," "," "," ",Fine
+" "," "," ",95," "," "," "," ",Fine
+" "," "," ",0," "," "," "," "," "
+" "," "," ",7," "," "," "," ",Medium
+" "," "," ",22," "," "," "," ",Fine
+" "," "," ",30," "," "," "," ",Fine
+" "," "," ",37," "," "," "," ",Medium
+" "," "," ",65," "," "," "," ",Medium
+" "," "," ",0," "," "," "," "," "
+" "," "," ",5," "," "," "," ",Fine
+" "," "," ",20," "," "," "," ",Medium
+" "," "," ",26," "," "," "," ",Medium
+" "," "," ",41," "," "," "," ",Fine
+" "," "," ",87," "," "," "," ",Medium
+" "," "," ",7," "," "," "," ",Medium
+" "," "," ",23," "," "," "," ",Medium
+" "," "," ",41,Many," "," "," ",Coarse
+" "," "," ",75," "," "," "," ",Coarse
+" "," "," ",5," "," "," "," "," "
+" "," "," ",2," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",10," "," "," "," ",Fine
+" "," "," ",30," "," "," "," ",Fine
+" "," "," ",43," "," "," "," ",Medium
+" "," "," ",70," "," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",10," "," "," "," ",Coarse
+" "," "," ",26," "," "," "," ",Coarse
+" "," "," ",44," "," "," "," "," "
+" "," "," ",82," "," "," "," ",Fine
+" "," "," ",7," "," "," "," ",Medium
+" "," "," ",23," "," "," "," ",Medium
+" "," "," ",41," "," "," "," ",Coarse
+" "," "," ",13," "," "," "," ",Medium
+" "," "," ",17," "," "," "," ",Fine
+" "," "," ",19," "," "," "," ",Medium
+" "," "," ",45," "," "," "," ",Fine
+" "," "," ",60," "," "," "," ",Medium
+" "," "," ",100," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",12," "," "," "," ",Medium
+" "," "," ",30," "," "," "," ",Medium
+" "," "," ",44," "," "," "," ",Medium
+" "," "," ",64," "," "," "," "," "
+" "," "," ",100,Common," "," "," "," "
+" "," "," ",14," "," "," "," ",Medium
+" "," "," ",16," "," "," "," ",Medium
+" "," "," ",30," "," "," "," ",Medium
+" "," "," ",30,Many," "," "," "," "
+" "," "," ",48," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",17," "," "," "," ",Fine
+" "," "," ",28," "," "," "," ",Fine
+" "," "," ",42," "," "," "," ",Medium
+" "," "," ",56," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",3," "," "," "," ",Fine
+" "," "," ",5," "," "," "," ",Fine
+" "," "," ",30," "," "," "," ",Medium
+050yr4040," "," ",43," "," "," "," ",Fine
+" "," "," ",75," "," "," "," ",Medium
+" "," "," "," "," "," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",8," "," "," "," ",Fine
+" "," "," ",25," "," "," "," ",Fine
+" "," "," ",46," "," "," "," ",Fine
+" "," "," ",61," "," "," "," ",Fine
+" "," "," "," "," "," "," "," ",Medium
+" "," "," ",15," ",Many," ",Fine,Medium
+" "," "," ",22," ",Many," ",Fine,Fine
+" "," "," ",36," ",Many," ",Fine,Fine
+" "," "," ",50," ",Common," ",Fine,Medium
+" "," "," ",75," ",Few," ",Fine,Coarse
+" "," "," ",100," ",Few," ",Fine,Coarse
+" "," "," ",125," "," "," "," ",Coarse
+" "," ",Strong," "," "," "," "," "," "
+" "," "," ",5," ",Many," ",Fine,Fine
+" "," "," ",20," ",Many," ",Fine,Medium
+" "," "," ",38," ",Common," ",Fine,Fine
+" "," "," ",55,Few,Few," ",Fine,Medium
+" "," "," ",80," ","Very few"," ",Fine,Coarse
+" "," "," ",120," "," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",10," "," "," "," ",Fine
+075yr5060," "," ",38," "," "," "," ",Coarse
+" "," "," ",41," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",15," "," "," "," ",Coarse
+" "," "," ",16," "," "," "," ",Fine
+" "," "," ",38," "," "," "," ",Medium
+050yr4040," "," ",68," "," "," "," ",Medium
+" "," "," ",90," "," "," "," ",Medium
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",5," "," "," "," ",Fine
+" "," "," ",36," "," "," "," ",Coarse
+" "," "," ",47," "," "," "," ",Medium
+" "," "," ",53,Many," "," "," ",Fine
+" "," "," ",80," "," "," "," ",Coarse
+" "," "," ",150," "," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",12," "," "," "," ",Fine
+" "," "," ",14," "," "," "," ",Coarse
+" "," "," ",35," "," "," "," ",Medium
+" "," "," ",50," "," "," "," ",Coarse
+" "," "," "," "," "," "," "," ",Coarse
+" "," "," ",20," ",Many," ",Fine,Medium
+" "," "," ",46,Many,Common," ",Fine,Medium
+" "," "," ",75," ",Few," ",Fine,Coarse
+" "," "," ",125," ","Very few"," ",Fine,Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",9," ",Many," ",Fine,Fine
+" "," "," ",30," ",Many," ",Fine,Fine
+" "," "," ",41," ",Common," ",Fine,"Fine to medium"
+" "," "," ",55,Many,Common," ",Fine,Medium
+" "," "," ",92," ",Few," ",Fine,"Fine to medium"
+" "," "," ",120," "," "," "," ",Medium
+" "," "," ",18," "," "," "," ",Medium
+" "," "," ",28," "," "," "," ",Medium
+" "," "," ",42," "," "," "," ",Medium
+" "," "," ",75," "," "," "," ",Medium
+" "," "," ",100,Common," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",4," "," "," "," ",Fine
+" "," "," ",12," "," "," "," ",Fine
+100yr5080," "," ",38," "," "," "," ",Coarse
+" "," "," ",90," "," "," "," "," "
+" "," "," ",100," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",8," ",Many," ",Fine,Fine
+" "," "," ",20," ",Many," ",Fine,Medium
+" "," "," ",30," ",Many," ",Fine,Fine
+" "," "," ",50," ",Common," ",Fine,Fine
+" "," "," ",100," ",Few," ",Fine," "
+" "," "," ",0," ",Many," ",Fine," "
+" "," "," ",7," ",Many," ",Fine,Medium
+" "," "," ",25," ",Many," ",Fine,Medium
+" "," "," ",48," ",Many," ",Fine,Medium
+" "," "," ",84,Many,Few," ",Fine,Medium
+" "," "," "," "," "," "," "," ",Coarse
+" "," "," ",15," "," "," "," ",Medium
+" "," "," ",39," "," "," "," ",Fine
+" "," "," ",63," "," "," "," ",Fine
+" "," "," "," "," "," "," "," ",Medium
+" "," "," ",0," "," "," "," "," "
+" "," "," ",7,Few," "," "," ",Fine
+" "," "," ",16,Many," "," "," ",Fine
+" "," "," ",55,Many," "," "," ",Medium
+" "," "," "," ",Many," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",5," "," "," "," ",Medium
+" "," "," ",35," "," "," "," ",Medium
+" "," "," ",60," "," "," "," ",Medium
+" "," "," "," "," "," "," "," ",Medium
+" "," "," ",15," "," "," "," ",Coarse
+" "," "," ",28," "," "," "," ",Medium
+" "," "," ",38,Many," "," "," ",Fine
+" "," "," ",105," "," "," "," ",Coarse
+075yr4030," "," "," "," "," "," "," ",Medium
+" "," "," ",0," "," "," "," "," "
+" "," "," ",13," "," "," "," ",Medium
+" "," "," ",27," "," "," "," ",Medium
+" "," "," ",45," "," "," "," ",Medium
+" "," "," ",76," "," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",10," "," "," "," ",Medium
+" "," "," ",27," "," "," "," ",Medium
+" "," "," ",41," "," "," "," ",Medium
+" "," "," ",58," "," "," "," ","Fine to medium"
+" "," "," ",102," "," "," "," ",Medium
+" "," "," "," "," "," "," "," ",Medium
+" "," "," ",0," "," "," "," "," "
+" "," "," ",7," "," "," "," ",Fine
+" "," "," ",45," "," "," "," ",Fine
+" "," "," "," "," "," "," "," "," "
+" "," "," ",15," "," "," "," ",Fine
+" "," "," ",45," "," "," "," ",Fine
+" "," "," "," "," "," "," "," ",Coarse
+" "," "," ",17," "," "," "," ",Medium
+" "," "," ",40," "," "," "," ",Fine
+" "," "," ",65," "," "," "," "," "
+" "," "," ",100," "," "," "," "," "
+" "," "," ",20," "," "," "," ",Medium
+" "," "," ",31," "," "," "," ",Medium
+" "," "," ",37," "," "," "," ",Medium
+" "," "," "," "," "," "," "," ",Medium
+" "," "," ",0," "," "," "," "," "
+" "," "," ",3," "," "," "," ",Medium
+" "," "," ",16," "," "," "," ",Medium
+" "," "," ",37," "," "," "," ",Coarse
+" "," "," ",61," "," "," "," ",Medium
+" "," "," "," "," "," "," "," ",Coarse
+" "," "," ",15," ",Many," "," ",Medium
+" "," "," ",27," ",Many," "," ",Medium
+" "," "," ",39," ",Common," "," ",Medium
+" "," "," ",47," ",Common," "," ",Medium
+100yr5030," "," ",76,Common,"Very few"," "," ",Coarse
+" "," "," "," ",Common," "," "," ",Fine
+" "," "," ",15," ",Many," ",Fine,"Fine to medium"
+" "," "," ",40," ",Many," ",Fine,Fine
+" "," "," ",50," ",Few," ",Fine,Fine
+" "," "," ",82," "," "," "," "," "
+" "," "," ",17," ",Many," ",Fine,Fine
+" "," "," ",18," "," "," "," ",Medium
+" "," "," ",39," ",Many," ",Fine,Fine
+" "," "," ",51," ",Common," ",Fine,Fine
+100yr4030," "," "," "," ",Few," ",Fine," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",8," "," "," "," ",Medium
+" "," "," ",30," "," "," "," ",Fine
+" "," "," ",45,Many," "," "," ",Medium
+" "," "," ",75,Few," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",15," "," "," "," ",Fine
+" "," "," ",30," "," "," "," ",Medium
+" "," "," ",55," "," "," "," ",Medium
+" "," "," "," "," "," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",4," "," "," "," "," "
+" "," "," ",15," "," "," "," "," "
+" "," "," ",27," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",7," "," "," "," ",Coarse
+" "," "," ",38,Many," "," "," ",Medium
+" "," "," ",53,Many," "," "," ",Coarse
+" "," "," ",57," "," "," "," ",Fine
+" "," "," "," ",Many," "," "," ",Coarse
+" "," "," ",16," ",Many," "," ",Fine
+" "," "," ",30," ",Common," "," ",Medium
+" "," "," ",49,Few," "," "," ",Medium
+" "," "," "," "," "," "," "," ",Medium
+" "," "," ",16," "," "," "," ",Fine
+" "," "," ",27," "," "," "," ",Fine
+" "," "," ",51," "," "," "," ",Fine
+" "," "," ",66," "," "," "," ",Medium
+" "," "," ",92," "," "," "," ",Fine
+" "," "," "," "," "," "," "," ",Medium
+" "," "," ",0," "," "," "," "," "
+" "," "," ",7," "," "," "," ",Fine
+" "," "," ",23,Few," "," "," ",Medium
+" "," "," ",38,Many," "," "," ",Medium
+" "," "," ",46,Common," "," "," ",Coarse
+" "," "," "," "," "," "," "," ",Fine
+" "," "," ",0," "," "," "," "," "
+" "," "," ",4," ",Many," ",Fine,Fine
+" "," "," ",38," ",Many," ",Fine,"Fine to medium"
+" "," "," ",56,Common,Many," ",Fine,Fine
+" "," "," "," "," ",Common," ",Fine,Fine
+" "," "," ",15," "," "," "," ",Coarse
+" "," "," ",17," "," "," "," ",Fine
+" "," "," ",45,Common," "," "," ",Fine
+" "," "," ",120," "," "," "," ",Medium
+" "," "," ",180," "," "," "," ",Medium
+" "," "," ",12,Common," "," "," ",Fine
+075yr4050," "," ",24," "," "," "," ",Coarse
+" "," "," ",43,Many," "," "," ",Fine
+" "," "," "," ",Many," "," "," ",Medium
+" "," "," ",10,Common," "," "," ",Medium
+" "," "," ",28,Many," "," "," ",Medium
+" "," "," ",45,Many," "," "," ",Fine
+" "," "," ",15," "," "," "," ",Medium
+" "," "," ",48," "," "," "," ",Coarse
+" "," "," ",63," "," "," "," ",Medium
+" "," "," ",0," "," "," "," "," "
+" "," "," ",14," "," "," "," ",Coarse
+" "," "," ",24,Many," "," "," "," "
+" "," "," ",50,Many," "," "," "," "
+" "," "," "," ",Many," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",15,Many," "," "," ",Fine
+" "," "," ",28," "," "," "," ",Medium
+" "," "," ",38,Many," "," "," ",Medium
+" "," "," "," ",Many," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",1," "," "," "," ",Medium
+" "," "," ",26," "," "," "," ",Medium
+" "," "," ",35," "," "," "," ",Coarse
+" "," "," ",42," "," "," "," ",Medium
+" "," "," "," ",Many," "," "," ",Medium
+" "," "," ",20," ",Many," "," ",Medium
+" "," "," ",43," ",Many," "," ",Medium
+" "," "," ",63," ",Many," "," ",Coarse
+" "," "," ",115," ",Few," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",17,Common," "," "," ",Medium
+" "," "," ",43,Many," "," "," ",Medium
+" "," "," "," ",Many," "," "," ",Coarse
+" "," "," ",7," "," "," "," ",Fine
+" "," "," ",46," "," "," "," ",Fine
+" "," "," "," "," "," "," "," ",Medium
+" "," "," ",25," "," "," "," ",Medium
+" "," "," ",33," "," "," "," ",Medium
+" "," "," ",45," "," "," "," ",Medium
+" "," "," ",102," "," "," "," ",Coarse
+" "," "," "," "," "," "," "," "," "
+" "," "," ",23," "," "," "," ",Fine
+" "," "," ",24," "," "," "," "," "
+" "," "," ",48," "," "," "," ",Fine
+" "," "," ",67," "," "," "," "," "
+" "," "," ",90," "," "," "," ","Medium to coarse"
+" "," "," ",0," "," "," "," "," "
+" "," "," ",4," "," "," "," ","Fine to medium"
+" "," "," ",14," "," "," "," ",Fine
+" "," "," ",34," "," "," "," ",Fine
+050yr4030," "," ",40," "," "," "," ","Medium to coarse"
+" "," "," ",90," "," "," "," ",Coarse
+" "," "," "," "," "," "," "," ",Coarse
+" "," "," ",12," "," "," "," ",Fine
+" "," "," ",35," "," "," "," ",Fine
+" "," "," ",99," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",15," "," "," "," ",Fine
+" "," "," ",23," "," "," "," ",Fine
+" "," "," ",33," "," "," "," ",Medium
+" "," "," ",50," "," "," "," "," "
+" "," "," "," "," "," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",3," "," "," "," ",Medium
+" "," "," ",16," "," "," "," ",Medium
+" "," "," ",37," "," "," "," ","Fine to medium"
+" "," "," ",61," "," "," "," ",Medium
+" "," "," "," "," "," "," "," ",Coarse
+" "," "," ",5," "," "," "," ",Fine
+" "," "," ",18,Few," "," "," ",Fine
+" "," "," ",30,Many," "," "," ",Medium
+" "," "," ",95," "," "," "," ",Coarse
+" "," "," "," "," "," "," "," "," "
+" "," "," ",37," "," "," "," ",Fine
+" "," "," ",75," "," "," "," ",Coarse
+" "," "," "," "," "," "," "," "," "
+" "," "," ",18," "," "," "," ",Fine
+" "," "," ",50," "," "," "," ",Medium
+" "," "," ",75," "," "," "," ",Coarse
+" "," "," ",15," "," "," "," ",Fine
+" "," "," ",50," "," "," "," ",Fine
+" "," "," ",85," "," "," "," "," "
+" "," "," ",110," "," "," "," "," "
+050yr4020," "," ",0," "," "," "," "," "
+" "," "," ",12," "," "," "," ",Fine
+" "," "," ",30,Few," "," "," "," "
+" "," "," ",70,Few," "," "," "," "
+" "," "," ",100," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",7," "," "," "," ",Fine
+" "," "," ",28," "," "," "," ",Fine
+" "," "," ",40," "," "," "," ",Medium
+" "," "," ",62," "," "," "," "," "
+" "," "," ",100," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",15," "," "," "," ",Fine
+" "," "," ",17," "," "," "," ",Fine
+" "," "," ",40,Common," "," "," ",Fine
+" "," "," ",65," "," "," "," "," "
+" "," "," ",15," "," "," "," ",Medium
+" "," "," ",28," "," "," "," ",Fine
+" "," "," ",42," "," "," "," ",Medium
+" "," "," ",100," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",4," "," "," "," ",Fine
+" "," "," ",20," "," "," "," ",Fine
+" "," "," ",40," "," "," "," ",Fine
+" "," "," ",100," "," "," "," "," "
+" "," "," ",15," "," "," "," ",Fine
+" "," "," ",24," "," "," "," ",Fine
+" "," "," ",40," "," "," "," ",Fine
+" "," "," ",46," "," "," "," ",Medium
+" "," "," ",0," "," "," "," "," "
+" "," "," ",1," "," "," "," ",Medium
+" "," "," ",7," "," "," "," ",Medium
+" "," "," ",9," "," "," "," ",Coarse
+" "," "," ",20," "," "," "," ",Fine
+" "," "," ",26," "," "," "," ",Fine
+" "," "," "," "," "," "," "," "," "
+" "," "," ",15," "," "," "," ",Fine
+" "," "," ",23," "," "," "," ",Fine
+" "," "," ",50,Many," "," "," ",Fine
+" "," "," ",70," "," "," "," ",Medium
+" "," "," ",90," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",6," "," "," "," ",Fine
+" "," "," ",12," "," "," "," ",Fine
+" "," "," ",20,Common," "," "," ",Fine
+" "," "," ",48,Many," "," "," "," "
+" "," "," ",60,Common," "," "," "," "
+" "," "," ",18," "," "," "," ",Fine
+" "," "," ",25," "," "," "," ",Fine
+" "," "," ",35," "," "," "," "," "
+" "," "," ",50," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",15," "," "," "," ",Fine
+" "," "," ",22," "," "," "," ",Medium
+" "," "," ",70," "," "," "," ",Medium
+" "," "," ",90," "," "," "," ",Coarse
+" "," "," ",100," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",10," "," "," "," ",Fine
+" "," "," ",20," "," "," "," ",Fine
+" "," "," ",70," "," "," "," ",Fine
+" "," "," ",100," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",4," "," "," "," ","Medium to coarse"
+" "," "," ",35," "," "," "," ","Medium to coarse"
+" "," "," ",50," "," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+075yr5060," "," ",5," "," "," "," ",Coarse
+" "," "," ",18," "," "," "," ",Medium
+050yr4040," "," ",29," "," "," "," ",Coarse
+050yr5030," "," ",52,Few," "," "," ",Coarse
+" "," "," ",100," "," "," "," ",Coarse
+" "," "," ",20," "," "," "," ",Medium
+" "," "," ",40,Common," "," "," ",Coarse
+" "," "," ",80,Common," "," "," ",Coarse
+" "," "," ",100," "," "," "," ",Coarse
+" "," "," ",24,Few," "," "," ",Fine
+" "," "," ",34," "," "," "," ",Coarse
+" "," "," ",51," "," "," "," ",Medium
+" "," "," ",58," "," "," "," "," "
+" "," "," ",110," "," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",3," "," "," "," ",Fine
+" "," "," ",32," "," "," "," ",Fine
+" "," "," ",53," "," "," "," ",Fine
+" "," "," ",12," "," "," "," ",Fine
+" "," "," ",50," "," "," "," ",Fine
+" "," "," ",75," "," "," "," ",Fine
+" "," "," ",100," "," "," "," ",Fine
+" "," "," ",15,Many,Many," ",Fine,Medium
+" "," "," ",21,Many," "," "," ",Coarse
+" "," "," ",60,Common," "," "," "," "
+" "," "," ",76," "," "," "," "," "
+" "," "," ",98," "," "," "," "," "
+" "," "," ",8," ",Common," ",Fine,"Medium to coarse"
+" "," "," ",12," ",Common," ",Fine,Medium
+" "," "," ",34,Few," "," "," "," "
+" "," "," ",60," "," "," "," "," "
+" "," "," ",96," "," "," "," "," "
+" "," "," ",146," "," "," "," ",Medium
+100yr6030," "," ",19," ",Many,Oblique,Fine,Medium
+100yr7050," "," ",56," ",Common,Oblique,Fine,Medium
+100yr6535," "," ",71," ",Few,Vertical,Fine,Medium
+" "," "," ",115," ","Very few",Vertical,Fine,Fine
+" "," "," ",150,Many,"Very few",Vertical,Fine,Coarse
+" "," "," ",195," "," "," "," "," "
+" "," "," ",230," "," "," "," ",Coarse
+" "," "," ",2," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",5,Few," "," "," ","Medium to coarse"
+" "," "," ",18,Many," "," "," ",Medium
+" "," "," ",34,Many," "," "," ",Coarse
+" "," "," ",42,Many," "," "," "," "
+" "," "," ",100," "," "," "," "," "
+" "," "," ",17," "," "," "," "," "
+" "," "," ",20," "," "," "," ",Medium
+" "," "," ",30," "," "," "," "," "
+" "," "," ",54," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",4," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",2," "," "," "," ",Medium
+" "," "," ",15," "," "," "," ",Medium
+" "," "," ",27," "," "," "," "," "
+" "," "," ",39," "," "," "," "," "
+" "," "," ",100," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",25," "," "," "," ",Coarse
+" "," "," ",57,Many," "," "," "," "
+" "," "," "," ",Common," "," "," "," "
+" "," "," ",7," "," "," "," ",Fine
+" "," "," ",14," "," "," "," ",Fine
+" "," "," ",28," "," "," "," ",Fine
+" "," "," ",56," "," "," "," ",Medium
+" "," "," "," "," "," "," "," "," "
+" "," "," ",15," "," "," "," ",Medium
+" "," "," ",20," "," "," "," ",Fine
+" "," "," ",45," "," "," "," ",Medium
+" "," "," ",60,Few," "," "," ",Medium
+" "," "," "," "," "," "," "," ",Coarse
+" "," "," ",20," "," "," "," ",Fine
+" "," "," ",58," "," "," "," ",Fine
+" "," "," ",110," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",8," "," "," "," ",Fine
+" "," "," ",19," "," "," "," ",Fine
+" "," "," ",28,Few," "," "," ",Medium
+" "," "," ",37," "," "," "," ",Medium
+" "," "," ",100," "," "," "," ",Coarse
+" "," "," ",25,Few,Common," ",Fine,Medium
+" "," "," ",27," ",Common," ",Fine,Fine
+" "," "," ",44,Common,Few," ",Fine,Medium
+" ",Sticky," ",69,Common,"Very few"," ",Fine," "
+" ",Sticky," ",135,Common," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",16,Common,Many," ",Fine,"Fine to medium"
+" "," "," ",29,Many,Common," ",Fine," "
+" "," "," ",35,Few,Few," ",Fine,"Very fine"
+" "," "," ",63,Many," "," "," "," "
+" "," "," "," ",Many," "," "," "," "
+" "," "," ",18,Common,Many," ",Fine,Fine
+" "," "," ",30,Many,Common," ",Fine,Medium
+" ","Very sticky"," ",85," ","Very few"," ",Fine,Medium
+" ",Sticky," ",110,Common," "," "," ",Coarse
+" "," "," ",18," ",Many," ",Fine,"Fine to medium"
+100yr5060," "," ",30," ",Common," ",Fine,Medium
+" "," "," ",36," ",Common," ",Fine,Medium
+" "," "," ",40," ",Common," ",Fine,Fine
+" "," "," ",50," ","Very few"," ","Very fine"," "
+" "," "," ",65," "," "," "," "," "
+" "," "," ",77," "," "," "," "," "
+" "," "," ",90," "," "," "," "," "
+020yr2020," "," ",0," "," "," "," "," "
+" "," "," ",13," ",Common," ",Fine,Fine
+" "," "," ",23,Many,Common," ",Fine,Fine
+" "," "," ",30,Few,Common," ",Fine,Fine
+" "," "," ",39," ",Common," ",Fine,Fine
+" "," "," ",0," "," "," "," "," "
+" "," "," ",11," ",Common," ",Fine,"Fine to medium"
+" "," "," ",17," ",Common," ",Fine,Fine
+" "," "," ",24,Common,Common," ",Fine,"Fine to medium"
+" "," "," ",40," ",Few," ",Fine," "
+" "," "," ",17," ",Many," ",Fine,Fine
+" "," "," ",23," ",Many," ",Fine,Fine
+" "," "," ",35,Common,Common," ",Fine,"Fine to medium"
+" "," "," ",45,Common,Few," ",Fine,"Fine to medium"
+" "," "," ",80,Few,"Very few"," ","Very fine"," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",11," "," "," "," "," "
+" "," "," ",19," "," "," "," ",Coarse
+" "," "," ",32," "," "," "," "," "
+" "," "," ",56," "," "," "," "," "
+" "," "," ",92," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" ",Slightly," ",24," ",Common,Vertical,Fine,Medium
+050yr7020," "," ",30," ",Common,Vertical,Fine," "
+" "," "," ",46," ",Common,Vertical,Fine,"Fine to medium"
+" "," "," ",60," ",Few,Vertical,Fine,Medium
+050yr4040," "," ",85," ","Very few",Vertical,Fine,"Medium to coarse"
+" "," "," "," ",Common,"Very few",Vertical,"Very fine","Medium to coarse"
+" "," "," ",0," "," "," "," "," "
+" "," "," ",3," "," "," "," ",Fine
+" "," "," ",6," "," "," "," ",Medium
+" "," "," ",10," "," "," "," ",Fine
+" "," "," ",15," "," "," "," ",Coarse
+" "," "," ",27," "," "," "," ",Fine
+" "," "," ",43," "," "," "," ",Medium
+" "," "," "," "," "," "," "," "," "
+" ",Sticky," ",19,Common,Common," ",Medium,Medium
+" ",Sticky," ",30,Common,Common," ",Fine,Medium
+" ",Sticky," ",43,Common," "," ","Very fine",Medium
+" ","Very sticky"," ",55,Many,"Very few"," ",Fine,Medium
+" ",Slightly," ",70," "," "," ",Fine,Medium
+" ",Slightly," ",82," "," "," "," ",Medium
+" ",Slightly," "," "," "," "," "," ",Medium
+" "," "," ",4," "," "," "," "," "
+" "," "," ",3," "," "," "," "," "
+" "," "," ",6," "," "," "," "," "
+" "," "," ",5," "," "," "," ",Medium
+" ",Slightly," ",13,Few," "," "," ",Fine
+" ",Slightly," ",28,Common," "," "," ",Medium
+" ",Slightly," ",38,Common," "," "," ",Medium
+" ",Slightly," ",76,Common," "," "," ",Fine
+" ",Sticky," "," "," "," "," "," ",Coarse
+" "," "," ",18," ",Many,Vertical,"Very fine",Fine
+" "," "," ",23,Common,Many,Vertical,"Very fine",Fine
+" "," "," ",38," ","Very few",Vertical,"Very fine","Fine to medium"
+" "," "," ",55," ",Common,Vertical,"Very fine"," "
+" "," "," "," "," "," ",Vertical,Micro," "
+" ",Sticky," ",6," "," "," "," "," "
+" "," "," ",1," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Medium
+100yr7020," "," ",8," "," "," "," ",Medium
+" "," "," ",13," "," "," "," ",Medium
+" "," "," ",33," "," "," "," ",Medium
+" "," "," ",46," "," "," "," ",Medium
+" "," "," ",56," "," "," "," ",Medium
+"050y 3040"," "," ",122," "," "," "," ",Fine
+" "," "," ",0," "," "," "," "," "
+" ",Sticky," ",5," "," "," "," ",Fine
+" ",Sticky," ",9," "," "," "," ",Medium
+" ",Slightly," ",19," "," "," "," ",Medium
+" ",Slightly," ",33," "," "," "," ",Coarse
+" ",Sticky," ",53," "," "," "," "," "
+" ",Sticky," ",90," "," "," "," "," "
+" ",Sticky," ",120," "," "," "," "," "
+" ",Sticky," ",135," "," "," "," "," "
+" "," "," ",5," "," "," "," "," "
+" "," "," ",102,Common," "," "," "," "
+" "," "," ",122," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",4," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Sticky," ",3," "," "," "," ",Medium
+" ",Nonsticky," ",5,Common," "," "," "," "
+" "," "," ",20,Many," "," "," ",Medium
+" ",Sticky," ",36,Many," "," "," ",Fine
+" ",Slightly," ",61,Many," "," "," ",Medium
+" "," "," ",84,Common," "," "," "," "
+" "," "," ",3," "," "," "," "," "
+" "," "," ",1," ",Many," ",Fine," "
+" "," "," ",0," ",Many," ",Fine," "
+" "," "," ",4," ",Many," ",Fine,Medium
+" "," "," ",12," ",Common," ",Fine,"Medium to coarse"
+" "," "," ",22," ",Common," ","Very fine",Coarse
+" "," "," ",39,Few,Common," ","Very fine","Fine to medium"
+" "," "," ",61,Few,"Very few"," ","Very fine"," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Slightly," ",8," "," "," "," ",Coarse
+" ",Slightly," ",15,Common," "," "," ","Fine to medium"
+" ",Slightly," ",28,Many," "," "," ",Fine
+" ",Slightly," ",38,Many," "," "," ",Fine
+" ",Sticky," ",66,Common," "," "," ",Medium
+" "," "," ",91,Common," "," "," ",Fine
+" ",Sticky," ",112,Common," "," "," "," "
+" "," "," ",18," ",Many,Vertical,Micro,Fine
+" "," "," ",23,Common,Common,Vertical,Micro,Fine
+" "," "," ",38," ",Common,Vertical,Micro,Fine
+" "," "," ",55," ",Common,Vertical,Micro," "
+" "," "," "," "," ","Very few",Vertical,Micro," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",5," ",Many,Horizontal,Medium,Coarse
+" "," "," ",15,Common,Many,Horizontal,Fine,Coarse
+" "," "," ",24,Common,Common,Horizontal,Fine,"Fine to medium"
+" "," "," ",31," ","Very few",Vertical,"Very fine",Medium
+" ",Slightly," ",54," ","Very few",Vertical,"Very fine","Medium to coarse"
+" ","Very sticky"," ",86," ","Very few",Vertical,"Very fine","Medium to coarse"
+" ",Sticky," "," "," ","Very few",Vertical,"Very fine",Coarse
+" "," "," ",0," ",Many,Random,"Very fine"," "
+" "," "," ",9,Common,Many,Horizontal,Medium,"Fine to medium"
+" "," "," ",27," ",Many,Horizontal,Medium,Fine
+" "," "," ",46," ",Many,Vertical,Fine,Fine
+" "," "," ",67,Common,Few,Vertical,"Very fine",Fine
+" "," "," "," "," ",Few,Vertical,"Very fine",Fine
+" "," "," ",25," ",Many,Vertical,"Very fine","Fine to medium"
+" "," "," ",37,Few,Many,Vertical,"Very fine",Coarse
+" "," "," ",56,Few,Common,Vertical,Micro,"Medium to coarse"
+" "," "," ",80,Common,Few,Vertical,Micro,Coarse
+100yr3020," "," "," ",Common,"Very few",Vertical,Micro,Medium
+" "," "," ",0," ",Common,Horizontal,"Very fine"," "
+100yr7020," "," ",5," ",Many,Horizontal,Medium,Fine
+" "," "," ",10," ",Common,Horizontal,Medium,Medium
+" "," "," ",25,Common,Common,Vertical,"Very fine",Fine
+"050y 5030"," "," ",46," ",Few,Vertical,"Very fine",Medium
+"050y 5020"," "," "," "," "," "," "," ",Coarse
+" "," "," ",18," ",Common,Vertical,Micro,"Fine to medium"
+" "," "," ",22,Common," "," "," ",Medium
+" "," "," ",26,Common,Common,Vertical,Micro,"Medium to coarse"
+" "," "," ",37,Few,Common,Vertical,Micro,Coarse
+" "," "," ",51," ",Few,Vertical,Micro,"Fine to medium"
+" "," "," ",68," ","Very few",Vertical,Micro,Medium
+" "," "," ",76," "," "," "," ",Coarse
+" ",Sticky," "," "," "," "," "," ","Medium to coarse"
+" "," "," ",1," ",Many,Random,Fine," "
+" "," "," ",0," ",Many,Random,Fine," "
+" "," "," ",5,Common,Many,Vertical,Fine,Medium
+" "," "," ",17,Few,Common,Horizontal,Medium,Fine
+" "," "," ",28,Common,Few,Vertical,"Very fine",Coarse
+100yr5540," "," ",39," ",Few,Vertical,"Very fine","Medium to coarse"
+100yr5040," "," ",60," ","Very few",Vertical,"Very fine",Coarse
+" "," "," "," "," ","Very few",Vertical,"Very fine"," "
+" "," "," ",2," ",Many,Random,"Very fine"," "
+" "," "," ",0," ",Common,Horizontal,Medium," "
+" "," "," ",2," ",Common,Horizontal,Medium,"Fine to medium"
+" "," "," ",7,Many,Few,Random,"Very fine",Fine
+050yr5030,Sticky," ",19," ",Few,Horizontal,Fine,"Fine to medium"
+050yr5030,Sticky," ",39,Many,"Very few",Vertical,Fine,"Medium to coarse"
+" ",Sticky," ",60," ","Very few",Vertical,"Very fine",Coarse
+" ",Sticky," "," "," "," "," "," ",Fine
+" "," ","Very weak",130," "," "," "," "," "
+" ",Nonsticky," ",18," ",Common,Vertical,"Very fine",Medium
+" ",Slightly," ",28," ",Common,Vertical,"Very fine",Fine
+" ",Slightly," ",35," ",Common,Vertical,"Very fine",Medium
+" ",Slightly," ",70," ",Common,Vertical,"Very fine",Medium
+" "," "," ",4," "," "," "," "," "
+" ",Sticky," ",122," "," "," "," ",Coarse
+" "," "," ",1," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Fine
+025yr2000," "," ",0," "," "," "," ",Coarse
+" ",Slightly," ",4," "," "," "," ",Medium
+" ",Slightly," ",20," "," "," "," ",Fine
+" ",Slightly," ",25," "," "," "," ",Fine
+" ",Slightly," ",29,Few," "," "," ",Fine
+" ",Sticky," ",71," "," "," "," ",Medium
+" "," "," ",3," "," "," "," "," "
+" "," "," ",110," "," "," "," "," "
+" "," "," ",1," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Fine
+" ",Nonsticky," ",4," "," "," "," ",Fine
+" ",Nonsticky," ",6," "," "," "," ",Fine
+" ",Nonsticky," ",10," "," "," "," ",Fine
+" ",Nonsticky," ",23," "," "," "," ",Medium
+" ",Nonsticky," ",28," "," "," "," ",Medium
+" ",Nonsticky," ",60," "," "," "," "," "
+" "," "," ",20," "," "," "," "," "
+025yr2010," "," ",0," "," "," "," "," "
+"050y 6010",Sticky," ",13," "," "," "," "," "
+"050y 7010"," "," ",41," "," "," "," "," "
+" "," "," ",23," "," "," "," "," "
+" "," "," ",20," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",18," "," "," "," ","Medium to coarse"
+" ",Nonsticky," ",25,Few," "," "," ","Medium to coarse"
+" "," "," ",30," "," "," "," "," "
+" ",Slightly," ",55," "," "," "," "," "
+" ",Slightly," ",80," "," "," "," "," "
+" "," "," ",2," "," "," "," ",Fine
+" "," "," ",5," "," "," "," ",Medium
+" "," "," ",17," "," "," "," ",Fine
+" "," "," ",27," "," "," "," ",Fine
+" "," "," ",36," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",4," "," "," "," "," "
+" "," "," ",3," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Coarse
+" ",Slightly," ",5," "," "," "," "," "
+" ",Slightly," ",13," "," "," "," ",Fine
+" ",Slightly," ",23," "," "," "," ",Fine
+" ",Sticky," ",38," "," "," "," ","Fine to medium"
+" ",Sticky," ",122," "," "," "," ",Coarse
+" "," "," ",14," "," "," "," "," "
+" "," "," ",10," "," "," "," "," "
+" "," "," ",5," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",5," "," "," "," "," "
+" "," "," ",20,Common," "," "," "," "
+" ",Slightly," ",36,Common," "," "," ",Coarse
+" ",Slightly," "," ",Many," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Nonsticky," ",20," "," "," "," ",Medium
+" ",Sticky," ",43,Common," "," "," "," "
+" ",Sticky," ",64,Common," "," "," "," "
+" ",Slightly," ",76,Many," "," "," "," "
+" "," "," ",91," "," "," "," "," "
+" "," "," ",24," "," "," "," "," "
+" "," "," ",23," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Slightly," ",4,Many," "," "," ",Coarse
+100yr8040,Slightly," ",6," "," "," "," ",Coarse
+075yr5060,Slightly," ",19,Few," "," "," ",Coarse
+025yr6040,Slightly," ",43,Few," "," "," "," "
+" "," "," ",25," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",15,Common," "," "," ",Medium
+" ",Slightly,Moderate,41,Common," "," "," ",Fine
+" ",Slightly,Strong,81,Few," "," "," ",Medium
+" "," "," ",11," "," "," "," "," "
+" "," "," ",8," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Medium
+" "," "," ",3," "," "," "," "," "
+" "," "," ",5," "," "," "," ",Fine
+"025y 5040"," "," ",25," "," "," "," ",Fine
+" "," "," ",48," "," "," "," ",Fine
+" "," "," "," "," "," "," "," "," "
+" "," "," ",5," "," "," "," "," "
+" "," "," ",3," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Slightly," ",10," "," "," "," ","Fine to medium"
+" ",Slightly," ",25," "," "," "," ",Fine
+" ",Slightly," ",38," "," "," "," ",Fine
+" "," "," ",43," "," "," "," "," "
+" "," "," ",75," "," "," "," "," "
+" "," "," ",210," "," "," "," ",Fine
+" "," "," ",4," "," "," "," "," "
+" "," "," ",3," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Medium
+" "," "," ",10,Common," "," "," "," "
+" "," "," ",23,Common," "," "," ",Fine
+" "," "," ",35,Common," "," "," ",Fine
+" "," "," ",60,Common," "," "," "," "
+" "," "," "," ",Common," "," "," "," "
+" "," "," ",4," "," "," "," "," "
+" "," "," ",3," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",3," "," "," "," ",Fine
+" "," "," ",18," "," "," "," ",Fine
+" "," "," ",33," "," "," "," ",Fine
+" "," "," ",60," "," "," "," "," "
+" "," "," ",100," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",3," "," "," "," "," "
+" "," "," ",2," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Fine
+" "," "," ",13," "," "," "," ",Fine
+" "," "," ",25," "," "," "," ",Medium
+" "," "," ",45," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",30," "," "," "," ",Coarse
+" ",Slightly," ",65," "," "," "," ",Fine
+" ",Slightly," ",75,Many," "," "," "," "
+" ",Slightly," ",120,Many," "," "," "," "
+" "," "," ",4," "," "," "," "," "
+" "," "," ",1," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Fine
+" ",Slightly," ",5," "," "," "," ",Medium
+" "," "," ",6," "," "," "," ",Medium
+" ",Slightly," ",34," "," "," "," ",Medium
+" ",Slightly," ",51," "," "," "," ",Coarse
+" ",Slightly," ",107," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",6," "," "," "," "," "
+" "," "," ",4," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Fine
+" ",Sticky," ",5," "," "," "," "," "
+" ",Slightly," ",10,Many," "," "," "," "
+" ",Slightly," ",38," "," "," "," ",Coarse
+" ",Slightly," ",91,Common," "," "," "," "
+" ",Slightly," ",10," "," "," "," ",Medium
+" ",Slightly," ",43," "," "," "," "," "
+" ",Slightly," ",63,Many," "," "," "," "
+" ",Slightly," "," ",Many," "," "," "," "
+" "," "," ",2," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Slightly," ",5," "," "," "," ",Coarse
+" ",Slightly," ",15," "," "," "," "," "
+" ",Sticky," ",28," "," "," "," ",Fine
+" ",Sticky," ",60," "," "," "," ",Coarse
+" ",Slightly," ",90," "," "," "," ",Fine
+" ",Slightly,Weak,135," "," "," "," ",Medium
+" "," "," ",9," "," "," "," "," "
+" "," "," ",8," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Fine
+" ",Slightly," ",10,Common," "," "," ",Medium
+" "," "," ",30,Few," "," "," "," "
+" ",Slightly," ",66," "," "," "," ",Coarse
+" ",Slightly," ",76," "," "," "," "," "
+" ",Slightly," "," ",Few," "," "," "," "
+" "," "," ",4," "," "," "," "," "
+" "," "," ",1," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Fine
+" ",Slightly," ",4," "," "," "," "," "
+" "," "," ",10," "," "," "," ",Fine
+" "," "," ",28," "," "," "," "," "
+" "," "," ",46," "," "," "," ",Fine
+" "," "," ",53," "," "," "," "," "
+" "," "," ",96," "," "," "," "," "
+" "," "," ",5," "," "," "," "," "
+" "," "," ",18," "," "," "," "," "
+" "," ",Strong,51," "," "," "," "," "
+" "," ",Moderate,74," "," "," "," "," "
+" "," ",Weak,180," "," "," "," "," "
+" "," ",Weak,213," "," "," "," "," "
+" "," "," ",3," "," "," "," "," "
+" "," "," ",1," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Medium
+" "," "," ",5," "," "," "," ",Fine
+" "," "," ",10," "," "," "," ",Fine
+" "," "," ",18," "," "," "," ",Fine
+" "," "," ",28," "," "," "," ",Fine
+" "," "," ",60," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Slightly," ",11,Few," "," "," ",Coarse
+" ",Slightly," ",25,Few," "," "," ",Medium
+" ",Slightly," ",43,Many," "," "," ",Medium
+" ",Slightly," ",75,Many," "," "," "," "
+" ",Nonsticky," ",85," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" ",Slightly," ",5," "," "," "," ",Coarse
+" ",Sticky," ",20,Many," "," "," "," "
+" ",Slightly," ",30,Few," "," "," "," "
+" ",Sticky," ",76,Many," "," "," "," "
+" "," "," ",91,Common," "," "," "," "
+" "," "," ",7," "," "," "," "," "
+" "," "," ",96," "," "," "," "," "
+" ",Slightly," ",119," "," "," "," ",Fine
+" "," "," ",133," "," "," "," "," "
+" "," "," ",6," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Fine
+" ",Sticky," ",3," "," "," "," "," "
+" ",Slightly," ",6," "," "," "," "," "
+" "," "," ",11," "," "," "," ",Fine
+" "," "," ",24," "," "," "," "," "
+" "," "," ",56," "," "," "," "," "
+" "," "," ",81," "," "," "," "," "
+" "," "," ",9," "," "," "," "," "
+" "," "," ",5," "," "," "," "," "
+" "," "," ",0," "," "," "," ",Medium
+" ",Slightly," ",8," "," "," "," ",Medium
+" ",Slightly," ",18,Common," "," "," ",Medium
+" "," "," ",25,Common," "," "," ",Medium
+" ",Slightly," ",46,Many," "," "," ",Medium
+" "," "," ",91,Common," "," "," ",Medium
+" "," "," ",4," "," "," "," "," "
+" ",Sticky," ",163," "," "," "," "," "
+" "," "," ",1," "," "," "," "," "
+" ",Sticky," ",0," "," "," "," ",Coarse
+" ",Slightly," ",5," "," "," "," ","Fine to medium"
+" ",Slightly," ",15," "," "," "," ",Medium
+025yr3060,Slightly," ",25," "," "," "," ",Medium
+" "," "," ",66," "," "," "," ",Medium
+" "," "," ",107," "," "," "," ",Fine
+" "," "," ",152," "," "," "," "," "
+" "," "," ",4," "," "," "," "," "
+" "," "," ",1," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",8," "," "," "," ",Medium
+" "," "," ",18," "," "," "," ",Fine
+" "," "," ",33," "," "," "," ",Fine
+" "," "," ",51," "," "," "," ",Fine
+" "," "," ",122," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+100yr5030," "," ",5," "," "," "," ",Fine
+100yr5020," "," ",15," "," "," "," "," "
+100yr7030," ",Strong,48," "," "," "," "," "
+" "," ",Weak,81," "," "," "," ",Medium
+" "," ",Weak,135," "," "," "," "," "
+" "," ","Very weak",215," "," "," "," "," "
+" ",Nonsticky," ",18," ",Common," "," ","Medium to coarse"
+" ",Nonsticky," ",25," ",Common," "," ",Medium
+" ",Nonsticky," ",42," ",Common," "," "," "
+" ",Nonsticky," ",65," ",Common," "," ",Medium
+" "," "," ",78," ",Few," "," ",Medium
+" "," "," ",123," ",Few," "," "," "
+" "," "," ",135," "," "," "," "," "
+" "," "," ",26," "," "," "," ",Fine
+" "," "," ",36," "," "," "," ",Fine
+" "," "," ",50," "," "," "," "," "
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",17," "," "," "," ",Fine
+" "," "," ",30," "," "," "," ",Fine
+" "," "," ",51,Many," "," "," "," "
+" "," "," ",16," "," "," "," ",Fine
+" "," "," ",18," "," "," "," ",Fine
+" "," "," ",45," "," "," "," ",Fine
+" "," "," ",90," "," "," "," "," "
+" "," "," "," "," "," "," "," ",Medium
+" "," "," ",27," "," "," "," ",Fine
+" "," "," ",29," "," "," "," ",Fine
+" "," "," ",47," "," "," "," ",Fine
+" "," "," ",53," "," "," "," ",Fine
+" "," "," ",100," "," "," "," ",Medium
+" "," "," ",12," "," "," "," ",Fine
+" "," "," ",42," "," "," "," ",Fine
+" "," "," "," "," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",3," "," "," "," ",Fine
+" "," "," ",30," "," "," "," ",Fine
+" "," "," ",66," "," "," "," "," "
+" "," "," ",18," "," "," "," ",Fine
+" "," "," ",53," "," "," "," ","Fine to medium"
+" "," "," "," "," "," "," "," "," "
+100yr5030," "," ",10," "," "," "," ",Fine
+100yr6030," "," ",18," "," "," "," ",Fine
+100yr4040," "," ",35," "," "," "," ",Medium
+100yr7030," ",Strong,53," "," "," "," "," "
+100yr6030," ",Moderate,115," "," "," "," "," "
+" "," ","Very weak",150," "," "," "," "," "
+" ",Nonsticky," ",18," ",Common,Vertical,"Very fine",Fine
+" ",Nonsticky," ",33," ",Many," "," ",Fine
+" ",Nonsticky," ",53," ",Many," "," ",Fine
+" ",Nonsticky," ",68," ",Few," ",Fine,Medium
+" ",Nonsticky," "," "," ",Few," "," ","Fine to medium"
+100yr3025," "," ",23," ",Many,Random,"Very fine",Medium
+075yr7020," "," ",25," ",Many,Random,"Very fine"," "
+075yr6550," "," ",35," ",Many,Random,"Very fine","Fine to medium"
+075yr6040," "," ",45," ",Many,Random,Micro," "
+075yr5540," "," ",70," ",Many,Random,Micro," "
+075yr5540," "," ",95," ",Many,Random,Micro," "
+075yr5540," "," "," "," ",Many,Random,Micro," "
+" "," "," ",25," ",Many,Random,"Very fine",Coarse
+" "," "," ",53," ",Many,Random,"Very fine",Coarse
+" "," "," ",69," ",Common,Random,"Very fine",Fine
+" "," "," ",105," ","Very few",Random,"Very fine","Fine to medium"
+" "," "," ",0," "," "," "," "," "
+100yr7030," "," ",14," ",Many,Random,Fine,Coarse
+075yr7020," "," ",16," ",Many,Random,Fine,Fine
+075yr5040," "," ",26," ",Common,Random,Fine,"Fine to medium"
+075yr4060," "," ",51," ",Few,Vertical,Fine,Coarse
+075yr4060," "," ",95," ","Very few",Vertical,"Very fine",Medium
+075yr4060," "," ",120,Few,"Very few",Vertical,"Very fine",Coarse
+075yr4060," "," ",145,Few,"Very few",Vertical,"Very fine",Coarse
+100yr5040," "," ",22," ",Many,Random,"Very fine",Fine
+075yr5540," "," ",40," ",Many,Random,"Very fine",Fine
+100yr5540," "," ",57," ",Few,Random,"Very fine","Very fine"
+075yr5540," "," ",75," ","Very few",Random,"Very fine"," "
+050yr4040," "," ",110," "," "," "," ",Coarse
+" "," "," ",130," "," "," "," ",Coarse
+" "," "," ",29," ",Many,Random,"Very fine",Fine
+" "," "," ",41," ",Many,Random,"Very fine",Medium
+" "," "," ",52," ",Common,Random,"Very fine",Medium
+" "," "," "," "," ","Very few",Random,"Very fine"," "
+075yr5540," "," ",20," ",Many,Random,Medium,"Fine to medium"
+050yr5560," "," ",35," ",Many,Random,Fine,"Fine to medium"
+050yr5540," "," ",52," ",Few,Oblique,Fine,Medium
+050yr4540," "," ",77,Few," "," "," ","Medium to coarse"
+050yr4540," "," ",102,Few," "," "," ","Medium to coarse"
+050yr4540," "," ",117,Few," "," "," ","Medium to coarse"
+" "," "," ",142,Few," "," "," "," "
+100yr5020," "," ",5," "," "," "," ",Medium
+100yr6020," "," ",13," "," "," "," ",Fine
+100yr4030," "," ",15," "," "," "," ",Fine
+100yr3030," "," ",33," "," "," "," ",Fine
+" "," ",Moderate,41," "," "," "," "," "
+" "," ",Strong,105," "," "," "," ",Medium
+" "," ","Very weak",240," "," "," "," "," "
+" "," ","Very weak",305," "," "," "," "," "
+" ",Nonsticky," ",15," ",Common," "," ","Fine to medium"
+050yr5060,Sticky," ",35,Many,Common," "," ","Fine to medium"
+" ",Sticky," ",45," ",Few," "," "," "
+" ",Sticky," ",100," ","Very few"," "," ",Coarse
+" "," "," ",25," ",Many,Vertical,Fine,Fine
+100yr4030," "," ",39," ",Many,Vertical,Fine,Fine
+100yr4040," "," ",50,Few,Common,Vertical,"Very fine",Fine
+" "," "," ",66,Common,Few,Vertical,"Very fine",Medium
+" "," "," ",95,Many," "," "," ",Coarse
+" "," "," ",120," "," "," "," "," "
+" "," "," ",20,Few,Many,Vertical,"Very fine","Fine to medium"
+" "," "," ",22,Common,Common,Vertical,"Very fine",Medium
+" "," "," ",47,Many,"Very few",Vertical,"Very fine",Medium
+100yr5040," "," ",100,Many," "," "," ",Coarse
+" "," "," ",130," "," "," "," "," "
+100yr4030," "," ",20," ",Many,Random,Medium,Coarse
+" "," "," ",35," ",Common,Random,Fine,Fine
+" "," "," ",40," ",Few,Vertical,Fine,Coarse
+" "," "," ",68," "," "," "," "," "
+" "," "," ",88," "," "," "," "," "
+" "," "," ",108," "," "," "," ",Medium
+" "," "," ",20," ",Many,Random,Fine,Fine
+" "," "," ",35," ",Few,Vertical,Fine,Medium
+" "," "," ",45,Common,"Very few",Vertical,Fine,Medium
+" "," "," ",63,Common,"Very few",Vertical,"Very fine",Coarse
+" "," "," ",86,Common," "," "," ",Medium
+100yr4030," "," ",6," "," "," "," ",Fine
+100yr5020," "," ",10," "," "," "," ",Fine
+100yr5020," "," ",20," "," "," "," ",Medium
+100yr5020," ",Strong,46," "," "," "," ",Medium
+100yr4010," ",Moderate," "," "," "," "," ",Medium
+" "," "," ",0," ",Many,Random,Fine," "
+" "," "," ",8," ",Many,Horizontal,Fine,"Fine to medium"
+" "," "," ",31," ",Common,Random,Fine,"Fine to medium"
+" "," "," ",35," ",Few,Vertical,Fine,Medium
+" "," "," ",75,Common,Few,Vertical,Fine,Medium
+" "," "," ",85,Common," "," "," ",Coarse
+" "," "," ",0," ",Many,Random,Fine," "
+" "," "," ",13," ",Many,Random,Fine," "
+" "," "," ",20," ",Many,Horizontal,Fine,"Fine to medium"
+" "," "," ",31," ",Few,Horizontal,Fine,Medium
+" "," "," ",40," "," ",Random,Fine,Medium
+" "," "," ",75," ","Very few",Vertical,Fine,Coarse
+" "," "," ",96," "," "," "," ",Coarse
+" "," "," ",0," ",Many,Random,Fine," "
+" "," "," ",12," ",Common,Random,Fine," "
+" "," "," ",30," ",Common,Random,Fine," "
+" "," "," ",49," ",Few,Vertical,Fine," "
+100yr5040," "," ",94," ","Very few",Vertical,Fine," "
+" "," "," ",114," "," "," "," "," "
+" "," "," ",16,Few,Many,Random,Fine,Medium
+" "," "," ",29,Many,Common,Vertical,Fine,Medium
+" "," "," ",51," ",Few,Vertical,Fine,Fine
+" "," "," ",85," "," "," "," ",Coarse
+" "," "," ",105," "," "," "," ",Coarse
+" "," "," ",18,Common,Many,Random,Fine,Medium
+" "," "," ",26,Many,Common,Vertical,Fine,Medium
+" "," "," ",38,Many,Common,Vertical,Fine,Coarse
+" "," "," ",65," ",Few,Vertical,"Very fine",Medium
+" "," "," ",120," ","Very few",Vertical,"Very fine",Coarse
+" "," "," ",0," ",Many,Random,Fine," "
+" "," "," ",6,Many,Many,Horizontal,Coarse,Medium
+075yr5060," "," ",27,Common,Common,Random,Fine,Fine
+075yr5060," "," ",38,Common,"Very few",Horizontal,Fine,Medium
+" "," "," ",78,Common,"Very few",Vertical,Fine,Coarse
+" "," "," ",100," "," "," "," ",Coarse
+" "," "," ",24," ",Many,Horizontal,Medium,Medium
+050yr5080," "," ",41," ",Common,Horizontal,Medium,Medium
+" "," "," ",66," ",Few,Random,Fine," "
+" "," "," ",115," "," "," "," "," "
+" "," "," ",0," ",Many,Random,Fine," "
+" "," "," ",7," ",Many,Horizontal,Fine,Medium
+" "," "," ",18," ",Many,Random,Fine,Medium
+" "," "," ",31," ",Common,Random,Fine,Fine
+" "," "," ",37," ",Few,Horizontal,Fine,Medium
+" "," "," ",58," ","Very few",Vertical,Fine,Coarse
+" "," "," ",79," ","Very few",Vertical,Fine,Coarse
+" "," "," ",85," "," "," "," "," "
+" "," "," ",0," ",Common,Random,Fine," "
+" "," "," ",12," ",Common,Horizontal,Fine," "
+" "," "," ",25," ",Common,Horizontal,Fine," "
+" "," "," ",42," ",Few,Random,Fine," "
+" "," "," ",69," ","Very few",Vertical,Fine," "
+" "," "," ",120," "," "," "," "," "
+" "," "," ",0," ",Many,Random,Fine," "
+" "," "," ",6," ",Many,Horizontal,Fine," "
+" "," "," ",8," ",Many,Horizontal,Fine,Fine
+" "," "," ",19," ",Many,Horizontal,Fine,Fine
+" "," "," ",38," ",Common,Vertical,Fine,Fine
+" "," "," ",64," ","Very few",Vertical,Fine,Medium
+" "," "," ",100," "," "," "," "," "
+100yr4030," "," ",5," "," "," "," ",Fine
+100yr4030," "," ",10," "," "," "," ",Fine
+100yr4030," "," ",30," "," "," "," ",Medium
+100yr5030," ",Moderate,40," "," "," "," ","Medium to coarse"
+100yr6025," ",Strong,110," "," "," "," "," "
+100yr7030," ","Very weak",165," "," "," "," "," "
+100yr7030," ","Very weak",275," "," "," "," "," "
+" "," "," ",0," ",Many,Random,Fine," "
+" "," "," ",12," ",Many,Horizontal,Fine," "
+" "," "," ",29," ",Many,Random,Fine,Fine
+" "," "," ",32," ",Common,Random,Fine,Fine
+" "," "," ",55," ",Few,Vertical,Fine,Coarse
+" "," "," ",76," ","Very few",Vertical,Fine,Medium
+100yr4060," "," ",105," "," "," "," ",Coarse
+" "," "," ",5," ",Many,Random,Fine,"Fine to medium"
+" "," "," ",21," ",Many,Random,Fine,Coarse
+" "," "," ",42," ",Common,Random,Fine,Coarse
+" "," "," ",71," ",Few,Random,Fine,"Fine to medium"
+" "," "," ",100," ","Very few"," ",Fine," "
+" "," "," "," "," ","Very few"," ",Fine," "
+" "," "," ",0," ",Many,Random,Fine," "
+" "," "," ",9," ",Many,Random,Fine,"Medium to coarse"
+" "," "," ",32," ",Many,Random,Fine,"Medium to coarse"
+" "," "," ",34," ",Common,Random,Fine," "
+" "," "," ",0," ",Many,Random,"Very fine"," "
+" "," "," ",19," ",Many,Random,Fine,Fine
+" "," "," ",33," ",Common,Random,"Very fine","Medium to coarse"
+" "," "," ",46," ",Many,Random,Fine,"Fine to medium"
+" "," "," ",59," ",Many,Random,Fine,Coarse
+" "," "," ",66," ",Few,Random,"Very fine"," "
+" "," "," ",76," ","Very few",Horizontal,"Very fine",Medium
+" "," "," ",0," ",Many,Random,"Very fine"," "
+" "," "," ",16," ",Many,Random,"Very fine","Very fine to fine"
+" "," "," ",21," ",Many,Random,Fine,Medium
+" "," "," ",26," ",Many,Random,Fine,"Fine to medium"
+" "," "," ",49," ",Many,Random,Medium,"Fine to medium"
+" "," "," ",61,Common,Common,Random,Medium,Coarse
+100yr4530," "," ",90,Common,"Very few"," "," ","Medium to coarse"
+100yr4530," "," "," ",Common,"Very few"," "," ","Medium to coarse"
+" "," "," ",0," ",Many,Horizontal,Fine," "
+" ",Nonsticky," ",13,Few,Common,Vertical,"Very fine","Medium to coarse"
+" ",Nonsticky," ",23,Many,"Very few",Vertical,Micro,Medium
+" ",Nonsticky," ",25,Many," "," "," ",Medium
+" ",Sticky," ",53,Many," "," "," ",Coarse
+" ",Sticky," ",100,Common," "," "," "," "
+" "," "," ",0," ",Many,Random,Fine," "
+" ",Slightly," ",4," ",Many,Horizontal,Fine,Fine
+" ",Slightly," ",18,Many,Common,Vertical,Fine,Medium
+" ",Slightly," ",33,Many,Few,Vertical,"Very fine",Fine
+050yr5030,Sticky," ",50,Common,"Very few",Vertical,"Very fine",Medium
+" ",Sticky," ",67,Few," "," "," ",Coarse
+" ",Sticky," ",100,Few," "," "," ",Coarse
+" "," "," ",3," ",Many,Random,Fine," "
+" "," "," ",0," ",Many,Random,Fine," "
+" "," "," ",7,Common,Common,Vertical,"Very fine",Medium
+" "," "," ",19,Common,"Very few",Vertical,"Very fine",Medium
+" "," "," ",37,Common,"Very few",Vertical,"Very fine",Fine
+" "," "," ",45," "," "," "," ",Medium
+" "," "," ",48,Common," "," "," ",Medium
+" "," "," ",85,Common," "," "," "," "
+100yr5020," "," ",8," "," "," "," ",Fine
+100yr5020," "," ",15," "," "," "," ","Fine to medium"
+100yr6020," ",Strong,51," "," "," "," "," "
+100yr6020," ",Moderate,115," "," "," "," "," "
+100yr5020," ",Weak,160," "," "," "," "," "
+" "," "," ",0," ",Many,Random,Fine," "
+100yr4040," "," ",16," ",Many,Random,Fine,Medium
+100yr6040," "," ",20," ",Many,Random,Fine,Coarse
+050yr4080," "," ",33," ",Many,Random,Fine,Coarse
+075yr5040," "," ",49," ",Common,Random,Fine,Medium
+" "," "," ",65," ",Few,Oblique,"Very fine",Fine
+" "," "," ",100," ","Very few",Vertical,Fine,Coarse
+" "," "," ",0," ",Many,Random,Fine," "
+" "," "," ",15," ",Many,Random,Fine,Medium
+" "," "," ",30," ",Many,Random,"Very fine","Fine to medium"
+" "," "," ",38," ",Common,Random,"Very fine",Fine
+" "," "," ",50," ",Few,Oblique,"Very fine"," "
+" "," "," ",65," ","Very few",Oblique,"Very fine"," "
+" "," "," ",70,Many," "," "," "," "
+"025y 5020"," "," ",21,Many,Many,Random,"Very fine",Fine
+"025y 5040"," "," ",31,Common,Common,Random,"Very fine",Medium
+"025y 6020"," "," ",53,Many,"Very few",Vertical,"Very fine",Medium
+"025y 7020"," "," ",75,Many," "," "," "," "
+" "," "," ",100," "," "," "," "," "
+075yr3540," "," ",23," ",Many,Random,"Very fine",Coarse
+050yr6030," "," ",26,Common,Many,Random,"Very fine",Coarse
+050yr2520," "," ",27," "," "," "," "," "
+075yr5030," "," ",54,Many,Common,Oblique,"Very fine",Coarse
+100yr4030," "," ",74,Many,Common,Oblique,"Very fine",Coarse
+100yr4030," "," ",82,Many,Common,Oblique,"Very fine",Coarse
+075yr5040," "," ",107," "," "," "," "," "
+" "," "," ",130," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",4," "," "," "," ",Fine
+" "," "," ",9," "," "," "," ",Fine
+" "," "," ",26," "," "," "," ",Medium
+" "," "," ",57," "," "," "," ",Fine
+" "," "," "," "," "," "," "," ",Fine
+" "," "," ",6,Many," "," "," ",Medium
+" "," "," ",17,Common," "," "," ",Coarse
+" "," "," ",30,Common," "," "," ",Coarse
+" "," "," ",50,Common," "," "," ",Coarse
+" "," "," "," ",Common," "," "," "," "
+" "," "," ",3," "," "," "," ",Fine
+" "," "," ",15," "," "," "," ",Medium
+" "," "," ",30,Few," "," "," ",Fine
+" "," "," ",64,Common," "," "," ",Medium
+" "," "," "," ",Common," "," "," ",Coarse
+100yr4030," "," ",18," "," "," "," ",Fine
+100yr5020," "," ",25," "," "," "," ",Fine
+" "," "," ",30," "," "," "," ",Medium
+" "," "," ",46," "," "," "," ",Medium
+" "," ",Weak,63," "," "," "," ",Fine
+" "," ",Weak,105," "," "," "," ",Fine
+" "," ",Weak,140," "," "," "," "," "
+" "," ","Very weak",215," "," "," "," "," "
+" "," "," ",16," "," "," "," ",Medium
+" "," "," ",31," "," "," "," ",Fine
+" "," "," ",40,Common," "," "," ",Coarse
+" "," "," ",61,Common," "," "," ",Coarse
+" "," "," "," ",Common," "," "," ",Coarse
+" "," "," ",0," "," "," "," "," "
+" "," "," ",24," "," "," "," ","Medium to coarse"
+" "," "," ",32," "," "," "," ",Medium
+" "," "," ",45," "," "," "," "," "
+" "," "," ",50," "," "," "," ",Medium
+" "," "," ",60," "," "," "," "," "
+" "," "," "," "," "," "," "," ",Coarse
+" "," "," ",0," ",Many,Horizontal,Medium," "
+" "," "," ",5," ",Many,Horizontal,Medium,Fine
+" "," "," ",14," ",Common,Horizontal,Medium,Fine
+" "," "," ",27," ",Common,Horizontal,Medium,Fine
+" "," "," ",37," ",Common,Random,Fine,Fine
+" "," "," ",42," ",Few,Vertical,Fine,Medium
+" "," "," ",61," ",Few,Vertical,Fine,Coarse
+" "," "," ",100," "," "," "," ",Coarse
+" "," "," ",0," ",Many,Horizontal,Fine," "
+" "," "," ",3," ",Many,Horizontal,Medium,Medium
+" "," "," ",5," ",Many,Horizontal,Medium,Fine
+" "," "," ",16," ",Many,Horizontal,Medium,Fine
+" "," "," ",38," ",Common,Vertical,Fine,Fine
+100yr5060," "," ",53," ",Few,Vertical,"Very fine",Medium
+" "," "," ",100," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",11," ",Many,Horizontal,Fine,Medium
+" "," "," ",16,Many,Common,Horizontal,Medium,Fine
+" "," "," ",30,Many,Few,Horizontal,Fine,Medium
+" "," "," ",45,Many," "," "," ",Coarse
+" "," "," ",70,Many," "," "," ",Coarse
+" "," "," ",100," "," "," "," "," "
+" "," "," ",0," ",Many,Horizontal,Medium," "
+" "," "," ",10,Common,Few,Vertical,Fine,Medium
+" "," "," ",26,Common,"Very few",Vertical,"Very fine",Medium
+" "," "," ",31," "," "," "," ",Medium
+040yr4040," "," ",100," "," "," "," ",Coarse
+" "," "," ",0," ",Many,Horizontal,Medium," "
+" "," "," ",2," ",Common,Random,Fine,Medium
+" "," "," ",3," ",Many,Horizontal,Medium,Fine
+" "," "," ",6," ",Many,Horizontal,Fine,Medium
+" "," "," ",19," ",Common,Vertical,Fine,Fine
+" "," "," ",35," ",Few,Vertical,Fine,Fine
+" "," "," ",55," ","Very few",Vertical,"Very fine",Fine
+" "," "," ",100," "," "," "," "," "
+100yr4030," "," ",9," "," "," "," ",Fine
+100yr5020," "," ",20," "," "," "," ",Medium
+100yr6030," ",Weak,61," "," "," "," ","Fine to medium"
+100yr5020," ",Weak,91," "," "," "," "," "
+100yr3020," ",Weak,180," "," "," "," "," "
+100yr2020," ","Very weak",215," "," "," "," "," "
+100yr4020," ","Very weak",305," "," "," "," "," "
+" "," "," ",0," ",Many,Horizontal,Medium," "
+" "," "," ",5," ",Common,Vertical,Fine,Medium
+" "," "," ",17," ",Many,Horizontal,Medium,Medium
+100yr5560," "," ",32," ",Common,Vertical,Fine,"Fine to medium"
+" "," "," ",42," ",Common,Vertical,Fine,Fine
+" "," "," ",57," ",Few,Vertical,Fine,Fine
+" "," "," ",100," ","Very few",Vertical,Fine," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",17,Many," "," "," ",Coarse
+" "," "," ",27,Common," "," "," ",Medium
+" "," "," ",35,Common," "," "," ",Coarse
+" "," "," ",44,Common," "," "," ",Coarse
+" "," "," ",100," "," "," "," "," "
+" "," "," ",0," ",Many,Random,Fine," "
+" "," "," ",6," ",Common,Horizontal,Medium,Coarse
+" "," "," ",9," ",Common,Horizontal,Medium,Fine
+" "," "," ",21," ",Common,Horizontal,Medium,Medium
+" "," "," ",39," ",Few,Vertical,Fine,Medium
+" "," "," ",66," ","Very few",Vertical,Fine,Medium
+" "," "," ",90,Few,"Very few",Vertical,Fine,Medium
+100yr5070," "," ",130,Common," "," "," ",Coarse
+" "," "," ",0," ",Many,Horizontal,Medium," "
+" "," "," ",15," ",Many,Horizontal,Coarse,Medium
+" "," "," ",26," ",Many,Horizontal,Medium,Fine
+" "," "," ",42,Common,Few,Vertical,Fine,Fine
+" "," "," ",68,Common,"Very few",Vertical,Fine,Medium
+" "," "," ",100," "," "," "," ",Coarse
+" "," "," ",21," ",Many,Horizontal,Medium,Medium
+" "," "," ",30," ",Common,Horizontal,Fine,Medium
+" "," "," ",45," ",Common,Horizontal,Fine,Fine
+" "," "," ",58," ",Few,Vertical,Fine,Medium
+" "," "," ",80,Common,"Very few",Vertical,Fine," "
+" "," "," ",120," "," "," "," "," "
+" "," "," ",0," ",Common,Horizontal,Coarse," "
+" "," "," ",5," ",Common,Horizontal,Medium,Fine
+" "," "," ",20," ",Common,Horizontal,Medium,Fine
+" "," "," ",38," ",Many,Horizontal,Fine,Medium
+" "," "," ",60," ","Very few",Vertical,Fine,Medium
+100yr4035," "," ",110," ","Very few",Vertical,Fine," "
+" "," "," ",18," "," "," "," ","Fine to medium"
+" "," "," ",26,Common," "," "," ",Medium
+" "," "," ",37,Few," "," "," ",Coarse
+" "," "," ",51," "," "," "," ","Fine to medium"
+" "," "," ",68," "," "," "," ",Medium
+" "," "," ",76," "," "," "," ",Coarse
+" ",Sticky," "," "," "," "," "," ","Medium to coarse"
+" "," "," ",0," "," "," "," "," "
+" "," "," ",14," "," "," "," ",Coarse
+" "," "," ",24,Many," "," "," "," "
+" "," "," ",50,Common," "," "," "," "
+" "," "," "," ",Many," "," "," "," "
+100yr5030," "," ",13," "," "," "," ","Fine to medium"
+100yr6030," "," ",18," "," "," "," ",Fine
+075yr4030," "," ",28," "," "," "," ",Medium
+100yr5030," ",Moderate,43," "," "," "," ",Medium
+100yr6020," ",Moderate,66," "," "," "," "," "
+100yr4020," ",Weak,100," "," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",2," "," "," "," ",Fine
+" "," "," ",14," "," "," "," ",Fine
+" "," "," ",37," "," "," "," ",Fine
+" "," "," ",59," "," "," "," ",Fine
+" "," "," "," "," "," "," "," "," "
+075yr7020," "," ",2," "," "," "," ",Medium
+075yr8010," "," ",9,Few,Common," "," ",Medium
+075yr7030," "," ",18,Common,Few," "," ",Fine
+075yr6540," "," ",22,Common," "," "," ",Fine
+075yr7020," "," ",30,Few,Few," "," ",Fine
+075yr5540," "," ",39," ",Few," ",Fine,Coarse
+065yr5040," "," ",57," ",Few," "," ",Coarse
+075yr5540," "," ",76," ",Few," ",Fine," "
+" "," "," ",0," "," "," "," "," "
+025yr5040," "," ",160,Common,"Very few"," "," "," "
+025yr5040," "," ",180," ","Very few"," "," "," "
+075yr6020," "," ",4," ",Many," ",Fine,Coarse
+050yr6040," "," ",14," ",Many," ",Fine,Fine
+075yr7030," "," ",20," ",Few," ",Fine,Fine
+050yr6530," "," ",25,Common,Few," "," ",Medium
+075yr6040," "," ",42," ",Few," "," ",Fine
+050yr5040," "," ",65," ","Very few"," "," ",Medium
+050yr5040," "," ",100,Common,"Very few"," "," ","Medium to coarse"
+025yr5040," "," ",130,Common,"Very few"," "," ",Coarse
+100yr8010," "," ",8,Few,Few," "," "," "
+100yr6020," "," ",19,Many,Common," ",Fine,Medium
+075yr6040," "," ",28," "," "," ",Fine,Coarse
+050yr5035," "," ",55,Few,"Very few"," "," "," "
+050yr5030," "," ",90,Few," "," "," "," "
+050yr5030," "," ",165,Few," "," "," "," "
+100yr5030," "," ",13," ",Many," ",Fine,Fine
+100yr7030," "," ",23,Common,Few," "," ",Medium
+050yr5040," "," ",33,Few,"Very few"," ",Fine,Coarse
+050yr5040," "," ",58,Few," "," "," "," "
+075yr5040," "," ",90,Many," "," "," "," "
+050yr4040," "," ",120," "," "," "," "," "
+050yr4040," "," "," "," "," "," "," "," "
+100yr5030," "," ",9," ",Common," "," "," "
+100yr6040," "," ",16,Common,Few," "," ",Medium
+075yr5530," "," ",23,Few,Few," "," ",Coarse
+075yr5030," "," ",43," ",Few," "," ",Coarse
+075yr5030," "," ",63," ",Few," "," ",Coarse
+075yr5030," "," ",83," ",Few," "," "," "
+075yr5030," "," ",90," ","Very few"," "," "," "
+050yr5040," "," ",100," ",Few," "," ",Coarse
+040yr5040," "," ",150," "," "," "," ",Coarse
+100yr6015," "," ",11," ",Many," "," ",Medium
+100yr7020," "," ",18,Few,Few," "," ",Fine
+100yr7020," "," ",24,Common,Few," "," ",Medium
+075yr6040," "," ",31," ",Few," "," ",Medium
+050yr5040," "," ",42,Few,"Very few"," "," ",Fine
+075yr5040," "," ",46," ","Very few"," "," "," "
+050yr5040," "," ",53," ",Few," "," "," "
+050yr5040," "," ",65," ",Few," "," ",Coarse
+" "," "," ",0," ",Many," "," "," "
+" "," "," ",120,Common," "," "," "," "
+" "," "," ",4," ",Many," "," ",Fine
+" "," "," ",10,Few,Common," "," "," "
+" "," "," ",21,Common," "," "," ",Fine
+" "," "," ",34,Many," "," "," "," "
+" "," "," ",43,Many," "," "," ",Medium
+" "," "," ",62,Few," "," "," ",Medium
+" "," "," ",73,Few," "," "," "," "
+" "," "," ",98,Few," "," "," "," "
+" "," "," ",0," "," "," "," "," "
+" "," "," ",185,Many," "," "," "," "
+" "," "," ",11,Few,Many," "," ",Coarse
+" "," "," ",17,Many," "," "," ",Coarse
+" "," "," ",25,Many," "," "," ",Medium
