@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Comparison Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h2> Fichier '{{ filename }}' transmis avec succès</h2>
+    <p> Algorithme utilisé: <strong>{{ algorithm }}</strong></p>
+    <p>Comparaison complété en {{ duration }} secondes.</p>
+
+    <h3>Resultat de similarité</h3>
+    <table>
+        <tr>
+            <th>Nom du fichier</th>
+            <th>Taux de similarité</th>
+        </tr>
+        {% for file, score in results %}
+        <tr>
+            <td>{{ file }}</td>
+            <td>{{ score }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <br><a href="{{ url_for('upload_form') }}">RETOUR</a>
+</body>
+</html>

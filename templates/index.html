@@ -1,15 +1,41 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>Upload CSV</title>
+    <title>Projet Remplacement de Stage</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <h2>Upload a CSV file to compare with benchmark files</h2>
+
+    <h2>Uploader un fichier .csv et obtenez votre résultat !</h2>
+
+    <!-- Navigation Buttons -->
+    <div style="margin-bottom: 20px;">
+        <a href="/about-algorithms"><button>À propos des algorithmes</button></a>
+        <a href="/about-benchmark"><button>À propos du benchmark</button></a>
+        <a href="/contact"><button>Contact</button></a>
+        <a href="/documentation"><button>Documentation</button></a> 
+    </div>
+
+    <!-- File Upload Form -->
     <form action="/upload" method="post" enctype="multipart/form-data">
-        <input type="file" name="file" accept=".csv" required>
-        <br><br>
-        <input type="submit" value="Upload and Compare">
+        <input type="file" name="file" accept=".csv" required><br><br>
+
+        <label>Choisissez un des algorithmes :</label><br>
+        <label>
+            <input type="radio" name="algorithm" value="algo1" checked>
+            Algorithme de similarité par nom de colonne
+        </label><br>
+
+        <label>
+            <input type="radio" name="algorithm" value="algo2">
+            Algorithme de similarité par valeur de colonne
+        </label><br><br>
+        <label for="limit">Nombre de fichiers à comparer (max 1530):</label><br>
+        <input type="number" id="limit" name="limit" min="1" max="1530" value="200" required><br><br>
+
+        <input type="submit" value="Envoyer et comparer">
     </form>
+
 </body>
 </html>
